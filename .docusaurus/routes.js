@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/dpdpa-docs/docs',
-    component: ComponentCreator('/dpdpa-docs/docs', 'a2f'),
+    component: ComponentCreator('/dpdpa-docs/docs', 'bc7'),
     routes: [
       {
         path: '/dpdpa-docs/docs',
-        component: ComponentCreator('/dpdpa-docs/docs', 'f59'),
+        component: ComponentCreator('/dpdpa-docs/docs', 'e11'),
         routes: [
           {
             path: '/dpdpa-docs/docs',
-            component: ComponentCreator('/dpdpa-docs/docs', 'c90'),
+            component: ComponentCreator('/dpdpa-docs/docs', '47e'),
             routes: [
               {
                 path: '/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA',
@@ -139,12 +139,6 @@ export default [
               {
                 path: '/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries',
                 component: ComponentCreator('/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries', '460'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/dpdpa-docs/docs/Overview/intro',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/intro', '6e8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
