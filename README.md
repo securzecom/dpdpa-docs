@@ -1,41 +1,81 @@
-# Website
+# Digital Personal Data Protection Act (DPDPA) Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository is created and maintained by **[Securze](https://www.securze.com)**.
 
-## Installation
+For **DPDPA Consultation** contact Securze:  
+📧 info@securze.com  
+🌐 www.securze.com  
 
-```bash
-yarn
-```
+---
 
-## Local Development
+## About Securze
 
-```bash
-yarn start
-```
+Securze is a specialized cybersecurity company with expertise in **data protection, compliance, and advanced security assessments**.  
+We help organizations align with the **Digital Personal Data Protection Act (DPDPA)**, by providing structured consultation, implementation guidance, and compliance readiness.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### Our Services Include:
+- ✅ DPDPA Implementation & Consultation
+- ✅ Compliance Consulting and Implementation (ISO 27001, GDPR, SOC2, NIST 2.0, NESA, PCI DSS)  
+- ✅ Vulnerability Assessment & Penetration Testing (VAPT)
+- ✅ Web3 Security
+- ✅ AI Security
+- ✅ Red Teaming
+- ✅ Purple Team Exercises
+- ✅ Phishing Attack Simulation
+- ✅ Ransomware Attack Simulation
+- ✅ DOS Attack Simulation
+- ✅ Social Engineering Attack Simulation
+- ✅ 24x7x365 SOC (Security Operations Center) Setup & SIEM Integration  
+- ✅ Security Awareness Training for Employees  
+- ✅ Cloud, Web, Mobile & API Security Assessments
 
-## Build
+With experience across **government, fintech, AI, retail, Web3, healthcare, and BPO industries**, Securze ensures organizations remain compliant, secure, and resilient.
 
-```bash
-yarn build
-```
+## 24x7x365 Managed Security
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+We also assist organizations that are focused on security with a customized cybersecurity plan. The plan is customized to provide 24x7x365 security to organizations. We manage your internal and external cybersecurity, working in collaboration with your internal team to fortify your defenses and always stay one step ahead.
 
-## Deployment
+View 24x7x365 Continuous Managed Cybersecurity Deck here - [View Deck](https://www.canva.com/design/DAGSVb-mmyk/JOGUvG2DcM7FKjEcZZRaOg/view)
 
-Using SSH:
+---
 
-```bash
-USE_SSH=true yarn deploy
-```
+# 📖 DPDPA Documentation
 
-Not using SSH:
+The following sections simplify the **Digital Personal Data Protection Act (DPDPA)**.  
+This documentation is designed to help businesses, employees, and compliance officers understand obligations, rights, and penalties in plain language.
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
+---
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+# Contents
+
+- Overview
+- DPDPA Rules
+- Schedules
+- Implementing DPDPA
+- Data Fiduciary General Questions
+- Consent Manager General Questions
+- Significant Data Fiduciary General Questions
+- DPDPA General Questions
+- Rights of Data Principals
+- General Breach and Penalty Questions
+- International Cross-Border General Questions
+- Special Cases or Edge Situations
+- Board & Enforcement Questions
+
+---
+
+# 📌 Maintainer
+
+This repository is maintained by **Securze (securze.com)**.  
+We help organizations **implement DPDPA compliance end-to-end** — from gap assessments and privacy notices to breach management and cross-border transfer frameworks.
+
+## Contributions
+
+All contributions are welcome to this repository to enhance the content over time.  
+If you’d like to improve explanations, add examples, or suggest clarifications, feel free to open a pull request.  
+Please ensure that your contributions align with the **DPDPA framework** and maintain the accuracy of legal and technical details.  
+
+For consultation, contact us:  
+📧 info@securze.com
+
+---
