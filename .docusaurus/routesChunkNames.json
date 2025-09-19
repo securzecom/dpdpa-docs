@@ -42,7 +42,7 @@
       "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
     }
   },
-  "/blog-b2f": {
+  "/blog-725": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---dpdpa-docs-blog-369-485"
@@ -51,15 +51,6 @@
     "items": [
       {
         "content": "content---dpdpa-docs-blog-766-1ec"
-      },
-      {
-        "content": "content---dpdpa-docs-blogf-4-f-bbf"
-      },
-      {
-        "content": "content---dpdpa-docs-blog-871-769"
-      },
-      {
-        "content": "content---dpdpa-docs-blog-925-274"
       }
     ],
     "__props": "__props---blogc-15-573"
@@ -82,7 +73,7 @@
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
     "__props": "__props---blog-authorsef-8-44f"
   },
-  "/blog/authors/all-sebastien-lorber-articles-4a1": {
+  "/blog/authors/all-sebastien-lorber-articles-495": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -90,21 +81,11 @@
       },
       "plugin": "plugin---dpdpa-docs-blog-369-485"
     },
-    "items": [
-      {
-        "content": "content---dpdpa-docs-blog-766-1ec"
-      },
-      {
-        "content": "content---dpdpa-docs-blogf-4-f-bbf"
-      },
-      {
-        "content": "content---dpdpa-docs-blog-925-274"
-      }
-    ],
+    "items": [],
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
     "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
   },
-  "/blog/authors/yangshun-a68": {
+  "/blog/authors/yangshun-7c6": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -112,124 +93,9 @@
       },
       "plugin": "plugin---dpdpa-docs-blog-369-485"
     },
-    "items": [
-      {
-        "content": "content---dpdpa-docs-blog-766-1ec"
-      },
-      {
-        "content": "content---dpdpa-docs-blog-871-769"
-      },
-      {
-        "content": "content---dpdpa-docs-blog-925-274"
-      }
-    ],
+    "items": [],
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
     "__props": "__props---blog-authors-yangshun-1-de-d0c"
-  },
-  "/blog/first-blog-post-89a": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---dpdpa-docs-blog-authorsace-cff"
-      },
-      "plugin": "plugin---dpdpa-docs-blog-369-485"
-    },
-    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "content": "content---dpdpa-docs-blog-first-blog-poste-27-46e"
-  },
-  "/blog/long-blog-post-9ad": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---dpdpa-docs-blog-authorsace-cff"
-      },
-      "plugin": "plugin---dpdpa-docs-blog-369-485"
-    },
-    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "content": "content---dpdpa-docs-blog-long-blog-post-736-c5e"
-  },
-  "/blog/mdx-blog-post-e9f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---dpdpa-docs-blog-authorsace-cff"
-      },
-      "plugin": "plugin---dpdpa-docs-blog-369-485"
-    },
-    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "content": "content---dpdpa-docs-blog-mdx-blog-post-593-b1f"
-  },
-  "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
-    "__context": {
-      "plugin": "plugin---dpdpa-docs-blog-369-485"
-    },
-    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "__props": "__props---blog-tags-3-a-2-fa2"
-  },
-  "/blog/tags/docusaurus-704": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---dpdpa-docs-blog-369-485"
-    },
-    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "items": [
-      {
-        "content": "content---dpdpa-docs-blog-766-1ec"
-      },
-      {
-        "content": "content---dpdpa-docs-blogf-4-f-bbf"
-      },
-      {
-        "content": "content---dpdpa-docs-blog-871-769"
-      },
-      {
-        "content": "content---dpdpa-docs-blog-925-274"
-      }
-    ],
-    "__props": "__props---blog-tags-docusaurus-321-832"
-  },
-  "/blog/tags/facebook-858": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---dpdpa-docs-blog-369-485"
-    },
-    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "items": [
-      {
-        "content": "content---dpdpa-docs-blog-766-1ec"
-      }
-    ],
-    "__props": "__props---blog-tags-facebooke-5-a-514"
-  },
-  "/blog/tags/hello-299": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---dpdpa-docs-blog-369-485"
-    },
-    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "items": [
-      {
-        "content": "content---dpdpa-docs-blog-766-1ec"
-      },
-      {
-        "content": "content---dpdpa-docs-blog-871-769"
-      }
-    ],
-    "__props": "__props---blog-tags-hellof-82-2fd"
-  },
-  "/blog/tags/hola-00d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---dpdpa-docs-blog-369-485"
-    },
-    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "items": [
-      {
-        "content": "content---dpdpa-docs-blog-925-274"
-      }
-    ],
-    "__props": "__props---blog-tags-hola-5-e-9-9a3"
   },
   "/blog/welcome-d2b": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",

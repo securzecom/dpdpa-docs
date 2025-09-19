@@ -87,7 +87,7 @@ export default {
         },
         {
           "to": "/blog",
-          "label": "About",
+          "label": "Credits",
           "position": "left"
         },
         {

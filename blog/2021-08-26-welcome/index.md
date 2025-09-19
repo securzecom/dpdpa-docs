@@ -1,29 +1,109 @@
 ---
 slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+title: Credits
+
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+# Credits
 
-Here are a few tips you might find useful.
+## 1. Author
 
-<!-- truncate -->
+import { FaLinkedin } from "react-icons/fa";
 
-Simply add Markdown files (or folders) to the `blog` directory.
+<div style={{ display: "flex", alignItems: "center", marginBottom: "1.5rem" }}>
+  <img 
+    src="img/harsh-parekh.png" 
+    alt="Harsh Parekh" 
+    style={{ width: "100px", height: "100px", borderRadius: "50%", marginRight: "1rem" }} 
+  />
+  <div>
+    <strong style={{ display: "flex", alignItems: "center" }}>
+      Harsh Parekh
+      <a 
+        href="https://www.linkedin.com/in/harshfromsecurze" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        style={{ marginLeft: "6px", color: "#0A66C2", display: "inline-flex", alignItems: "center" }}
+      >
+        <FaLinkedin size={18} />
+      </a>
+    </strong>
+    <em>Founder & CEO, Securze</em>
+    <br />
+    Conceptualization, Drafting, and Project Leadership
+  </div>
+</div>
 
-Regular blog authors can be added to `authors.yml`.
 
-The blog post date can be extracted from filenames, such as:
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+---
 
-A blog post folder can be convenient to co-locate blog post images:
+## 2. Content and Research
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+<div style={{ display: "flex", alignItems: "center", marginBottom: "1.5rem" }}>
+  <img 
+    src="img/securze-logo.png" 
+    style={{ width: "100px", height: "100px", borderRadius: "50%", marginRight: "1rem" }} 
+  />
+  <div>
+    <strong style={{ display: "flex", alignItems: "center" }}>
+    Team Secure      
+    <a 
+        href="https://www.linkedin.com/company/securze" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        style={{ marginLeft: "6px", color: "#0A66C2", display: "inline-flex", alignItems: "center" }}
+      >
+        <FaLinkedin size={18} />
+      </a>
+    </strong>
+    Research, Legal Reference Compilation, and Documentation Support
+  </div>
+</div>
 
-The blog supports tags as well!
+<div style={{ display: "flex", alignItems: "center", marginBottom: "1.5rem" }}>
+  <div>
+    <strong>Team Secure</strong><br />
+  </div>
+</div>
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+
+---
+
+## 3. Review Panel *(Coming Soon)*
+
+<div style={{ display: "flex", alignItems: "center", marginBottom: "1.5rem" }}>
+  <img 
+    src="/img/credits/placeholder.jpg" 
+    alt="Expert" 
+    style={{ width: "100px", height: "100px", borderRadius: "50%", marginRight: "1rem" }} 
+  />
+  <div>
+    <strong>[Name Placeholder]</strong><br />
+    Data Privacy Expert
+  </div>
+</div>
+
+<div style={{ display: "flex", alignItems: "center", marginBottom: "1.5rem" }}>
+  <img 
+    src="/img/credits/placeholder.jpg" 
+    alt="Expert" 
+    style={{ width: "100px", height: "100px", borderRadius: "50%", marginRight: "1rem" }} 
+  />
+  <div>
+    <strong>[Name Placeholder]</strong><br />
+    Cybersecurity Specialist
+  </div>
+</div>
+
+<div style={{ display: "flex", alignItems: "center", marginBottom: "1.5rem" }}>
+  <img 
+    src="/img/credits/placeholder.jpg" 
+    alt="Expert" 
+    style={{ width: "100px", height: "100px", borderRadius: "50%", marginRight: "1rem" }} 
+  />
+  <div>
+    <strong>[Name Placeholder]</strong><br />
+    Legal & Compliance Advisor
+  </div>
+</div>
