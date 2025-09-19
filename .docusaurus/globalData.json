@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/dpdpa-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/dpdpa-docs/docs",
+          "mainDocId": "Overview/Background and Purpose of DPDPA",
+          "docs": [
+            {
+              "id": "Overview/Background and Purpose of DPDPA",
+              "path": "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview/Cross-Border Data Transfers under DPDPA",
+              "path": "/dpdpa-docs/docs/Overview/Cross-Border Data Transfers under DPDPA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview/Duties and Obligations of Data Fiduciaries",
+              "path": "/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview/Key Definitions under DPDPA",
+              "path": "/dpdpa-docs/docs/Overview/Key Definitions under DPDPA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview/Penalties and Enforcement under the DPDPA",
+              "path": "/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview/Rights of Data Principals",
+              "path": "/dpdpa-docs/docs/Overview/Rights of Data Principals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview/Role of Consent Managers",
+              "path": "/dpdpa-docs/docs/Overview/Role of Consent Managers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview/Scope & Applicability of DPDPA",
+              "path": "/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview/Security Safeguards and Breach Notification",
+              "path": "/dpdpa-docs/docs/Overview/Security Safeguards and Breach Notification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview/Special Duties of Significant Data Fiduciaries",
+              "path": "/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview/The Data Protection Board of India",
+              "path": "/dpdpa-docs/docs/Overview/The Data Protection Board of India",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA",
+                "label": "Overview/Background and Purpose of DPDPA"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

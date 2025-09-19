@@ -1,0 +1,27 @@
+{
+  "id": "Special Duties of Significant Data Fiduciaries copy",
+  "title": "Special Duties of Significant Data Fiduciaries copy",
+  "description": "The Digital Personal Data Protection Act (DPDPA), 2023 recognizes that certain organizations handle much larger volumes of personal data or process data that is highly sensitive. Because misuse or mishandling of such data can have severe consequences for individuals and even for national security, the government can classify such entities as Significant Data Fiduciaries (SDFs). Banks, healthcare providers, social media platforms, telecom companies, and large technology firms are examples of organizations that are likely to fall under this category.",
+  "source": "@site/docs/Special Duties of Significant Data Fiduciaries copy.md",
+  "sourceDirName": ".",
+  "slug": "/Special Duties of Significant Data Fiduciaries copy",
+  "permalink": "/dpdpa-docs/docs/Special Duties of Significant Data Fiduciaries copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Special Duties of Significant Data Fiduciaries copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Duties and Obligations of Data Fiduciaries",
+    "permalink": "/dpdpa-docs/docs/Duties and Obligations of Data Fiduciaries"
+  },
+  "next": {
+    "title": "Special Duties of Significant Data Fiduciaries",
+    "permalink": "/dpdpa-docs/docs/Special Duties of Significant Data Fiduciaries"
+  }
+}

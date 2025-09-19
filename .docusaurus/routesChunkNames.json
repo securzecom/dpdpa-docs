@@ -1,0 +1,316 @@
+{
+  "/dpdpa-docs/__docusaurus/debug-3ec": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
+    }
+  },
+  "/dpdpa-docs/__docusaurus/debug/config-388": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
+    }
+  },
+  "/dpdpa-docs/__docusaurus/debug/content-7c1": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
+    },
+    "__props": "__props---dpdpa-docs-docusaurus-debug-contentee-1-2cf"
+  },
+  "/dpdpa-docs/__docusaurus/debug/globalData-053": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
+    }
+  },
+  "/dpdpa-docs/__docusaurus/debug/metadata-fd3": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
+    }
+  },
+  "/dpdpa-docs/__docusaurus/debug/registry-e74": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
+    }
+  },
+  "/dpdpa-docs/__docusaurus/debug/routes-b06": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
+    }
+  },
+  "/dpdpa-docs/blog-e6f": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "items": [
+      {
+        "content": "content---dpdpa-docs-blog-766-1ec"
+      },
+      {
+        "content": "content---dpdpa-docs-blogf-4-f-bbf"
+      },
+      {
+        "content": "content---dpdpa-docs-blog-871-769"
+      },
+      {
+        "content": "content---dpdpa-docs-blog-925-274"
+      }
+    ],
+    "__props": "__props---dpdpa-docs-blogd-22-b0c"
+  },
+  "/dpdpa-docs/blog/archive-263": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "__props": "__props---dpdpa-docs-blog-archived-65-e28"
+  },
+  "/dpdpa-docs/blog/authors-a07": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---dpdpa-docs-blog-authorsace-cff"
+      },
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "__props": "__props---dpdpa-docs-blog-authors-08-f-556"
+  },
+  "/dpdpa-docs/blog/authors/all-sebastien-lorber-articles-6d9": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---dpdpa-docs-blog-authorsace-cff"
+      },
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "items": [
+      {
+        "content": "content---dpdpa-docs-blog-766-1ec"
+      },
+      {
+        "content": "content---dpdpa-docs-blogf-4-f-bbf"
+      },
+      {
+        "content": "content---dpdpa-docs-blog-925-274"
+      }
+    ],
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "__props": "__props---dpdpa-docs-blog-authors-all-sebastien-lorber-articles-043-716"
+  },
+  "/dpdpa-docs/blog/authors/yangshun-764": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---dpdpa-docs-blog-authorsace-cff"
+      },
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "items": [
+      {
+        "content": "content---dpdpa-docs-blog-766-1ec"
+      },
+      {
+        "content": "content---dpdpa-docs-blog-871-769"
+      },
+      {
+        "content": "content---dpdpa-docs-blog-925-274"
+      }
+    ],
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "__props": "__props---dpdpa-docs-blog-authors-yangshunc-92-515"
+  },
+  "/dpdpa-docs/blog/first-blog-post-02c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---dpdpa-docs-blog-authorsace-cff"
+      },
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "content": "content---dpdpa-docs-blog-first-blog-poste-27-46e"
+  },
+  "/dpdpa-docs/blog/long-blog-post-3df": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---dpdpa-docs-blog-authorsace-cff"
+      },
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "content": "content---dpdpa-docs-blog-long-blog-post-736-c5e"
+  },
+  "/dpdpa-docs/blog/mdx-blog-post-ecf": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---dpdpa-docs-blog-authorsace-cff"
+      },
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "content": "content---dpdpa-docs-blog-mdx-blog-post-593-b1f"
+  },
+  "/dpdpa-docs/blog/tags-82c": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "__props": "__props---dpdpa-docs-blog-tags-14-a-726"
+  },
+  "/dpdpa-docs/blog/tags/docusaurus-ef1": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "items": [
+      {
+        "content": "content---dpdpa-docs-blog-766-1ec"
+      },
+      {
+        "content": "content---dpdpa-docs-blogf-4-f-bbf"
+      },
+      {
+        "content": "content---dpdpa-docs-blog-871-769"
+      },
+      {
+        "content": "content---dpdpa-docs-blog-925-274"
+      }
+    ],
+    "__props": "__props---dpdpa-docs-blog-tags-docusaurusc-32-8d5"
+  },
+  "/dpdpa-docs/blog/tags/facebook-ab5": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "items": [
+      {
+        "content": "content---dpdpa-docs-blog-766-1ec"
+      }
+    ],
+    "__props": "__props---dpdpa-docs-blog-tags-facebook-4-ce-afa"
+  },
+  "/dpdpa-docs/blog/tags/hello-af3": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "items": [
+      {
+        "content": "content---dpdpa-docs-blog-766-1ec"
+      },
+      {
+        "content": "content---dpdpa-docs-blog-871-769"
+      }
+    ],
+    "__props": "__props---dpdpa-docs-blog-tags-helloeab-8f9"
+  },
+  "/dpdpa-docs/blog/tags/hola-35e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "items": [
+      {
+        "content": "content---dpdpa-docs-blog-925-274"
+      }
+    ],
+    "__props": "__props---dpdpa-docs-blog-tags-hola-9-a-0-aa9"
+  },
+  "/dpdpa-docs/blog/welcome-dc3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---dpdpa-docs-blog-authorsace-cff"
+      },
+      "plugin": "plugin---dpdpa-docs-blog-369-485"
+    },
+    "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
+    "content": "content---dpdpa-docs-blog-welcomed-9-f-b30"
+  },
+  "/dpdpa-docs/markdown-page-db9": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-markdown-pagea-74-06f"
+    },
+    "content": "content---dpdpa-docs-markdown-page-393-ab9"
+  },
+  "/dpdpa-docs/docs-bc7": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-docsaba-3e7"
+    }
+  },
+  "/dpdpa-docs/docs-e11": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---dpdpa-docs-docsc-2-f-89d"
+  },
+  "/dpdpa-docs/docs-47e": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA-d28": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-background-and-purpose-of-dpdpa-66-d-2c4"
+  },
+  "/dpdpa-docs/docs/Overview/Cross-Border Data Transfers under DPDPA-551": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-cross-border-data-transfers-under-dpdpa-79-e-d68"
+  },
+  "/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries-460": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-duties-and-obligations-of-data-fiduciaries-47-b-bd0"
+  },
+  "/dpdpa-docs/docs/Overview/Key Definitions under DPDPA-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-key-definitions-under-dpdpa-217-1be"
+  },
+  "/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA-741": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-penalties-and-enforcement-under-the-dpdpa-910-d20"
+  },
+  "/dpdpa-docs/docs/Overview/Rights of Data Principals-b90": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-rights-of-data-principals-90-b-f4d"
+  },
+  "/dpdpa-docs/docs/Overview/Role of Consent Managers-f71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-role-of-consent-managers-6-d-3-e3e"
+  },
+  "/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA-f92": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-scope-applicability-of-dpdpa-341-59a"
+  },
+  "/dpdpa-docs/docs/Overview/Security Safeguards and Breach Notification-d4e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-security-safeguards-and-breach-notificationbbb-410"
+  },
+  "/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries-bea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-special-duties-of-significant-data-fiduciariesaca-4a6"
+  },
+  "/dpdpa-docs/docs/Overview/The Data Protection Board of India-b2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-the-data-protection-board-of-indiab-47-bea"
+  },
+  "/dpdpa-docs/-4d6": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---dpdpa-docs-markdown-pagea-74-06f"
+    },
+    "config": "config---dpdpa-docs-5-e-9-f5f"
+  }
+}

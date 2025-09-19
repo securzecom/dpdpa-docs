@@ -1,0 +1,27 @@
+{
+  "id": "Security Safeguards and Breach Notification",
+  "title": "Security Safeguards and Breach Notification",
+  "description": "The Digital Personal Data Protection Act (DPDPA), 2023 requires every organization, whether small or large, to protect the personal data it collects with strong technical and organizational safeguards. Security is not treated as an afterthought; it is the backbone of compliance. Organizations are expected to anticipate risks, prevent misuse, and respond immediately when things go wrong.",
+  "source": "@site/docs/Security Safeguards and Breach Notification.md",
+  "sourceDirName": ".",
+  "slug": "/Security Safeguards and Breach Notification",
+  "permalink": "/dpdpa-docs/docs/Security Safeguards and Breach Notification",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Security Safeguards and Breach Notification.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Data Protection Board of India",
+    "permalink": "/dpdpa-docs/docs/The Data Protection Board of India"
+  },
+  "next": {
+    "title": "Background and Purpose of DPDPA",
+    "permalink": "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Key Definitions under DPDPA",
+  "title": "Key Definitions under DPDPA",
+  "description": "To understand the framework of the Digital Personal Data Protection Act (DPDPA), 2023, it is essential to become familiar with its core definitions. These terms are consistently used throughout the Act and the Draft Rules of 2025, and they form the foundation for interpreting rights, duties, and obligations.",
+  "source": "@site/docs/Key Definitions under DPDPA.md",
+  "sourceDirName": ".",
+  "slug": "/Key Definitions under DPDPA",
+  "permalink": "/dpdpa-docs/docs/Key Definitions under DPDPA",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Key Definitions under DPDPA.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scope & Applicability of DPDPA",
+    "permalink": "/dpdpa-docs/docs/Scope & Applicability of DPDPA"
+  },
+  "next": {
+    "title": "Rights of Data Principals",
+    "permalink": "/dpdpa-docs/docs/Rights of Data Principals"
+  }
+}

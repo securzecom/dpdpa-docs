@@ -1,0 +1,27 @@
+{
+  "id": "The Data Protection Board of India copy",
+  "title": "The Data Protection Board of India copy",
+  "description": "The Digital Personal Data Protection Act (DPDPA), 2023 establishes the Data Protection Board of India as the central regulatory authority responsible for monitoring compliance, handling grievances, and ensuring enforcement of the law. The creation of the Board is a cornerstone of the Act because without an independent authority, the rights of individuals and the obligations of organizations would remain largely theoretical.",
+  "source": "@site/docs/The Data Protection Board of India copy.md",
+  "sourceDirName": ".",
+  "slug": "/The Data Protection Board of India copy",
+  "permalink": "/dpdpa-docs/docs/The Data Protection Board of India copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/The Data Protection Board of India copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Role of Consent Managers",
+    "permalink": "/dpdpa-docs/docs/Role of Consent Managers"
+  },
+  "next": {
+    "title": "The Data Protection Board of India",
+    "permalink": "/dpdpa-docs/docs/The Data Protection Board of India"
+  }
+}

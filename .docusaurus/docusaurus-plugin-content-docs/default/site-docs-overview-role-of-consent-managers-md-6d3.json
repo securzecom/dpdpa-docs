@@ -1,0 +1,27 @@
+{
+  "id": "Overview/Role of Consent Managers",
+  "title": "Role of Consent Managers",
+  "description": "One of the most innovative features of the Digital Personal Data Protection Act (DPDPA), 2023 is the introduction of Consent Managers. These are independent, registered entities whose sole purpose is to help individuals exercise control over their personal data. Unlike traditional systems where each company manages consent separately, Consent Managers act as a neutral platform that allows people to view, grant, and withdraw consent across multiple services in one place.",
+  "source": "@site/docs/Overview/Role of Consent Managers.md",
+  "sourceDirName": "Overview",
+  "slug": "/Overview/Role of Consent Managers",
+  "permalink": "/dpdpa-docs/docs/Overview/Role of Consent Managers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Overview/Role of Consent Managers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Special Duties of Significant Data Fiduciaries",
+    "permalink": "/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries"
+  },
+  "next": {
+    "title": "The Data Protection Board of India",
+    "permalink": "/dpdpa-docs/docs/Overview/The Data Protection Board of India"
+  }
+}

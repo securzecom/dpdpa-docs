@@ -1,0 +1,27 @@
+{
+  "id": "Penalties and Enforcement under the DPDPA",
+  "title": "Penalties and Enforcement under the DPDPA",
+  "description": "The Digital Personal Data Protection Act (DPDPA), 2023 is not just a statement of rights and duties; it is a binding law with real consequences for non-compliance. To ensure that organizations treat personal data with seriousness, the Act empowers the Data Protection Board of India to enforce compliance and impose penalties when violations occur.",
+  "source": "@site/docs/Penalties and Enforcement under the DPDPA.md",
+  "sourceDirName": ".",
+  "slug": "/Penalties and Enforcement under the DPDPA",
+  "permalink": "/dpdpa-docs/docs/Penalties and Enforcement under the DPDPA",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Penalties and Enforcement under the DPDPA.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Safeguards and Breach Notification",
+    "permalink": "/dpdpa-docs/docs/Security Safeguards and Breach Notification"
+  },
+  "next": {
+    "title": "Background and Purpose of DPDPA",
+    "permalink": "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA"
+  }
+}

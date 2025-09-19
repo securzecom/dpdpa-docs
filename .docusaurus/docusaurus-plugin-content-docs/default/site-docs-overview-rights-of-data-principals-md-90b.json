@@ -1,0 +1,27 @@
+{
+  "id": "Overview/Rights of Data Principals",
+  "title": "Rights of Data Principals",
+  "description": "The Digital Personal Data Protection Act (DPDPA), 2023 gives every individual, known as the Data Principal, a set of rights over their personal data. These rights ensure that people are not left powerless once their information is collected by a company, government body, or any other organization. Instead, they have the ability to control how their data is used, corrected, and even deleted.",
+  "source": "@site/docs/Overview/Rights of Data Principals.md",
+  "sourceDirName": "Overview",
+  "slug": "/Overview/Rights of Data Principals",
+  "permalink": "/dpdpa-docs/docs/Overview/Rights of Data Principals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Overview/Rights of Data Principals.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Key Definitions under DPDPA",
+    "permalink": "/dpdpa-docs/docs/Overview/Key Definitions under DPDPA"
+  },
+  "next": {
+    "title": "Duties and Obligations of Data Fiduciaries",
+    "permalink": "/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Cross-Border Data Transfers under DPDPA",
+  "title": "Cross-Border Data Transfers under DPDPA",
+  "description": "One of the most debated questions in data protection is: Can personal data leave the country? The Digital Personal Data Protection Act (DPDPA), 2023 addresses this directly. India has chosen a balanced path — allowing cross-border transfers but retaining the power to restrict them when necessary.",
+  "source": "@site/docs/Cross-Border Data Transfers under DPDPA.md",
+  "sourceDirName": ".",
+  "slug": "/Cross-Border Data Transfers under DPDPA",
+  "permalink": "/dpdpa-docs/docs/Cross-Border Data Transfers under DPDPA",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cross-Border Data Transfers under DPDPA.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Safeguards and Breach Notification",
+    "permalink": "/dpdpa-docs/docs/Security Safeguards and Breach Notification"
+  },
+  "next": {
+    "title": "Penalties and Enforcement under the DPDPA",
+    "permalink": "/dpdpa-docs/docs/Penalties and Enforcement under the DPDPA"
+  }
+}

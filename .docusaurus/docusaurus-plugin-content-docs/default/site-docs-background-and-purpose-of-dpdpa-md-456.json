@@ -1,0 +1,23 @@
+{
+  "id": "Background and Purpose of DPDPA",
+  "title": "Background and Purpose of DPDPA",
+  "description": "The Digital Personal Data Protection Act (DPDPA), 2023 represents India’s first comprehensive framework dedicated to safeguarding the privacy of individuals in the digital age. This legislation, accompanied by the Draft Rules released in January 2025, establishes a structured regime for how organizations, governments, and intermediaries collect, process, store, and share personal data. Its enactment is a direct response to the exponential growth of India’s digital economy and the increasing volume of personal information being processed on digital platforms. By codifying the responsibilities of organizations and the rights of individuals, DPDPA provides a legal foundation to ensure that privacy is not merely aspirational but enforceable.",
+  "source": "@site/docs/Background and Purpose of DPDPA.md",
+  "sourceDirName": ".",
+  "slug": "/Background and Purpose of DPDPA",
+  "permalink": "/dpdpa-docs/docs/Background and Purpose of DPDPA",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Background and Purpose of DPDPA.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Scope & Applicability of DPDPA",
+    "permalink": "/dpdpa-docs/docs/Scope & Applicability of DPDPA"
+  }
+}
