@@ -5,7 +5,7 @@
   "source": "@site/docs/5. Data Fiduciary General Questions/09.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/09",
-  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/09",
+  "permalink": "/docs/Data Fiduciary General Questions/09",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q8 - If there is a dispute between a Fiduciary and a Consent Manager (e.g., over proof of consent), who resolves it?",
-    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/08"
+    "permalink": "/docs/Data Fiduciary General Questions/08"
   },
   "next": {
     "title": "Q1 - Who oversees Consent Managers - is it only the Data Protection Board, or also the government?",
-    "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/01"
+    "permalink": "/docs/Consent Manager General Questions/01"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/11. International Cross-Border General Questions/01.md",
   "sourceDirName": "11. International Cross-Border General Questions",
   "slug": "/International Cross-Border General Questions/01",
-  "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/01",
+  "permalink": "/docs/International Cross-Border General Questions/01",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q5 - What is the maximum penalty for breaches under DPDPA?",
-    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/05"
+    "permalink": "/docs/General Breach and Penalty Questions/05"
   },
   "next": {
     "title": "Q2 - What happens when Indian law conflicts with foreign privacy laws (like GDPR or CCPA)?",
-    "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/02"
+    "permalink": "/docs/International Cross-Border General Questions/02"
   }
 }

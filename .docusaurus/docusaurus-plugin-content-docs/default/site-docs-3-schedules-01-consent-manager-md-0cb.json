@@ -5,7 +5,7 @@
   "source": "@site/docs/3. Schedules/01 - Consent Manager.md",
   "sourceDirName": "3. Schedules",
   "slug": "/Schedules/Consent Manager",
-  "permalink": "/dpdpa-docs/docs/Schedules/Consent Manager",
+  "permalink": "/docs/Schedules/Consent Manager",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rule 22: Power to Call for Information from Data Fiduciaries or Intermediaries",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries"
+    "permalink": "/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries"
   },
   "next": {
     "title": "Schedule II: Standards for Processing by the State and for Specified Purposes",
-    "permalink": "/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes"
+    "permalink": "/docs/Schedules/Standards for Processing by the State and for Specified Purposes"
   }
 }

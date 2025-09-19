@@ -5,7 +5,7 @@
   "source": "@site/docs/3. Schedules/05 - Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board.md",
   "sourceDirName": "3. Schedules",
   "slug": "/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board",
-  "permalink": "/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board",
+  "permalink": "/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Schedule IV: Exemptions for Certain Classes of Data Fiduciaries and Purposes",
-    "permalink": "/dpdpa-docs/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes"
+    "permalink": "/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes"
   },
   "next": {
     "title": "Schedule VI: Terms and Conditions of Service of the Officers and Employees of the Board",
-    "permalink": "/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board"
+    "permalink": "/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board"
   }
 }

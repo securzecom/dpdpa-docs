@@ -5,7 +5,7 @@
   "source": "@site/docs/1. Overview/The Data Protection Board of India.md",
   "sourceDirName": "1. Overview",
   "slug": "/Overview/The Data Protection Board of India",
-  "permalink": "/dpdpa-docs/docs/Overview/The Data Protection Board of India",
+  "permalink": "/docs/Overview/The Data Protection Board of India",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Role of Consent Managers",
-    "permalink": "/dpdpa-docs/docs/Overview/Role of Consent Managers"
+    "permalink": "/docs/Overview/Role of Consent Managers"
   },
   "next": {
     "title": "Security Safeguards and Breach Notification",
-    "permalink": "/dpdpa-docs/docs/Overview/Security Safeguards and Breach Notification"
+    "permalink": "/docs/Overview/Security Safeguards and Breach Notification"
   }
 }

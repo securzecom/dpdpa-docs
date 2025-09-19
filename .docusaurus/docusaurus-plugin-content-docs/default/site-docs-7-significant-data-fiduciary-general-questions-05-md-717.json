@@ -5,7 +5,7 @@
   "source": "@site/docs/7.  Significant Data Fiduciary General Questions/05.md",
   "sourceDirName": "7.  Significant Data Fiduciary General Questions",
   "slug": "/Significant Data Fiduciary General Questions/05",
-  "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/05",
+  "permalink": "/docs/Significant Data Fiduciary General Questions/05",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q4 - What happens if an SDF fails to conduct a Data Protection Impact Assessment (DPIA) before launching a new high-risk product?",
-    "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/04"
+    "permalink": "/docs/Significant Data Fiduciary General Questions/04"
   },
   "next": {
     "title": "Q1 - When should organizations start complying with DPDPA?",
-    "permalink": "/dpdpa-docs/docs/DPDPA General Questions/01"
+    "permalink": "/docs/DPDPA General Questions/01"
   }
 }

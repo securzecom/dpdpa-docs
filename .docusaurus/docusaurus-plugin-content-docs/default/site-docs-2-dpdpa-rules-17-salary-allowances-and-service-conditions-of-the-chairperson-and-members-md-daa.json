@@ -5,7 +5,7 @@
   "source": "@site/docs/2. DPDPA Rules/17 - Salary, Allowances and Service Conditions of the Chairperson and Members.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members",
-  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members",
+  "permalink": "/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rule 16: Appointment of Chairperson and Members of the Data Protection Board",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board"
+    "permalink": "/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board"
   },
   "next": {
     "title": "Rule 18: Procedure of Board Meetings and Authentication of Orders or Instruments",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments"
+    "permalink": "/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments"
   }
 }

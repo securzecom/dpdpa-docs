@@ -5,7 +5,7 @@
   "source": "@site/docs/2. DPDPA Rules/13 - Rights of Data Principals.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Rights of Data Principals",
-  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Rights of Data Principals",
+  "permalink": "/docs/DPDPA Rules/Rights of Data Principals",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rule 12: Additional Obligations of Significant Data Fiduciaries (SDFs)",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries"
+    "permalink": "/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries"
   },
   "next": {
     "title": "Rule 14: Processing of Personal Data Outside India (Cross-Border Transfers)",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India"
+    "permalink": "/docs/DPDPA Rules/Processing of Personal Data Outside India"
   }
 }

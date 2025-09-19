@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/dpdpa-docs/blog",
+  "blogBasePath": "/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/dpdpa-docs/blog/authors"
+  "authorsListPath": "/blog/authors"
 }

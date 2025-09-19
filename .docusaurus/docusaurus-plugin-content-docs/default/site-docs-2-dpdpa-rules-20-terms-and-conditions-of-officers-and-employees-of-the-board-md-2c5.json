@@ -5,7 +5,7 @@
   "source": "@site/docs/2. DPDPA Rules/20 - Terms and Conditions of Officers and Employees of the Board.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board",
-  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board",
+  "permalink": "/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rule 19: Data Protection Board to Function as a Digital Office",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office"
+    "permalink": "/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office"
   },
   "next": {
     "title": "Rule 21: Appeals to the Appellate Tribunal",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Appeals to the Appellate Tribunal"
+    "permalink": "/docs/DPDPA Rules/Appeals to the Appellate Tribunal"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/2. DPDPA Rules/07 - Intimation of Personal Data Breach.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Intimation of Personal Data Breach",
-  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach",
+  "permalink": "/docs/DPDPA Rules/Intimation of Personal Data Breach",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rule 6: Reasonable Security Safeguards",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards"
+    "permalink": "/docs/DPDPA Rules/Reasonable Security Safeguards"
   },
   "next": {
     "title": "Rule 8: When the Specified Purpose is Deemed No Longer Served",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served"
+    "permalink": "/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/5. Data Fiduciary General Questions/05.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/05",
-  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/05",
+  "permalink": "/docs/Data Fiduciary General Questions/05",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q4 - What kind of additional audits and assessments are mandatory for SDFs?",
-    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/04"
+    "permalink": "/docs/Data Fiduciary General Questions/04"
   },
   "next": {
     "title": "Q6 - What happens if a Data Fiduciary fails to comply — does liability sit only with the company, or can directors and officers also be held responsible?",
-    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/06"
+    "permalink": "/docs/Data Fiduciary General Questions/06"
   }
 }

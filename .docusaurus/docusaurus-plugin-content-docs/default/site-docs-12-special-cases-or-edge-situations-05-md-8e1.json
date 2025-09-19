@@ -5,7 +5,7 @@
   "source": "@site/docs/12. Special Cases or Edge Situations/05.md",
   "sourceDirName": "12. Special Cases or Edge Situations",
   "slug": "/Special Cases or Edge Situations/05",
-  "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/05",
+  "permalink": "/docs/Special Cases or Edge Situations/05",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q4 - What happens if a company shuts down — does it have to delete all personal data first?",
-    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/04"
+    "permalink": "/docs/Special Cases or Edge Situations/04"
   },
   "next": {
     "title": "Q1 - Can the Board initiate an investigation on its own, or only based on complaints?",
-    "permalink": "/dpdpa-docs/docs/Board & Enforcement Questions/01"
+    "permalink": "/docs/Board & Enforcement Questions/01"
   }
 }

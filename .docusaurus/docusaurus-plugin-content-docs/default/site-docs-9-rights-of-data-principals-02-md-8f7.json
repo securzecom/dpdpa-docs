@@ -5,7 +5,7 @@
   "source": "@site/docs/9. Rights of Data Principals/02.md",
   "sourceDirName": "9. Rights of Data Principals",
   "slug": "/Rights of Data Principals/02",
-  "permalink": "/dpdpa-docs/docs/Rights of Data Principals/02",
+  "permalink": "/docs/Rights of Data Principals/02",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q1 - What happens if a company ignores a Data Principal’s request for erasure or correction?",
-    "permalink": "/dpdpa-docs/docs/Rights of Data Principals/01"
+    "permalink": "/docs/Rights of Data Principals/01"
   },
   "next": {
     "title": "Q3 - Can heirs or nominees access the data of a deceased person?",
-    "permalink": "/dpdpa-docs/docs/Rights of Data Principals/03"
+    "permalink": "/docs/Rights of Data Principals/03"
   }
 }

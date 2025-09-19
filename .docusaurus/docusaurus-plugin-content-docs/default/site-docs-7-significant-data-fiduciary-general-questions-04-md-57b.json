@@ -5,7 +5,7 @@
   "source": "@site/docs/7.  Significant Data Fiduciary General Questions/04.md",
   "sourceDirName": "7.  Significant Data Fiduciary General Questions",
   "slug": "/Significant Data Fiduciary General Questions/04",
-  "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/04",
+  "permalink": "/docs/Significant Data Fiduciary General Questions/04",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q3 - Do SDFs have to appoint their Data Protection Officer (DPO) in India, even if they are a multinational company headquartered elsewhere?",
-    "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/03"
+    "permalink": "/docs/Significant Data Fiduciary General Questions/03"
   },
   "next": {
     "title": "Q5 - Are SDFs subject to stricter penalties compared to ordinary Data Fiduciaries?",
-    "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/05"
+    "permalink": "/docs/Significant Data Fiduciary General Questions/05"
   }
 }

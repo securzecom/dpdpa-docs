@@ -5,7 +5,7 @@
   "source": "@site/docs/1. Overview/Role of Consent Managers.md",
   "sourceDirName": "1. Overview",
   "slug": "/Overview/Role of Consent Managers",
-  "permalink": "/dpdpa-docs/docs/Overview/Role of Consent Managers",
+  "permalink": "/docs/Overview/Role of Consent Managers",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Special Duties of Significant Data Fiduciaries",
-    "permalink": "/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries"
+    "permalink": "/docs/Overview/Special Duties of Significant Data Fiduciaries"
   },
   "next": {
     "title": "The Data Protection Board of India",
-    "permalink": "/dpdpa-docs/docs/Overview/The Data Protection Board of India"
+    "permalink": "/docs/Overview/The Data Protection Board of India"
   }
 }

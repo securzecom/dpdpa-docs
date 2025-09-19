@@ -5,7 +5,7 @@
   "source": "@site/docs/11. International Cross-Border General Questions/02.md",
   "sourceDirName": "11. International Cross-Border General Questions",
   "slug": "/International Cross-Border General Questions/02",
-  "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/02",
+  "permalink": "/docs/International Cross-Border General Questions/02",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q1 - If an Indian user’s data is processed abroad (e.g., on AWS servers in the U.S.), is the foreign company also bound by DPDPA?",
-    "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/01"
+    "permalink": "/docs/International Cross-Border General Questions/01"
   },
   "next": {
     "title": "Q3 - Can an Indian company freely transfer anonymized data abroad?",
-    "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/03"
+    "permalink": "/docs/International Cross-Border General Questions/03"
   }
 }

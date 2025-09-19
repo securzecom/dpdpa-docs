@@ -5,7 +5,7 @@
   "source": "@site/docs/9. Rights of Data Principals/01.md",
   "sourceDirName": "9. Rights of Data Principals",
   "slug": "/Rights of Data Principals/01",
-  "permalink": "/dpdpa-docs/docs/Rights of Data Principals/01",
+  "permalink": "/docs/Rights of Data Principals/01",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q4 - How does DPDPA interact with existing Indian laws (IT Act, RBI, IRDAI, SEBI, etc.)?",
-    "permalink": "/dpdpa-docs/docs/DPDPA General Questions/04"
+    "permalink": "/docs/DPDPA General Questions/04"
   },
   "next": {
     "title": "Q2 - Can a person request all their data be “ported” (moved) to another company like GDPR allows?",
-    "permalink": "/dpdpa-docs/docs/Rights of Data Principals/02"
+    "permalink": "/docs/Rights of Data Principals/02"
   }
 }

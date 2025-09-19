@@ -5,7 +5,7 @@
   "source": "@site/docs/4. Implementing DPDPA/Step 02 - Map Personal Data Flows.md",
   "sourceDirName": "4. Implementing DPDPA",
   "slug": "/Implementing DPDPA/Step 02 - Map Personal Data Flows",
-  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 02 - Map Personal Data Flows",
+  "permalink": "/docs/Implementing DPDPA/Step 02 - Map Personal Data Flows",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Step 01 - Conduct a Gap Assessment",
-    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 01 - Conduct a Gap Assessment"
+    "permalink": "/docs/Implementing DPDPA/Step 01 - Conduct a Gap Assessment"
   },
   "next": {
     "title": "Step 03 - Draft or Update Privacy Notices",
-    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 03 - Draft or Update Privacy Notices"
+    "permalink": "/docs/Implementing DPDPA/Step 03 - Draft or Update Privacy Notices"
   }
 }

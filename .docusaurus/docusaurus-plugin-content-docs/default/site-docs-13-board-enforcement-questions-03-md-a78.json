@@ -5,7 +5,7 @@
   "source": "@site/docs/13. Board & Enforcement Questions/03.md",
   "sourceDirName": "13. Board & Enforcement Questions",
   "slug": "/Board & Enforcement Questions/03",
-  "permalink": "/dpdpa-docs/docs/Board & Enforcement Questions/03",
+  "permalink": "/docs/Board & Enforcement Questions/03",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q2 - What rights do companies have during an investigation — can they contest evidence?",
-    "permalink": "/dpdpa-docs/docs/Board & Enforcement Questions/02"
+    "permalink": "/docs/Board & Enforcement Questions/02"
   },
   "next": {
     "title": "Q4 - Can the Board impose non-financial remedies apart from fines?",
-    "permalink": "/dpdpa-docs/docs/Board & Enforcement Questions/04"
+    "permalink": "/docs/Board & Enforcement Questions/04"
   }
 }

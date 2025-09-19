@@ -5,7 +5,7 @@
   "source": "@site/docs/8. DPDPA General Questions/03.md",
   "sourceDirName": "8. DPDPA General Questions",
   "slug": "/DPDPA General Questions/03",
-  "permalink": "/dpdpa-docs/docs/DPDPA General Questions/03",
+  "permalink": "/docs/DPDPA General Questions/03",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q2 - What steps should a company take first to begin compliance?",
-    "permalink": "/dpdpa-docs/docs/DPDPA General Questions/02"
+    "permalink": "/docs/DPDPA General Questions/02"
   },
   "next": {
     "title": "Q4 - How does DPDPA interact with existing Indian laws (IT Act, RBI, IRDAI, SEBI, etc.)?",
-    "permalink": "/dpdpa-docs/docs/DPDPA General Questions/04"
+    "permalink": "/docs/DPDPA General Questions/04"
   }
 }

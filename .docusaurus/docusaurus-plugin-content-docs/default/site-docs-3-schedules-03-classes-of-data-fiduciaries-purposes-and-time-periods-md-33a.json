@@ -5,7 +5,7 @@
   "source": "@site/docs/3. Schedules/03 - Classes of Data Fiduciaries, Purposes, and Time Periods.md",
   "sourceDirName": "3. Schedules",
   "slug": "/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods",
-  "permalink": "/dpdpa-docs/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods",
+  "permalink": "/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Schedule II: Standards for Processing by the State and for Specified Purposes",
-    "permalink": "/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes"
+    "permalink": "/docs/Schedules/Standards for Processing by the State and for Specified Purposes"
   },
   "next": {
     "title": "Schedule IV: Exemptions for Certain Classes of Data Fiduciaries and Purposes",
-    "permalink": "/dpdpa-docs/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes"
+    "permalink": "/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes"
   }
 }

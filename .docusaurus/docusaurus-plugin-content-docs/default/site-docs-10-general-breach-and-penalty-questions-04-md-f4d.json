@@ -5,7 +5,7 @@
   "source": "@site/docs/10. General Breach and Penalty Questions/04.md",
   "sourceDirName": "10. General Breach and Penalty Questions",
   "slug": "/General Breach and Penalty Questions/04",
-  "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/04",
+  "permalink": "/docs/General Breach and Penalty Questions/04",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q3 - Can individuals get compensation for harm caused by data misuse, or only the government collects penalties?",
-    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/03"
+    "permalink": "/docs/General Breach and Penalty Questions/03"
   },
   "next": {
     "title": "Q5 - What is the maximum penalty for breaches under DPDPA?",
-    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/05"
+    "permalink": "/docs/General Breach and Penalty Questions/05"
   }
 }

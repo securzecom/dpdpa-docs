@@ -5,7 +5,7 @@
   "source": "@site/docs/2. DPDPA Rules/19 - Data Protection Board to Function as a Digital Office.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Data Protection Board to Function as a Digital Office",
-  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office",
+  "permalink": "/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rule 18: Procedure of Board Meetings and Authentication of Orders or Instruments",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments"
+    "permalink": "/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments"
   },
   "next": {
     "title": "Rule 20: Terms and Conditions of Officers and Employees of the Board",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board"
+    "permalink": "/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board"
   }
 }

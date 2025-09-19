@@ -5,7 +5,7 @@
   "source": "@site/docs/7.  Significant Data Fiduciary General Questions/01.md",
   "sourceDirName": "7.  Significant Data Fiduciary General Questions",
   "slug": "/Significant Data Fiduciary General Questions/01",
-  "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/01",
+  "permalink": "/docs/Significant Data Fiduciary General Questions/01",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q7 - How does DPDPA ensure neutrality of Consent Managers so they do not secretly favor large corporations?",
-    "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/07"
+    "permalink": "/docs/Consent Manager General Questions/07"
   },
   "next": {
     "title": "Q2 - Once classified as an SDF, can a company appeal or challenge that designation?",
-    "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/02"
+    "permalink": "/docs/Significant Data Fiduciary General Questions/02"
   }
 }

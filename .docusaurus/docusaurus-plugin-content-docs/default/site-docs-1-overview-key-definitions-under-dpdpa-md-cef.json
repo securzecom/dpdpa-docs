@@ -5,7 +5,7 @@
   "source": "@site/docs/1. Overview/Key Definitions under DPDPA.md",
   "sourceDirName": "1. Overview",
   "slug": "/Overview/Key Definitions under DPDPA",
-  "permalink": "/dpdpa-docs/docs/Overview/Key Definitions under DPDPA",
+  "permalink": "/docs/Overview/Key Definitions under DPDPA",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Scope & Applicability of DPDPA",
-    "permalink": "/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA"
+    "permalink": "/docs/Overview/Scope & Applicability of DPDPA"
   },
   "next": {
     "title": "Rights of Data Principals",
-    "permalink": "/dpdpa-docs/docs/Overview/Rights of Data Principals"
+    "permalink": "/docs/Overview/Rights of Data Principals"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/5. Data Fiduciary General Questions/01.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/01",
-  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/01",
+  "permalink": "/docs/Data Fiduciary General Questions/01",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Step 11 - Compliance Checklists by Industry",
-    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 11 - Compliance Checklists by Industry"
+    "permalink": "/docs/Implementing DPDPA/Step 11 - Compliance Checklists by Industry"
   },
   "next": {
     "title": "Q2 - Can a single organization act as a Data Fiduciary for one activity and a Data Processor for another?",
-    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/02"
+    "permalink": "/docs/Data Fiduciary General Questions/02"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/8. DPDPA General Questions/04.md",
   "sourceDirName": "8. DPDPA General Questions",
   "slug": "/DPDPA General Questions/04",
-  "permalink": "/dpdpa-docs/docs/DPDPA General Questions/04",
+  "permalink": "/docs/DPDPA General Questions/04",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q3 - Do small businesses and start-ups also need to comply, or only big companies?",
-    "permalink": "/dpdpa-docs/docs/DPDPA General Questions/03"
+    "permalink": "/docs/DPDPA General Questions/03"
   },
   "next": {
     "title": "Q1 - What happens if a company ignores a Data Principal’s request for erasure or correction?",
-    "permalink": "/dpdpa-docs/docs/Rights of Data Principals/01"
+    "permalink": "/docs/Rights of Data Principals/01"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/1. Overview/Penalties and Enforcement under the DPDPA.md",
   "sourceDirName": "1. Overview",
   "slug": "/Overview/Penalties and Enforcement under the DPDPA",
-  "permalink": "/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA",
+  "permalink": "/docs/Overview/Penalties and Enforcement under the DPDPA",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Cross-Border Data Transfers under DPDPA",
-    "permalink": "/dpdpa-docs/docs/Overview/Cross-Border Data Transfers under DPDPA"
+    "permalink": "/docs/Overview/Cross-Border Data Transfers under DPDPA"
   },
   "next": {
     "title": "Rule 1: Short Title and Commencement",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Title and Commencement"
+    "permalink": "/docs/DPDPA Rules/Title and Commencement"
   }
 }

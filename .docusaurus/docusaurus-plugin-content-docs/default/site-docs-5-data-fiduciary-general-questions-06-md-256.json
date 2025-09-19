@@ -5,7 +5,7 @@
   "source": "@site/docs/5. Data Fiduciary General Questions/06.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/06",
-  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/06",
+  "permalink": "/docs/Data Fiduciary General Questions/06",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q5 - Can government bodies also be Data Fiduciaries? If yes, do they follow the same rules as private companies?",
-    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/05"
+    "permalink": "/docs/Data Fiduciary General Questions/05"
   },
   "next": {
     "title": "Q7 - What is the relationship between a Data Fiduciary and a Consent Manager — is one more powerful than the other?",
-    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/07"
+    "permalink": "/docs/Data Fiduciary General Questions/07"
   }
 }

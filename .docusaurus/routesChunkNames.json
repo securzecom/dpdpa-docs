@@ -1,48 +1,48 @@
 {
-  "/dpdpa-docs/__docusaurus/debug-3ec": {
+  "/__docusaurus/debug-5ff": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
     }
   },
-  "/dpdpa-docs/__docusaurus/debug/config-388": {
+  "/__docusaurus/debug/config-5ba": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
     }
   },
-  "/dpdpa-docs/__docusaurus/debug/content-7c1": {
+  "/__docusaurus/debug/content-a2b": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
     },
-    "__props": "__props---dpdpa-docs-docusaurus-debug-contentee-1-2cf"
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
   },
-  "/dpdpa-docs/__docusaurus/debug/globalData-053": {
+  "/__docusaurus/debug/globalData-c3c": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
     }
   },
-  "/dpdpa-docs/__docusaurus/debug/metadata-fd3": {
+  "/__docusaurus/debug/metadata-156": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
     }
   },
-  "/dpdpa-docs/__docusaurus/debug/registry-e74": {
+  "/__docusaurus/debug/registry-88c": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
     }
   },
-  "/dpdpa-docs/__docusaurus/debug/routes-b06": {
+  "/__docusaurus/debug/routes-000": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docusaurus-debugb-38-2ba"
     }
   },
-  "/dpdpa-docs/blog-e6f": {
+  "/blog-b2f": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---dpdpa-docs-blog-369-485"
@@ -62,16 +62,16 @@
         "content": "content---dpdpa-docs-blog-925-274"
       }
     ],
-    "__props": "__props---dpdpa-docs-blogd-22-b0c"
+    "__props": "__props---blogc-15-573"
   },
-  "/dpdpa-docs/blog/archive-263": {
+  "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
       "plugin": "plugin---dpdpa-docs-blog-369-485"
     },
-    "__props": "__props---dpdpa-docs-blog-archived-65-e28"
+    "__props": "__props---blog-archivef-81-229"
   },
-  "/dpdpa-docs/blog/authors-a07": {
+  "/blog/authors-0b7": {
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
@@ -80,9 +80,9 @@
       "plugin": "plugin---dpdpa-docs-blog-369-485"
     },
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "__props": "__props---dpdpa-docs-blog-authors-08-f-556"
+    "__props": "__props---blog-authorsef-8-44f"
   },
-  "/dpdpa-docs/blog/authors/all-sebastien-lorber-articles-6d9": {
+  "/blog/authors/all-sebastien-lorber-articles-4a1": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -102,9 +102,9 @@
       }
     ],
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "__props": "__props---dpdpa-docs-blog-authors-all-sebastien-lorber-articles-043-716"
+    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
   },
-  "/dpdpa-docs/blog/authors/yangshun-764": {
+  "/blog/authors/yangshun-a68": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -124,9 +124,9 @@
       }
     ],
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "__props": "__props---dpdpa-docs-blog-authors-yangshunc-92-515"
+    "__props": "__props---blog-authors-yangshun-1-de-d0c"
   },
-  "/dpdpa-docs/blog/first-blog-post-02c": {
+  "/blog/first-blog-post-89a": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -137,7 +137,7 @@
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
     "content": "content---dpdpa-docs-blog-first-blog-poste-27-46e"
   },
-  "/dpdpa-docs/blog/long-blog-post-3df": {
+  "/blog/long-blog-post-9ad": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -148,7 +148,7 @@
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
     "content": "content---dpdpa-docs-blog-long-blog-post-736-c5e"
   },
-  "/dpdpa-docs/blog/mdx-blog-post-ecf": {
+  "/blog/mdx-blog-post-e9f": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -159,15 +159,15 @@
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
     "content": "content---dpdpa-docs-blog-mdx-blog-post-593-b1f"
   },
-  "/dpdpa-docs/blog/tags-82c": {
+  "/blog/tags-287": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
       "plugin": "plugin---dpdpa-docs-blog-369-485"
     },
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
-    "__props": "__props---dpdpa-docs-blog-tags-14-a-726"
+    "__props": "__props---blog-tags-3-a-2-fa2"
   },
-  "/dpdpa-docs/blog/tags/docusaurus-ef1": {
+  "/blog/tags/docusaurus-704": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---dpdpa-docs-blog-369-485"
@@ -187,9 +187,9 @@
         "content": "content---dpdpa-docs-blog-925-274"
       }
     ],
-    "__props": "__props---dpdpa-docs-blog-tags-docusaurusc-32-8d5"
+    "__props": "__props---blog-tags-docusaurus-321-832"
   },
-  "/dpdpa-docs/blog/tags/facebook-ab5": {
+  "/blog/tags/facebook-858": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---dpdpa-docs-blog-369-485"
@@ -200,9 +200,9 @@
         "content": "content---dpdpa-docs-blog-766-1ec"
       }
     ],
-    "__props": "__props---dpdpa-docs-blog-tags-facebook-4-ce-afa"
+    "__props": "__props---blog-tags-facebooke-5-a-514"
   },
-  "/dpdpa-docs/blog/tags/hello-af3": {
+  "/blog/tags/hello-299": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---dpdpa-docs-blog-369-485"
@@ -216,9 +216,9 @@
         "content": "content---dpdpa-docs-blog-871-769"
       }
     ],
-    "__props": "__props---dpdpa-docs-blog-tags-helloeab-8f9"
+    "__props": "__props---blog-tags-hellof-82-2fd"
   },
-  "/dpdpa-docs/blog/tags/hola-35e": {
+  "/blog/tags/hola-00d": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---dpdpa-docs-blog-369-485"
@@ -229,9 +229,9 @@
         "content": "content---dpdpa-docs-blog-925-274"
       }
     ],
-    "__props": "__props---dpdpa-docs-blog-tags-hola-9-a-0-aa9"
+    "__props": "__props---blog-tags-hola-5-e-9-9a3"
   },
-  "/dpdpa-docs/blog/welcome-dc3": {
+  "/blog/welcome-d2b": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -242,427 +242,427 @@
     "sidebar": "sidebar---dpdpa-docs-blog-814-fd8",
     "content": "content---dpdpa-docs-blog-welcomed-9-f-b30"
   },
-  "/dpdpa-docs/markdown-page-db9": {
+  "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
       "plugin": "plugin---dpdpa-docs-markdown-pagea-74-06f"
     },
     "content": "content---dpdpa-docs-markdown-page-393-ab9"
   },
-  "/dpdpa-docs/docs-af9": {
+  "/docs-3b6": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docsaba-3e7"
     }
   },
-  "/dpdpa-docs/docs-73b": {
+  "/docs-78d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---dpdpa-docs-docsc-2-f-89d"
+    "__props": "__props---docs-005-788"
   },
-  "/dpdpa-docs/docs-531": {
+  "/docs-674": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/dpdpa-docs/docs/Board & Enforcement Questions/01-b15": {
+  "/docs/Board & Enforcement Questions/01-f3f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-board-enforcement-questions-019-c-8-10a"
   },
-  "/dpdpa-docs/docs/Board & Enforcement Questions/02-518": {
+  "/docs/Board & Enforcement Questions/02-a84": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-board-enforcement-questions-02-bfd-e34"
   },
-  "/dpdpa-docs/docs/Board & Enforcement Questions/03-bd0": {
+  "/docs/Board & Enforcement Questions/03-ca3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-board-enforcement-questions-03-a-78-67e"
   },
-  "/dpdpa-docs/docs/Board & Enforcement Questions/04-81f": {
+  "/docs/Board & Enforcement Questions/04-f2e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-board-enforcement-questions-04980-608"
   },
-  "/dpdpa-docs/docs/Consent Manager General Questions/01-703": {
+  "/docs/Consent Manager General Questions/01-d71": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-consent-manager-general-questions-01-c-6-d-908"
   },
-  "/dpdpa-docs/docs/Consent Manager General Questions/02-d38": {
+  "/docs/Consent Manager General Questions/02-e0d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-consent-manager-general-questions-02-d-6-c-c8b"
   },
-  "/dpdpa-docs/docs/Consent Manager General Questions/03-5ba": {
+  "/docs/Consent Manager General Questions/03-f96": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-consent-manager-general-questions-0354-a-9c3"
   },
-  "/dpdpa-docs/docs/Consent Manager General Questions/04-ade": {
+  "/docs/Consent Manager General Questions/04-08d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-consent-manager-general-questions-04-ff-5-8cc"
   },
-  "/dpdpa-docs/docs/Consent Manager General Questions/05-c60": {
+  "/docs/Consent Manager General Questions/05-369": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-consent-manager-general-questions-05250-0e1"
   },
-  "/dpdpa-docs/docs/Consent Manager General Questions/06-c58": {
+  "/docs/Consent Manager General Questions/06-563": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-consent-manager-general-questions-064-ac-2cb"
   },
-  "/dpdpa-docs/docs/Consent Manager General Questions/07-5e0": {
+  "/docs/Consent Manager General Questions/07-248": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-consent-manager-general-questions-070-b-8-8b3"
   },
-  "/dpdpa-docs/docs/Data Fiduciary General Questions/01-09b": {
+  "/docs/Data Fiduciary General Questions/01-6c0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-data-fiduciary-general-questions-017-b-3-6f2"
   },
-  "/dpdpa-docs/docs/Data Fiduciary General Questions/02-825": {
+  "/docs/Data Fiduciary General Questions/02-c3e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-data-fiduciary-general-questions-025-a-3-88e"
   },
-  "/dpdpa-docs/docs/Data Fiduciary General Questions/03-56a": {
+  "/docs/Data Fiduciary General Questions/03-0e6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-data-fiduciary-general-questions-035-f-0-b9d"
   },
-  "/dpdpa-docs/docs/Data Fiduciary General Questions/04-559": {
+  "/docs/Data Fiduciary General Questions/04-aec": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-data-fiduciary-general-questions-044-aa-4dd"
   },
-  "/dpdpa-docs/docs/Data Fiduciary General Questions/05-c4c": {
+  "/docs/Data Fiduciary General Questions/05-e3f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-data-fiduciary-general-questions-0572-d-a1d"
   },
-  "/dpdpa-docs/docs/Data Fiduciary General Questions/06-0ad": {
+  "/docs/Data Fiduciary General Questions/06-f9d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-data-fiduciary-general-questions-06256-64b"
   },
-  "/dpdpa-docs/docs/Data Fiduciary General Questions/07-32a": {
+  "/docs/Data Fiduciary General Questions/07-18a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-data-fiduciary-general-questions-07404-bc3"
   },
-  "/dpdpa-docs/docs/Data Fiduciary General Questions/08-8b8": {
+  "/docs/Data Fiduciary General Questions/08-19c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-data-fiduciary-general-questions-08-cc-7-1a5"
   },
-  "/dpdpa-docs/docs/Data Fiduciary General Questions/09-46d": {
+  "/docs/Data Fiduciary General Questions/09-013": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-data-fiduciary-general-questions-09344-a7a"
   },
-  "/dpdpa-docs/docs/DPDPA General Questions/01-d0e": {
+  "/docs/DPDPA General Questions/01-3ce": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-general-questions-01-bbf-99c"
   },
-  "/dpdpa-docs/docs/DPDPA General Questions/02-16b": {
+  "/docs/DPDPA General Questions/02-b34": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-general-questions-02-ca-8-01e"
   },
-  "/dpdpa-docs/docs/DPDPA General Questions/03-bd4": {
+  "/docs/DPDPA General Questions/03-bf9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-general-questions-03-f-2-c-487"
   },
-  "/dpdpa-docs/docs/DPDPA General Questions/04-a47": {
+  "/docs/DPDPA General Questions/04-64c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-general-questions-04058-0eb"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries-8a9": {
+  "/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries-8a8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-additional-obligations-of-significant-data-fiduciaries-1-d-2-c2d"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Appeals to the Appellate Tribunal-cf5": {
+  "/docs/DPDPA Rules/Appeals to the Appellate Tribunal-3b8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-appeals-to-the-appellate-tribunal-22-e-884"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board-320": {
+  "/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board-fbc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-appointment-of-chairperson-and-members-of-the-data-protection-board-32-d-d15"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing-3c9": {
+  "/docs/DPDPA Rules/Contact Information for Queries about Processing-979": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-contact-information-for-queries-about-processing-6-e-8-7cb"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office-e80": {
+  "/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office-820": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-data-protection-board-to-function-as-a-digital-officef-32-17b"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Definitions-b2d": {
+  "/docs/DPDPA Rules/Definitions-b24": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-definitions-485-842"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Processing Children’s Data-b08": {
+  "/docs/DPDPA Rules/Exemptions for Processing Children’s Data-a92": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-exemptions-for-processing-childrens-data-888-80f"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes-f9e": {
+  "/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes-b6e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-exemptions-for-research-archiving-and-statistical-purposes-982-aea"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach-37d": {
+  "/docs/DPDPA Rules/Intimation of Personal Data Breach-1dd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-intimation-of-personal-data-breach-2-b-9-1c2"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal-afd": {
+  "/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal-696": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-notice-by-data-fiduciary-to-data-principalcda-fd4"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries-ed9": {
+  "/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries-8ce": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-power-to-call-for-information-from-data-fiduciaries-or-intermediariesdd-0-74c"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments-fd2": {
+  "/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments-58a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-procedure-of-board-meetings-and-authentication-of-orders-or-instruments-262-104"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State-21f": {
+  "/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State-6d8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-processing-for-subsidy-benefit-service-licence-or-permit-by-the-state-913-9bc"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India-162": {
+  "/docs/DPDPA Rules/Processing of Personal Data Outside India-7eb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-processing-of-personal-data-outside-india-7-c-9-5b0"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards-c87": {
+  "/docs/DPDPA Rules/Reasonable Security Safeguards-c8d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-reasonable-security-safeguardsac-8-803"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager-fc8": {
+  "/docs/DPDPA Rules/Registration and Obligations of Consent Manager-293": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-registration-and-obligations-of-consent-manager-7-d-7-d01"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Rights of Data Principals-3c5": {
+  "/docs/DPDPA Rules/Rights of Data Principals-4da": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-rights-of-data-principalseb-4-775"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members-6ba": {
+  "/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members-3be": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-salary-allowances-and-service-conditions-of-the-chairperson-and-membersdaa-30e"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board-51a": {
+  "/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board-d8d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-terms-and-conditions-of-officers-and-employees-of-the-board-2-c-5-c4b"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Title and Commencement-db7": {
+  "/docs/DPDPA Rules/Title and Commencement-8ac": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-title-and-commencement-06-a-fca"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities-a28": {
+  "/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities-7ab": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-verifiable-consent-for-children-and-persons-with-disabilities-162-e6f"
   },
-  "/dpdpa-docs/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served-d19": {
+  "/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served-67e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-when-the-specified-purpose-is-deemed-no-longer-servedac-5-880"
   },
-  "/dpdpa-docs/docs/General Breach and Penalty Questions/01-e53": {
+  "/docs/General Breach and Penalty Questions/01-a50": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-general-breach-and-penalty-questions-011-e-4-29d"
   },
-  "/dpdpa-docs/docs/General Breach and Penalty Questions/02-73b": {
+  "/docs/General Breach and Penalty Questions/02-76b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-general-breach-and-penalty-questions-02-c-10-304"
   },
-  "/dpdpa-docs/docs/General Breach and Penalty Questions/03-97e": {
+  "/docs/General Breach and Penalty Questions/03-421": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-general-breach-and-penalty-questions-03-dba-829"
   },
-  "/dpdpa-docs/docs/General Breach and Penalty Questions/04-f64": {
+  "/docs/General Breach and Penalty Questions/04-3ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-general-breach-and-penalty-questions-04-f-4-d-040"
   },
-  "/dpdpa-docs/docs/General Breach and Penalty Questions/05-a14": {
+  "/docs/General Breach and Penalty Questions/05-c34": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-general-breach-and-penalty-questions-0592-f-6e4"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 01 - Conduct a Gap Assessment-ea6": {
+  "/docs/Implementing DPDPA/Step 01 - Conduct a Gap Assessment-e3b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-01-conduct-a-gap-assessmentc-2-f-1ac"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 02 - Map Personal Data Flows-f32": {
+  "/docs/Implementing DPDPA/Step 02 - Map Personal Data Flows-dfd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-02-map-personal-data-flows-357-b24"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 03 - Draft or Update Privacy Notices-648": {
+  "/docs/Implementing DPDPA/Step 03 - Draft or Update Privacy Notices-610": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-03-draft-or-update-privacy-noticesc-68-b78"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer-51a": {
+  "/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer-06e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-04-appoint-a-grievance-officer-or-data-protection-officer-67-c-13b"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance-bb0": {
+  "/docs/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance-920": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-05-building-internal-policies-for-dpdpa-compliance-032-cb9"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests-135": {
+  "/docs/Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests-6ae": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-06-handling-data-principal-rights-requests-13-b-47e"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 07 - Breach Management Under DPDPA-4b8": {
+  "/docs/Implementing DPDPA/Step 07 - Breach Management Under DPDPA-ee0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-07-breach-management-under-dpdpa-49-d-f35"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries-b64": {
+  "/docs/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries-793": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-08-special-duties-for-significant-data-fiduciariesaeb-93b"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance-17b": {
+  "/docs/Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance-488": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-09-cross-border-transfers-compliance-179-23b"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation-5e1": {
+  "/docs/Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation-b2c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-10-penalties-fines-and-risk-mitigationd-86-582"
   },
-  "/dpdpa-docs/docs/Implementing DPDPA/Step 11 - Compliance Checklists by Industry-3d8": {
+  "/docs/Implementing DPDPA/Step 11 - Compliance Checklists by Industry-6e5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-implementing-dpdpa-step-11-compliance-checklists-by-industryae-6-b35"
   },
-  "/dpdpa-docs/docs/International Cross-Border General Questions/01-068": {
+  "/docs/International Cross-Border General Questions/01-64c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-international-cross-border-general-questions-01194-1ea"
   },
-  "/dpdpa-docs/docs/International Cross-Border General Questions/02-db4": {
+  "/docs/International Cross-Border General Questions/02-e45": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-international-cross-border-general-questions-024-dd-331"
   },
-  "/dpdpa-docs/docs/International Cross-Border General Questions/03-9c6": {
+  "/docs/International Cross-Border General Questions/03-75c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-international-cross-border-general-questions-037-a-8-207"
   },
-  "/dpdpa-docs/docs/International Cross-Border General Questions/04-538": {
+  "/docs/International Cross-Border General Questions/04-723": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-international-cross-border-general-questions-0453-b-305"
   },
-  "/dpdpa-docs/docs/International Cross-Border General Questions/05-904": {
+  "/docs/International Cross-Border General Questions/05-73f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-international-cross-border-general-questions-050-c-8-942"
   },
-  "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA-5c2": {
+  "/docs/Overview/Background and Purpose of DPDPA-fb2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-background-and-purpose-of-dpdp-ad-1-e-4eb"
   },
-  "/dpdpa-docs/docs/Overview/Cross-Border Data Transfers under DPDPA-1af": {
+  "/docs/Overview/Cross-Border Data Transfers under DPDPA-820": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-cross-border-data-transfers-under-dpdpa-267-a18"
   },
-  "/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries-73f": {
+  "/docs/Overview/Duties and Obligations of Data Fiduciaries-76c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-duties-and-obligations-of-data-fiduciariesa-71-c83"
   },
-  "/dpdpa-docs/docs/Overview/Key Definitions under DPDPA-6e6": {
+  "/docs/Overview/Key Definitions under DPDPA-5ad": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-key-definitions-under-dpdp-acef-a6e"
   },
-  "/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA-2c1": {
+  "/docs/Overview/Penalties and Enforcement under the DPDPA-dd2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-penalties-and-enforcement-under-the-dpdpa-455-2e2"
   },
-  "/dpdpa-docs/docs/Overview/Rights of Data Principals-764": {
+  "/docs/Overview/Rights of Data Principals-3c4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-rights-of-data-principals-172-1c4"
   },
-  "/dpdpa-docs/docs/Overview/Role of Consent Managers-7a0": {
+  "/docs/Overview/Role of Consent Managers-84e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-role-of-consent-managers-72-f-5d5"
   },
-  "/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA-3fb": {
+  "/docs/Overview/Scope & Applicability of DPDPA-306": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-scope-applicability-of-dpdp-ae-4-c-8e7"
   },
-  "/dpdpa-docs/docs/Overview/Security Safeguards and Breach Notification-1c8": {
+  "/docs/Overview/Security Safeguards and Breach Notification-5ee": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-security-safeguards-and-breach-notificatione-59-42b"
   },
-  "/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries-866": {
+  "/docs/Overview/Special Duties of Significant Data Fiduciaries-c14": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-special-duties-of-significant-data-fiduciaries-3-e-0-13a"
   },
-  "/dpdpa-docs/docs/Overview/The Data Protection Board of India-804": {
+  "/docs/Overview/The Data Protection Board of India-5bb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-the-data-protection-board-of-indiaab-2-eaa"
   },
-  "/dpdpa-docs/docs/Rights of Data Principals/01-21a": {
+  "/docs/Rights of Data Principals/01-fe7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-rights-of-data-principals-01-cd-0-7b4"
   },
-  "/dpdpa-docs/docs/Rights of Data Principals/02-9a6": {
+  "/docs/Rights of Data Principals/02-4ac": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-rights-of-data-principals-028-f-7-962"
   },
-  "/dpdpa-docs/docs/Rights of Data Principals/03-256": {
+  "/docs/Rights of Data Principals/03-f5e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-rights-of-data-principals-03-bc-4-b42"
   },
-  "/dpdpa-docs/docs/Rights of Data Principals/04-809": {
+  "/docs/Rights of Data Principals/04-13f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-rights-of-data-principals-0410-e-0ba"
   },
-  "/dpdpa-docs/docs/Rights of Data Principals/05-102": {
+  "/docs/Rights of Data Principals/05-111": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-rights-of-data-principals-05-ae-2-7f5"
   },
-  "/dpdpa-docs/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods-09c": {
+  "/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods-c4d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-schedules-classes-of-data-fiduciaries-purposes-and-time-periods-33-a-834"
   },
-  "/dpdpa-docs/docs/Schedules/Consent Manager-f4c": {
+  "/docs/Schedules/Consent Manager-1ad": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-schedules-consent-manager-0-cb-dc9"
   },
-  "/dpdpa-docs/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes-90d": {
+  "/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes-b9b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-schedules-exemptions-for-certain-classes-of-data-fiduciaries-and-purposesf-9-d-886"
   },
-  "/dpdpa-docs/docs/Schedules/Purposes and Authorized Persons for Rule 22-09b": {
+  "/docs/Schedules/Purposes and Authorized Persons for Rule 22-5b0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-schedules-purposes-and-authorized-persons-for-rule-22130-0a2"
   },
-  "/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes-77a": {
+  "/docs/Schedules/Standards for Processing by the State and for Specified Purposes-20b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-schedules-standards-for-processing-by-the-state-and-for-specified-purposesac-8-ef7"
   },
-  "/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board-1e8": {
+  "/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board-e20": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-schedules-terms-and-conditions-of-service-of-the-chairperson-and-members-of-the-data-protection-board-7-dd-9fa"
   },
-  "/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board-c4f": {
+  "/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board-4da": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-schedules-terms-and-conditions-of-service-of-the-officers-and-employees-of-the-board-4-e-5-7e7"
   },
-  "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/01-a22": {
+  "/docs/Significant Data Fiduciary General Questions/01-2d0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-significant-data-fiduciary-general-questions-0119-e-715"
   },
-  "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/02-15c": {
+  "/docs/Significant Data Fiduciary General Questions/02-4e2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-significant-data-fiduciary-general-questions-025-b-7-42c"
   },
-  "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/03-122": {
+  "/docs/Significant Data Fiduciary General Questions/03-f71": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-significant-data-fiduciary-general-questions-03534-d30"
   },
-  "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/04-935": {
+  "/docs/Significant Data Fiduciary General Questions/04-6ae": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-significant-data-fiduciary-general-questions-0457-b-4b0"
   },
-  "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/05-89f": {
+  "/docs/Significant Data Fiduciary General Questions/05-86d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-significant-data-fiduciary-general-questions-05717-f6e"
   },
-  "/dpdpa-docs/docs/Special Cases or Edge Situations/01-350": {
+  "/docs/Special Cases or Edge Situations/01-209": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-special-cases-or-edge-situations-01-d-9-c-4f6"
   },
-  "/dpdpa-docs/docs/Special Cases or Edge Situations/02-5a3": {
+  "/docs/Special Cases or Edge Situations/02-1cf": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-special-cases-or-edge-situations-02136-101"
   },
-  "/dpdpa-docs/docs/Special Cases or Edge Situations/03-62f": {
+  "/docs/Special Cases or Edge Situations/03-023": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-special-cases-or-edge-situations-0365-c-eac"
   },
-  "/dpdpa-docs/docs/Special Cases or Edge Situations/04-212": {
+  "/docs/Special Cases or Edge Situations/04-e9c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-special-cases-or-edge-situations-04-f-60-061"
   },
-  "/dpdpa-docs/docs/Special Cases or Edge Situations/05-71e": {
+  "/docs/Special Cases or Edge Situations/05-9fb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-special-cases-or-edge-situations-058-e-1-170"
   },
-  "/dpdpa-docs/-4d6": {
+  "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
       "plugin": "plugin---dpdpa-docs-markdown-pagea-74-06f"

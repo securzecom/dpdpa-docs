@@ -5,7 +5,7 @@
   "source": "@site/docs/12. Special Cases or Edge Situations/03.md",
   "sourceDirName": "12. Special Cases or Edge Situations",
   "slug": "/Special Cases or Edge Situations/03",
-  "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/03",
+  "permalink": "/docs/Special Cases or Edge Situations/03",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q2 - How does the law apply to NGOs, schools, and hospitals that are not-for-profit but still collect personal data?",
-    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/02"
+    "permalink": "/docs/Special Cases or Edge Situations/02"
   },
   "next": {
     "title": "Q4 - What happens if a company shuts down — does it have to delete all personal data first?",
-    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/04"
+    "permalink": "/docs/Special Cases or Edge Situations/04"
   }
 }

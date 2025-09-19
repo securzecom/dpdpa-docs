@@ -5,7 +5,7 @@
   "source": "@site/docs/4. Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance.md",
   "sourceDirName": "4. Implementing DPDPA",
   "slug": "/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance",
-  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance",
+  "permalink": "/docs/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Step 04 - Appoint a Grievance Officer or Data Protection Officer",
-    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer"
+    "permalink": "/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer"
   },
   "next": {
     "title": "Step 06 - Handling Data Principal Rights Requests",
-    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests"
+    "permalink": "/docs/Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests"
   }
 }

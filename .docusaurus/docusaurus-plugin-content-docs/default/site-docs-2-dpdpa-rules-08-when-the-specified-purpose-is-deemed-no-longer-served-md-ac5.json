@@ -5,7 +5,7 @@
   "source": "@site/docs/2. DPDPA Rules/08 - When the Specified Purpose is Deemed No Longer Served.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served",
-  "permalink": "/dpdpa-docs/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served",
+  "permalink": "/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rule 7: Intimation of Personal Data Breach",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach"
+    "permalink": "/docs/DPDPA Rules/Intimation of Personal Data Breach"
   },
   "next": {
     "title": "Rule 9: Contact Information for Queries about Processing",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing"
+    "permalink": "/docs/DPDPA Rules/Contact Information for Queries about Processing"
   }
 }

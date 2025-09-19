@@ -5,7 +5,7 @@
   "source": "@site/docs/1. Overview/Special Duties of Significant Data Fiduciaries.md",
   "sourceDirName": "1. Overview",
   "slug": "/Overview/Special Duties of Significant Data Fiduciaries",
-  "permalink": "/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries",
+  "permalink": "/docs/Overview/Special Duties of Significant Data Fiduciaries",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Duties and Obligations of Data Fiduciaries",
-    "permalink": "/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries"
+    "permalink": "/docs/Overview/Duties and Obligations of Data Fiduciaries"
   },
   "next": {
     "title": "Role of Consent Managers",
-    "permalink": "/dpdpa-docs/docs/Overview/Role of Consent Managers"
+    "permalink": "/docs/Overview/Role of Consent Managers"
   }
 }

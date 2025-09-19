@@ -5,7 +5,7 @@
   "source": "@site/docs/2. DPDPA Rules/14 - Processing of Personal Data Outside India.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Processing of Personal Data Outside India",
-  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India",
+  "permalink": "/docs/DPDPA Rules/Processing of Personal Data Outside India",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rule 13: Rights of Data Principals (Operational Details)",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Rights of Data Principals"
+    "permalink": "/docs/DPDPA Rules/Rights of Data Principals"
   },
   "next": {
     "title": "Rule 15: Exemptions for Research, Archiving, and Statistical Purposes",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes"
+    "permalink": "/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes"
   }
 }

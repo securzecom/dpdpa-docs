@@ -5,7 +5,7 @@
   "source": "@site/docs/5. Data Fiduciary General Questions/04.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/04",
-  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/04",
+  "permalink": "/docs/Data Fiduciary General Questions/04",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q3 - How does the government decide if a Fiduciary should be classified as a Significant Data Fiduciary (SDF)?",
-    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/03"
+    "permalink": "/docs/Data Fiduciary General Questions/03"
   },
   "next": {
     "title": "Q5 - Can government bodies also be Data Fiduciaries? If yes, do they follow the same rules as private companies?",
-    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/05"
+    "permalink": "/docs/Data Fiduciary General Questions/05"
   }
 }

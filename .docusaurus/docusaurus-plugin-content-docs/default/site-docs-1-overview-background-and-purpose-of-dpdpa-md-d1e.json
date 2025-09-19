@@ -5,7 +5,7 @@
   "source": "@site/docs/1. Overview/Background and Purpose of DPDPA.md",
   "sourceDirName": "1. Overview",
   "slug": "/Overview/Background and Purpose of DPDPA",
-  "permalink": "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA",
+  "permalink": "/docs/Overview/Background and Purpose of DPDPA",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Scope & Applicability of DPDPA",
-    "permalink": "/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA"
+    "permalink": "/docs/Overview/Scope & Applicability of DPDPA"
   }
 }

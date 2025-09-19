@@ -5,7 +5,7 @@
   "source": "@site/docs/3. Schedules/02 - Standards for Processing by the State and for Specified Purposes.md",
   "sourceDirName": "3. Schedules",
   "slug": "/Schedules/Standards for Processing by the State and for Specified Purposes",
-  "permalink": "/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes",
+  "permalink": "/docs/Schedules/Standards for Processing by the State and for Specified Purposes",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Schedule I: Consent Manager",
-    "permalink": "/dpdpa-docs/docs/Schedules/Consent Manager"
+    "permalink": "/docs/Schedules/Consent Manager"
   },
   "next": {
     "title": "Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods",
-    "permalink": "/dpdpa-docs/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods"
+    "permalink": "/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods"
   }
 }

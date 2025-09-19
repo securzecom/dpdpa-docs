@@ -92,7 +92,7 @@ export default {
         },
         {
           "href": "https://securze.com/",
-          "label": "Implement DPDPA",
+          "label": "Securze - Securing What Matters Most",
           "position": "right"
         }
       ],

@@ -5,7 +5,7 @@
   "source": "@site/docs/6. Consent Manager General Questions/06.md",
   "sourceDirName": "6. Consent Manager General Questions",
   "slug": "/Consent Manager General Questions/06",
-  "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/06",
+  "permalink": "/docs/Consent Manager General Questions/06",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q5 - How does a Consent Manager ensure that a withdrawal of consent is reflected immediately across all organizations using that consent?",
-    "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/05"
+    "permalink": "/docs/Consent Manager General Questions/05"
   },
   "next": {
     "title": "Q7 - How does DPDPA ensure neutrality of Consent Managers so they do not secretly favor large corporations?",
-    "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/07"
+    "permalink": "/docs/Consent Manager General Questions/07"
   }
 }

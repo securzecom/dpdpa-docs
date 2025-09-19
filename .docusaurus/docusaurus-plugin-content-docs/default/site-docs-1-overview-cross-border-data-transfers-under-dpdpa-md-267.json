@@ -5,7 +5,7 @@
   "source": "@site/docs/1. Overview/Cross-Border Data Transfers under DPDPA.md",
   "sourceDirName": "1. Overview",
   "slug": "/Overview/Cross-Border Data Transfers under DPDPA",
-  "permalink": "/dpdpa-docs/docs/Overview/Cross-Border Data Transfers under DPDPA",
+  "permalink": "/docs/Overview/Cross-Border Data Transfers under DPDPA",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Security Safeguards and Breach Notification",
-    "permalink": "/dpdpa-docs/docs/Overview/Security Safeguards and Breach Notification"
+    "permalink": "/docs/Overview/Security Safeguards and Breach Notification"
   },
   "next": {
     "title": "Penalties and Enforcement under the DPDPA",
-    "permalink": "/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA"
+    "permalink": "/docs/Overview/Penalties and Enforcement under the DPDPA"
   }
 }

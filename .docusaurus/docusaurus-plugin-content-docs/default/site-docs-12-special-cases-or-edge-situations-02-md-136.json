@@ -5,7 +5,7 @@
   "source": "@site/docs/12. Special Cases or Edge Situations/02.md",
   "sourceDirName": "12. Special Cases or Edge Situations",
   "slug": "/Special Cases or Edge Situations/02",
-  "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/02",
+  "permalink": "/docs/Special Cases or Edge Situations/02",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q1 - How does DPDPA apply to employee data?",
-    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/01"
+    "permalink": "/docs/Special Cases or Edge Situations/01"
   },
   "next": {
     "title": "Q3 - Does DPDPA cover non-digital data (e.g., paper records)?",
-    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/03"
+    "permalink": "/docs/Special Cases or Edge Situations/03"
   }
 }

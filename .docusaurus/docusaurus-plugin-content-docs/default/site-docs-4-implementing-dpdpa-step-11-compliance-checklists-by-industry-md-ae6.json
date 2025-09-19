@@ -5,7 +5,7 @@
   "source": "@site/docs/4. Implementing DPDPA/Step 11 - Compliance Checklists by Industry.md",
   "sourceDirName": "4. Implementing DPDPA",
   "slug": "/Implementing DPDPA/Step 11 - Compliance Checklists by Industry",
-  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 11 - Compliance Checklists by Industry",
+  "permalink": "/docs/Implementing DPDPA/Step 11 - Compliance Checklists by Industry",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Step 10 - Penalties, Fines, and Risk Mitigation",
-    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation"
+    "permalink": "/docs/Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation"
   },
   "next": {
     "title": "Q1 - What is the difference between a Data Fiduciary and a Data Processor?",
-    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/01"
+    "permalink": "/docs/Data Fiduciary General Questions/01"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/2. DPDPA Rules/01 - Title and Commencement.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Title and Commencement",
-  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Title and Commencement",
+  "permalink": "/docs/DPDPA Rules/Title and Commencement",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Penalties and Enforcement under the DPDPA",
-    "permalink": "/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA"
+    "permalink": "/docs/Overview/Penalties and Enforcement under the DPDPA"
   },
   "next": {
     "title": "Rule 2: Definitions",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Definitions"
+    "permalink": "/docs/DPDPA Rules/Definitions"
   }
 }

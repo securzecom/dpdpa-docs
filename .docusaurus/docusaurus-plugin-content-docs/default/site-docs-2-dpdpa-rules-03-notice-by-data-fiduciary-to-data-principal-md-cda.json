@@ -5,7 +5,7 @@
   "source": "@site/docs/2. DPDPA Rules/03 - Notice by Data Fiduciary to Data Principal.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Notice by Data Fiduciary to Data Principal",
-  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal",
+  "permalink": "/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rule 2: Definitions",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Definitions"
+    "permalink": "/docs/DPDPA Rules/Definitions"
   },
   "next": {
     "title": "Rule 4: Registration and Obligations of Consent Manager",
-    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager"
+    "permalink": "/docs/DPDPA Rules/Registration and Obligations of Consent Manager"
   }
 }

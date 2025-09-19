@@ -5,7 +5,7 @@
   "source": "@site/docs/8. DPDPA General Questions/01.md",
   "sourceDirName": "8. DPDPA General Questions",
   "slug": "/DPDPA General Questions/01",
-  "permalink": "/dpdpa-docs/docs/DPDPA General Questions/01",
+  "permalink": "/docs/DPDPA General Questions/01",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Q5 - Are SDFs subject to stricter penalties compared to ordinary Data Fiduciaries?",
-    "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/05"
+    "permalink": "/docs/Significant Data Fiduciary General Questions/05"
   },
   "next": {
     "title": "Q2 - What steps should a company take first to begin compliance?",
-    "permalink": "/dpdpa-docs/docs/DPDPA General Questions/02"
+    "permalink": "/docs/DPDPA General Questions/02"
   }
 }
