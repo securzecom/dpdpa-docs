@@ -1,0 +1,27 @@
+{
+  "id": "International Cross-Border General Questions/05",
+  "title": "Q5 - What is the government’s role in regulating cross-border transfers?",
+  "description": "- The default position is that cross-border transfers are allowed.",
+  "source": "@site/docs/11. International Cross-Border General Questions/05.md",
+  "sourceDirName": "11. International Cross-Border General Questions",
+  "slug": "/International Cross-Border General Questions/05",
+  "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/05",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11. International Cross-Border General Questions/05.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q4 - Can Indian companies continue to use global cloud service providers (AWS, Google Cloud, Azure)?",
+    "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/04"
+  },
+  "next": {
+    "title": "Q1 - How does DPDPA apply to employee data?",
+    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/01"
+  }
+}

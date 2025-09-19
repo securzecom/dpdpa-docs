@@ -1,0 +1,27 @@
+{
+  "id": "Special Cases or Edge Situations/05",
+  "title": "Q5 - How does DPDPA apply to educational institutions handling minors’ data?",
+  "description": "- Schools and universities are Fiduciaries and must get verifiable parental consent before processing children’s personal data (Rule 10).",
+  "source": "@site/docs/12. Special Cases or Edge Situations/05.md",
+  "sourceDirName": "12. Special Cases or Edge Situations",
+  "slug": "/Special Cases or Edge Situations/05",
+  "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/05",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/12. Special Cases or Edge Situations/05.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q4 - What happens if a company shuts down — does it have to delete all personal data first?",
+    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/04"
+  },
+  "next": {
+    "title": "Q1 - Can the Board initiate an investigation on its own, or only based on complaints?",
+    "permalink": "/dpdpa-docs/docs/Board & Enforcement Questions/01"
+  }
+}

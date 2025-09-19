@@ -1,0 +1,23 @@
+{
+  "id": "Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries copy",
+  "title": "Step 08 - Special Duties for Significant Data Fiduciaries copy",
+  "description": "Step 9: Cross-Border Transfers Compliance",
+  "source": "@site/docs/4. Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries copy.md",
+  "sourceDirName": "4. Implementing DPDPA",
+  "slug": "/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries copy",
+  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step 08 - Special Duties for Significant Data Fiduciaries",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries"
+  }
+}

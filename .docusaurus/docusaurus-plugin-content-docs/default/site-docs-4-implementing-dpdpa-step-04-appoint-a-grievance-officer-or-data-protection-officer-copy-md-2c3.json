@@ -1,0 +1,23 @@
+{
+  "id": "Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer copy",
+  "title": "Step 04 - Appoint a Grievance Officer or Data Protection Officer copy",
+  "description": "Once the initial foundation is in place (gap assessment, data mapping, privacy notices, and appointing officers), the next step is to create internal policies.",
+  "source": "@site/docs/4. Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer copy.md",
+  "sourceDirName": "4. Implementing DPDPA",
+  "slug": "/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer copy",
+  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step 04 - Appoint a Grievance Officer or Data Protection Officer",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer"
+  }
+}

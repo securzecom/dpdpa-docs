@@ -1,0 +1,23 @@
+{
+  "id": "Consent Manager General Questions/06",
+  "title": "06",
+  "description": "---",
+  "source": "@site/docs/Consent Manager General Questions/06.md",
+  "sourceDirName": "Consent Manager General Questions",
+  "slug": "/Consent Manager General Questions/06",
+  "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/06",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Consent Manager General Questions/06.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5. How does a Consent Manager ensure that a withdrawal of consent is reflected immediately across all organizations using that consent?",
+    "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/05"
+  }
+}

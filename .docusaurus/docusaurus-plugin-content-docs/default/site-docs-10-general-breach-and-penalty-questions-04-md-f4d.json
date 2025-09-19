@@ -1,0 +1,27 @@
+{
+  "id": "General Breach and Penalty Questions/04",
+  "title": "Q4 - Do all breaches need to be reported to affected individuals, or only severe ones?",
+  "description": "Companies must notify individuals if the breach is likely to cause significant harm (financial loss, identity theft, reputational damage, etc.).",
+  "source": "@site/docs/10. General Breach and Penalty Questions/04.md",
+  "sourceDirName": "10. General Breach and Penalty Questions",
+  "slug": "/General Breach and Penalty Questions/04",
+  "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/04",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. General Breach and Penalty Questions/04.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q3 - Can individuals get compensation for harm caused by data misuse, or only the government collects penalties?",
+    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/03"
+  },
+  "next": {
+    "title": "Q5 - What is the maximum penalty for breaches under DPDPA?",
+    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/05"
+  }
+}

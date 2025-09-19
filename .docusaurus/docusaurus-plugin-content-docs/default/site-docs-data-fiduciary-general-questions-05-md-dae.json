@@ -1,0 +1,27 @@
+{
+  "id": "Data Fiduciary General Questions/05",
+  "title": "5. Can government bodies also be Data Fiduciaries? If yes, do they follow the same rules as private companies?",
+  "description": "Yes. Government departments and public authorities are also considered Data Fiduciaries when they process personal data of citizens.",
+  "source": "@site/docs/Data Fiduciary General Questions/05.md",
+  "sourceDirName": "Data Fiduciary General Questions",
+  "slug": "/Data Fiduciary General Questions/05",
+  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/05",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Data Fiduciary General Questions/05.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4. What kind of additional audits and assessments are mandatory for SDFs?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/04"
+  },
+  "next": {
+    "title": "6. What happens if a Data Fiduciary fails to comply — does liability sit only with the company, or can directors and officers also be held responsible?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/06"
+  }
+}

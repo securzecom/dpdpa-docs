@@ -1,0 +1,20 @@
+{
+  "id": "DPDPA General Questions/md/02",
+  "title": "02",
+  "description": "",
+  "source": "@site/docs/DPDPA General Questions/01.md/02.md",
+  "sourceDirName": "DPDPA General Questions/01.md",
+  "slug": "/DPDPA General Questions/md/02",
+  "permalink": "/dpdpa-docs/docs/DPDPA General Questions/md/02",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/DPDPA General Questions/01.md/02.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q5 - Are SDFs subject to stricter penalties compared to ordinary Data Fiduciaries?",
+    "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/05"
+  }
+}

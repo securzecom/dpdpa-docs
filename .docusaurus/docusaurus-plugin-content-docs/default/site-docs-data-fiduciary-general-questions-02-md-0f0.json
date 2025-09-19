@@ -1,0 +1,27 @@
+{
+  "id": "Data Fiduciary General Questions/02",
+  "title": "2. Can a single organization act as a Data Fiduciary for one activity and a Data Processor for another?",
+  "description": "Yes. A single organization can wear both hats, depending on the context of processing.",
+  "source": "@site/docs/Data Fiduciary General Questions/02.md",
+  "sourceDirName": "Data Fiduciary General Questions",
+  "slug": "/Data Fiduciary General Questions/02",
+  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/02",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Data Fiduciary General Questions/02.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q1 - What is the difference between a Data Fiduciary and a Data Processor?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/01"
+  },
+  "next": {
+    "title": "3. How does the government decide if a Fiduciary should be classified as a Significant Data Fiduciary (SDF)?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/03"
+  }
+}

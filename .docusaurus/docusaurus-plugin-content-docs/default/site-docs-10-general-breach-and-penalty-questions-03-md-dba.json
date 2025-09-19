@@ -1,0 +1,27 @@
+{
+  "id": "General Breach and Penalty Questions/03",
+  "title": "Q3 - Can individuals get compensation for harm caused by data misuse, or only the government collects penalties?",
+  "description": "- Under DPDPA, penalties are payable to the government, not directly to individuals.",
+  "source": "@site/docs/10. General Breach and Penalty Questions/03.md",
+  "sourceDirName": "10. General Breach and Penalty Questions",
+  "slug": "/General Breach and Penalty Questions/03",
+  "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/03",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. General Breach and Penalty Questions/03.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q2 - What happens if a company reports a breach late — is the penalty automatic?",
+    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/02"
+  },
+  "next": {
+    "title": "Q4 - Do all breaches need to be reported to affected individuals, or only severe ones?",
+    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/04"
+  }
+}

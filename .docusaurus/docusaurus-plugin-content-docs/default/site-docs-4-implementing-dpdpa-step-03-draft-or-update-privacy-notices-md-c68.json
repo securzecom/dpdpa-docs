@@ -1,0 +1,27 @@
+{
+  "id": "Implementing DPDPA/Step 03 - Draft or Update Privacy Notices",
+  "title": "Step 03 - Draft or Update Privacy Notices",
+  "description": "The DPDPA requires every organization (Data Fiduciary) to provide individuals with a clear, standalone privacy notice before processing their personal data.",
+  "source": "@site/docs/4. Implementing DPDPA/Step 03 - Draft or Update Privacy Notices.md",
+  "sourceDirName": "4. Implementing DPDPA",
+  "slug": "/Implementing DPDPA/Step 03 - Draft or Update Privacy Notices",
+  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 03 - Draft or Update Privacy Notices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Implementing DPDPA/Step 03 - Draft or Update Privacy Notices.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step 02 - Map Personal Data Flows",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 02 - Map Personal Data Flows"
+  },
+  "next": {
+    "title": "Step 04 - Appoint a Grievance Officer or Data Protection Officer",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer"
+  }
+}

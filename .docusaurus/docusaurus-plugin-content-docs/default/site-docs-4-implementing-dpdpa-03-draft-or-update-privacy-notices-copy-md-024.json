@@ -1,0 +1,23 @@
+{
+  "id": "Implementing DPDPA/Draft or Update Privacy Notices copy",
+  "title": "Draft or Update Privacy Notices copy",
+  "description": "Step 4: Appoint a Grievance Officer or Data Protection Officer (DPO)",
+  "source": "@site/docs/4. Implementing DPDPA/03 - Draft or Update Privacy Notices copy.md",
+  "sourceDirName": "4. Implementing DPDPA",
+  "slug": "/Implementing DPDPA/Draft or Update Privacy Notices copy",
+  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Draft or Update Privacy Notices copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Implementing DPDPA/03 - Draft or Update Privacy Notices copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Draft or Update Privacy Notices",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Draft or Update Privacy Notices"
+  }
+}

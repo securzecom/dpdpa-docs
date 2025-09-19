@@ -1,0 +1,27 @@
+{
+  "id": "Data Fiduciary General Questions/08",
+  "title": "Q8 - If there is a dispute between a Fiduciary and a Consent Manager (e.g., over proof of consent), who resolves it?",
+  "description": "The Data Protection Board of India resolves such disputes.",
+  "source": "@site/docs/5. Data Fiduciary General Questions/08.md",
+  "sourceDirName": "5. Data Fiduciary General Questions",
+  "slug": "/Data Fiduciary General Questions/08",
+  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/08",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5. Data Fiduciary General Questions/08.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q7 - What is the relationship between a Data Fiduciary and a Consent Manager — is one more powerful than the other?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/07"
+  },
+  "next": {
+    "title": "Q9 - What happens when multiple Fiduciaries share data — who carries liability if something goes wrong?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/09"
+  }
+}

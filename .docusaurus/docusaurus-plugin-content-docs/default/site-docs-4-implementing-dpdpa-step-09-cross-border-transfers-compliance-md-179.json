@@ -1,0 +1,27 @@
+{
+  "id": "Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance",
+  "title": "Step 09 - Cross-Border Transfers Compliance",
+  "description": "Step 9: Cross-Border Transfers Compliance",
+  "source": "@site/docs/4. Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance.md",
+  "sourceDirName": "4. Implementing DPDPA",
+  "slug": "/Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance",
+  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step 08 - Special Duties for Significant Data Fiduciaries",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries"
+  },
+  "next": {
+    "title": "Step 10 - Penalties, Fines, and Risk Mitigation",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation"
+  }
+}

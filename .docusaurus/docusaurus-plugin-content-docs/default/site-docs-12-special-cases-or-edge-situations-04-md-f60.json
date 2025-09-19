@@ -1,0 +1,27 @@
+{
+  "id": "Special Cases or Edge Situations/04",
+  "title": "Q4 - What happens if a company shuts down — does it have to delete all personal data first?",
+  "description": "- Yes. If a company ceases operations, it must ensure that personal data is either deleted or anonymized unless retention is legally required.",
+  "source": "@site/docs/12. Special Cases or Edge Situations/04.md",
+  "sourceDirName": "12. Special Cases or Edge Situations",
+  "slug": "/Special Cases or Edge Situations/04",
+  "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/04",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/12. Special Cases or Edge Situations/04.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q3 - Does DPDPA cover non-digital data (e.g., paper records)?",
+    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/03"
+  },
+  "next": {
+    "title": "Q5 - How does DPDPA apply to educational institutions handling minors’ data?",
+    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/05"
+  }
+}

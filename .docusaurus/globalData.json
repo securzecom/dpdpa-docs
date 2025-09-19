@@ -11,6 +11,126 @@
           "mainDocId": "Overview/Background and Purpose of DPDPA",
           "docs": [
             {
+              "id": "Board & Enforcement Questions/01",
+              "path": "/dpdpa-docs/docs/Board & Enforcement Questions/01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Board & Enforcement Questions/02",
+              "path": "/dpdpa-docs/docs/Board & Enforcement Questions/02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Board & Enforcement Questions/03",
+              "path": "/dpdpa-docs/docs/Board & Enforcement Questions/03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Board & Enforcement Questions/04",
+              "path": "/dpdpa-docs/docs/Board & Enforcement Questions/04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Consent Manager General Questions/01",
+              "path": "/dpdpa-docs/docs/Consent Manager General Questions/01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Consent Manager General Questions/02",
+              "path": "/dpdpa-docs/docs/Consent Manager General Questions/02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Consent Manager General Questions/03",
+              "path": "/dpdpa-docs/docs/Consent Manager General Questions/03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Consent Manager General Questions/04",
+              "path": "/dpdpa-docs/docs/Consent Manager General Questions/04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Consent Manager General Questions/05",
+              "path": "/dpdpa-docs/docs/Consent Manager General Questions/05",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Consent Manager General Questions/06",
+              "path": "/dpdpa-docs/docs/Consent Manager General Questions/06",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Consent Manager General Questions/07",
+              "path": "/dpdpa-docs/docs/Consent Manager General Questions/07",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data Fiduciary General Questions/01",
+              "path": "/dpdpa-docs/docs/Data Fiduciary General Questions/01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data Fiduciary General Questions/02",
+              "path": "/dpdpa-docs/docs/Data Fiduciary General Questions/02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data Fiduciary General Questions/03",
+              "path": "/dpdpa-docs/docs/Data Fiduciary General Questions/03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data Fiduciary General Questions/04",
+              "path": "/dpdpa-docs/docs/Data Fiduciary General Questions/04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data Fiduciary General Questions/05",
+              "path": "/dpdpa-docs/docs/Data Fiduciary General Questions/05",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data Fiduciary General Questions/06",
+              "path": "/dpdpa-docs/docs/Data Fiduciary General Questions/06",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data Fiduciary General Questions/07",
+              "path": "/dpdpa-docs/docs/Data Fiduciary General Questions/07",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data Fiduciary General Questions/08",
+              "path": "/dpdpa-docs/docs/Data Fiduciary General Questions/08",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data Fiduciary General Questions/09",
+              "path": "/dpdpa-docs/docs/Data Fiduciary General Questions/09",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA General Questions/01",
+              "path": "/dpdpa-docs/docs/DPDPA General Questions/01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA General Questions/02",
+              "path": "/dpdpa-docs/docs/DPDPA General Questions/02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA General Questions/03",
+              "path": "/dpdpa-docs/docs/DPDPA General Questions/03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA General Questions/04",
+              "path": "/dpdpa-docs/docs/DPDPA General Questions/04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "DPDPA Rules/Additional Obligations of Significant Data Fiduciaries",
               "path": "/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries",
               "sidebar": "tutorialSidebar"
@@ -121,6 +241,111 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "General Breach and Penalty Questions/01",
+              "path": "/dpdpa-docs/docs/General Breach and Penalty Questions/01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "General Breach and Penalty Questions/02",
+              "path": "/dpdpa-docs/docs/General Breach and Penalty Questions/02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "General Breach and Penalty Questions/03",
+              "path": "/dpdpa-docs/docs/General Breach and Penalty Questions/03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "General Breach and Penalty Questions/04",
+              "path": "/dpdpa-docs/docs/General Breach and Penalty Questions/04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "General Breach and Penalty Questions/05",
+              "path": "/dpdpa-docs/docs/General Breach and Penalty Questions/05",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 01 - Conduct a Gap Assessment",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 01 - Conduct a Gap Assessment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 02 - Map Personal Data Flows",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 02 - Map Personal Data Flows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 03 - Draft or Update Privacy Notices",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 03 - Draft or Update Privacy Notices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 07 - Breach Management Under DPDPA",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 07 - Breach Management Under DPDPA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementing DPDPA/Step 11 - Compliance Checklists by Industry",
+              "path": "/dpdpa-docs/docs/Implementing DPDPA/Step 11 - Compliance Checklists by Industry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "International Cross-Border General Questions/01",
+              "path": "/dpdpa-docs/docs/International Cross-Border General Questions/01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "International Cross-Border General Questions/02",
+              "path": "/dpdpa-docs/docs/International Cross-Border General Questions/02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "International Cross-Border General Questions/03",
+              "path": "/dpdpa-docs/docs/International Cross-Border General Questions/03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "International Cross-Border General Questions/04",
+              "path": "/dpdpa-docs/docs/International Cross-Border General Questions/04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "International Cross-Border General Questions/05",
+              "path": "/dpdpa-docs/docs/International Cross-Border General Questions/05",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Overview/Background and Purpose of DPDPA",
               "path": "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA",
               "sidebar": "tutorialSidebar"
@@ -176,6 +401,31 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Rights of Data Principals/01",
+              "path": "/dpdpa-docs/docs/Rights of Data Principals/01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rights of Data Principals/02",
+              "path": "/dpdpa-docs/docs/Rights of Data Principals/02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rights of Data Principals/03",
+              "path": "/dpdpa-docs/docs/Rights of Data Principals/03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rights of Data Principals/04",
+              "path": "/dpdpa-docs/docs/Rights of Data Principals/04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rights of Data Principals/05",
+              "path": "/dpdpa-docs/docs/Rights of Data Principals/05",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods",
               "path": "/dpdpa-docs/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods",
               "sidebar": "tutorialSidebar"
@@ -208,6 +458,56 @@
             {
               "id": "Schedules/Terms and Conditions of Service of the Officers and Employees of the Board",
               "path": "/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Significant Data Fiduciary General Questions/01",
+              "path": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Significant Data Fiduciary General Questions/02",
+              "path": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Significant Data Fiduciary General Questions/03",
+              "path": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Significant Data Fiduciary General Questions/04",
+              "path": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Significant Data Fiduciary General Questions/05",
+              "path": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/05",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Special Cases or Edge Situations/01",
+              "path": "/dpdpa-docs/docs/Special Cases or Edge Situations/01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Special Cases or Edge Situations/02",
+              "path": "/dpdpa-docs/docs/Special Cases or Edge Situations/02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Special Cases or Edge Situations/03",
+              "path": "/dpdpa-docs/docs/Special Cases or Edge Situations/03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Special Cases or Edge Situations/04",
+              "path": "/dpdpa-docs/docs/Special Cases or Edge Situations/04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Special Cases or Edge Situations/05",
+              "path": "/dpdpa-docs/docs/Special Cases or Edge Situations/05",
               "sidebar": "tutorialSidebar"
             }
           ],

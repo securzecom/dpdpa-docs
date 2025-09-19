@@ -1,0 +1,27 @@
+{
+  "id": "International Cross-Border General Questions/03",
+  "title": "Q3 - Can an Indian company freely transfer anonymized data abroad?",
+  "description": "- Yes. Anonymized data, which cannot identify an individual, is not treated as personal data under DPDPA.",
+  "source": "@site/docs/11. International Cross-Border General Questions/03.md",
+  "sourceDirName": "11. International Cross-Border General Questions",
+  "slug": "/International Cross-Border General Questions/03",
+  "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/03",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11. International Cross-Border General Questions/03.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q2 - What happens when Indian law conflicts with foreign privacy laws (like GDPR or CCPA)?",
+    "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/02"
+  },
+  "next": {
+    "title": "Q4 - Can Indian companies continue to use global cloud service providers (AWS, Google Cloud, Azure)?",
+    "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/04"
+  }
+}

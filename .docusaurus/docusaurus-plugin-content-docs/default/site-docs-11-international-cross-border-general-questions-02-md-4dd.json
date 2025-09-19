@@ -1,0 +1,27 @@
+{
+  "id": "International Cross-Border General Questions/02",
+  "title": "Q2 - What happens when Indian law conflicts with foreign privacy laws (like GDPR or CCPA)?",
+  "description": "- Companies must comply with both if they process data of individuals from both regions.",
+  "source": "@site/docs/11. International Cross-Border General Questions/02.md",
+  "sourceDirName": "11. International Cross-Border General Questions",
+  "slug": "/International Cross-Border General Questions/02",
+  "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/02",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11. International Cross-Border General Questions/02.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q1 - If an Indian user’s data is processed abroad (e.g., on AWS servers in the U.S.), is the foreign company also bound by DPDPA?",
+    "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/01"
+  },
+  "next": {
+    "title": "Q3 - Can an Indian company freely transfer anonymized data abroad?",
+    "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/03"
+  }
+}

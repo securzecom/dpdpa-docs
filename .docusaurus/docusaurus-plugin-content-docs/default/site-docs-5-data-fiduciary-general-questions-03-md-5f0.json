@@ -1,0 +1,27 @@
+{
+  "id": "Data Fiduciary General Questions/03",
+  "title": "Q3 - How does the government decide if a Fiduciary should be classified as a Significant Data Fiduciary (SDF)?",
+  "description": "The Central Government may notify a Fiduciary as an SDF based on specific factors:",
+  "source": "@site/docs/5. Data Fiduciary General Questions/03.md",
+  "sourceDirName": "5. Data Fiduciary General Questions",
+  "slug": "/Data Fiduciary General Questions/03",
+  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/03",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5. Data Fiduciary General Questions/03.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q2 - Can a single organization act as a Data Fiduciary for one activity and a Data Processor for another?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/02"
+  },
+  "next": {
+    "title": "Q4 - What kind of additional audits and assessments are mandatory for SDFs?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/04"
+  }
+}

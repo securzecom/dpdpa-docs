@@ -1,0 +1,27 @@
+{
+  "id": "International Cross-Border General Questions/01",
+  "title": "Q1 - If an Indian user’s data is processed abroad (e.g., on AWS servers in the U.S.), is the foreign company also bound by DPDPA?",
+  "description": "- Yes. DPDPA applies to any entity, Indian or foreign, that processes personal data of individuals within India, if the processing is related to offering goods, services, or profiling individuals in India.",
+  "source": "@site/docs/11. International Cross-Border General Questions/01.md",
+  "sourceDirName": "11. International Cross-Border General Questions",
+  "slug": "/International Cross-Border General Questions/01",
+  "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/01",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11. International Cross-Border General Questions/01.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q5 - What is the maximum penalty for breaches under DPDPA?",
+    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/05"
+  },
+  "next": {
+    "title": "Q2 - What happens when Indian law conflicts with foreign privacy laws (like GDPR or CCPA)?",
+    "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/02"
+  }
+}

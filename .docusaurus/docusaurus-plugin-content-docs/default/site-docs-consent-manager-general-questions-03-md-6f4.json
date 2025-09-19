@@ -1,0 +1,27 @@
+{
+  "id": "Consent Manager General Questions/03",
+  "title": "03",
+  "description": "---",
+  "source": "@site/docs/Consent Manager General Questions/03.md",
+  "sourceDirName": "Consent Manager General Questions",
+  "slug": "/Consent Manager General Questions/03",
+  "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/03",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Consent Manager General Questions/03.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2. How do Consent Managers earn revenue if their role must remain neutral?",
+    "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/02"
+  },
+  "next": {
+    "title": "04",
+    "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/04"
+  }
+}

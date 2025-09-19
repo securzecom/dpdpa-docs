@@ -1,0 +1,27 @@
+{
+  "id": "Special Cases or Edge Situations/02",
+  "title": "Q2 - How does the law apply to NGOs, schools, and hospitals that are not-for-profit but still collect personal data?",
+  "description": "- DPDPA applies to all entities, whether for-profit or non-profit, if they process personal data digitally.",
+  "source": "@site/docs/12. Special Cases or Edge Situations/02.md",
+  "sourceDirName": "12. Special Cases or Edge Situations",
+  "slug": "/Special Cases or Edge Situations/02",
+  "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/02",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/12. Special Cases or Edge Situations/02.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q1 - How does DPDPA apply to employee data?",
+    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/01"
+  },
+  "next": {
+    "title": "Q3 - Does DPDPA cover non-digital data (e.g., paper records)?",
+    "permalink": "/dpdpa-docs/docs/Special Cases or Edge Situations/03"
+  }
+}

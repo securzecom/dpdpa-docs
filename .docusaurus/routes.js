@@ -114,16 +114,160 @@ export default [
   },
   {
     path: '/dpdpa-docs/docs',
-    component: ComponentCreator('/dpdpa-docs/docs', 'c82'),
+    component: ComponentCreator('/dpdpa-docs/docs', 'af9'),
     routes: [
       {
         path: '/dpdpa-docs/docs',
-        component: ComponentCreator('/dpdpa-docs/docs', 'bbf'),
+        component: ComponentCreator('/dpdpa-docs/docs', '73b'),
         routes: [
           {
             path: '/dpdpa-docs/docs',
-            component: ComponentCreator('/dpdpa-docs/docs', '2f2'),
+            component: ComponentCreator('/dpdpa-docs/docs', '531'),
             routes: [
+              {
+                path: '/dpdpa-docs/docs/Board & Enforcement Questions/01',
+                component: ComponentCreator('/dpdpa-docs/docs/Board & Enforcement Questions/01', 'b15'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Board & Enforcement Questions/02',
+                component: ComponentCreator('/dpdpa-docs/docs/Board & Enforcement Questions/02', '518'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Board & Enforcement Questions/03',
+                component: ComponentCreator('/dpdpa-docs/docs/Board & Enforcement Questions/03', 'bd0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Board & Enforcement Questions/04',
+                component: ComponentCreator('/dpdpa-docs/docs/Board & Enforcement Questions/04', '81f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Consent Manager General Questions/01',
+                component: ComponentCreator('/dpdpa-docs/docs/Consent Manager General Questions/01', '703'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Consent Manager General Questions/02',
+                component: ComponentCreator('/dpdpa-docs/docs/Consent Manager General Questions/02', 'd38'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Consent Manager General Questions/03',
+                component: ComponentCreator('/dpdpa-docs/docs/Consent Manager General Questions/03', '5ba'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Consent Manager General Questions/04',
+                component: ComponentCreator('/dpdpa-docs/docs/Consent Manager General Questions/04', 'ade'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Consent Manager General Questions/05',
+                component: ComponentCreator('/dpdpa-docs/docs/Consent Manager General Questions/05', 'c60'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Consent Manager General Questions/06',
+                component: ComponentCreator('/dpdpa-docs/docs/Consent Manager General Questions/06', 'c58'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Consent Manager General Questions/07',
+                component: ComponentCreator('/dpdpa-docs/docs/Consent Manager General Questions/07', '5e0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Data Fiduciary General Questions/01',
+                component: ComponentCreator('/dpdpa-docs/docs/Data Fiduciary General Questions/01', '09b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Data Fiduciary General Questions/02',
+                component: ComponentCreator('/dpdpa-docs/docs/Data Fiduciary General Questions/02', '825'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Data Fiduciary General Questions/03',
+                component: ComponentCreator('/dpdpa-docs/docs/Data Fiduciary General Questions/03', '56a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Data Fiduciary General Questions/04',
+                component: ComponentCreator('/dpdpa-docs/docs/Data Fiduciary General Questions/04', '559'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Data Fiduciary General Questions/05',
+                component: ComponentCreator('/dpdpa-docs/docs/Data Fiduciary General Questions/05', 'c4c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Data Fiduciary General Questions/06',
+                component: ComponentCreator('/dpdpa-docs/docs/Data Fiduciary General Questions/06', '0ad'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Data Fiduciary General Questions/07',
+                component: ComponentCreator('/dpdpa-docs/docs/Data Fiduciary General Questions/07', '32a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Data Fiduciary General Questions/08',
+                component: ComponentCreator('/dpdpa-docs/docs/Data Fiduciary General Questions/08', '8b8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Data Fiduciary General Questions/09',
+                component: ComponentCreator('/dpdpa-docs/docs/Data Fiduciary General Questions/09', '46d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA General Questions/01',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA General Questions/01', 'd0e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA General Questions/02',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA General Questions/02', '16b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA General Questions/03',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA General Questions/03', 'bd4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA General Questions/04',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA General Questions/04', 'a47'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries',
                 component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries', '8a9'),
@@ -257,6 +401,132 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/dpdpa-docs/docs/General Breach and Penalty Questions/01',
+                component: ComponentCreator('/dpdpa-docs/docs/General Breach and Penalty Questions/01', 'e53'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/General Breach and Penalty Questions/02',
+                component: ComponentCreator('/dpdpa-docs/docs/General Breach and Penalty Questions/02', '73b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/General Breach and Penalty Questions/03',
+                component: ComponentCreator('/dpdpa-docs/docs/General Breach and Penalty Questions/03', '97e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/General Breach and Penalty Questions/04',
+                component: ComponentCreator('/dpdpa-docs/docs/General Breach and Penalty Questions/04', 'f64'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/General Breach and Penalty Questions/05',
+                component: ComponentCreator('/dpdpa-docs/docs/General Breach and Penalty Questions/05', 'a14'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 01 - Conduct a Gap Assessment',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 01 - Conduct a Gap Assessment', 'ea6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 02 - Map Personal Data Flows',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 02 - Map Personal Data Flows', 'f32'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 03 - Draft or Update Privacy Notices',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 03 - Draft or Update Privacy Notices', '648'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer', '51a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance', 'bb0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests', '135'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 07 - Breach Management Under DPDPA',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 07 - Breach Management Under DPDPA', '4b8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries', 'b64'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance', '17b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation', '5e1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Implementing DPDPA/Step 11 - Compliance Checklists by Industry',
+                component: ComponentCreator('/dpdpa-docs/docs/Implementing DPDPA/Step 11 - Compliance Checklists by Industry', '3d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/International Cross-Border General Questions/01',
+                component: ComponentCreator('/dpdpa-docs/docs/International Cross-Border General Questions/01', '068'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/International Cross-Border General Questions/02',
+                component: ComponentCreator('/dpdpa-docs/docs/International Cross-Border General Questions/02', 'db4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/International Cross-Border General Questions/03',
+                component: ComponentCreator('/dpdpa-docs/docs/International Cross-Border General Questions/03', '9c6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/International Cross-Border General Questions/04',
+                component: ComponentCreator('/dpdpa-docs/docs/International Cross-Border General Questions/04', '538'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/International Cross-Border General Questions/05',
+                component: ComponentCreator('/dpdpa-docs/docs/International Cross-Border General Questions/05', '904'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA',
                 component: ComponentCreator('/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA', '5c2'),
                 exact: true,
@@ -323,6 +593,36 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/dpdpa-docs/docs/Rights of Data Principals/01',
+                component: ComponentCreator('/dpdpa-docs/docs/Rights of Data Principals/01', '21a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Rights of Data Principals/02',
+                component: ComponentCreator('/dpdpa-docs/docs/Rights of Data Principals/02', '9a6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Rights of Data Principals/03',
+                component: ComponentCreator('/dpdpa-docs/docs/Rights of Data Principals/03', '256'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Rights of Data Principals/04',
+                component: ComponentCreator('/dpdpa-docs/docs/Rights of Data Principals/04', '809'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Rights of Data Principals/05',
+                component: ComponentCreator('/dpdpa-docs/docs/Rights of Data Principals/05', '102'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/dpdpa-docs/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods',
                 component: ComponentCreator('/dpdpa-docs/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods', '09c'),
                 exact: true,
@@ -361,6 +661,66 @@ export default [
               {
                 path: '/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board',
                 component: ComponentCreator('/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board', 'c4f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Significant Data Fiduciary General Questions/01',
+                component: ComponentCreator('/dpdpa-docs/docs/Significant Data Fiduciary General Questions/01', 'a22'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Significant Data Fiduciary General Questions/02',
+                component: ComponentCreator('/dpdpa-docs/docs/Significant Data Fiduciary General Questions/02', '15c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Significant Data Fiduciary General Questions/03',
+                component: ComponentCreator('/dpdpa-docs/docs/Significant Data Fiduciary General Questions/03', '122'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Significant Data Fiduciary General Questions/04',
+                component: ComponentCreator('/dpdpa-docs/docs/Significant Data Fiduciary General Questions/04', '935'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Significant Data Fiduciary General Questions/05',
+                component: ComponentCreator('/dpdpa-docs/docs/Significant Data Fiduciary General Questions/05', '89f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Special Cases or Edge Situations/01',
+                component: ComponentCreator('/dpdpa-docs/docs/Special Cases or Edge Situations/01', '350'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Special Cases or Edge Situations/02',
+                component: ComponentCreator('/dpdpa-docs/docs/Special Cases or Edge Situations/02', '5a3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Special Cases or Edge Situations/03',
+                component: ComponentCreator('/dpdpa-docs/docs/Special Cases or Edge Situations/03', '62f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Special Cases or Edge Situations/04',
+                component: ComponentCreator('/dpdpa-docs/docs/Special Cases or Edge Situations/04', '212'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Special Cases or Edge Situations/05',
+                component: ComponentCreator('/dpdpa-docs/docs/Special Cases or Edge Situations/05', '71e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

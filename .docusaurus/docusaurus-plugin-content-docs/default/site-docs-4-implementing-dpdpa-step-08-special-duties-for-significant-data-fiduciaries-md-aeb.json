@@ -1,0 +1,27 @@
+{
+  "id": "Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries",
+  "title": "Step 08 - Special Duties for Significant Data Fiduciaries",
+  "description": "Step 8: Special Duties for Significant Data Fiduciaries (SDFs)",
+  "source": "@site/docs/4. Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries.md",
+  "sourceDirName": "4. Implementing DPDPA",
+  "slug": "/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries",
+  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Implementing DPDPA/Step 08 - Special Duties for Significant Data Fiduciaries.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step 07 - Breach Management Under DPDPA",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 07 - Breach Management Under DPDPA"
+  },
+  "next": {
+    "title": "Step 09 - Cross-Border Transfers Compliance",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance"
+  }
+}

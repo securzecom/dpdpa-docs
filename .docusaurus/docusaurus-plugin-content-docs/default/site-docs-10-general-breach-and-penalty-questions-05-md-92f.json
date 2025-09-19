@@ -1,0 +1,27 @@
+{
+  "id": "General Breach and Penalty Questions/05",
+  "title": "Q5 - What is the maximum penalty for breaches under DPDPA?",
+  "description": "The penalty depends on the nature of violation:",
+  "source": "@site/docs/10. General Breach and Penalty Questions/05.md",
+  "sourceDirName": "10. General Breach and Penalty Questions",
+  "slug": "/General Breach and Penalty Questions/05",
+  "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/05",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. General Breach and Penalty Questions/05.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q4 - Do all breaches need to be reported to affected individuals, or only severe ones?",
+    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/04"
+  },
+  "next": {
+    "title": "Q1 - If an Indian user’s data is processed abroad (e.g., on AWS servers in the U.S.), is the foreign company also bound by DPDPA?",
+    "permalink": "/dpdpa-docs/docs/International Cross-Border General Questions/01"
+  }
+}

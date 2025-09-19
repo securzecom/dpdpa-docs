@@ -1,0 +1,27 @@
+{
+  "id": "Consent Manager General Questions/04",
+  "title": "Q4 - Can a foreign company be registered as a Consent Manager in India?",
+  "description": "Yes, but only if it complies with Indian requirements:",
+  "source": "@site/docs/6. Consent Manager General Questions/04.md",
+  "sourceDirName": "6. Consent Manager General Questions",
+  "slug": "/Consent Manager General Questions/04",
+  "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/04",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/6. Consent Manager General Questions/04.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q3 - What happens if a Consent Manager itself suffers a data breach - who is liable, the Consent Manager or the Fiduciary relying on it?",
+    "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/03"
+  },
+  "next": {
+    "title": "Q5 - How does a Consent Manager ensure that a withdrawal of consent is reflected immediately across all organizations using that consent?",
+    "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/05"
+  }
+}

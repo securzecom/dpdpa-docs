@@ -1,0 +1,27 @@
+{
+  "id": "Data Fiduciary General Questions/03 copy",
+  "title": "03 copy",
+  "description": "3. How does the government decide if a Fiduciary should be classified as a Significant Data Fiduciary (SDF)?",
+  "source": "@site/docs/Data Fiduciary General Questions/03 copy.md",
+  "sourceDirName": "Data Fiduciary General Questions",
+  "slug": "/Data Fiduciary General Questions/03 copy",
+  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/03 copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Data Fiduciary General Questions/03 copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "02",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/02"
+  },
+  "next": {
+    "title": "03",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/03"
+  }
+}

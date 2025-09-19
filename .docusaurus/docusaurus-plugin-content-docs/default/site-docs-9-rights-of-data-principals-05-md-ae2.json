@@ -1,0 +1,27 @@
+{
+  "id": "Rights of Data Principals/05",
+  "title": "Q5 - How quickly must companies respond to such requests?",
+  "description": "- The DPDPA and Draft Rules require companies to respond within the time frame prescribed by the government (expected to be 30 days, though final notification may confirm).",
+  "source": "@site/docs/9. Rights of Data Principals/05.md",
+  "sourceDirName": "9. Rights of Data Principals",
+  "slug": "/Rights of Data Principals/05",
+  "permalink": "/dpdpa-docs/docs/Rights of Data Principals/05",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9. Rights of Data Principals/05.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q4 - What if a company refuses a Data Principal’s request citing “legal necessity”?",
+    "permalink": "/dpdpa-docs/docs/Rights of Data Principals/04"
+  },
+  "next": {
+    "title": "Q1 - What exactly counts as a “data breach” under DPDPA?",
+    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/01"
+  }
+}

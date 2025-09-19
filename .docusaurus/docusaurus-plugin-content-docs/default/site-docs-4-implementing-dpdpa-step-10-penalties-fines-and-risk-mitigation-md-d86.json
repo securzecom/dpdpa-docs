@@ -1,0 +1,27 @@
+{
+  "id": "Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation",
+  "title": "Step 10 - Penalties, Fines, and Risk Mitigation",
+  "description": "Step 10: Penalties, Fines, and Risk Mitigation",
+  "source": "@site/docs/4. Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation.md",
+  "sourceDirName": "4. Implementing DPDPA",
+  "slug": "/Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation",
+  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Implementing DPDPA/Step 10 - Penalties, Fines, and Risk Mitigation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step 09 - Cross-Border Transfers Compliance",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 09 - Cross-Border Transfers Compliance"
+  },
+  "next": {
+    "title": "Step 11 - Compliance Checklists by Industry",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 11 - Compliance Checklists by Industry"
+  }
+}

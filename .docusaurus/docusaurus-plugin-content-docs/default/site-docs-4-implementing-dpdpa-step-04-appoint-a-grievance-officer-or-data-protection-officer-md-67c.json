@@ -1,0 +1,27 @@
+{
+  "id": "Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer",
+  "title": "Step 04 - Appoint a Grievance Officer or Data Protection Officer",
+  "description": "Every organization must designate a point of contact for individuals to exercise their rights.",
+  "source": "@site/docs/4. Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer.md",
+  "sourceDirName": "4. Implementing DPDPA",
+  "slug": "/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer",
+  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Implementing DPDPA/Step 04 - Appoint a Grievance Officer or Data Protection Officer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step 03 - Draft or Update Privacy Notices",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 03 - Draft or Update Privacy Notices"
+  },
+  "next": {
+    "title": "Step 05 - Building Internal Policies for DPDPA Compliance",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance"
+  }
+}

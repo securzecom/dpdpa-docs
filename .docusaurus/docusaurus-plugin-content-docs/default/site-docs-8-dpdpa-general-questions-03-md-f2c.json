@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA General Questions/03",
+  "title": "Q3 - Do small businesses and start-ups also need to comply, or only big companies?",
+  "description": "Yes, all organizations that process personal data must comply — whether they are large corporations or small start-ups. However, compliance is proportionate to the scale and risk:",
+  "source": "@site/docs/8. DPDPA General Questions/03.md",
+  "sourceDirName": "8. DPDPA General Questions",
+  "slug": "/DPDPA General Questions/03",
+  "permalink": "/dpdpa-docs/docs/DPDPA General Questions/03",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/8. DPDPA General Questions/03.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q2 - What steps should a company take first to begin compliance?",
+    "permalink": "/dpdpa-docs/docs/DPDPA General Questions/02"
+  },
+  "next": {
+    "title": "Q4 - How does DPDPA interact with existing Indian laws (IT Act, RBI, IRDAI, SEBI, etc.)?",
+    "permalink": "/dpdpa-docs/docs/DPDPA General Questions/04"
+  }
+}

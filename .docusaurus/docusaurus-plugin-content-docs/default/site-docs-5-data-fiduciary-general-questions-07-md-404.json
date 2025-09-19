@@ -1,0 +1,27 @@
+{
+  "id": "Data Fiduciary General Questions/07",
+  "title": "Q7 - What is the relationship between a Data Fiduciary and a Consent Manager — is one more powerful than the other?",
+  "description": "A Data Fiduciary is the organization that collects and processes personal data (e.g., banks, insurers, e-commerce platforms).",
+  "source": "@site/docs/5. Data Fiduciary General Questions/07.md",
+  "sourceDirName": "5. Data Fiduciary General Questions",
+  "slug": "/Data Fiduciary General Questions/07",
+  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/07",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5. Data Fiduciary General Questions/07.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q6 - What happens if a Data Fiduciary fails to comply — does liability sit only with the company, or can directors and officers also be held responsible?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/06"
+  },
+  "next": {
+    "title": "Q8 - If there is a dispute between a Fiduciary and a Consent Manager (e.g., over proof of consent), who resolves it?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/08"
+  }
+}

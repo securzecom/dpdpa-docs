@@ -1,0 +1,27 @@
+{
+  "id": "Data Fiduciary General Questions/09",
+  "title": "Q9 - What happens when multiple Fiduciaries share data — who carries liability if something goes wrong?",
+  "description": "Each Fiduciary remains responsible for the data it controls.",
+  "source": "@site/docs/5. Data Fiduciary General Questions/09.md",
+  "sourceDirName": "5. Data Fiduciary General Questions",
+  "slug": "/Data Fiduciary General Questions/09",
+  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/09",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5. Data Fiduciary General Questions/09.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q8 - If there is a dispute between a Fiduciary and a Consent Manager (e.g., over proof of consent), who resolves it?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/08"
+  },
+  "next": {
+    "title": "Q1 - Who oversees Consent Managers - is it only the Data Protection Board, or also the government?",
+    "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/01"
+  }
+}

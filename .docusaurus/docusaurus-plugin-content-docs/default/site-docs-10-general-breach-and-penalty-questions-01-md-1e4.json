@@ -1,0 +1,27 @@
+{
+  "id": "General Breach and Penalty Questions/01",
+  "title": "Q1 - What exactly counts as a “data breach” under DPDPA?",
+  "description": "A personal data breach is any unauthorized or accidental event that results in:",
+  "source": "@site/docs/10. General Breach and Penalty Questions/01.md",
+  "sourceDirName": "10. General Breach and Penalty Questions",
+  "slug": "/General Breach and Penalty Questions/01",
+  "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/01",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10. General Breach and Penalty Questions/01.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q5 - How quickly must companies respond to such requests?",
+    "permalink": "/dpdpa-docs/docs/Rights of Data Principals/05"
+  },
+  "next": {
+    "title": "Q2 - What happens if a company reports a breach late — is the penalty automatic?",
+    "permalink": "/dpdpa-docs/docs/General Breach and Penalty Questions/02"
+  }
+}

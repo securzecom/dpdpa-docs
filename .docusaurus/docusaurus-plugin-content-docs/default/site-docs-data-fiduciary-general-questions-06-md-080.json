@@ -1,0 +1,23 @@
+{
+  "id": "Data Fiduciary General Questions/06",
+  "title": "6. What happens if a Data Fiduciary fails to comply — does liability sit only with the company, or can directors and officers also be held responsible?",
+  "description": "The primary liability rests with the organization as the Data Fiduciary. Penalties of up to ₹250 crore can be imposed by the Board depending on the nature and severity of the violation.",
+  "source": "@site/docs/Data Fiduciary General Questions/06.md",
+  "sourceDirName": "Data Fiduciary General Questions",
+  "slug": "/Data Fiduciary General Questions/06",
+  "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/06",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Data Fiduciary General Questions/06.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5. Can government bodies also be Data Fiduciaries? If yes, do they follow the same rules as private companies?",
+    "permalink": "/dpdpa-docs/docs/Data Fiduciary General Questions/05"
+  }
+}

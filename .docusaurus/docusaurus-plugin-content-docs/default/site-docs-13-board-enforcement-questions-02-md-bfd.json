@@ -1,0 +1,27 @@
+{
+  "id": "Board & Enforcement Questions/02",
+  "title": "Q2 - What rights do companies have during an investigation — can they contest evidence?",
+  "description": "- Yes. Investigations must follow principles of natural justice:",
+  "source": "@site/docs/13. Board & Enforcement Questions/02.md",
+  "sourceDirName": "13. Board & Enforcement Questions",
+  "slug": "/Board & Enforcement Questions/02",
+  "permalink": "/dpdpa-docs/docs/Board & Enforcement Questions/02",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/13. Board & Enforcement Questions/02.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q1 - Can the Board initiate an investigation on its own, or only based on complaints?",
+    "permalink": "/dpdpa-docs/docs/Board & Enforcement Questions/01"
+  },
+  "next": {
+    "title": "Q3 - How does the appeal process to the Appellate Tribunal work in practice?",
+    "permalink": "/dpdpa-docs/docs/Board & Enforcement Questions/03"
+  }
+}

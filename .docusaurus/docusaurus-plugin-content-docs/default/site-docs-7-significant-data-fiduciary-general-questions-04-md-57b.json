@@ -1,0 +1,27 @@
+{
+  "id": "Significant Data Fiduciary General Questions/04",
+  "title": "Q4 - What happens if an SDF fails to conduct a Data Protection Impact Assessment (DPIA) before launching a new high-risk product?",
+  "description": "Failure to conduct a DPIA is a serious violation. Consequences include:",
+  "source": "@site/docs/7.  Significant Data Fiduciary General Questions/04.md",
+  "sourceDirName": "7.  Significant Data Fiduciary General Questions",
+  "slug": "/Significant Data Fiduciary General Questions/04",
+  "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/04",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/7.  Significant Data Fiduciary General Questions/04.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Do SDFs have to appoint their Data Protection Officer (DPO) in India, even if they are a multinational company headquartered elsewhere?",
+    "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/03"
+  },
+  "next": {
+    "title": "Q5 - Are SDFs subject to stricter penalties compared to ordinary Data Fiduciaries?",
+    "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/05"
+  }
+}

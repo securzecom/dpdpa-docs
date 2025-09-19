@@ -1,0 +1,23 @@
+{
+  "id": "Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance copy",
+  "title": "Step 05 - Building Internal Policies for DPDPA Compliance copy",
+  "description": "Step 6: Handling Data Principal Rights Requests",
+  "source": "@site/docs/4. Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance copy.md",
+  "sourceDirName": "4. Implementing DPDPA",
+  "slug": "/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance copy",
+  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step 05 - Building Internal Policies for DPDPA Compliance",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 05 - Building Internal Policies for DPDPA Compliance"
+  }
+}

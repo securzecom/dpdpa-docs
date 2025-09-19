@@ -1,0 +1,23 @@
+{
+  "id": "Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests copy",
+  "title": "Step 06 - Handling Data Principal Rights Requests copy",
+  "description": "Under the Digital Personal Data Protection Act (DPDPA), 2023, a personal data breach means any unauthorized access, disclosure, alteration, or loss of personal data that may compromise the privacy of individuals. The law is strict: breaches must be reported to both the Data Protection Board of India and affected individuals within 72 hours of becoming aware of the incident.",
+  "source": "@site/docs/4. Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests copy.md",
+  "sourceDirName": "4. Implementing DPDPA",
+  "slug": "/Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests copy",
+  "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4. Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step 06 - Handling Data Principal Rights Requests",
+    "permalink": "/dpdpa-docs/docs/Implementing DPDPA/Step 06 - Handling Data Principal Rights Requests"
+  }
+}
