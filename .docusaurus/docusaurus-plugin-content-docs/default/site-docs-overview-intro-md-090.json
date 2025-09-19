@@ -1,0 +1,20 @@
+{
+  "id": "Overview/intro",
+  "title": "intro",
+  "description": "",
+  "source": "@site/docs/Overview/intro.md",
+  "sourceDirName": "Overview",
+  "slug": "/Overview/intro",
+  "permalink": "/dpdpa-docs/docs/Overview/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Overview/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Penalties and Enforcement under the DPDPA",
+    "permalink": "/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA"
+  }
+}

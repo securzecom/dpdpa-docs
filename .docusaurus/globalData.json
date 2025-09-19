@@ -26,6 +26,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Overview/intro",
+              "path": "/dpdpa-docs/docs/Overview/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Overview/Key Definitions under DPDPA",
               "path": "/dpdpa-docs/docs/Overview/Key Definitions under DPDPA",
               "sidebar": "tutorialSidebar"

@@ -249,17 +249,17 @@
     },
     "content": "content---dpdpa-docs-markdown-page-393-ab9"
   },
-  "/dpdpa-docs/docs-bc7": {
+  "/dpdpa-docs/docs-a2f": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docsaba-3e7"
     }
   },
-  "/dpdpa-docs/docs-e11": {
+  "/dpdpa-docs/docs-f59": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---dpdpa-docs-docsc-2-f-89d"
   },
-  "/dpdpa-docs/docs-47e": {
+  "/dpdpa-docs/docs-c90": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA-d28": {
@@ -273,6 +273,10 @@
   "/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries-460": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-duties-and-obligations-of-data-fiduciaries-47-b-bd0"
+  },
+  "/dpdpa-docs/docs/Overview/intro-6e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-intro-090-7af"
   },
   "/dpdpa-docs/docs/Overview/Key Definitions under DPDPA-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",
