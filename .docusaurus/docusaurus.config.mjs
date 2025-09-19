@@ -71,10 +71,12 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "DPDPA",
+      "title": "",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/securze-logo-black.png",
+        "srcDark": "img/securze-logo-white.png",
+        "href": "https://securze.com"
       },
       "items": [
         {
@@ -90,7 +92,7 @@ export default {
         },
         {
           "href": "https://securze.com/",
-          "label": "Securze - Securing What Matters Most",
+          "label": "Implement DPDPA",
           "position": "right"
         }
       ],
@@ -98,6 +100,11 @@ export default {
     },
     "footer": {
       "style": "dark",
+      "logo": {
+        "alt": "My Site Logo",
+        "src": "img/securze-logo-white.png",
+        "width": 300
+      },
       "links": [
         {
           "title": "Quick Links",

@@ -73,16 +73,21 @@ const config = {
     ],
   ],
 
+  
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'DPDPA',
+        title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/securze-logo-black.png',
+          srcDark: 'img/securze-logo-white.png',
+          href: 'https://securze.com',
         },
         items: [
           {
@@ -101,6 +106,11 @@ const config = {
       },
       footer: {
         style: 'dark',
+        logo: {
+          alt: 'My Site Logo',
+          src: 'img/securze-logo-white.png',
+          width: 300,
+        },
         links: [
           {
             title: 'Quick Links',
@@ -176,6 +186,8 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      
+      
     }),
 };
 
