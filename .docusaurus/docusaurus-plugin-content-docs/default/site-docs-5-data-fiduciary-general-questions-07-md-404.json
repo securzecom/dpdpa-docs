@@ -1,7 +1,7 @@
 {
   "id": "Data Fiduciary General Questions/07",
   "title": "Q7 - What is the relationship between a Data Fiduciary and a Consent Manager — is one more powerful than the other?",
-  "description": "A Data Fiduciary is the organization that collects and processes personal data (e.g., banks, insurers, e-commerce platforms).",
+  "description": "- A Data Fiduciary is the organization that collects and processes personal data (e.g., banks, insurers, e-commerce platforms).",
   "source": "@site/docs/5. Data Fiduciary General Questions/07.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/07",

@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/Overview/Background and Purpose of DPDPA">
-            Docusaurus Tutorial - 5min ⏱️
+            DPDPA Implementation Guide
           </Link>
         </div>
       </div>

@@ -1,7 +1,7 @@
 {
   "id": "Significant Data Fiduciary General Questions/03",
-  "title": "Do SDFs have to appoint their Data Protection Officer (DPO) in India, even if they are a multinational company headquartered elsewhere?",
-  "description": "Yes",
+  "title": "Q3 - Do SDFs have to appoint their Data Protection Officer (DPO) in India, even if they are a multinational company headquartered elsewhere?",
+  "description": "Yes.",
   "source": "@site/docs/7.  Significant Data Fiduciary General Questions/03.md",
   "sourceDirName": "7.  Significant Data Fiduciary General Questions",
   "slug": "/Significant Data Fiduciary General Questions/03",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Once classified as an SDF, can a company appeal or challenge that designation?",
+    "title": "Q2 - Once classified as an SDF, can a company appeal or challenge that designation?",
     "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/02"
   },
   "next": {

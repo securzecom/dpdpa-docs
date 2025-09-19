@@ -1,7 +1,7 @@
 {
   "id": "Consent Manager General Questions/07",
   "title": "Q7 - How does DPDPA ensure neutrality of Consent Managers so they do not secretly favor large corporations?",
-  "description": "Consent Managers must be independent and neutral — they cannot favor one Data Fiduciary over another.",
+  "description": "- Consent Managers must be independent and neutral — they cannot favor one Data Fiduciary over another.",
   "source": "@site/docs/6. Consent Manager General Questions/07.md",
   "sourceDirName": "6. Consent Manager General Questions",
   "slug": "/Consent Manager General Questions/07",
@@ -21,7 +21,7 @@
     "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/06"
   },
   "next": {
-    "title": "What criteria are used by the government to notify an organization as a Significant Data Fiduciary (SDF)?",
+    "title": "Q1 - What criteria are used by the government to notify an organization as a Significant Data Fiduciary (SDF)?",
     "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/01"
   }
 }

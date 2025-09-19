@@ -1,7 +1,7 @@
 {
   "id": "Data Fiduciary General Questions/09",
   "title": "Q9 - What happens when multiple Fiduciaries share data — who carries liability if something goes wrong?",
-  "description": "Each Fiduciary remains responsible for the data it controls.",
+  "description": "- Each Fiduciary remains responsible for the data it controls.",
   "source": "@site/docs/5. Data Fiduciary General Questions/09.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/09",

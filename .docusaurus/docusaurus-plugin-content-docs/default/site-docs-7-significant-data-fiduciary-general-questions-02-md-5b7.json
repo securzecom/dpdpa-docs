@@ -1,6 +1,6 @@
 {
   "id": "Significant Data Fiduciary General Questions/02",
-  "title": "Once classified as an SDF, can a company appeal or challenge that designation?",
+  "title": "Q2 - Once classified as an SDF, can a company appeal or challenge that designation?",
   "description": "Yes.",
   "source": "@site/docs/7.  Significant Data Fiduciary General Questions/02.md",
   "sourceDirName": "7.  Significant Data Fiduciary General Questions",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "What criteria are used by the government to notify an organization as a Significant Data Fiduciary (SDF)?",
+    "title": "Q1 - What criteria are used by the government to notify an organization as a Significant Data Fiduciary (SDF)?",
     "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/01"
   },
   "next": {
-    "title": "Do SDFs have to appoint their Data Protection Officer (DPO) in India, even if they are a multinational company headquartered elsewhere?",
+    "title": "Q3 - Do SDFs have to appoint their Data Protection Officer (DPO) in India, even if they are a multinational company headquartered elsewhere?",
     "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/03"
   }
 }

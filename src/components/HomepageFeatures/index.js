@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Aligned with India’s Privacy Law',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Built to explain the Digital Personal Data Protection Act (DPDPA), ensuring individuals and organizations understand their rights and responsibilities clearly.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Practical Compliance Guidance',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Step-by-step breakdowns, real-world examples, and industry-specific checklists to help businesses implement DPDPA effectively.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Empowering Data Principals & Fiduciaries',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Whether you’re a citizen, a company, or a regulator, this resource gives actionable insights into consent, rights, breach management, and compliance obligations.
       </>
     ),
   },

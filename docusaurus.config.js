@@ -53,7 +53,7 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
+        blog: false {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -81,9 +81,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'DPDPA Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'DPDPA Docs',
           src: 'img/logo.svg',
         },
         items: [

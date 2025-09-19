@@ -1,6 +1,6 @@
 {
   "id": "Significant Data Fiduciary General Questions/01",
-  "title": "What criteria are used by the government to notify an organization as a Significant Data Fiduciary (SDF)?",
+  "title": "Q1 - What criteria are used by the government to notify an organization as a Significant Data Fiduciary (SDF)?",
   "description": "The Central Government has the discretion to classify a Data Fiduciary as a Significant Data Fiduciary based on:",
   "source": "@site/docs/7.  Significant Data Fiduciary General Questions/01.md",
   "sourceDirName": "7.  Significant Data Fiduciary General Questions",
@@ -21,7 +21,7 @@
     "permalink": "/dpdpa-docs/docs/Consent Manager General Questions/07"
   },
   "next": {
-    "title": "Once classified as an SDF, can a company appeal or challenge that designation?",
+    "title": "Q2 - Once classified as an SDF, can a company appeal or challenge that designation?",
     "permalink": "/dpdpa-docs/docs/Significant Data Fiduciary General Questions/02"
   }
 }
