@@ -114,79 +114,151 @@ export default [
   },
   {
     path: '/dpdpa-docs/docs',
-    component: ComponentCreator('/dpdpa-docs/docs', 'bc7'),
+    component: ComponentCreator('/dpdpa-docs/docs', 'fb9'),
     routes: [
       {
         path: '/dpdpa-docs/docs',
-        component: ComponentCreator('/dpdpa-docs/docs', 'e11'),
+        component: ComponentCreator('/dpdpa-docs/docs', '8ce'),
         routes: [
           {
             path: '/dpdpa-docs/docs',
-            component: ComponentCreator('/dpdpa-docs/docs', '47e'),
+            component: ComponentCreator('/dpdpa-docs/docs', '35b'),
             routes: [
               {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries', '8a9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing', '3c9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Definitions',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Definitions', 'b2d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Exemptions for Processing Children’s Data',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Exemptions for Processing Children’s Data', 'b08'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach', '37d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal', 'afd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State', '21f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards', 'c87'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager', 'fc8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Title and Commencement',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Title and Commencement', 'db7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities', 'a28'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served', 'd19'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA', 'd28'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA', '5c2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/dpdpa-docs/docs/Overview/Cross-Border Data Transfers under DPDPA',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/Cross-Border Data Transfers under DPDPA', '551'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/Cross-Border Data Transfers under DPDPA', '1af'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries', '460'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries', '73f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/dpdpa-docs/docs/Overview/Key Definitions under DPDPA',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/Key Definitions under DPDPA', '61d'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/Key Definitions under DPDPA', '6e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA', '741'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA', '2c1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/dpdpa-docs/docs/Overview/Rights of Data Principals',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/Rights of Data Principals', 'b90'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/Rights of Data Principals', '764'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/dpdpa-docs/docs/Overview/Role of Consent Managers',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/Role of Consent Managers', 'f71'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/Role of Consent Managers', '7a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA', 'f92'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA', '3fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/dpdpa-docs/docs/Overview/Security Safeguards and Breach Notification',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/Security Safeguards and Breach Notification', 'd4e'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/Security Safeguards and Breach Notification', '1c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries', 'bea'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries', '866'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/dpdpa-docs/docs/Overview/The Data Protection Board of India',
-                component: ComponentCreator('/dpdpa-docs/docs/Overview/The Data Protection Board of India', 'b2f'),
+                component: ComponentCreator('/dpdpa-docs/docs/Overview/The Data Protection Board of India', '804'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

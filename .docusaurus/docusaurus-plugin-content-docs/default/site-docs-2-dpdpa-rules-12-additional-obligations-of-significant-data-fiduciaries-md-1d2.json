@@ -1,0 +1,23 @@
+{
+  "id": "DPDPA Rules/Additional Obligations of Significant Data Fiduciaries",
+  "title": "Rule 12: Additional Obligations of Significant Data Fiduciaries (SDFs)",
+  "description": "Rule 12 sets out the enhanced responsibilities for Significant Data Fiduciaries (SDFs). These are entities identified by the Central Government on the basis of factors such as the volume and sensitivity of personal data processed, the potential impact on the rights of individuals, or concerns relating to sovereignty, integrity, or public order.",
+  "source": "@site/docs/2. DPDPA Rules/12 - Additional Obligations of Significant Data Fiduciaries.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/12 - Additional Obligations of Significant Data Fiduciaries.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 11: Exemptions for Processing Children’s Data",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Processing Children’s Data"
+  }
+}

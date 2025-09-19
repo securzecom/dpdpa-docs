@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Definitions",
+  "title": "Rule 2: Definitions",
+  "description": "Rule 2 provides the key definitions that are used throughout the Digital Personal Data Protection Rules, 2025. These definitions ensure clarity and consistency in interpretation.",
+  "source": "@site/docs/2. DPDPA Rules/02 - Definitions.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Definitions",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Definitions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/02 - Definitions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 1: Short Title and Commencement",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Title and Commencement"
+  },
+  "next": {
+    "title": "Rule 3: Notice by Data Fiduciary to Data Principal",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal"
+  }
+}

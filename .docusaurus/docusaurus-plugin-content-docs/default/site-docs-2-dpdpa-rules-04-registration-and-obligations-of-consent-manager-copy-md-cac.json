@@ -1,0 +1,23 @@
+{
+  "id": "DPDPA Rules/Registration and Obligations of Consent Manager copy",
+  "title": "Rule 5: Processing for Subsidy, Benefit, Service, Licence or Permit by the State",
+  "description": "Rule 5 allows the State and its instrumentalities to process personal data when it is necessary for delivering subsidies, benefits, services, licences, or permits to individuals. This provision ensures that government functions which rely on personal data can continue without interruption, while still being subject to safeguards.",
+  "source": "@site/docs/2. DPDPA Rules/04 - Registration and Obligations of Consent Manager copy.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Registration and Obligations of Consent Manager copy",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/04 - Registration and Obligations of Consent Manager copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 4: Registration and Obligations of Consent Manager",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager"
+  }
+}

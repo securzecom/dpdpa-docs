@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Exemptions for Processing Children’s Data",
+  "title": "Rule 11: Exemptions for Processing Children’s Data",
+  "description": "While Rule 10 requires parental or guardian consent before processing a child’s personal data, Rule 11 introduces certain exemptions. These exemptions exist because not every instance of handling a child’s data poses a risk, and the law recognizes the need for practical flexibility.",
+  "source": "@site/docs/2. DPDPA Rules/11- Exemptions for Processing Children’s Data.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Exemptions for Processing Children’s Data",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Processing Children’s Data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/11- Exemptions for Processing Children’s Data.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 10: Verifiable Consent for Children and Persons with Disabilities",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities"
+  },
+  "next": {
+    "title": "Rule 12: Additional Obligations of Significant Data Fiduciaries (SDFs)",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities copy",
+  "title": "Rule 10: Verifiable Consent for Children and Persons with Disabilities",
+  "description": "Rule 10 introduces additional safeguards for the protection of children and persons with disabilities who may not be in a position to fully understand the implications of sharing their personal data. To ensure fairness, the law requires that their data can only be processed with verifiable consent from a parent or a lawful guardian.",
+  "source": "@site/docs/2. DPDPA Rules/10 - Verifiable Consent for Children and Persons with Disabilities copy.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities copy",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/10 - Verifiable Consent for Children and Persons with Disabilities copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 9: Contact Information for Queries about Processing",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing"
+  },
+  "next": {
+    "title": "Rule 10: Verifiable Consent for Children and Persons with Disabilities",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities"
+  }
+}

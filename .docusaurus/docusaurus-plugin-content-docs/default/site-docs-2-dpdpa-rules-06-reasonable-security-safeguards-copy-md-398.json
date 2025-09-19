@@ -1,0 +1,23 @@
+{
+  "id": "DPDPA Rules/Reasonable Security Safeguards copy",
+  "title": "Rule 6: Reasonable Security Safeguards",
+  "description": "Rule 6 requires every Data Fiduciary to implement reasonable security safeguards to protect personal data against unauthorized access, disclosure, alteration, or loss. The obligation is proactive, meaning organizations must secure data before problems occur rather than waiting until after a breach.",
+  "source": "@site/docs/2. DPDPA Rules/06 - Reasonable Security Safeguards copy.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Reasonable Security Safeguards copy",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/06 - Reasonable Security Safeguards copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 6: Reasonable Security Safeguards",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards"
+  }
+}

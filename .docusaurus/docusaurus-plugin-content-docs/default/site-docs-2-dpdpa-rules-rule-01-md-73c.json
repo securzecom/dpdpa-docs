@@ -1,0 +1,23 @@
+{
+  "id": "DPDPA Rules/Rule - 01",
+  "title": "Rule 1: Short Title and Commencement",
+  "description": "This rule specifies that the regulations shall be called the Digital Personal Data Protection Rules, 2025.",
+  "source": "@site/docs/2. DPDPA Rules/Rule - 01.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Rule - 01",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Rule - 01",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/Rule - 01.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Penalties and Enforcement under the DPDPA",
+    "permalink": "/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA"
+  }
+}

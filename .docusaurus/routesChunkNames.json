@@ -249,62 +249,110 @@
     },
     "content": "content---dpdpa-docs-markdown-page-393-ab9"
   },
-  "/dpdpa-docs/docs-bc7": {
+  "/dpdpa-docs/docs-fb9": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docsaba-3e7"
     }
   },
-  "/dpdpa-docs/docs-e11": {
+  "/dpdpa-docs/docs-8ce": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---dpdpa-docs-docsc-2-f-89d"
   },
-  "/dpdpa-docs/docs-47e": {
+  "/dpdpa-docs/docs-35b": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA-d28": {
+  "/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries-8a9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-background-and-purpose-of-dpdpa-66-d-2c4"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-additional-obligations-of-significant-data-fiduciaries-1-d-2-c2d"
   },
-  "/dpdpa-docs/docs/Overview/Cross-Border Data Transfers under DPDPA-551": {
+  "/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing-3c9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-cross-border-data-transfers-under-dpdpa-79-e-d68"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-contact-information-for-queries-about-processing-6-e-8-7cb"
   },
-  "/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries-460": {
+  "/dpdpa-docs/docs/DPDPA Rules/Definitions-b2d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-duties-and-obligations-of-data-fiduciaries-47-b-bd0"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-definitions-485-842"
   },
-  "/dpdpa-docs/docs/Overview/Key Definitions under DPDPA-61d": {
+  "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Processing Children’s Data-b08": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-key-definitions-under-dpdpa-217-1be"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-exemptions-for-processing-childrens-data-888-80f"
   },
-  "/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA-741": {
+  "/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach-37d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-penalties-and-enforcement-under-the-dpdpa-910-d20"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-intimation-of-personal-data-breach-2-b-9-1c2"
   },
-  "/dpdpa-docs/docs/Overview/Rights of Data Principals-b90": {
+  "/dpdpa-docs/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal-afd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-rights-of-data-principals-90-b-f4d"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-notice-by-data-fiduciary-to-data-principalcda-fd4"
   },
-  "/dpdpa-docs/docs/Overview/Role of Consent Managers-f71": {
+  "/dpdpa-docs/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State-21f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-role-of-consent-managers-6-d-3-e3e"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-processing-for-subsidy-benefit-service-licence-or-permit-by-the-state-913-9bc"
   },
-  "/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA-f92": {
+  "/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards-c87": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-scope-applicability-of-dpdpa-341-59a"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-reasonable-security-safeguardsac-8-803"
   },
-  "/dpdpa-docs/docs/Overview/Security Safeguards and Breach Notification-d4e": {
+  "/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager-fc8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-security-safeguards-and-breach-notificationbbb-410"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-registration-and-obligations-of-consent-manager-7-d-7-d01"
   },
-  "/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries-bea": {
+  "/dpdpa-docs/docs/DPDPA Rules/Title and Commencement-db7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-special-duties-of-significant-data-fiduciariesaca-4a6"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-title-and-commencement-06-a-fca"
   },
-  "/dpdpa-docs/docs/Overview/The Data Protection Board of India-b2f": {
+  "/dpdpa-docs/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities-a28": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dpdpa-docs-docs-overview-the-data-protection-board-of-indiab-47-bea"
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-verifiable-consent-for-children-and-persons-with-disabilities-162-e6f"
+  },
+  "/dpdpa-docs/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served-d19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-when-the-specified-purpose-is-deemed-no-longer-servedac-5-880"
+  },
+  "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA-5c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-background-and-purpose-of-dpdp-ad-1-e-4eb"
+  },
+  "/dpdpa-docs/docs/Overview/Cross-Border Data Transfers under DPDPA-1af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-cross-border-data-transfers-under-dpdpa-267-a18"
+  },
+  "/dpdpa-docs/docs/Overview/Duties and Obligations of Data Fiduciaries-73f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-duties-and-obligations-of-data-fiduciariesa-71-c83"
+  },
+  "/dpdpa-docs/docs/Overview/Key Definitions under DPDPA-6e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-key-definitions-under-dpdp-acef-a6e"
+  },
+  "/dpdpa-docs/docs/Overview/Penalties and Enforcement under the DPDPA-2c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-penalties-and-enforcement-under-the-dpdpa-455-2e2"
+  },
+  "/dpdpa-docs/docs/Overview/Rights of Data Principals-764": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-rights-of-data-principals-172-1c4"
+  },
+  "/dpdpa-docs/docs/Overview/Role of Consent Managers-7a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-role-of-consent-managers-72-f-5d5"
+  },
+  "/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA-3fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-scope-applicability-of-dpdp-ae-4-c-8e7"
+  },
+  "/dpdpa-docs/docs/Overview/Security Safeguards and Breach Notification-1c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-security-safeguards-and-breach-notificatione-59-42b"
+  },
+  "/dpdpa-docs/docs/Overview/Special Duties of Significant Data Fiduciaries-866": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-special-duties-of-significant-data-fiduciaries-3-e-0-13a"
+  },
+  "/dpdpa-docs/docs/Overview/The Data Protection Board of India-804": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-overview-the-data-protection-board-of-indiaab-2-eaa"
   },
   "/dpdpa-docs/-4d6": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

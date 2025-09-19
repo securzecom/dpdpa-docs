@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Contact Information for Queries about Processing",
+  "title": "Rule 9: Contact Information for Queries about Processing",
+  "description": "Rule 9 ensures that individuals always know whom to contact if they have questions or concerns about how their personal data is being used. Transparency is not just about publishing a notice; it also requires giving people a clear channel of communication.",
+  "source": "@site/docs/2. DPDPA Rules/09 - Contact Information for Queries about Processing.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Contact Information for Queries about Processing",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/09 - Contact Information for Queries about Processing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 8: When the Specified Purpose is Deemed No Longer Served",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served"
+  },
+  "next": {
+    "title": "Rule 10: Verifiable Consent for Children and Persons with Disabilities",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities"
+  }
+}

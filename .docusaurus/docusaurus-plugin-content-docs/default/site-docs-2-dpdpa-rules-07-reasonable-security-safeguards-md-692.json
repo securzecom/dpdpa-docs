@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Reasonable Security Safeguards",
+  "title": "Rule 7: Intimation of Personal Data Breach",
+  "description": "When a personal data breach occurs, timing and transparency are everything. Rule 7 of the Draft Rules requires that both the Data Protection Board of India and the affected individuals must be informed without delay.",
+  "source": "@site/docs/2. DPDPA Rules/07 - Reasonable Security Safeguards.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Reasonable Security Safeguards",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/07 - Reasonable Security Safeguards.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 5: Processing for Subsidy, Benefit, Service, Licence or Permit by the State",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State"
+  },
+  "next": {
+    "title": "Rule 7: Intimation of Personal Data Breach",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards"
+  }
+}

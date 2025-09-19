@@ -11,6 +11,66 @@
           "mainDocId": "Overview/Background and Purpose of DPDPA",
           "docs": [
             {
+              "id": "DPDPA Rules/Additional Obligations of Significant Data Fiduciaries",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Contact Information for Queries about Processing",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Definitions",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Definitions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Exemptions for Processing Children’s Data",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Processing Children’s Data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Intimation of Personal Data Breach",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Notice by Data Fiduciary to Data Principal",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Reasonable Security Safeguards",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Registration and Obligations of Consent Manager",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Title and Commencement",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Title and Commencement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/When the Specified Purpose is Deemed No Longer Served",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Overview/Background and Purpose of DPDPA",
               "path": "/dpdpa-docs/docs/Overview/Background and Purpose of DPDPA",
               "sidebar": "tutorialSidebar"

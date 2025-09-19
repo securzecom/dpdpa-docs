@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Notice by Data Fiduciary to Data Principal",
+  "title": "Rule 3: Notice by Data Fiduciary to Data Principal",
+  "description": "Rule 3 requires every Data Fiduciary to provide a clear and accessible notice to the Data Principal before processing personal data. The notice must be a separate and easily understandable document, and not hidden within lengthy terms and conditions.",
+  "source": "@site/docs/2. DPDPA Rules/03 - Notice by Data Fiduciary to Data Principal.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Notice by Data Fiduciary to Data Principal",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/03 - Notice by Data Fiduciary to Data Principal.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 2: Definitions",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Definitions"
+  },
+  "next": {
+    "title": "Rule 4: Registration and Obligations of Consent Manager",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager"
+  }
+}

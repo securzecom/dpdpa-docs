@@ -16,6 +16,10 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 1: Short Title and Commencement",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Rule - 01"
+  },
   "next": {
     "title": "Scope & Applicability of DPDPA",
     "permalink": "/dpdpa-docs/docs/Overview/Scope & Applicability of DPDPA"

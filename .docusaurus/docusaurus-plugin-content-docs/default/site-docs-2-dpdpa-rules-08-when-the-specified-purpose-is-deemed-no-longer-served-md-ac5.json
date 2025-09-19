@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/When the Specified Purpose is Deemed No Longer Served",
+  "title": "Rule 8: When the Specified Purpose is Deemed No Longer Served",
+  "description": "Rule 8 addresses a fundamental principle of data protection: personal data should not be kept forever. Once the purpose for which the data was collected has been fulfilled, the organization is required to stop holding it.",
+  "source": "@site/docs/2. DPDPA Rules/08 - When the Specified Purpose is Deemed No Longer Served.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/08 - When the Specified Purpose is Deemed No Longer Served.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 7: Intimation of Personal Data Breach",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach"
+  },
+  "next": {
+    "title": "Rule 9: Contact Information for Queries about Processing",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing"
+  }
+}
