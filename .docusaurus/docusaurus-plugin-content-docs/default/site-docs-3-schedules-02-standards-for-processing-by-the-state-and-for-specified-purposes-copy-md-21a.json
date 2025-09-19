@@ -1,0 +1,23 @@
+{
+  "id": "Schedules/Standards for Processing by the State and for Specified Purposes copy",
+  "title": "Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods",
+  "description": "Schedule III provides a structured framework that links three key aspects of data processing:",
+  "source": "@site/docs/3. Schedules/02 - Standards for Processing by the State and for Specified Purposes copy.md",
+  "sourceDirName": "3. Schedules",
+  "slug": "/Schedules/Standards for Processing by the State and for Specified Purposes copy",
+  "permalink": "/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. Schedules/02 - Standards for Processing by the State and for Specified Purposes copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Schedule II: Standards for Processing by the State and for Specified Purposes",
+    "permalink": "/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes"
+  }
+}

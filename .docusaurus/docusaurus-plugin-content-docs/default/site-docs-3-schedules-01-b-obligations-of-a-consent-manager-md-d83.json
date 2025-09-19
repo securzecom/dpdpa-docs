@@ -1,0 +1,27 @@
+{
+  "id": "Schedules/01B - Obligations of a Consent Manager",
+  "title": "01B - Obligations of a Consent Manager",
+  "description": "",
+  "source": "@site/docs/3. Schedules/01B - Obligations of a Consent Manager.md",
+  "sourceDirName": "3. Schedules",
+  "slug": "/Schedules/01B - Obligations of a Consent Manager",
+  "permalink": "/dpdpa-docs/docs/Schedules/01B - Obligations of a Consent Manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. Schedules/01B - Obligations of a Consent Manager.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Schedule I: Consent Manager",
+    "permalink": "/dpdpa-docs/docs/Schedules/Consent Manager"
+  },
+  "next": {
+    "title": "Schedule II: Standards for Processing by the State and for Specified Purposes",
+    "permalink": "/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes"
+  }
+}

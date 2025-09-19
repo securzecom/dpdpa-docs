@@ -1,0 +1,27 @@
+{
+  "id": "Schedules/Obligations of a Consent Manager",
+  "title": "Obligations of a Consent Manager",
+  "description": "Once registered, a Consent Manager takes on legal obligations that ensure it remains reliable, independent, and user-centric.",
+  "source": "@site/docs/3. Schedules/Obligations of a Consent Manager.md",
+  "sourceDirName": "3. Schedules",
+  "slug": "/Schedules/Obligations of a Consent Manager",
+  "permalink": "/dpdpa-docs/docs/Schedules/Obligations of a Consent Manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. Schedules/Obligations of a Consent Manager.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01A - Conditions for Registration of a Consent Manager",
+    "permalink": "/dpdpa-docs/docs/Schedules/01A - Conditions for Registration of a Consent Manager"
+  },
+  "next": {
+    "title": "Schedule II: Standards for Processing by the State and for Specified Purposes",
+    "permalink": "/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes"
+  }
+}

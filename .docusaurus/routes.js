@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/dpdpa-docs/docs',
-    component: ComponentCreator('/dpdpa-docs/docs', '24d'),
+    component: ComponentCreator('/dpdpa-docs/docs', 'c82'),
     routes: [
       {
         path: '/dpdpa-docs/docs',
-        component: ComponentCreator('/dpdpa-docs/docs', 'c98'),
+        component: ComponentCreator('/dpdpa-docs/docs', 'bbf'),
         routes: [
           {
             path: '/dpdpa-docs/docs',
-            component: ComponentCreator('/dpdpa-docs/docs', 'dbd'),
+            component: ComponentCreator('/dpdpa-docs/docs', '2f2'),
             routes: [
               {
                 path: '/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries',
@@ -319,6 +319,48 @@ export default [
               {
                 path: '/dpdpa-docs/docs/Overview/The Data Protection Board of India',
                 component: ComponentCreator('/dpdpa-docs/docs/Overview/The Data Protection Board of India', '804'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods',
+                component: ComponentCreator('/dpdpa-docs/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods', '09c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Schedules/Consent Manager',
+                component: ComponentCreator('/dpdpa-docs/docs/Schedules/Consent Manager', 'f4c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes',
+                component: ComponentCreator('/dpdpa-docs/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes', '90d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Schedules/Purposes and Authorized Persons for Rule 22',
+                component: ComponentCreator('/dpdpa-docs/docs/Schedules/Purposes and Authorized Persons for Rule 22', '09b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes',
+                component: ComponentCreator('/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes', '77a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board',
+                component: ComponentCreator('/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board', '1e8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board',
+                component: ComponentCreator('/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board', 'c4f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

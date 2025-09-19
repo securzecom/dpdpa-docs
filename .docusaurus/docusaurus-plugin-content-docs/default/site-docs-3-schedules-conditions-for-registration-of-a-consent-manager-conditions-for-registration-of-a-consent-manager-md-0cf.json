@@ -1,0 +1,20 @@
+{
+  "id": "Schedules/Conditions for Registration of a Consent Manager/Conditions for Registration of a Consent Manager",
+  "title": "Conditions for Registration of a Consent Manager",
+  "description": "",
+  "source": "@site/docs/3. Schedules/Conditions for Registration of a Consent Manager/Conditions for Registration of a Consent Manager.md",
+  "sourceDirName": "3. Schedules/Conditions for Registration of a Consent Manager",
+  "slug": "/Schedules/Conditions for Registration of a Consent Manager/",
+  "permalink": "/dpdpa-docs/docs/Schedules/Conditions for Registration of a Consent Manager/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. Schedules/Conditions for Registration of a Consent Manager/Conditions for Registration of a Consent Manager.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Consent Manager",
+    "permalink": "/dpdpa-docs/docs/Schedules/Consent Manager"
+  }
+}

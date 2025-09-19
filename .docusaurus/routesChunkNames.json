@@ -249,17 +249,17 @@
     },
     "content": "content---dpdpa-docs-markdown-page-393-ab9"
   },
-  "/dpdpa-docs/docs-24d": {
+  "/dpdpa-docs/docs-c82": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docsaba-3e7"
     }
   },
-  "/dpdpa-docs/docs-c98": {
+  "/dpdpa-docs/docs-bbf": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---dpdpa-docs-docsc-2-f-89d"
   },
-  "/dpdpa-docs/docs-dbd": {
+  "/dpdpa-docs/docs-2f2": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries-8a9": {
@@ -393,6 +393,34 @@
   "/dpdpa-docs/docs/Overview/The Data Protection Board of India-804": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-overview-the-data-protection-board-of-indiaab-2-eaa"
+  },
+  "/dpdpa-docs/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods-09c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-schedules-classes-of-data-fiduciaries-purposes-and-time-periods-33-a-834"
+  },
+  "/dpdpa-docs/docs/Schedules/Consent Manager-f4c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-schedules-consent-manager-0-cb-dc9"
+  },
+  "/dpdpa-docs/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes-90d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-schedules-exemptions-for-certain-classes-of-data-fiduciaries-and-purposesf-9-d-886"
+  },
+  "/dpdpa-docs/docs/Schedules/Purposes and Authorized Persons for Rule 22-09b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-schedules-purposes-and-authorized-persons-for-rule-22130-0a2"
+  },
+  "/dpdpa-docs/docs/Schedules/Standards for Processing by the State and for Specified Purposes-77a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-schedules-standards-for-processing-by-the-state-and-for-specified-purposesac-8-ef7"
+  },
+  "/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board-1e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-schedules-terms-and-conditions-of-service-of-the-chairperson-and-members-of-the-data-protection-board-7-dd-9fa"
+  },
+  "/dpdpa-docs/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board-c4f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-schedules-terms-and-conditions-of-service-of-the-officers-and-employees-of-the-board-4-e-5-7e7"
   },
   "/dpdpa-docs/-4d6": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
