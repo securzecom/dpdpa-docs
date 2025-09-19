@@ -1,0 +1,23 @@
+{
+  "id": "DPDPA Rules/Appeals to the Appellate Tribunal copy",
+  "title": "Rule 22: Power to Call for Information from Data Fiduciaries or Intermediaries",
+  "description": "Rule 22 equips the Data Protection Board of India with the authority to demand information from organizations involved in data processing. This rule is crucial because the Board cannot effectively enforce the law without access to detailed records, evidence, and clarifications from Data Fiduciaries and intermediaries.",
+  "source": "@site/docs/2. DPDPA Rules/21 - Appeals to the Appellate Tribunal copy.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Appeals to the Appellate Tribunal copy",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Appeals to the Appellate Tribunal copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/21 - Appeals to the Appellate Tribunal copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 22,
+  "frontMatter": {
+    "sidebar_position": 22
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 21: Appeals to the Appellate Tribunal",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Appeals to the Appellate Tribunal"
+  }
+}

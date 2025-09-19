@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/dpdpa-docs/docs',
-    component: ComponentCreator('/dpdpa-docs/docs', 'fb9'),
+    component: ComponentCreator('/dpdpa-docs/docs', '24d'),
     routes: [
       {
         path: '/dpdpa-docs/docs',
-        component: ComponentCreator('/dpdpa-docs/docs', '8ce'),
+        component: ComponentCreator('/dpdpa-docs/docs', 'c98'),
         routes: [
           {
             path: '/dpdpa-docs/docs',
-            component: ComponentCreator('/dpdpa-docs/docs', '35b'),
+            component: ComponentCreator('/dpdpa-docs/docs', 'dbd'),
             routes: [
               {
                 path: '/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries',
@@ -131,8 +131,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Appeals to the Appellate Tribunal',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Appeals to the Appellate Tribunal', 'cf5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board', '320'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing',
                 component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing', '3c9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office', 'e80'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -149,6 +167,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes', 'f9e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach',
                 component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach', '37d'),
                 exact: true,
@@ -161,8 +185,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries', 'ed9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments', 'fd2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/dpdpa-docs/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State',
                 component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State', '21f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India', '162'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -175,6 +217,24 @@ export default [
               {
                 path: '/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager',
                 component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager', 'fc8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Rights of Data Principals',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Rights of Data Principals', '3c5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members', '6ba'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/dpdpa-docs/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board',
+                component: ComponentCreator('/dpdpa-docs/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board', '51a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

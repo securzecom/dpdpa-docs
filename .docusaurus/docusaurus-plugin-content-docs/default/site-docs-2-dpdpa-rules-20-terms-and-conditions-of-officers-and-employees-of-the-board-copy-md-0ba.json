@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Terms and Conditions of Officers and Employees of the Board copy",
+  "title": "Rule 20: Terms and Conditions of Officers and Employees of the Board",
+  "description": "Rule 20 focuses on the framework for managing the officers and employees who assist the Data Protection Board of India in carrying out its functions. While the Chairperson and Members provide leadership and take decisions, the officers and staff form the operational backbone of the Board, handling investigations, documentation, communication, and technical management of its digital systems.",
+  "source": "@site/docs/2. DPDPA Rules/20 - Terms and Conditions of Officers and Employees of the Board copy.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board copy",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/20 - Terms and Conditions of Officers and Employees of the Board copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 19: Data Protection Board to Function as a Digital Office",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office"
+  },
+  "next": {
+    "title": "Rule 20: Terms and Conditions of Officers and Employees of the Board",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board"
+  }
+}

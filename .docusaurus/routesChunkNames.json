@@ -249,26 +249,38 @@
     },
     "content": "content---dpdpa-docs-markdown-page-393-ab9"
   },
-  "/dpdpa-docs/docs-fb9": {
+  "/dpdpa-docs/docs-24d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---dpdpa-docs-docsaba-3e7"
     }
   },
-  "/dpdpa-docs/docs-8ce": {
+  "/dpdpa-docs/docs-c98": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---dpdpa-docs-docsc-2-f-89d"
   },
-  "/dpdpa-docs/docs-35b": {
+  "/dpdpa-docs/docs-dbd": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/dpdpa-docs/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries-8a9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-additional-obligations-of-significant-data-fiduciaries-1-d-2-c2d"
   },
+  "/dpdpa-docs/docs/DPDPA Rules/Appeals to the Appellate Tribunal-cf5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-appeals-to-the-appellate-tribunal-22-e-884"
+  },
+  "/dpdpa-docs/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board-320": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-appointment-of-chairperson-and-members-of-the-data-protection-board-32-d-d15"
+  },
   "/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing-3c9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-contact-information-for-queries-about-processing-6-e-8-7cb"
+  },
+  "/dpdpa-docs/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office-e80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-data-protection-board-to-function-as-a-digital-officef-32-17b"
   },
   "/dpdpa-docs/docs/DPDPA Rules/Definitions-b2d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -278,6 +290,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-exemptions-for-processing-childrens-data-888-80f"
   },
+  "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes-f9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-exemptions-for-research-archiving-and-statistical-purposes-982-aea"
+  },
   "/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach-37d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-intimation-of-personal-data-breach-2-b-9-1c2"
@@ -286,9 +302,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-notice-by-data-fiduciary-to-data-principalcda-fd4"
   },
+  "/dpdpa-docs/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries-ed9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-power-to-call-for-information-from-data-fiduciaries-or-intermediariesdd-0-74c"
+  },
+  "/dpdpa-docs/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments-fd2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-procedure-of-board-meetings-and-authentication-of-orders-or-instruments-262-104"
+  },
   "/dpdpa-docs/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State-21f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-processing-for-subsidy-benefit-service-licence-or-permit-by-the-state-913-9bc"
+  },
+  "/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India-162": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-processing-of-personal-data-outside-india-7-c-9-5b0"
   },
   "/dpdpa-docs/docs/DPDPA Rules/Reasonable Security Safeguards-c87": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -297,6 +325,18 @@
   "/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager-fc8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dpdpa-docs-docs-dpdpa-rules-registration-and-obligations-of-consent-manager-7-d-7-d01"
+  },
+  "/dpdpa-docs/docs/DPDPA Rules/Rights of Data Principals-3c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-rights-of-data-principalseb-4-775"
+  },
+  "/dpdpa-docs/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members-6ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-salary-allowances-and-service-conditions-of-the-chairperson-and-membersdaa-30e"
+  },
+  "/dpdpa-docs/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board-51a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---dpdpa-docs-docs-dpdpa-rules-terms-and-conditions-of-officers-and-employees-of-the-board-2-c-5-c4b"
   },
   "/dpdpa-docs/docs/DPDPA Rules/Title and Commencement-db7": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Processing of Personal Data Outside India",
+  "title": "Rule 14: Processing of Personal Data Outside India (Cross-Border Transfers)",
+  "description": "Rule 14 clarifies how personal data belonging to individuals in India can be processed outside the country. The principle is that cross-border data transfers are permitted, but the Central Government retains the authority to restrict them if necessary.",
+  "source": "@site/docs/2. DPDPA Rules/14 - Processing of Personal Data Outside India.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Processing of Personal Data Outside India",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/14 - Processing of Personal Data Outside India.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 13: Rights of Data Principals (Operational Details)",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Rights of Data Principals"
+  },
+  "next": {
+    "title": "Rule 15: Exemptions for Research, Archiving, and Statistical Purposes",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes"
+  }
+}

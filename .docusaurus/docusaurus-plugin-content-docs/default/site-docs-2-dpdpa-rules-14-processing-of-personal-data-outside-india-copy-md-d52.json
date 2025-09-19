@@ -1,0 +1,23 @@
+{
+  "id": "DPDPA Rules/Processing of Personal Data Outside India copy",
+  "title": "Rule 15: Exemptions for Research, Archiving, and Statistical Purposes",
+  "description": "Rule 15 recognizes that not all processing of personal data serves commercial or service-related goals. Sometimes, data is required for research, archiving, or statistical purposes, and in such cases, certain exemptions are granted under the law.",
+  "source": "@site/docs/2. DPDPA Rules/14 - Processing of Personal Data Outside India copy.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Processing of Personal Data Outside India copy",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/14 - Processing of Personal Data Outside India copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 14: Processing of Personal Data Outside India (Cross-Border Transfers)",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India"
+  }
+}

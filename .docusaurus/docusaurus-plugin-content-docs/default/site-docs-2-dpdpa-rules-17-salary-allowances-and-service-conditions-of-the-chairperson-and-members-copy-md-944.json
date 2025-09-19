@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members copy",
+  "title": "Rule 17: Salary, Allowances and Service Conditions of the Chairperson and Members",
+  "description": "Rule 17 specifies the financial and service-related terms for the Chairperson and Members of the Data Protection Board of India. These details are important to ensure that the leadership of the Board can function independently, without undue influence from external pressures.",
+  "source": "@site/docs/2. DPDPA Rules/17 - Salary, Allowances and Service Conditions of the Chairperson and Members copy.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members copy",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/17 - Salary, Allowances and Service Conditions of the Chairperson and Members copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 16: Appointment of Chairperson and Members of the Data Protection Board",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board"
+  },
+  "next": {
+    "title": "Rule 17: Salary, Allowances and Service Conditions of the Chairperson and Members",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members"
+  }
+}

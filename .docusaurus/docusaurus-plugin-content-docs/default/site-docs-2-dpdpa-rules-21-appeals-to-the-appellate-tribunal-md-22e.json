@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Appeals to the Appellate Tribunal",
+  "title": "Rule 21: Appeals to the Appellate Tribunal",
+  "description": "Rule 21 provides the mechanism for challenging the decisions of the Data Protection Board of India. It ensures that organizations and individuals have a clear legal pathway to appeal if they believe that an order of the Board is incorrect, unfair, or excessive.",
+  "source": "@site/docs/2. DPDPA Rules/21 - Appeals to the Appellate Tribunal.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Appeals to the Appellate Tribunal",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Appeals to the Appellate Tribunal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/21 - Appeals to the Appellate Tribunal.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "sidebar_position": 21
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 20: Terms and Conditions of Officers and Employees of the Board",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board"
+  },
+  "next": {
+    "title": "Rule 22: Power to Call for Information from Data Fiduciaries or Intermediaries",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries"
+  }
+}

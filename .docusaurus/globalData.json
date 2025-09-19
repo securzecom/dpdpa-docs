@@ -16,8 +16,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "DPDPA Rules/Appeals to the Appellate Tribunal",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Appeals to the Appellate Tribunal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "DPDPA Rules/Contact Information for Queries about Processing",
               "path": "/dpdpa-docs/docs/DPDPA Rules/Contact Information for Queries about Processing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Data Protection Board to Function as a Digital Office",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -31,6 +46,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "DPDPA Rules/Intimation of Personal Data Breach",
               "path": "/dpdpa-docs/docs/DPDPA Rules/Intimation of Personal Data Breach",
               "sidebar": "tutorialSidebar"
@@ -41,8 +61,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State",
               "path": "/dpdpa-docs/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Processing of Personal Data Outside India",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -53,6 +88,21 @@
             {
               "id": "DPDPA Rules/Registration and Obligations of Consent Manager",
               "path": "/dpdpa-docs/docs/DPDPA Rules/Registration and Obligations of Consent Manager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Rights of Data Principals",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Rights of Data Principals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DPDPA Rules/Terms and Conditions of Officers and Employees of the Board",
+              "path": "/dpdpa-docs/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board",
+  "title": "Rule 16: Appointment of Chairperson and Members of the Data Protection Board",
+  "description": "Rule 16 lays down how the Data Protection Board of India is to be constituted. The Board is the authority responsible for enforcing the DPDPA, and its credibility depends on how its leadership is appointed.",
+  "source": "@site/docs/2. DPDPA Rules/16 - Appointment of Chairperson and Members of the Data Protection Board.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/16 - Appointment of Chairperson and Members of the Data Protection Board.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 15: Exemptions for Research, Archiving, and Statistical Purposes",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes"
+  },
+  "next": {
+    "title": "Rule 17: Salary, Allowances and Service Conditions of the Chairperson and Members",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
+  "title": "Rule 15: Exemptions for Research, Archiving, and Statistical Purposes",
+  "description": "Rule 15 recognizes that not all processing of personal data serves commercial or service-related goals. Sometimes, data is required for research, archiving, or statistical purposes, and in such cases, certain exemptions are granted under the law.",
+  "source": "@site/docs/2. DPDPA Rules/15 - Exemptions for Research, Archiving, and Statistical Purposes.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
+  "permalink": "/dpdpa-docs/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. DPDPA Rules/15 - Exemptions for Research, Archiving, and Statistical Purposes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 14: Processing of Personal Data Outside India (Cross-Border Transfers)",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Processing of Personal Data Outside India"
+  },
+  "next": {
+    "title": "Rule 16: Appointment of Chairperson and Members of the Data Protection Board",
+    "permalink": "/dpdpa-docs/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board"
+  }
+}
