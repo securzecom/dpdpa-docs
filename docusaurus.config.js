@@ -89,12 +89,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guide',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'About', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://securze.com/',
+            label: 'Securze - Securing What Matters Most',
             position: 'right',
           },
         ],
@@ -103,46 +103,74 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Quick Links',
             items: [
               {
-                label: 'Tutorial',
+                label: 'DPDPA Guide',
                 to: '/docs/Overview/Background and Purpose of DPDPA',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Schedule DPDPA Consultation Call',
+                to: 'http://calendly.com/harshparekh-securze',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Securze - Securing What Matters Most',
+                to: 'https://securze.com',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Services',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Red Team Services',
+                href: 'https://securze.com/services/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Blue Team Services',
+                href: 'https://securze.com/services/',
+              },
+              {
+                label: 'Purple Team Services',
+                href: 'https://securze.com/services/',
+              },
+              {
+                label: 'GRC Services',
+                href: 'https://securze.com/services/',
+              },
+              {
+                label: 'Web3 Security',
+                href: 'https://securze.com/services/',
+              },
+              {
+                label: 'AI Security',
+                href: 'https://securze.com/services/',
+              },
+              {
+                label: 'Cybersecurity Training',
+                href: 'https://securze.com/services/',
+              },
+              {
+                label: 'Network Security',
+                href: 'https://securze.com/services/',
+              },
+            ],
+          },
+          {
+            title: 'Socials',
+            items: [
+              {
+                label: 'LinkedIn',
+                href: 'https://linkedin.com/company/securze',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://youtube.com/@securze',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Navneetpriya Softech Solutions LLP`,
       },
       prism: {
         theme: prismThemes.github,
