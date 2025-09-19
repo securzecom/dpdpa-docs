@@ -28,8 +28,8 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://securzecom.github.io",
-  "baseUrl": "/dpdpa-docs/",
+  "url": "https://dpdpaedu.org",
+  "baseUrl": "/",
   "organizationName": "Securze",
   "projectName": "DPDPA Documentation",
   "onBrokenLinks": "throw",
