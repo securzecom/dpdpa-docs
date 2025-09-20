@@ -12,7 +12,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 <div style={{ display: "flex", alignItems: "center", marginBottom: "1.5rem" }}>
   <img 
-    src="img/harsh-parekh.png" 
+    src="/img/harsh-parekh.png" 
     alt="Harsh Parekh" 
     style={{ width: "100px", height: "100px", borderRadius: "50%", marginRight: "1rem" }} 
   />
@@ -42,7 +42,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 <div style={{ display: "flex", alignItems: "center", marginBottom: "1.5rem" }}>
   <img 
-    src="img/securze-logo.png" 
+    src="/img/securze-logo.png" 
     style={{ width: "100px", height: "100px", borderRadius: "50%", marginRight: "1rem" }} 
   />
   <div>
