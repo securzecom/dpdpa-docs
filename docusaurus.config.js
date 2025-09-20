@@ -82,7 +82,7 @@ const config = {
     
     ({
       // Replace with your project's social card
-      image: 'img/DPDPA-Homepage.png',
+      image: '/img/DPDPA-Homepage.png',
       navbar: {
         title: '',
         logo: {

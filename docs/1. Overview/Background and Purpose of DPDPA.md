@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+![My Logo](/img/DPDPA-Homepage.png)
+
 The **Digital Personal Data Protection Act (DPDPA), 2023** represents India’s first comprehensive framework dedicated to safeguarding the privacy of individuals in the digital age. This legislation, accompanied by the **Draft Rules released in January 2025**, establishes a structured regime for how organizations, governments, and intermediaries collect, process, store, and share personal data. Its enactment is a direct response to the exponential growth of India’s digital economy and the increasing volume of personal information being processed on digital platforms. By codifying the responsibilities of organizations and the rights of individuals, DPDPA provides a legal foundation to ensure that privacy is not merely aspirational but enforceable.
 
 ---

@@ -69,7 +69,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/DPDPA-Homepage.png",
+    "image": "/img/DPDPA-Homepage.png",
     "navbar": {
       "title": "",
       "logo": {
