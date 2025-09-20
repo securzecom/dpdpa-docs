@@ -44,7 +44,7 @@ const config = {
   plugins: [
     [
       '@gracefullight/docusaurus-plugin-microsoft-clarity',
-      { projectId: 'tdrwobhc5y' }, // <-- replace with your Clarity ID
+      { projectId: 'YOUR_PROJECT_ID' }, // <-- replace with your Clarity ID
     ],
   ],
 
@@ -118,7 +118,7 @@ const config = {
         logo: {
           alt: 'My Site Logo',
           src: 'img/securze-logo-white.png',
-          width: 100,
+          width: 200,
         },
         links: [
           {
@@ -213,7 +213,7 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-
+      
       
     }),
 
@@ -221,3 +221,4 @@ const config = {
 };
 
 export default config;
+

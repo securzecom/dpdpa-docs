@@ -46,7 +46,7 @@ export default {
     [
       "@gracefullight/docusaurus-plugin-microsoft-clarity",
       {
-        "projectId": "tdrwobhc5y"
+        "projectId": "YOUR_PROJECT_ID"
       }
     ]
   ],
@@ -111,7 +111,7 @@ export default {
       "logo": {
         "alt": "My Site Logo",
         "src": "img/securze-logo-white.png",
-        "width": 100
+        "width": 200
       },
       "links": [
         {
