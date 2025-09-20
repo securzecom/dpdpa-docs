@@ -5,7 +5,7 @@
  */
 export default {
   "title": "DPDPA | Digital Personal Data Protection Act India",
-  "tagline": "Privacy Framework of India",
+  "tagline": "India’s Data Protection Law 🇮🇳",
   "favicon": "img/securze-favicon.ico",
   "future": {
     "v4": {

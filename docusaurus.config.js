@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DPDPA | Digital Personal Data Protection Act India',
-  tagline: 'Privacy Framework of India',
+  tagline: 'India’s Data Protection Law 🇮🇳',
   favicon: 'img/securze-favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

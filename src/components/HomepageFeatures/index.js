@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Empowering Data Principals & Fiduciaries',
+    title: 'A Community-Driven Initiative by Securze',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Whether you’re a citizen, a company, or a regulator, this resource gives actionable insights into consent, rights, breach management, and compliance obligations.
+        A community-driven initiative by Securze, created to make the Digital Personal Data Protection Act (DPDPA 2023) clear, practical, and accessible for all.
       </>
     ),
   },
