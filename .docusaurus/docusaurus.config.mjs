@@ -406,6 +406,14 @@ export default {
         }
       ]
     },
+    "algolia": {
+      "appId": "SB9J9BSIIR",
+      "apiKey": "fa21d589363682faf841f2128df1fa5a",
+      "indexName": "dpdpaedu_org_sb9j9bsiir_pages",
+      "contextualSearch": true,
+      "searchParameters": {},
+      "searchPagePath": "search"
+    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
