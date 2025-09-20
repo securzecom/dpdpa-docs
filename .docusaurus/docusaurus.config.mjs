@@ -69,7 +69,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/DPDPA-Homepage.png",
     "navbar": {
       "title": "",
       "logo": {
