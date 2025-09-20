@@ -103,7 +103,7 @@ export default {
       "logo": {
         "alt": "My Site Logo",
         "src": "img/securze-logo-white.png",
-        "width": 300
+        "width": 100
       },
       "links": [
         {
