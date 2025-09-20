@@ -181,6 +181,24 @@ const config = {
               },
             ],
           },
+          {
+            title: "Contact Us",
+            items: [
+              {
+                html: `<span>Email: info@securze.com</span>`,
+              },
+              {
+                html: `<span>Call: +91-8451073938</span>`,
+              },
+              {
+                html: `<span>India</span>`,
+              },
+              {
+                label: 'Schedule a Call',
+                href: 'https://calendly.com/harshparekh-securze',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Navneetpriya Softech Solutions LLP`,
       },
