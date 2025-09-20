@@ -122,12 +122,8 @@ export default {
               "to": "/docs/Overview/Background and Purpose of DPDPA"
             },
             {
-              "label": "Schedule DPDPA Consultation Call",
+              "label": "Schedule a Expert DPDPA Consultation Call",
               "to": "http://calendly.com/harshparekh-securze"
-            },
-            {
-              "label": "Securze - Securing What Matters Most",
-              "to": "https://securze.com"
             }
           ]
         },
@@ -135,16 +131,28 @@ export default {
           "title": "Services",
           "items": [
             {
-              "label": "Red Team Services",
+              "label": "DPO as a Service",
               "href": "https://securze.com/services/"
             },
             {
-              "label": "Blue Team Services",
-              "href": "https://securze.com/services/"
+              "label": "24x7x365 Managed Cybersecurity",
+              "href": "https://securze.com/next-gen-managed-cybersecurity/"
+            },
+            {
+              "label": "VAPT",
+              "href": "https://securze.com/services/vapt-services/"
+            },
+            {
+              "label": "Red Team Services",
+              "href": "https://securze.com/services/red-teaming/"
+            },
+            {
+              "label": "24x7 SOC - Blue Team",
+              "href": "https://securze.com/services/security-operations-center/"
             },
             {
               "label": "Purple Team Services",
-              "href": "https://securze.com/services/"
+              "href": "https://securze.com/services/table-top-exercises/"
             },
             {
               "label": "GRC Services",
@@ -152,7 +160,7 @@ export default {
             },
             {
               "label": "Web3 Security",
-              "href": "https://securze.com/services/"
+              "href": "https://securze.com/services/web3-security/"
             },
             {
               "label": "AI Security",
@@ -160,7 +168,7 @@ export default {
             },
             {
               "label": "Cybersecurity Training",
-              "href": "https://securze.com/services/"
+              "href": "https://securze.com/services/cybersecurity-training/"
             },
             {
               "label": "Network Security",
@@ -185,13 +193,17 @@ export default {
           "title": "Contact Us",
           "items": [
             {
+              "label": "www.securze.com",
+              "href": "https://securze.com/"
+            },
+            {
               "html": "<span>Email: info@securze.com</span>"
             },
             {
               "html": "<span>Call: +91-8451073938</span>"
             },
             {
-              "html": "<span>India</span>"
+              "html": "<span>HQ: India</span>"
             },
             {
               "label": "Schedule a Call",
