@@ -73,7 +73,11 @@ We help organizations **implement DPDPA compliance end-to-end** — from gap ass
 
 All contributions are welcome to this repository to enhance the content over time.  
 If you’d like to improve explanations, add examples, or suggest clarifications, feel free to open a pull request.  
-Please ensure that your contributions align with the **DPDPA framework** and maintain the accuracy of legal and technical details.  
+Please ensure that your contributions align with the **DPDPA framework** and maintain the accuracy of legal and technical details.
+
+Read [LICENSE](https://github.com/securzecom/dpdpa-docs/blob/main/LICENSE.md)
+
+--
 
 For consultation, contact us:  
 📧 info@securze.com
