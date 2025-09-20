@@ -77,7 +77,7 @@ Please ensure that your contributions align with the **DPDPA framework** and mai
 
 Read [LICENSE](https://github.com/securzecom/dpdpa-docs/blob/main/LICENSE.md)
 
---
+---
 
 For consultation, contact us:  
 📧 info@securze.com
