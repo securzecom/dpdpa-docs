@@ -37,11 +37,6 @@
       "name": "@docusaurus/theme-classic",
       "version": "3.8.1"
     },
-    "docusaurus-theme-search-algolia": {
-      "type": "package",
-      "name": "@docusaurus/theme-search-algolia",
-      "version": "3.8.1"
-    },
     "@gracefullight/docusaurus-plugin-microsoft-clarity": {
       "type": "package",
       "name": "@gracefullight/docusaurus-plugin-microsoft-clarity",

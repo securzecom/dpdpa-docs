@@ -213,13 +213,6 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      algolia: {
-        appId: 'SB9J9BSIIR',          // e.g. 'BH4D9OD16A'
-        apiKey: 'fa21d589363682faf841f2128df1fa5a',        // search-only public key
-        indexName: 'dpdpaedu_org_sb9j9bsiir_pages',  // e.g. 'dpdpa_guide'
-        contextualSearch: true,
-        searchParameters: {},
-      },
 
       
     }),
