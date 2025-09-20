@@ -94,8 +94,8 @@ const config = {
         title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/securze-logo-black.png',
-          srcDark: 'img/securze-logo-white.png',
+          src: 'img/dpdpa-logo.png',
+          //srcDark: 'img/securze-logo-white.png',
           href: 'https://securze.com',
         },
         items: [
