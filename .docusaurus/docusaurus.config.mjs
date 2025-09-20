@@ -192,7 +192,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Navneetpriya Softech Solutions LLP"
+      "copyright": "Copyright © 2025 A community project initiative by Navneetpriya Softech Solutions LLP (Securze)"
     },
     "prism": {
       "theme": {

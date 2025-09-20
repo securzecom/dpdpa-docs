@@ -200,7 +200,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Navneetpriya Softech Solutions LLP`,
+        copyright: `Copyright © ${new Date().getFullYear()} A community project initiative by Navneetpriya Softech Solutions LLP (Securze)`,
       },
       prism: {
         theme: prismThemes.github,

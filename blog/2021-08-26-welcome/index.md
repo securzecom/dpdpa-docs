@@ -6,6 +6,8 @@ title: Credits
 
 # Credits
 
+<span>This project is a community-driven initiative by Securze, created with the goal of making the Digital Personal Data Protection Act (DPDPA) accessible and easier to understand for everyone. We sincerely acknowledge and appreciate the efforts of all our review panel members, whose time, expertise, and valuable feedback have been instrumental in shaping this guide. Your contributions have added immense value, ensuring accuracy and clarity for the wider community. Thank you for your commitment and support in making this initiative successful.</span>
+
 ## 1. Author
 
 import { FaLinkedin } from "react-icons/fa";
