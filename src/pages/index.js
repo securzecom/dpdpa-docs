@@ -22,6 +22,7 @@ function HomepageHeader() {
             to="/docs/Overview/Background and Purpose of DPDPA">
             DPDPA Implementation Guide
           </Link>
+          
         </div>
       </div>
     </header>
@@ -32,8 +33,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title="DPDPA Guide 2025 | Digital Personal Data Protection Act Explained"
+      description="Understand India’s Digital Personal Data Protection Act (DPDPA). Clear explanations, compliance tips, and practical guidance for businesses and professionals.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
