@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-725": {
+  "/blog-4e0": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -50,7 +50,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---blog-452-960"
       }
     ],
     "__props": "__props---blogc-15-573"
@@ -97,7 +97,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authors-yangshun-1-de-d0c"
   },
-  "/blog/welcome-d2b": {
+  "/blog/welcome-1a1": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -106,7 +106,7 @@
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "content": "content---blog-welcomee-06-63e"
   },
   "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
