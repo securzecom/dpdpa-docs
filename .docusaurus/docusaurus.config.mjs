@@ -109,7 +109,7 @@ export default {
       "style": "dark",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/securze-logo-white.png",
+        "src": "/img/securze-logo-white.png",
         "width": 200
       },
       "links": [
