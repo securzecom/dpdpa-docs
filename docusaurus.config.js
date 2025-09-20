@@ -41,6 +41,13 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@gracefullight/docusaurus-plugin-microsoft-clarity',
+      { projectId: 'tdrwobhc5y' }, // <-- replace with your Clarity ID
+    ],
+  ],
+
   presets: [
     [
       'classic',

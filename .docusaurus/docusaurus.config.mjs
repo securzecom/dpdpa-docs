@@ -42,6 +42,14 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "plugins": [
+    [
+      "@gracefullight/docusaurus-plugin-microsoft-clarity",
+      {
+        "projectId": "tdrwobhc5y"
+      }
+    ]
+  ],
   "presets": [
     [
       "classic",
@@ -428,7 +436,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],
