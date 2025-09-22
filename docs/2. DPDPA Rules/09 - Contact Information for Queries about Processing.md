@@ -27,11 +27,7 @@ Without providing accessible contact details, individuals have no way to exercis
 A crypto trading platform like **ABC Exchange** must publish the email address and phone number of its DPO so that a trader named **Govind** can ask whether his KYC details are being shared with third parties.  
 :::
 
-:::info Example 2  
-A manufacturing company collecting employee data for payroll must provide contact details of its **HR officer**, so an employee like **Narayan** can request correction of his bank account number.  
-:::
-
-:::info Example 3  
+:::info Example 2
 A social media platform like **XYZ Connect** must allow users such as **Krishna** to easily reach its **grievance officer** through the app if they want their old posts or personal details erased.  
 :::
 
