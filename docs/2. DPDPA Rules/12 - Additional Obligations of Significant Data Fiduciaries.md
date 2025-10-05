@@ -22,9 +22,13 @@ The obligations imposed on SDFs are designed to ensure a higher level of **accou
 
 **Example**
 
-:::info Example
+:::info Example 1
 A large **social media platform** processing millions of users’ photos, messages, and location details is highly likely to be classified as an **SDF**.  
 It will therefore need to appoint a **DPO**, conduct **DPIAs** before introducing new features such as AI-driven recommendation engines, and submit to **independent audits** to ensure that user privacy is not compromised.  
+:::
+
+:::info Example 2
+XYZ Online Health Platform, which **stores sensitive health records and personal information** of thousands of patients, must appoint a **Data Protection Officer (DPO)**, conduct Data Protection Impact Assessments (DPIAs) before launching new AI-based diagnostic tools, undergo independent audits regularly, and ensure that automated decision-making does not harm or unfairly treat users.
 :::
 
 ---

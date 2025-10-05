@@ -34,6 +34,10 @@ The **National Archives of India** may retain and process old **census data** fo
 A **manufacturing industry association** may collect **employment statistics** from factories across India to study labor trends. The study can use personal data in aggregate form without asking every worker for consent, provided **individual identities remain protected**.  
 :::
 
+:::info Example 4  
+**XYZ University** conducts a study on digital learning habits using **anonymized student data** provided by an educational platform. Since the dataset does not include names or contact information, the research can proceed without individual consent under the exemptions. 
+:::
+
 ---
 
 The intention behind **Rule 15** is to promote **knowledge, preserve history, and enable evidence-based policymaking**, while ensuring that such processing does not become a backdoor for misusing personal information. It strikes a balance between **societal benefit** and **individual privacy**.

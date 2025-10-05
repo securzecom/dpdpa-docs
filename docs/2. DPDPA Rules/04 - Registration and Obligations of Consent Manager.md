@@ -30,4 +30,12 @@ Consent Managers must remain **neutral and independent**. They cannot favor any 
 
 ---
 
+**Example**
+
+:::info Example
+XYZ Consent Portal should provide users a dashboard to view, grant, and withdraw consent for all organizations accessing their personal data, maintaining logs of these actions.
+:::
+
+---
+
 The role of **Consent Managers** is central to the DPDPA framework because they **empower individuals to exercise genuine control over their data**. By separating the management of consent from the Data Fiduciary, the law ensures that Data Principals are not forced into one-sided arrangements where their choices are limited.

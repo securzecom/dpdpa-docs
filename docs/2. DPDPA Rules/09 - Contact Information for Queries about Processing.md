@@ -31,6 +31,10 @@ A crypto trading platform like **ABC Exchange** must publish the email address a
 A social media platform like **XYZ Connect** must allow users such as **Krishna** to easily reach its **grievance officer** through the app if they want their old posts or personal details erased.  
 :::
 
+:::info Example 3
+If a user continues receiving **marketing emails after opting out**, XYZ Travel Services should provide an easy way to submit a complaint, acknowledge it promptly, investigate the cause, correct the system error, and **notify the user once the issue is resolved**.
+:::
+
 ---
 
 The intent of **Rule 9** is to remove barriers between individuals and organizations. Instead of leaving people confused about where to complain, the law mandates a **direct and accountable point of contact**. This not only improves **user trust** but also helps organizations respond to concerns before they escalate into **regulatory complaints**.

@@ -40,6 +40,10 @@ Suppose a **social media platform** is found guilty of repeatedly misusing child
 If the Board instructs a **stock broking firm** to stop transferring client financial data to overseas servers, that instruction must also be **properly authenticated**. An unauthenticated email or unsigned note would not carry legal force.  
 :::
 
+:::info Example 3  
+A **hospital chain** is found to be sharing patient records with third-party research firms without explicit consent. The Board’s order to **cease the practice** and delete shared data is signed by the Chairperson, ensuring the decision is legally valid and enforceable.
+:::
+
 ---
 
 **Rule 18** ensures the **credibility and enforceability** of the Board’s actions.  
