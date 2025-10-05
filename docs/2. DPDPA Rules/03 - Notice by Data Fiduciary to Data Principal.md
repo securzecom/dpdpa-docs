@@ -23,4 +23,12 @@ It must also be available in **English** and in such languages specified in the 
 
 ---
 
+**Example**
+
+:::info Example
+“We are collecting your **email and phone number** for **order updates**. We will **not use this for marketing** without your **consent**.”
+:::
+
+---
+
 This requirement ensures that individuals are informed in advance about how their personal data will be used, enabling them to make a **genuine and informed choice**.
