@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Terms and Conditions of Officers and Employees of the Board",
-  "title": "Rule 20: Terms and Conditions of Officers and Employees of the Board",
-  "description": "Rule 20 focuses on the framework for managing the officers and employees who assist the Data Protection Board of India in carrying out its functions. While the Chairperson and Members provide leadership and take decisions, the officers and staff form the operational backbone of the Board, handling investigations, documentation, communication, and technical management of its digital systems.",
+  "title": "Rule 20: Terms and Conditions of Appointment and Service of Officers and Employees of the Board",
+  "description": "Statutory Text — Rule 20: Terms and Conditions of Appointment and Service of Officers and Employees of the Board. (click to expand)",
   "source": "@site/docs/2. DPDPA Rules/20 - Terms and Conditions of Officers and Employees of the Board.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 19: Data Protection Board to Function as a Digital Office",
+    "title": "Rule 19: Functioning of Board as Digital Office",
     "permalink": "/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office"
   },
   "next": {
-    "title": "Rule 21: Appeals to the Appellate Tribunal",
+    "title": "Rule 21: Appeals to Appellate Tribunal",
     "permalink": "/docs/DPDPA Rules/Appeals to the Appellate Tribunal"
   }
 }

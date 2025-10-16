@@ -1,0 +1,23 @@
+{
+  "id": "DPDPA Rules/privacy-notice",
+  "title": "privacy-notice",
+  "description": "Sample Data Processing Notice",
+  "source": "@site/docs/2. DPDPA Rules/privacy-notice.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/privacy-notice",
+  "permalink": "/docs/DPDPA Rules/privacy-notice",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 22: Power to Call for Information from Data Fiduciaries or Intermediaries",
+    "permalink": "/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries"
+  },
+  "next": {
+    "title": "Schedule I: Consent Manager",
+    "permalink": "/docs/Schedules/Consent Manager"
+  }
+}

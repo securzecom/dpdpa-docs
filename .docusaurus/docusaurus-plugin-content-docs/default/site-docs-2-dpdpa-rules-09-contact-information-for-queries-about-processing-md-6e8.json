@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Contact Information for Queries about Processing",
-  "title": "Rule 9: Contact Information for Queries about Processing",
-  "description": "Rule 9 ensures that individuals always know whom to contact if they have questions or concerns about how their personal data is being used. Transparency is not just about publishing a notice; it also requires giving people a clear channel of communication.",
+  "title": "Rule 9: Contact Information of Person to Answer Questions About Processing.",
+  "description": "Statutory Text — Rule 9:Contact information of person to answer questions about processing. (click to expand)",
   "source": "@site/docs/2. DPDPA Rules/09 - Contact Information for Queries about Processing.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Contact Information for Queries about Processing",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 8: When the Specified Purpose is Deemed No Longer Served",
+    "title": "Rule 8: Time Period for Specified Purpose to be Deemed as No Longer Being Served",
     "permalink": "/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served"
   },
   "next": {

@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Data Protection Board to Function as a Digital Office",
-  "title": "Rule 19: Data Protection Board to Function as a Digital Office",
-  "description": "Rule 19 establishes that the Data Protection Board of India will operate as a digital office. This is a deliberate design choice: the law recognizes that a traditional, paper-based regulator would not be capable of handling the scale, speed, and complexity of personal data cases in a country as vast as India.",
+  "title": "Rule 19: Functioning of Board as Digital Office",
+  "description": "Statutory Text — Rule 19: Functioning of Board as Digital Office. (click to expand)",
   "source": "@site/docs/2. DPDPA Rules/19 - Data Protection Board to Function as a Digital Office.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Data Protection Board to Function as a Digital Office",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 18: Procedure of Board Meetings and Authentication of Orders or Instruments",
+    "title": "Rule 18: Procedure for Meetings of the Board and Authentication of its Orders, Directions, and Instruments",
     "permalink": "/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments"
   },
   "next": {
-    "title": "Rule 20: Terms and Conditions of Officers and Employees of the Board",
+    "title": "Rule 20: Terms and Conditions of Appointment and Service of Officers and Employees of the Board",
     "permalink": "/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board"
   }
 }

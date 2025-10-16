@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments",
-  "title": "Rule 18: Procedure of Board Meetings and Authentication of Orders or Instruments",
-  "description": "Rule 18 lays down the governing framework for how the Data Protection Board of India will conduct its meetings and issue valid, legally binding decisions. The rule is designed to ensure that the Board operates with order, consistency, and legitimacy, so that no decision or communication is ever questioned for lack of proper procedure.",
+  "title": "Rule 18: Procedure for Meetings of the Board and Authentication of its Orders, Directions, and Instruments",
+  "description": "Statutory Text — Rule 18: Procedure for Meetings of the Board and Authentication of its Orders, Directions, and Instruments. (click to expand)",
   "source": "@site/docs/2. DPDPA Rules/18 - Procedure of Board Meetings and Authentication of Orders or Instruments.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 17: Salary, Allowances and Service Conditions of the Chairperson and Members",
+    "title": "Rule 17: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
     "permalink": "/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members"
   },
   "next": {
-    "title": "Rule 19: Data Protection Board to Function as a Digital Office",
+    "title": "Rule 19: Functioning of Board as Digital Office",
     "permalink": "/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office"
   }
 }

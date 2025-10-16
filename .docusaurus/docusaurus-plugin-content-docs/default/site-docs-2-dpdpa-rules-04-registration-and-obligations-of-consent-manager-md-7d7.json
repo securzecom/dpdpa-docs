@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Registration and Obligations of Consent Manager",
   "title": "Rule 4: Registration and Obligations of Consent Manager",
-  "description": "Rule 4 establishes the framework for the registration and functioning of Consent Managers, which are specialized entities designed to help individuals manage their consents effectively.",
+  "description": "Statutory Text — Rule 4: Registration and obligations of Consent Manager. (click to expand)",
   "source": "@site/docs/2. DPDPA Rules/04 - Registration and Obligations of Consent Manager.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Registration and Obligations of Consent Manager",
@@ -20,7 +20,7 @@
     "permalink": "/docs/DPDPA Rules/Notice by Data Fiduciary to Data Principal"
   },
   "next": {
-    "title": "Rule 5: Processing for Subsidy, Benefit, Service, Licence or Permit by the State",
+    "title": "Rule 5: Processing for provision or issue of subsidy, benefit, service, certificate, licence or permit by State and its instrumentalities",
     "permalink": "/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State"
   }
 }

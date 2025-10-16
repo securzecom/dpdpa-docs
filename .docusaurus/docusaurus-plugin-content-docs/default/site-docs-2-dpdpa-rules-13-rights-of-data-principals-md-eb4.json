@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Rights of Data Principals",
-  "title": "Rule 13: Rights of Data Principals (Operational Details)",
-  "description": "Rule 13 explains how the rights of individuals, known as Data Principals, are to be exercised in practice. While the Act already grants these rights, the Rule provides clarity on the process and obligations of organizations when such requests are made.",
+  "title": "Rule 13: Rights of Data Principals",
+  "description": "Statutory Text — Rule 13:Rights of Data Principals. (click to expand)",
   "source": "@site/docs/2. DPDPA Rules/13 - Rights of Data Principals.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Rights of Data Principals",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 12: Additional Obligations of Significant Data Fiduciaries (SDFs)",
+    "title": "Rule 12: Additional Obligations of Significant Data Fiduciaries",
     "permalink": "/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries"
   },
   "next": {
-    "title": "Rule 14: Processing of Personal Data Outside India (Cross-Border Transfers)",
+    "title": "Rule 14: Processing of Personal Data Outside India",
     "permalink": "/docs/DPDPA Rules/Processing of Personal Data Outside India"
   }
 }

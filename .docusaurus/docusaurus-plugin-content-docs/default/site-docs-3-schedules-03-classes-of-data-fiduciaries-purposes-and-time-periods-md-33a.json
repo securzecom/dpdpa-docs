@@ -1,7 +1,7 @@
 {
   "id": "Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods",
-  "title": "Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods",
-  "description": "Schedule III provides a structured framework that links three key aspects of data processing:",
+  "title": "Schedule II: Standards for Processing of Personal Data by the State and its Instrumentalities",
+  "description": "SECOND SCHEDULE [See rules 5(2) and 15] Standards for Processing of Personal Data by the State and its Instrumentalities (click to expand)",
   "source": "@site/docs/3. Schedules/03 - Classes of Data Fiduciaries, Purposes, and Time Periods.md",
   "sourceDirName": "3. Schedules",
   "slug": "/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Schedule II: Standards for Processing by the State and for Specified Purposes",
-    "permalink": "/docs/Schedules/Standards for Processing by the State and for Specified Purposes"
+    "title": "Schedule I: PART B — Obligations of a Consent Manager",
+    "permalink": "/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of a Consent Manager"
   },
   "next": {
-    "title": "Schedule IV: Exemptions for Certain Classes of Data Fiduciaries and Purposes",
+    "title": "Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods",
     "permalink": "/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes"
   }
 }

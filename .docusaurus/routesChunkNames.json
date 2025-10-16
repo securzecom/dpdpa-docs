@@ -115,17 +115,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-3b6": {
+  "/docs-2e9": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-78d": {
+  "/docs-7f2": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-674": {
+  "/docs-c42": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Board & Enforcement Questions/01-f3f": {
@@ -248,13 +248,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dpdpa-rules-definitions-485-3bc"
   },
-  "/docs/DPDPA Rules/Exemptions for Processing Children’s Data-a92": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-exemptions-for-processing-childrens-data-888-363"
-  },
   "/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes-b6e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dpdpa-rules-exemptions-for-research-archiving-and-statistical-purposes-982-696"
+  },
+  "/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child-d2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dpdpa-rules-exemptions-from-certain-obligations-applicable-to-processing-of-personal-data-of-childaf-5-2f9"
   },
   "/docs/DPDPA Rules/Intimation of Personal Data Breach-1dd": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -460,33 +460,41 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-rights-of-data-principals-05-ae-2-69b"
   },
-  "/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods-c4d": {
+  "/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of a Consent Manager-ba1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-schedules-classes-of-data-fiduciaries-purposes-and-time-periods-33-a-58e"
+    "content": "content---docs-schedules-first-schedule-part-a-conditions-for-registration-of-a-consent-manager-3-d-3-bc2"
   },
-  "/docs/Schedules/Consent Manager-1ad": {
+  "/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of a Consent Manager-12c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-schedules-consent-manager-0-cb-310"
+    "content": "content---docs-schedules-first-schedule-part-b-obligations-of-a-consent-managerb-01-458"
   },
-  "/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes-b9b": {
+  "/docs/Schedules/FOURTH SCHEDULE: PART A:  Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply-9f1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-schedules-exemptions-for-certain-classes-of-data-fiduciaries-and-purposesf-9-d-d34"
+    "content": "content---docs-schedules-fourth-schedule-part-a-classes-of-data-fiduciaries-in-respect-of-whom-provisions-of-sub-sections-1-and-3-of-section-9-shall-not-apply-790-03c"
   },
-  "/docs/Schedules/Purposes and Authorized Persons for Rule 22-5b0": {
+  "/docs/Schedules/FOURTH SCHEDULE: PART B - Purposes for Which Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply-5c9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-schedules-purposes-and-authorized-persons-for-rule-22130-ac9"
+    "content": "content---docs-schedules-fourth-schedule-part-b-purposes-for-which-provisions-of-sub-sections-1-and-3-of-section-9-shall-not-apply-79-a-9e0"
   },
-  "/docs/Schedules/Standards for Processing by the State and for Specified Purposes-20b": {
+  "/docs/Schedules/Purposes And Authorised Persons For Which Information May Be Called For Under Section 36 Of The Act-90b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-schedules-standards-for-processing-by-the-state-and-for-specified-purposesac-8-a42"
+    "content": "content---docs-schedules-purposes-and-authorised-persons-for-which-information-may-be-called-for-under-section-36-of-the-act-31-a-bca"
   },
-  "/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board-e20": {
+  "/docs/Schedules/SCHEDULE FIVE: Terms and Conditions of Service of Chairperson and Other Members copy-67d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-schedules-terms-and-conditions-of-service-of-the-chairperson-and-members-of-the-data-protection-board-7-dd-e5c"
+    "content": "content---docs-schedules-schedule-five-terms-and-conditions-of-service-of-chairperson-and-other-members-copy-4-fd-51c"
   },
-  "/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board-4da": {
+  "/docs/Schedules/SCHEDULE SIX: Terms and Conditions of Appointment and Service of Officers and Employees of the Board copy-b8f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-schedules-terms-and-conditions-of-service-of-the-officers-and-employees-of-the-board-4-e-5-81a"
+    "content": "content---docs-schedules-schedule-six-terms-and-conditions-of-appointment-and-service-of-officers-and-employees-of-the-board-copydd-8-993"
+  },
+  "/docs/Schedules/SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities-1bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-schedules-second-schedule-standards-for-processing-of-personal-data-by-the-state-and-its-instrumentalities-2-bb-c87"
+  },
+  "/docs/Schedules/THIRD SCHEDULE: Classes of Data Fiduciaries, Purposes, and Time Periods-49b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-schedules-third-schedule-classes-of-data-fiduciaries-purposes-and-time-periods-87-f-b21"
   },
   "/docs/Significant Data Fiduciary General Questions/01-2d0": {
     "__comp": "__comp---theme-doc-item-178-a40",

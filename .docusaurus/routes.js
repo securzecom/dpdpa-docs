@@ -74,15 +74,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3b6'),
+    component: ComponentCreator('/docs', '2e9'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '78d'),
+        component: ComponentCreator('/docs', '7f2'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '674'),
+            component: ComponentCreator('/docs', 'c42'),
             routes: [
               {
                 path: '/docs/Board & Enforcement Questions/01',
@@ -265,14 +265,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/DPDPA Rules/Exemptions for Processing Children’s Data',
-                component: ComponentCreator('/docs/DPDPA Rules/Exemptions for Processing Children’s Data', 'a92'),
+                path: '/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes',
+                component: ComponentCreator('/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes', 'b6e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes',
-                component: ComponentCreator('/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes', 'b6e'),
+                path: '/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child',
+                component: ComponentCreator('/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child', 'd2e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -583,44 +583,56 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods',
-                component: ComponentCreator('/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods', 'c4d'),
+                path: '/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of a Consent Manager',
+                component: ComponentCreator('/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of a Consent Manager', 'ba1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Schedules/Consent Manager',
-                component: ComponentCreator('/docs/Schedules/Consent Manager', '1ad'),
+                path: '/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of a Consent Manager',
+                component: ComponentCreator('/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of a Consent Manager', '12c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes',
-                component: ComponentCreator('/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes', 'b9b'),
+                path: '/docs/Schedules/FOURTH SCHEDULE: PART A:  Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply',
+                component: ComponentCreator('/docs/Schedules/FOURTH SCHEDULE: PART A:  Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply', '9f1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Schedules/Purposes and Authorized Persons for Rule 22',
-                component: ComponentCreator('/docs/Schedules/Purposes and Authorized Persons for Rule 22', '5b0'),
+                path: '/docs/Schedules/FOURTH SCHEDULE: PART B - Purposes for Which Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply',
+                component: ComponentCreator('/docs/Schedules/FOURTH SCHEDULE: PART B - Purposes for Which Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply', '5c9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Schedules/Standards for Processing by the State and for Specified Purposes',
-                component: ComponentCreator('/docs/Schedules/Standards for Processing by the State and for Specified Purposes', '20b'),
+                path: '/docs/Schedules/Purposes And Authorised Persons For Which Information May Be Called For Under Section 36 Of The Act',
+                component: ComponentCreator('/docs/Schedules/Purposes And Authorised Persons For Which Information May Be Called For Under Section 36 Of The Act', '90b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board',
-                component: ComponentCreator('/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board', 'e20'),
+                path: '/docs/Schedules/SCHEDULE FIVE: Terms and Conditions of Service of Chairperson and Other Members copy',
+                component: ComponentCreator('/docs/Schedules/SCHEDULE FIVE: Terms and Conditions of Service of Chairperson and Other Members copy', '67d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board',
-                component: ComponentCreator('/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board', '4da'),
+                path: '/docs/Schedules/SCHEDULE SIX: Terms and Conditions of Appointment and Service of Officers and Employees of the Board copy',
+                component: ComponentCreator('/docs/Schedules/SCHEDULE SIX: Terms and Conditions of Appointment and Service of Officers and Employees of the Board copy', 'b8f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Schedules/SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities',
+                component: ComponentCreator('/docs/Schedules/SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities', '1bb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Schedules/THIRD SCHEDULE: Classes of Data Fiduciaries, Purposes, and Time Periods',
+                component: ComponentCreator('/docs/Schedules/THIRD SCHEDULE: Classes of Data Fiduciaries, Purposes, and Time Periods', '49b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

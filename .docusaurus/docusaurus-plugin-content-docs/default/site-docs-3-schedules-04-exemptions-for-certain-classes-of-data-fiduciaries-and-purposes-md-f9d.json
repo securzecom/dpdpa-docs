@@ -1,7 +1,7 @@
 {
   "id": "Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes",
-  "title": "Schedule IV: Exemptions for Certain Classes of Data Fiduciaries and Purposes",
-  "description": "Schedule IV outlines situations where certain classes of Data Fiduciaries or specific purposes of processing are exempted from some of the obligations normally required under the Act. These exemptions are granted to ensure that compliance requirements remain practical, proportional, and risk-based.",
+  "title": "Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods",
+  "description": "THIRD SCHEDULE [See rule 8(1)] Classes of Data Fiduciaries, Purposes, and Time Periods (click to expand)",
   "source": "@site/docs/3. Schedules/04 - Exemptions for Certain Classes of Data Fiduciaries and Purposes.md",
   "sourceDirName": "3. Schedules",
   "slug": "/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes",
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods",
-    "permalink": "/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods"
+    "title": "Schedule II: Standards for Processing of Personal Data by the State and its Instrumentalities",
+    "permalink": "/docs/Schedules/SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities"
   },
   "next": {
     "title": "Schedule V: Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board",

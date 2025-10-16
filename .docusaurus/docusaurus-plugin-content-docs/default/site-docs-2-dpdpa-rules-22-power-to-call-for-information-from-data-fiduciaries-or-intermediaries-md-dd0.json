@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries",
   "title": "Rule 22: Power to Call for Information from Data Fiduciaries or Intermediaries",
-  "description": "Rule 22 equips the Data Protection Board of India with the authority to demand information from organizations involved in data processing. This rule is crucial because the Board cannot effectively enforce the law without access to detailed records, evidence, and clarifications from Data Fiduciaries and intermediaries.",
+  "description": "Statutory Text — Rule 22: Calling for Information from Data Fiduciary or Intermediary. (click to expand)",
   "source": "@site/docs/2. DPDPA Rules/22- Power to Call for Information from Data Fiduciaries or Intermediaries.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 21: Appeals to the Appellate Tribunal",
+    "title": "Rule 21: Appeals to Appellate Tribunal",
     "permalink": "/docs/DPDPA Rules/Appeals to the Appellate Tribunal"
   },
   "next": {
-    "title": "Schedule I: Consent Manager",
-    "permalink": "/docs/Schedules/Consent Manager"
+    "title": "Schedule I: PART A — Conditions for Registration of a Consent Manager",
+    "permalink": "/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of a Consent Manager"
   }
 }

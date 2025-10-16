@@ -1,0 +1,26 @@
+{
+  "id": "Schedules/SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities",
+  "title": "Schedule II: Standards for Processing of Personal Data by the State and its Instrumentalities",
+  "description": "SECOND SCHEDULE [See rules 5(2) and 15] Standards for Processing of Personal Data by the State and its Instrumentalities (click to expand)",
+  "source": "@site/docs/3. Schedules/02 - SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities.md",
+  "sourceDirName": "3. Schedules",
+  "slug": "/Schedules/SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities",
+  "permalink": "/docs/Schedules/SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Schedule I: PART B — Obligations of a Consent Manager",
+    "permalink": "/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of a Consent Manager"
+  },
+  "next": {
+    "title": "Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods",
+    "permalink": "/docs/Schedules/THIRD SCHEDULE: Classes of Data Fiduciaries, Purposes, and Time Periods"
+  }
+}

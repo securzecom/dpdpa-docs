@@ -1,7 +1,7 @@
 {
   "id": "Schedules/Purposes and Authorized Persons for Rule 22",
-  "title": "Schedule VII: Purposes and Authorized Persons for Rule 22 (Power to Call for Information)",
-  "description": "Schedule VII supplements Rule 22, which empowers the Data Protection Board of India to call for information from Data Fiduciaries and intermediaries.",
+  "title": "Schedule V: Terms and Conditions of Service of Chairperson and Other Members",
+  "description": "FIFTH SCHEDULE [See rule 17]Terms and Conditions of Service of Chairperson and Other Members (click to expand)",
   "source": "@site/docs/3. Schedules/07 - Purposes and Authorized Persons for Rule 22.md",
   "sourceDirName": "3. Schedules",
   "slug": "/Schedules/Purposes and Authorized Persons for Rule 22",
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Schedule VI: Terms and Conditions of Service of the Officers and Employees of the Board",
-    "permalink": "/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board"
+    "title": "Schedule IV: PART B - Purposes for Which Provisions of Sub-sections (1) and (3) of Section 9 Shall Not Apply",
+    "permalink": "/docs/Schedules/FOURTH SCHEDULE: PART B - Purposes for Which Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply"
   },
   "next": {
     "title": "Step 01 - Conduct a Gap Assessment",

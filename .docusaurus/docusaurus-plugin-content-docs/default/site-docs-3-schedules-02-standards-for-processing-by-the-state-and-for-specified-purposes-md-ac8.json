@@ -1,7 +1,7 @@
 {
   "id": "Schedules/Standards for Processing by the State and for Specified Purposes",
-  "title": "Schedule II: Standards for Processing by the State and for Specified Purposes",
-  "description": "Schedule II sets the baseline standards that must be followed when the State or its instrumentalities process personal data. This is especially important because government bodies in India handle vast volumes of sensitive data — from Aadhaar numbers and tax records to health data, welfare entitlements, and educational records.",
+  "title": "Schedule I: PART B — Obligations of a Consent Manager",
+  "description": "FIRST SCHEDULE [See rule 4] PART B — Obligations of a Consent Manager (click to expand)",
   "source": "@site/docs/3. Schedules/02 - Standards for Processing by the State and for Specified Purposes.md",
   "sourceDirName": "3. Schedules",
   "slug": "/Schedules/Standards for Processing by the State and for Specified Purposes",
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Schedule I: Consent Manager",
-    "permalink": "/docs/Schedules/Consent Manager"
+    "title": "Schedule I: PART A — Conditions for Registration of a Consent Manager",
+    "permalink": "/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of a Consent Manager"
   },
   "next": {
     "title": "Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods",

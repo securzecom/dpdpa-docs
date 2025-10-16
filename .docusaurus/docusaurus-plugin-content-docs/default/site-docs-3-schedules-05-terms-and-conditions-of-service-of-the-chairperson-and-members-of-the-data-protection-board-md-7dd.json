@@ -1,7 +1,7 @@
 {
   "id": "Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board",
-  "title": "Schedule V: Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board",
-  "description": "Schedule V provides detailed rules governing the service conditions of the Chairperson and Members of the Data Protection Board of India. Since these individuals are central to the enforcement of the DPDPA, their independence, integrity, and impartiality must be safeguarded through well-defined service conditions.",
+  "title": "Schedule IV: PART A - Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections (1) and (3) of Section 9 Shall Not Apply",
+  "description": "FOURTH SCHEDULE [See rule 11] PART A — Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections (1) and (3) of Section 9 Shall Not Apply (click to expand)",
   "source": "@site/docs/3. Schedules/05 - Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board.md",
   "sourceDirName": "3. Schedules",
   "slug": "/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board",
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Schedule IV: Exemptions for Certain Classes of Data Fiduciaries and Purposes",
-    "permalink": "/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes"
+    "title": "Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods",
+    "permalink": "/docs/Schedules/THIRD SCHEDULE: Classes of Data Fiduciaries, Purposes, and Time Periods"
   },
   "next": {
     "title": "Schedule VI: Terms and Conditions of Service of the Officers and Employees of the Board",

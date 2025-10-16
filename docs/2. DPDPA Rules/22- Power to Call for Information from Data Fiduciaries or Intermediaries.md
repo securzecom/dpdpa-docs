@@ -4,47 +4,98 @@ sidebar_position: 22
 
 # Rule 22: Power to Call for Information from Data Fiduciaries or Intermediaries
 
-Rule 22 equips the **Data Protection Board of India** with the authority to **demand information** from organizations involved in data processing. This rule is crucial because the Board cannot effectively enforce the law without access to detailed records, evidence, and clarifications from **Data Fiduciaries** and **intermediaries**.
+<details>  
+  <summary><strong>Statutory Text — Rule 22: Calling for Information from Data Fiduciary or Intermediary.</strong> (click to expand)</summary>  
+
+(1) The Central Government may, for such purposes of the Act as are specified in Seventh Schedule, acting through the corresponding authorised person specified in the said Schedule, require any Data Fiduciary or intermediary to furnish such information as may be called for, specify the time period within which the same shall be furnished and, where disclosure in this regard is likely to prejudicially affect the sovereignty and integrity of India or security of the State, require the Data Fiduciary or intermediary to not disclose the same except with the previous permission in writing of the authorised person.  
+
+(2) Provision of information called for under this rule shall be by way of fulfilment of obligation under section 36 of the Act.  
+
+</details>  
 
 ---
 
-**What the Rule Provides**
+Rule 22 empowers the **Central Government** to call for specific information from any **Data Fiduciary** (such as a company, organisation, or government body handling personal data) or **intermediary** (like social media platforms, online marketplaces, or service providers). This authority helps the government ensure compliance, monitor potential risks, and protect national interests under the **Digital Personal Data Protection Act (DPDPA)**.  
 
-- The Board may call for **any information** it considers necessary from a **Data Fiduciary** (the entity that decides how data is processed) or an **intermediary** (such as an internet service provider, platform, or hosting provider) to carry out its functions under the Act.  
-- The request for information must be complied with **in the form and within the time specified** by the Board.  
-- Failure to provide **accurate or timely information** can itself be treated as a **violation**, exposing the organization to penalties.  
-- The details of the **authorized persons** who can call for such information, and the purposes for which it may be sought, are set out in **Schedule VII** of the Rules.  
+---
 
-:::danger Critical Point
-Failure to comply with the Board’s information requests — whether by delay, omission, or inaccuracy — may itself amount to a **legal violation** carrying penalties.
+### 1. Purpose of the Rule  
+
+The main purpose of Rule 22 is to give the Central Government the legal right to **request information directly** from entities that process or manage personal data. Such requests can be made only for specific, pre-defined reasons listed in the **Seventh Schedule** — for example, monitoring compliance, national security, or public interest investigations.  
+
+This ensures that the power is **not arbitrary** but used only within the limits of law.  
+
+:::info Example  
+If the Ministry of Electronics and IT (MeitY) needs details from a social media company about how it stores Indian users’ data in relation to a national cybersecurity review, it can officially request this information under Rule 22, within the framework specified in the Seventh Schedule.  
 :::
 
 ---
 
-**Why This is Important**
+### 2. Role of Authorised Persons  
 
-Without the ability to demand information, the Board’s powers would be limited. Investigating a breach, verifying compliance, or resolving a grievance requires access to **technical and organizational records**.  
+The rule mentions “**corresponding authorised person**,” which means only specific government officers — designated under the Seventh Schedule — are allowed to make such requests. This prevents misuse or informal data demands by unauthorised individuals.  
 
-Rule 22 ensures that the Board can look *“under the hood”* of any organization when needed.
+Each authorised person represents a specific purpose. For example:  
+- A designated cybersecurity officer may request data related to cyber incidents.  
+- A compliance officer from MeitY may request audit records related to DPDPA implementation.  
 
----
-
-**Example Scenarios**
-
-:::info Example 1  
-A **stock broking firm** reports a suspected breach but provides only vague details. The Board can formally demand **system logs, encryption policies, and records of breach detection** under Rule 22.  
-:::
-
-:::info Example 2  
-A **telecom company** accused of illegally sharing call data with advertisers can be ordered to provide **agreements, logs, and data transfer records**.  
-:::
-
-:::info Example 3  
-A **social media platform** may be required to disclose how its **consent management system** functions if users complain that consent withdrawals are being ignored.  
+:::tip  
+All requests must be made formally, in writing or digitally signed, and specify **what data is needed**, **why it is needed**, and **how long the entity has to respond**.  
 :::
 
 ---
 
-**Rule 22** reinforces the Board’s role as a **proactive regulator**. It ensures that organizations cannot withhold information or provide incomplete responses during inquiries.  
+### 3. Sensitivity and National Security  
 
-By mandating cooperation, it strengthens **accountability** and makes enforcement of the DPDPA more **effective**.
+If the requested information involves sensitive or classified matters — for instance, those affecting India’s **sovereignty**, **security**, or **public order** — the rule allows the government to restrict any public disclosure about the request itself.  
+
+This means the Data Fiduciary or intermediary **cannot reveal** that such a request was made unless they have written permission from the authorised government officer.  
+
+:::info Example  
+If a major cloud service provider receives an official notice asking for logs related to a suspected foreign cyberattack on critical infrastructure, it cannot publicly announce or discuss this request without written permission, as doing so could endanger national security.  
+:::
+
+---
+
+### 4. Fulfilment under Section 36 of the Act  
+
+Rule 22(2) clarifies that providing information to the government under this rule is considered a **legal obligation** under **Section 36 of the DPDPA**. In other words, Data Fiduciaries and intermediaries must cooperate and respond within the prescribed time, or they could be held non-compliant under the Act.  
+
+This also protects organisations from liability when they share data in good faith as part of a lawful government request.  
+
+:::tip  
+If a company receives a lawful information request under Rule 22, responding accurately and on time fulfills its legal duty — it does not violate data privacy or confidentiality obligations, since the disclosure is authorised by law.  
+:::
+
+---
+
+### 5. Importance of Transparency and Safeguards  
+
+While this rule empowers the government, it also implies that every such request should:  
+- Have a **clear purpose** under the Seventh Schedule.  
+- Be made by an **authorised person** only.  
+- Maintain **records of the request** for accountability.  
+- Protect the **privacy of unrelated individuals** whose data is not relevant to the purpose.  
+
+This balance between **state security** and **citizen privacy** is at the heart of India’s data governance model.  
+
+:::info Example  
+A payment gateway receives a request for transaction logs related to suspected fraud. The company must share only the information relevant to the investigation — not the entire customer database. This respects privacy while fulfilling legal duties.  
+:::
+
+---
+
+### 6. Real-World Context  
+
+In practical terms, this rule supports India’s national digital infrastructure and helps the government:  
+- Investigate large-scale cyber incidents.  
+- Monitor cross-border data transfers when needed.  
+- Ensure that companies handling personal data comply with DPDPA obligations.  
+
+At the same time, it encourages **trust and accountability** — since requests must be made through authorised channels, not arbitrary enforcement.  
+
+---
+
+### Summary  
+
+Rule 22 allows the Central Government, through authorised officials, to request specific information from Data Fiduciaries or intermediaries for legitimate and predefined purposes under the Seventh Schedule. It ensures that such data requests are **lawful, time-bound, and secure**, while still upholding the principles of **privacy protection** and **national security**.  

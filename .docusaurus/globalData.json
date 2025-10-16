@@ -161,13 +161,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "DPDPA Rules/Exemptions for Processing Children’s Data",
-              "path": "/docs/DPDPA Rules/Exemptions for Processing Children’s Data",
+              "id": "DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
+              "path": "/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
-              "path": "/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
+              "id": "DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child",
+              "path": "/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -426,38 +426,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods",
-              "path": "/docs/Schedules/Classes of Data Fiduciaries, Purposes, and Time Periods",
+              "id": "Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of a Consent Manager",
+              "path": "/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of a Consent Manager",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Schedules/Consent Manager",
-              "path": "/docs/Schedules/Consent Manager",
+              "id": "Schedules/FIRST SCHEDULE: PART B — Obligations of a Consent Manager",
+              "path": "/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of a Consent Manager",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes",
-              "path": "/docs/Schedules/Exemptions for Certain Classes of Data Fiduciaries and Purposes",
+              "id": "Schedules/FOURTH SCHEDULE: PART A:  Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply",
+              "path": "/docs/Schedules/FOURTH SCHEDULE: PART A:  Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Schedules/Purposes and Authorized Persons for Rule 22",
-              "path": "/docs/Schedules/Purposes and Authorized Persons for Rule 22",
+              "id": "Schedules/FOURTH SCHEDULE: PART B - Purposes for Which Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply",
+              "path": "/docs/Schedules/FOURTH SCHEDULE: PART B - Purposes for Which Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Schedules/Standards for Processing by the State and for Specified Purposes",
-              "path": "/docs/Schedules/Standards for Processing by the State and for Specified Purposes",
+              "id": "Schedules/Purposes And Authorised Persons For Which Information May Be Called For Under Section 36 Of The Act",
+              "path": "/docs/Schedules/Purposes And Authorised Persons For Which Information May Be Called For Under Section 36 Of The Act",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board",
-              "path": "/docs/Schedules/Terms and Conditions of Service of the Chairperson and Members of the Data Protection Board",
+              "id": "Schedules/SCHEDULE FIVE: Terms and Conditions of Service of Chairperson and Other Members copy",
+              "path": "/docs/Schedules/SCHEDULE FIVE: Terms and Conditions of Service of Chairperson and Other Members copy",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Schedules/Terms and Conditions of Service of the Officers and Employees of the Board",
-              "path": "/docs/Schedules/Terms and Conditions of Service of the Officers and Employees of the Board",
+              "id": "Schedules/SCHEDULE SIX: Terms and Conditions of Appointment and Service of Officers and Employees of the Board copy",
+              "path": "/docs/Schedules/SCHEDULE SIX: Terms and Conditions of Appointment and Service of Officers and Employees of the Board copy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Schedules/SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities",
+              "path": "/docs/Schedules/SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Schedules/THIRD SCHEDULE: Classes of Data Fiduciaries, Purposes, and Time Periods",
+              "path": "/docs/Schedules/THIRD SCHEDULE: Classes of Data Fiduciaries, Purposes, and Time Periods",
               "sidebar": "tutorialSidebar"
             },
             {
