@@ -74,7 +74,7 @@ import { FaLinkedin } from "react-icons/fa";
   />
   <div>
     <strong style={{ display: "flex", alignItems: "center" }}>
-    Gaurri Sapple      
+    Gaurri Sapple, Associate Vice President - Security Engineering   
     <a 
         href="https://www.linkedin.com/in/gaurisaple/" 
         target="_blank" 
@@ -96,7 +96,7 @@ import { FaLinkedin } from "react-icons/fa";
   />
   <div>
     <strong style={{ display: "flex", alignItems: "center" }}>
-    Swapnali Naik      
+    Swapnali Naik, Independent Consultant   
     <a 
         href="https://www.linkedin.com/in/swapnali-naik-042a5363/" 
         target="_blank" 
@@ -106,6 +106,6 @@ import { FaLinkedin } from "react-icons/fa";
         <FaLinkedin size={18} />
       </a>
     </strong>
-    Swapnali Naik is a seasoned audit and compliance professional with deep expertise in ISO 9001, 20000, 27001, ITGC, SOC controls, Data Centre and customer audits, and enterprise risk management. She has been recognized by BSI auditors for excellence in streamlining audit processes, timely closure of findings, and driving stronger governance through risk-based internal controls and compliance frameworks.
+    Swapnali Naik with over 23 years of extensive experience is a seasoned audit and compliance professional with deep expertise in ISO 9001, 20000, 27001, ITGC, SOC controls, Data Centre and customer audits, and enterprise risk management. She has been recognized by BSI auditors for excellence in streamlining audit processes, timely closure of findings, and driving stronger governance through risk-based internal controls and compliance frameworks.
   </div>
 </div>
