@@ -15,8 +15,8 @@ Each checklist is based on the **latest 2025 Draft Rules** released by MeitY, co
 ### 🏢 General Compliance Checklist  
 👉 **[Download General Checklist (Free)](DPDPA_2025_Checklist.xlsx)**  
 
-### 🏥 Healthcare Sector  
-👉 **[Download Healthcare Checklist (Free)](./DPDPA_2025_Healthcare_Compliance_Checklist.xlsx)**  
+### 🏥 Healthcare Sector   
+👉 *(Coming Soon — Subscribe for release update!)*  
 
 ### 💰 BFSI (Banking, Financial Services & Insurance)  
 👉 *(Coming Soon — Subscribe for release update!)*  
