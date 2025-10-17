@@ -13,7 +13,7 @@ Each checklist is based on the **latest 2025 Draft Rules** released by MeitY, co
 ## 📂 Available Checklists  
 
 ### 🏢 General Compliance Checklist  
-👉 **[Download General Checklist (Free)](DPDPA_2025_Checklist.xlsx)**  
+👉 **[Download General Checklist (Free)](/checklists/DPDPA_2025_Checklist.xlsx)**  
 
 ### 🏥 Healthcare Sector   
 👉 *(Coming Soon — Subscribe for release update!)*  
