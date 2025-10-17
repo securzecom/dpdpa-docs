@@ -112,7 +112,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 <div style={{ display: "flex", alignItems: "center", marginBottom: "1.5rem" }}>
   <img 
-    src="/img/swapnali-naik.jpeg" 
+    src="/img/manan-sheth.jpeg" 
     alt="Expert" 
     style={{ width: "100px", height: "100px", borderRadius: "50%", marginRight: "1rem" }} 
   />
@@ -134,7 +134,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 <div style={{ display: "flex", alignItems: "center", marginBottom: "1.5rem" }}>
   <img 
-    src="/img/swapnali-naik.jpeg" 
+    src="/img/sundar.jpeg" 
     alt="Expert" 
     style={{ width: "100px", height: "100px", borderRadius: "50%", marginRight: "1rem" }} 
   />
