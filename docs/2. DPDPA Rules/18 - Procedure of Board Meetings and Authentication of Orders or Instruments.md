@@ -120,7 +120,7 @@ Authentication is what gives legal effect to the Board’s decisions. Without it
 
 The Board must complete any **inquiry** within **six months** from the date it receives a complaint or direction under Section 27 of the Act. If more time is genuinely needed, the Board may extend the inquiry — but only after recording the **reason in writing** — for a **maximum of three months at a time**.  
 
-:::example  
+:::info Example  
 If a complex cross-border data-sharing case requires extra evidence, the Board can extend the inquiry from six to nine months, clearly noting the reason in its records.  
 :::
 
