@@ -1,7 +1,7 @@
 {
   "id": "Special Cases or Edge Situations/05",
   "title": "Q5 - How does DPDPA apply to educational institutions handling minors’ data?",
-  "description": "- Schools and universities are Fiduciaries and must get verifiable parental consent before processing children’s personal data (Rule 10).",
+  "description": "The Digital Personal Data Protection Act, 2023 (DPDPA) applies fully to schools, colleges, and educational platforms that collect, store, or process students’ personal data, especially when those students are under 18 years of age.",
   "source": "@site/docs/12. Special Cases or Edge Situations/05.md",
   "sourceDirName": "12. Special Cases or Edge Situations",
   "slug": "/Special Cases or Edge Situations/05",

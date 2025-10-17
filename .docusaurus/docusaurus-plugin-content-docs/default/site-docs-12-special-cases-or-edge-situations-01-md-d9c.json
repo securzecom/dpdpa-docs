@@ -1,7 +1,7 @@
 {
   "id": "Special Cases or Edge Situations/01",
   "title": "Q1 - How does DPDPA apply to employee data?",
-  "description": "- Employee data is personal data, so it falls under DPDPA.",
+  "description": "The Digital Personal Data Protection Act, 2023 (DPDPA) allows employers to process personal data for employment-related purposes under Section 7(i) — but this permission is not unlimited. Any monitoring or surveillance activity must still comply with the Act’s core principles of lawful purpose, necessity, and proportionality.",
   "source": "@site/docs/12. Special Cases or Edge Situations/01.md",
   "sourceDirName": "12. Special Cases or Edge Situations",
   "slug": "/Special Cases or Edge Situations/01",

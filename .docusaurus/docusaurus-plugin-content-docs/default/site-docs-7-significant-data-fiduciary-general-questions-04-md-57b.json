@@ -1,7 +1,7 @@
 {
   "id": "Significant Data Fiduciary General Questions/04",
   "title": "Q4 - What happens if an SDF fails to conduct a Data Protection Impact Assessment (DPIA) before launching a new high-risk product?",
-  "description": "Failure to conduct a DPIA is a serious violation. Consequences include:",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), conducting a Data Protection Impact Assessment (DPIA) is a mandatory obligation for all Significant Data Fiduciaries (SDFs) as per Section 10(2)(c). Failure to carry out a DPIA before initiating a new high-risk data-processing activity is treated as a breach of the Act, which can trigger investigation, penalties, and corrective measures by the Data Protection Board of India.",
   "source": "@site/docs/7.  Significant Data Fiduciary General Questions/04.md",
   "sourceDirName": "7.  Significant Data Fiduciary General Questions",
   "slug": "/Significant Data Fiduciary General Questions/04",

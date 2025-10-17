@@ -1,7 +1,7 @@
 {
   "id": "Special Cases or Edge Situations/04",
   "title": "Q4 - What happens if a company shuts down — does it have to delete all personal data first?",
-  "description": "- Yes. If a company ceases operations, it must ensure that personal data is either deleted or anonymized unless retention is legally required.",
+  "description": "Yes. When a company permanently shuts down or ceases operations, it must delete or anonymize all personal data in its possession — unless there is a legal, regulatory, or contractual reason to retain it.",
   "source": "@site/docs/12. Special Cases or Edge Situations/04.md",
   "sourceDirName": "12. Special Cases or Edge Situations",
   "slug": "/Special Cases or Edge Situations/04",

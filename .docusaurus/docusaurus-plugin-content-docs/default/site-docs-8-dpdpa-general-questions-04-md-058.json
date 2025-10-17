@@ -1,7 +1,7 @@
 {
   "id": "DPDPA General Questions/04",
   "title": "Q4 - How does DPDPA interact with existing Indian laws (IT Act, RBI, IRDAI, SEBI, etc.)?",
-  "description": "DPDPA is a horizontal law — it applies to all sectors, while sector regulators continue to enforce vertical laws.",
+  "description": "The Digital Personal Data Protection Act, 2023 (DPDPA) does not replace India’s existing legal and regulatory frameworks — instead, it is designed to complement and coexist with them. The DPDPA serves as an umbrella data protection law that applies across all sectors, while sectoral regulators such as the Reserve Bank of India (RBI), Insurance Regulatory and Development Authority of India (IRDAI), and Securities and Exchange Board of India (SEBI) continue to enforce industry-specific rules related to security, privacy, and information governance.",
   "source": "@site/docs/8. DPDPA General Questions/04.md",
   "sourceDirName": "8. DPDPA General Questions",
   "slug": "/DPDPA General Questions/04",

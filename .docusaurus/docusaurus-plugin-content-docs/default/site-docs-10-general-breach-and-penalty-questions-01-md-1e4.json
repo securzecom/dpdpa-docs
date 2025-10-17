@@ -1,7 +1,7 @@
 {
   "id": "General Breach and Penalty Questions/01",
   "title": "Q1 - What exactly counts as a “data breach” under DPDPA?",
-  "description": "A personal data breach is any unauthorized or accidental event that results in:",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), a data breach refers to any unauthorised processing, disclosure, access, alteration, or loss of personal data that compromises the confidentiality, integrity, or availability of such data.",
   "source": "@site/docs/10. General Breach and Penalty Questions/01.md",
   "sourceDirName": "10. General Breach and Penalty Questions",
   "slug": "/General Breach and Penalty Questions/01",

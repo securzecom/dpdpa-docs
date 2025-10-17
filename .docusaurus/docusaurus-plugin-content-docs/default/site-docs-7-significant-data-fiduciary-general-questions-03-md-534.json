@@ -1,7 +1,7 @@
 {
   "id": "Significant Data Fiduciary General Questions/03",
   "title": "Q3 - Do SDFs have to appoint their Data Protection Officer (DPO) in India, even if they are a multinational company headquartered elsewhere?",
-  "description": "Yes.",
+  "description": "Yes. Under Section 10(2)(a)(ii) of the Digital Personal Data Protection Act, 2023 (DPDPA), every Significant Data Fiduciary (SDF) is legally required to appoint a Data Protection Officer (DPO) who is based in India, regardless of where the company’s global headquarters or parent entity is located.",
   "source": "@site/docs/7.  Significant Data Fiduciary General Questions/03.md",
   "sourceDirName": "7.  Significant Data Fiduciary General Questions",
   "slug": "/Significant Data Fiduciary General Questions/03",

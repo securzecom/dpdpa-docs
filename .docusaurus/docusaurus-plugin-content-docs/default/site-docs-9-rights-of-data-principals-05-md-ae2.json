@@ -1,7 +1,7 @@
 {
   "id": "Rights of Data Principals/05",
   "title": "Q5 - How quickly must companies respond to such requests?",
-  "description": "- The DPDPA and Draft Rules require companies to respond within the time frame prescribed by the government (expected to be 30 days, though final notification may confirm).",
+  "description": "The Digital Personal Data Protection Act, 2023 (DPDPA) requires companies (called Data Fiduciaries) to respond to all lawful requests made by Data Principals — such as requests for access, correction, erasure, or withdrawal of consent — “as soon as may be practicable.” While the Act does not specify an exact number of days, this phrase establishes a legal duty of promptness and reasonableness, meaning companies must act without undue delay and in good faith.",
   "source": "@site/docs/9. Rights of Data Principals/05.md",
   "sourceDirName": "9. Rights of Data Principals",
   "slug": "/Rights of Data Principals/05",

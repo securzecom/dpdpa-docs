@@ -1,7 +1,7 @@
 {
   "id": "Rights of Data Principals/04",
   "title": "Q4 - What if a company refuses a Data Principal’s request citing “legal necessity”?",
-  "description": "- Companies can refuse erasure or correction if another law requires them to retain the data.",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), a company (Data Fiduciary) must normally correct, update, or erase personal data upon a valid request from a Data Principal. However, it may lawfully refuse such a request if the continued retention or processing of that data is necessary to comply with any law in force — a concept referred to as “legal necessity.”",
   "source": "@site/docs/9. Rights of Data Principals/04.md",
   "sourceDirName": "9. Rights of Data Principals",
   "slug": "/Rights of Data Principals/04",

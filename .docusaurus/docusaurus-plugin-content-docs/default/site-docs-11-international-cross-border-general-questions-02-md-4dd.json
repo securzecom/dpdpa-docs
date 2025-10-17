@@ -1,7 +1,7 @@
 {
   "id": "International Cross-Border General Questions/02",
   "title": "Q2 - What happens when Indian law conflicts with foreign privacy laws (like GDPR or CCPA)?",
-  "description": "- Companies must comply with both if they process data of individuals from both regions.",
+  "description": "When Indian law — specifically the Digital Personal Data Protection Act, 2023 (DPDPA) — conflicts with foreign privacy frameworks such as the General Data Protection Regulation (GDPR) of the EU or the California Consumer Privacy Act (CCPA) of the U.S., the applicable law depends on where the data is being processed and which users the data belongs to.",
   "source": "@site/docs/11. International Cross-Border General Questions/02.md",
   "sourceDirName": "11. International Cross-Border General Questions",
   "slug": "/International Cross-Border General Questions/02",

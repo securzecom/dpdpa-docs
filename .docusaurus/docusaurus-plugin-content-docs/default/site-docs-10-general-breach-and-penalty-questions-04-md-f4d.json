@@ -1,7 +1,7 @@
 {
   "id": "General Breach and Penalty Questions/04",
   "title": "Q4 - Do all breaches need to be reported to affected individuals, or only severe ones?",
-  "description": "Companies must notify individuals if the breach is likely to cause significant harm (financial loss, identity theft, reputational damage, etc.).",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), all data breaches must be reported both to the Data Protection Board of India and to the affected Data Principals (individuals) — there is no distinction in the law between “minor” and “severe” breaches.",
   "source": "@site/docs/10. General Breach and Penalty Questions/04.md",
   "sourceDirName": "10. General Breach and Penalty Questions",
   "slug": "/General Breach and Penalty Questions/04",

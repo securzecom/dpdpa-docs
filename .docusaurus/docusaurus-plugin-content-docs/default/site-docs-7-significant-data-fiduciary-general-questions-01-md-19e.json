@@ -1,7 +1,7 @@
 {
   "id": "Significant Data Fiduciary General Questions/01",
   "title": "Q1 - What criteria are used by the government to notify an organization as a Significant Data Fiduciary (SDF)?",
-  "description": "The Central Government has the discretion to classify a Data Fiduciary as a Significant Data Fiduciary based on:",
+  "description": "Under Section 10(1) of the Digital Personal Data Protection Act, 2023 (DPDPA), the Central Government may classify or “notify” certain Data Fiduciaries as Significant Data Fiduciaries (SDFs) based on a risk-based assessment of their data-processing activities.",
   "source": "@site/docs/7.  Significant Data Fiduciary General Questions/01.md",
   "sourceDirName": "7.  Significant Data Fiduciary General Questions",
   "slug": "/Significant Data Fiduciary General Questions/01",

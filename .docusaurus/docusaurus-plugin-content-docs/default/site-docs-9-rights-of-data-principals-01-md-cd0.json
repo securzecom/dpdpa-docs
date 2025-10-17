@@ -1,7 +1,7 @@
 {
   "id": "Rights of Data Principals/01",
   "title": "Q1 - What happens if a company ignores a Data Principal’s request for erasure or correction?",
-  "description": "- The Data Fiduciary (company) is legally obligated to act on a Data Principal’s request to correct or erase personal data, unless there is a valid legal reason to retain it (e.g., tax, regulatory obligations).",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), every Data Principal (the individual whose data is being processed) has a legal right to request correction, completion, updating, or erasure of their personal data. If a company — also known as a Data Fiduciary — ignores, delays, or refuses such a request without valid justification, it is considered a breach of its statutory obligation under Section 12 and may face investigation and monetary penalties imposed by the Data Protection Board of India.",
   "source": "@site/docs/9. Rights of Data Principals/01.md",
   "sourceDirName": "9. Rights of Data Principals",
   "slug": "/Rights of Data Principals/01",

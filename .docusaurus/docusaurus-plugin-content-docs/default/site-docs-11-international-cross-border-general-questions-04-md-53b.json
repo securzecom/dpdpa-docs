@@ -1,7 +1,7 @@
 {
   "id": "International Cross-Border General Questions/04",
   "title": "Q4 - Can Indian companies continue to use global cloud service providers (AWS, Google Cloud, Azure)?",
-  "description": "Yes, provided:",
+  "description": "Yes — Indian companies can continue to use global cloud service providers such as AWS, Google Cloud, Microsoft Azure, or others under the Digital Personal Data Protection Act, 2023 (DPDPA). The Act does not prohibit or restrict using foreign-owned or global cloud platforms, as long as the personal data of Indian users is processed lawfully, securely, and within permitted jurisdictions.",
   "source": "@site/docs/11. International Cross-Border General Questions/04.md",
   "sourceDirName": "11. International Cross-Border General Questions",
   "slug": "/International Cross-Border General Questions/04",

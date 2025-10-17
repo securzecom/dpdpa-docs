@@ -1,7 +1,7 @@
 {
   "id": "Special Cases or Edge Situations/03",
   "title": "Q3 - Does DPDPA cover non-digital data (e.g., paper records)?",
-  "description": "- DPDPA applies only to digital personal data.",
+  "description": "No — the Digital Personal Data Protection Act, 2023 (DPDPA) does not cover purely non-digital or paper-based records. It applies only to digital personal data, or to data that has been digitized (converted from physical to electronic form).",
   "source": "@site/docs/12. Special Cases or Edge Situations/03.md",
   "sourceDirName": "12. Special Cases or Edge Situations",
   "slug": "/Special Cases or Edge Situations/03",

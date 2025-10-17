@@ -1,7 +1,7 @@
 {
   "id": "Significant Data Fiduciary General Questions/05",
   "title": "Q5 - Are SDFs subject to stricter penalties compared to ordinary Data Fiduciaries?",
-  "description": "The maximum penalty under the Act (₹250 crore) applies to all Fiduciaries, but in practice:",
+  "description": "Yes. Under the Digital Personal Data Protection Act, 2023 (DPDPA), Significant Data Fiduciaries (SDFs) are subject to stricter penalties and compliance scrutiny than ordinary Data Fiduciaries. This is because SDFs handle larger volumes or more sensitive types of personal data, and their operations have a higher potential impact on individuals and public interest.",
   "source": "@site/docs/7.  Significant Data Fiduciary General Questions/05.md",
   "sourceDirName": "7.  Significant Data Fiduciary General Questions",
   "slug": "/Significant Data Fiduciary General Questions/05",

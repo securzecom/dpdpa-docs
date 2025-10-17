@@ -1,7 +1,7 @@
 {
   "id": "International Cross-Border General Questions/03",
   "title": "Q3 - Can an Indian company freely transfer anonymized data abroad?",
-  "description": "- Yes. Anonymized data, which cannot identify an individual, is not treated as personal data under DPDPA.",
+  "description": "Yes — under the Digital Personal Data Protection Act, 2023 (DPDPA), anonymized data can be freely transferred abroad, because it is not considered “personal data” under the Act. The DPDPA applies only to personal data — i.e., data that relates to an identifiable individual. Once data is irreversibly anonymized, it falls outside the scope of the Act and can be shared, sold, or transferred internationally without restriction.",
   "source": "@site/docs/11. International Cross-Border General Questions/03.md",
   "sourceDirName": "11. International Cross-Border General Questions",
   "slug": "/International Cross-Border General Questions/03",

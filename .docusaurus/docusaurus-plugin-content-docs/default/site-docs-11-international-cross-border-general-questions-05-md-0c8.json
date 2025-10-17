@@ -1,7 +1,7 @@
 {
   "id": "International Cross-Border General Questions/05",
   "title": "Q5 - What is the government’s role in regulating cross-border transfers?",
-  "description": "- The default position is that cross-border transfers are allowed.",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), the Central Government plays the primary and exclusive role in regulating cross-border transfers of personal data. While companies (Data Fiduciaries) may freely transfer personal data outside India, the Government can restrict or prohibit such transfers to specific countries or territories if it considers doing so necessary for reasons of sovereignty, integrity, security, or public interest.",
   "source": "@site/docs/11. International Cross-Border General Questions/05.md",
   "sourceDirName": "11. International Cross-Border General Questions",
   "slug": "/International Cross-Border General Questions/05",
