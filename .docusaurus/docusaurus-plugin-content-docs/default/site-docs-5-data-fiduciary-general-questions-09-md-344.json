@@ -1,7 +1,7 @@
 {
   "id": "Data Fiduciary General Questions/09",
   "title": "Q9 - What happens when multiple Fiduciaries share data — who carries liability if something goes wrong?",
-  "description": "- Each Fiduciary remains responsible for the data it controls.",
+  "description": "When multiple Data Fiduciaries share or exchange personal data, each one is responsible for ensuring compliance with the Digital Personal Data Protection Act, 2023 (DPDPA) for the part of processing it controls. Liability depends on which Fiduciary’s actions (or failures) caused the breach, misuse, or non-compliance.",
   "source": "@site/docs/5. Data Fiduciary General Questions/09.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/09",

@@ -1,7 +1,7 @@
 {
   "id": "Consent Manager General Questions/05",
   "title": "Q5 - How does a Consent Manager ensure that a withdrawal of consent is reflected immediately across all organizations using that consent?",
-  "description": "Consent Managers act as real-time intermediaries:",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), a Consent Manager functions as a secure, standardised platform that enables Data Principals to give, manage, review, and withdraw consent in real time. To ensure that a withdrawal of consent is immediately reflected across all organizations relying on that consent, the Consent Manager follows a technical and procedural synchronisation process defined under Section 6(7)–(9).",
   "source": "@site/docs/6. Consent Manager General Questions/05.md",
   "sourceDirName": "6. Consent Manager General Questions",
   "slug": "/Consent Manager General Questions/05",

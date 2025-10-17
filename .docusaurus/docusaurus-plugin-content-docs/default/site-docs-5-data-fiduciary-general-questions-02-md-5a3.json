@@ -1,7 +1,7 @@
 {
   "id": "Data Fiduciary General Questions/02",
   "title": "Q2 - Can a single organization act as a Data Fiduciary for one activity and a Data Processor for another?",
-  "description": "Yes. A single organization can wear both hats, depending on the context of processing.",
+  "description": "Yes. A single organization can act as a Data Fiduciary for one activity and a Data Processor for another, depending on the purpose and context of processing.",
   "source": "@site/docs/5. Data Fiduciary General Questions/02.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/02",

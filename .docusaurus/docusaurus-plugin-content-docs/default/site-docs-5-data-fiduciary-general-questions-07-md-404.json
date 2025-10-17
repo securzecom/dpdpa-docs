@@ -1,7 +1,7 @@
 {
   "id": "Data Fiduciary General Questions/07",
   "title": "Q7 - What is the relationship between a Data Fiduciary and a Consent Manager — is one more powerful than the other?",
-  "description": "- A Data Fiduciary is the organization that collects and processes personal data (e.g., banks, insurers, e-commerce platforms).",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), the Data Fiduciary and the Consent Manager have distinct but complementary roles. Neither is more powerful than the other — they perform different functions within the same data-protection ecosystem.",
   "source": "@site/docs/5. Data Fiduciary General Questions/07.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/07",

@@ -1,7 +1,7 @@
 {
   "id": "Consent Manager General Questions/06",
   "title": "Q6 - Can a Data Principal sue a Consent Manager directly if it mishandles their consents?",
-  "description": "Yes. A Data Principal can:",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), a Data Principal cannot directly \"sue\" a Consent Manager in court in the first instance.",
   "source": "@site/docs/6. Consent Manager General Questions/06.md",
   "sourceDirName": "6. Consent Manager General Questions",
   "slug": "/Consent Manager General Questions/06",

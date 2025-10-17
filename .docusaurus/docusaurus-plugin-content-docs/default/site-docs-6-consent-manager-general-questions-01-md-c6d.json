@@ -1,7 +1,7 @@
 {
   "id": "Consent Manager General Questions/01",
   "title": "Q1 - Who oversees Consent Managers - is it only the Data Protection Board, or also the government?",
-  "description": "Consent Managers are registered and regulated by the Data Protection Board of India. The Board checks whether they meet technical, financial, and organizational requirements before granting registration (Schedule I).",
+  "description": "Consent Managers are regulated and overseen by both the Central Government and the Data Protection Board of India, but in different ways and at different stages of their operation.",
   "source": "@site/docs/6. Consent Manager General Questions/01.md",
   "sourceDirName": "6. Consent Manager General Questions",
   "slug": "/Consent Manager General Questions/01",

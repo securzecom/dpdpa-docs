@@ -1,7 +1,7 @@
 {
   "id": "Consent Manager General Questions/02",
   "title": "Q2 - How do Consent Managers earn revenue if their role must remain neutral?",
-  "description": "Consent Managers cannot charge individuals for basic use of their services (like withdrawing consent). Their revenue typically comes from:",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), a Consent Manager acts as a neutral intermediary between individuals (Data Principals) and Data Fiduciaries. Its core responsibility is to facilitate, record, and manage consent in a transparent and interoperable manner — not to influence or monetise personal data directly.",
   "source": "@site/docs/6. Consent Manager General Questions/02.md",
   "sourceDirName": "6. Consent Manager General Questions",
   "slug": "/Consent Manager General Questions/02",

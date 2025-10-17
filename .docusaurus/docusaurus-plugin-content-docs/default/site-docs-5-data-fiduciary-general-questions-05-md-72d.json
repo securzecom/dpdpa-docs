@@ -1,7 +1,7 @@
 {
   "id": "Data Fiduciary General Questions/05",
   "title": "Q5 - Can government bodies also be Data Fiduciaries? If yes, do they follow the same rules as private companies?",
-  "description": "Yes. Government departments and public authorities are also considered Data Fiduciaries when they process personal data of citizens.",
+  "description": "Yes. Under the Digital Personal Data Protection Act, 2023 (DPDPA), government bodies and instrumentalities of the State can also act as Data Fiduciaries.",
   "source": "@site/docs/5. Data Fiduciary General Questions/05.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/05",

@@ -1,7 +1,7 @@
 {
   "id": "Consent Manager General Questions/03",
   "title": "Q3 - What happens if a Consent Manager itself suffers a data breach - who is liable, the Consent Manager or the Fiduciary relying on it?",
-  "description": "Both may be liable, depending on the circumstances:",
+  "description": "If a Consent Manager experiences a data breach, the Consent Manager itself is primarily liable for that incident — not the Data Fiduciary — because it is an independent entity registered under Section 6(9) of the Digital Personal Data Protection Act, 2023 (DPDPA).",
   "source": "@site/docs/6. Consent Manager General Questions/03.md",
   "sourceDirName": "6. Consent Manager General Questions",
   "slug": "/Consent Manager General Questions/03",

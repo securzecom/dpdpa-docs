@@ -1,7 +1,7 @@
 {
   "id": "Data Fiduciary General Questions/06",
   "title": "Q6 - What happens if a Data Fiduciary fails to comply — does liability sit only with the company, or can directors and officers also be held responsible?",
-  "description": "The primary liability rests with the organization as the Data Fiduciary. Penalties of up to ₹250 crore can be imposed by the Board depending on the nature and severity of the violation.",
+  "description": "If a Data Fiduciary fails to comply with the Digital Personal Data Protection Act, 2023 (DPDPA), the organization can face significant monetary penalties imposed by the Data Protection Board of India. These penalties are outlined in Section 33(1) and the Schedule of the Act and may reach up to ₹250 crore, depending on the nature and severity of the breach.",
   "source": "@site/docs/5. Data Fiduciary General Questions/06.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/06",

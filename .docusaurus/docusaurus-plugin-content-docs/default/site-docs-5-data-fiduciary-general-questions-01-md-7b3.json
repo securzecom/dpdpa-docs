@@ -1,7 +1,7 @@
 {
   "id": "Data Fiduciary General Questions/01",
   "title": "Q1 - What is the difference between a Data Fiduciary and a Data Processor?",
-  "description": "A Data Fiduciary is the entity that decides why and how personal data will be processed. It holds the main responsibility under DPDPA because it determines the purpose of data use.",
+  "description": "A Data Fiduciary is the person or organization that decides why personal data is being collected and how it will be used.",
   "source": "@site/docs/5. Data Fiduciary General Questions/01.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/01",

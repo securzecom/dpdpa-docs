@@ -1,7 +1,7 @@
 {
   "id": "Data Fiduciary General Questions/08",
   "title": "Q8 - If there is a dispute between a Fiduciary and a Consent Manager (e.g., over proof of consent), who resolves it?",
-  "description": "- The Data Protection Board of India resolves such disputes.",
+  "description": "If a dispute arises between a Data Fiduciary and a Consent Manager — for example, over the validity or proof of consent — the matter is resolved by the Data Protection Board of India, as established under Chapter V (Sections 18–28) of the Digital Personal Data Protection Act, 2023 (DPDPA).",
   "source": "@site/docs/5. Data Fiduciary General Questions/08.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/08",

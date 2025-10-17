@@ -1,7 +1,7 @@
 {
   "id": "Consent Manager General Questions/07",
   "title": "Q7 - How does DPDPA ensure neutrality of Consent Managers so they do not secretly favor large corporations?",
-  "description": "- Consent Managers must be independent and neutral — they cannot favor one Data Fiduciary over another.",
+  "description": "The Digital Personal Data Protection Act, 2023 (DPDPA) has built-in legal and technical safeguards to ensure that Consent Managers remain neutral, transparent, and fair in their operations. They are not allowed to discriminate between Data Fiduciaries (organizations) or Data Principals (individuals) and cannot secretly favor large corporations or business partners.",
   "source": "@site/docs/6. Consent Manager General Questions/07.md",
   "sourceDirName": "6. Consent Manager General Questions",
   "slug": "/Consent Manager General Questions/07",

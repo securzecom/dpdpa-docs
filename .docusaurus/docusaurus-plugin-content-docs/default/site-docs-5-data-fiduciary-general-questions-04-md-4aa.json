@@ -1,7 +1,7 @@
 {
   "id": "Data Fiduciary General Questions/04",
   "title": "Q4 - What kind of additional audits and assessments are mandatory for SDFs?",
-  "description": "Once classified as a Significant Data Fiduciary, an organization must comply with enhanced obligations, including:",
+  "description": "Under the Digital Personal Data Protection Act, 2023 (DPDPA), the Central Government may designate certain organizations as Significant Data Fiduciaries (SDFs) based on factors such as the volume and sensitivity of data they handle, the potential impact on individuals’ rights, and the risk to national security, public order, or electoral democracy.",
   "source": "@site/docs/5. Data Fiduciary General Questions/04.md",
   "sourceDirName": "5. Data Fiduciary General Questions",
   "slug": "/Data Fiduciary General Questions/04",
