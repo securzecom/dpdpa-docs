@@ -21,8 +21,15 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/Overview/Background and Purpose of DPDPA">
             DPDPA Implementation Guide
-          </Link>
-          
+          </Link>          
+        </div>
+        <br></br>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/Checklists/DPDPA%20Checklists">
+            Download Free Checklists
+          </Link>          
         </div>
       </div>
     </header>
