@@ -118,7 +118,7 @@ import { FaLinkedin } from "react-icons/fa";
   />
   <div>
     <strong style={{ display: "flex", alignItems: "center" }}>
-    Manan Sheth, Independent Consultant   
+    Manan Sheth, Confidential   
     <a 
         href="https://www.linkedin.com/in/mananmsheth/" 
         target="_blank" 
