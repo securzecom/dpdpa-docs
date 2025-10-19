@@ -30,6 +30,44 @@ In both cases, the transfer is not automatically permitted. The Data Fiduciary m
 
 ---
 
+#### **Case 1: Cloud Servers Located Outside India**
+
+If your organization (the **Data Fiduciary**) stores or processes **personal data of Indian Data Principals** on **foreign cloud regions** — such as **AWS US-East**, **GCP Singapore**, or **Azure Europe** — it qualifies as a **cross-border data transfer**.
+
+Such transfer is **allowed only if**:
+
+1. No government order **prohibits** the destination country; and  
+2. The foreign entity (AWS, GCP, etc.) maintains **comparable data protection standards**, as required by **DPDPA obligations**.
+
+**Example:**  
+If you use **AWS Singapore**, you remain responsible for ensuring:
+- AWS acts only as a **Data Processor** under your instructions.  
+- It provides **technical and organizational safeguards** (encryption, access control, monitoring).  
+- It does **not transfer data onward** without your consent or a valid legal basis.
+
+---
+
+#### **Case 2: Cloud with Data Centers in India but Global Backup / Replication**
+
+Many cloud providers — such as **AWS (Mumbai Region)** and **GCP (Delhi-NCR Region)** — host data within India but still perform **replication, telemetry, or disaster recovery (DR)** to servers outside India.
+
+In such cases:
+- Even **temporary replication or metadata flow** outside India counts as **cross-border data transfer** under **Rule 14**.  
+- You must ensure that all such transfers comply with **DPDPA’s adequacy and lawful purpose** principles.  
+- **Contractual clauses** (e.g., **Data Processing Addendums (DPAs)**, **Standard Contractual Clauses (SCCs)**) should **restrict unauthorized sub-processing** or storage outside approved regions.
+
+---
+
+:::tip Compliance Tip
+Organizations using cloud services should:
+- Prefer **India-based regions** where feasible.  
+- Include **data localization and transfer clauses** in their vendor agreements.  
+- Monitor for **Central Government notifications** that may restrict or whitelist specific countries.  
+:::
+
+
+---
+
 ### 2. Government Oversight  
 
 The **Central Government** retains the power to define:  
