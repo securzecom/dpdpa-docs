@@ -74,7 +74,7 @@ import { FaLinkedin } from "react-icons/fa";
   />
   <div>
     <strong style={{ display: "flex", alignItems: "center" }}>
-    Gaurri Sapple, Associate Vice President - Security Engineering   
+    Gaurri Sapple, Associate Vice President - Security Engineering -  Protectt.ai
     <a 
         href="https://www.linkedin.com/in/gaurisaple/" 
         target="_blank" 
