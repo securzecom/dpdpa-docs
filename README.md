@@ -75,6 +75,63 @@ All contributions are welcome to this repository to enhance the content over tim
 If you’d like to improve explanations, add examples, or suggest clarifications, feel free to open a pull request.  
 Please ensure that your contributions align with the **DPDPA framework** and maintain the accuracy of legal and technical details.
 
+---
+## Review Panel
+<table>
+  <tr>
+    <td align="center" style="vertical-align: top; text-align: left;">
+      <img src="/static/img/manan-sheth.jpeg"/><br/>
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Manan Sheth, Confidential</strong>
+      <a href="https://www.linkedin.com/in/mananmsheth/" target="_blank" style="margin-left: 6px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" height="18" alt="LinkedIn"/>
+      </a><br/><br/>
+      Manan Sheth is a cybersecurity consultant and CISSP-certified professional with hands-on experience in incident response, third-party risk management (TPRM), and data privacy across the APAC region. He has worked with leading firms such as EY and Control Risks, delivering security architecture reviews, SOC effectiveness assessments, and governance frameworks for critical infrastructure and enterprise clients. Manan holds an MBA in Cybersecurity Management from the National Forensic Sciences University (NFSU) and brings a strong focus on operational resilience, GRC, and ISO 27001-based security implementation.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="vertical-align: top; text-align: left;">
+      <img src="/static/img/swapnali-naik.jpeg"/><br/>
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Swapnali Naik, Independent Consultant</strong>
+      <a href="https://www.linkedin.com/in/swapnali-naik-042a5363/" target="_blank" style="margin-left: 6px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" height="18" alt="LinkedIn"/>
+      </a><br/><br/>
+      Swapnali Naik with over 23 years of extensive experience is a seasoned audit and compliance professional with deep expertise in ISO 9001, 20000, 27001, ITGC, SOC controls, Data Centre and customer audits, and enterprise risk management. She has been recognized by BSI auditors for excellence in streamlining audit processes, timely closure of findings, and driving stronger governance through risk-based internal controls and compliance frameworks.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="vertical-align: top; text-align: left;">
+      <img src="/static/img/gaurri-sapple.png"/><br/>
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Gaurri Sapple, Associate Vice President - Security Engineering, Protectt.ai</strong>
+      <a href="https://www.linkedin.com/in/gaurisaple/" target="_blank" style="margin-left: 6px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" height="18" alt="LinkedIn"/>
+      </a><br/><br/>
+      Gauri Saple - Cybersecurity & GRC leader, CISA and ISO-certified, with 12+ years across ISMS, SOC 2, privacy, BCP and audits. She has served clients as a vCISO, led security programs in India and overseas, and speaks on sectoral compliance (e.g., SEBI cybersecurity mandates). Gauri is the author of Practical GRC Implementation (Shroff, 2025) and has held roles including Senior Manager (BSC Advisors) and AVP–Security Engineering (Protectt.ai).
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="vertical-align: top; text-align: left;">
+      <img src="/static/img/sundar.jpeg"/><br/>
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Sundaravenkataraman Sundararaman, GRC Lead - OneCard</strong>
+      <a href="https://www.linkedin.com/in/ssvrnyl/" target="_blank" style="margin-left: 6px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" height="18" alt="LinkedIn"/>
+      </a><br/><br/>
+      Sundar is a fintech-focused cybersecurity and GRC leader, currently GRC Lead at FPL Technologies (OneCard), where he partners with CXOs to align security and privacy with business goals. He builds and uplifts programs across incident management, SOC/SIEM, cloud security, and cryptography, with hands-on experience implementing PCI DSS, ISO 27001, and RBI-aligned controls. Previously CISO/AVP at LivQuik and a long-time security leader at M2P Fintech, he is a frequent speaker and panelist on data protection and cyber resilience.
+    </td>
+  </tr>
+  
+</table>
+
 Read [LICENSE](https://github.com/securzecom/dpdpa-docs/blob/main/LICENSE.md)
 
 ---
