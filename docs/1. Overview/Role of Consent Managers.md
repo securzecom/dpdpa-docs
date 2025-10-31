@@ -22,7 +22,7 @@ One of the most innovative features of the **Digital Personal Data Protection Ac
 - **Accountability and Record-Keeping**  
   A Consent Manager must maintain accurate records of when consent was given, for what purpose, and when it was withdrawn. These records can serve as proof in case of disputes or investigations.  
 
-  :::critical Critical Point
+  :::danger Critical Point
   Record-keeping is legally important because it provides evidence in regulatory investigations or disputes between individuals and organizations.
   :::
 
