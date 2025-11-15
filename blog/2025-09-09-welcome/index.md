@@ -1,6 +1,6 @@
 ---
-slug: welcome
-title: Credits
+slug: board
+title: Board
 
 ---
 
