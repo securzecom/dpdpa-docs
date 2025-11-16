@@ -38,7 +38,7 @@ export default [
     exact: true
   },
   {
-    path: '/board',
+    path: '/blog',
     component: ComponentCreator('/blog', '4e0'),
     exact: true
   },
@@ -63,8 +63,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/board',
-    component: ComponentCreator('/blog/board', '586'),
+    path: '/blog/blog',
+    component: ComponentCreator('/blog/blog', '011'),
     exact: true
   },
   {

@@ -105,7 +105,7 @@ const config = {
             position: 'left',
             label: 'Guide',
           },
-          {to: '/board', label: 'Board', position: 'left'},
+          {to: '/blog', label: 'Board', position: 'left'},
           {
             href: 'https://securze.com/',
             label: 'DPDPA Implementation',

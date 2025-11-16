@@ -93,7 +93,7 @@ export default {
           "label": "Guide"
         },
         {
-          "to": "/board",
+          "to": "/blog",
           "label": "Board",
           "position": "left"
         },

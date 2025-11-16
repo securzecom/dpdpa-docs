@@ -1,5 +1,5 @@
 ---
-slug: board
+slug: blog
 title: Board
 
 ---
