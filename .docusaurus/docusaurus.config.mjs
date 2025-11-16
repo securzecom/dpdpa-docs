@@ -211,7 +211,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 A community project initiative by Navneetpriya Softech Solutions LLP (Securze)"
+      "copyright": "Copyright © 2025 A community project powered by Securze - a cyber-security brand under Navneetpriya Softech Solutions LLP"
     },
     "prism": {
       "theme": {

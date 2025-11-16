@@ -219,7 +219,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} A community project initiative by Navneetpriya Softech Solutions LLP (Securze)`,
+        copyright: `Copyright © ${new Date().getFullYear()} A community project powered by Securze - a cyber-security brand under Navneetpriya Softech Solutions LLP`,
       },
       prism: {
         theme: prismThemes.github,
