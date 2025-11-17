@@ -37,7 +37,7 @@ sidebar_position: 1
 This ensures jurisdictional accountability — only companies governed by Indian law can operate as Consent Managers. It allows the **Data Protection Board of India (DPBI)** to enforce compliance and oversight directly under Indian regulations.  
 
 :::info Example  
-A fintech startup registered under the Companies Act, 2013 in Bengaluru may apply to become a Consent Manager. However, a foreign company or offshore entity cannot be directly registered — it must first incorporate in India.  
+A fintech startup registered under the Companies Act, 2013 in Bengaluru may apply to become a Consent Manager. However, a foreign company or offshore entity cannot be directly registered — it must be incorporated in India.  
 :::
 
 ---

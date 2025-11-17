@@ -130,6 +130,7 @@ Operate a public grievance mechanism allowing users to raise complaints about de
 - Provide a visible “Contact Us / Report Issue” channel inside the app.  
 - Assign trained officers and maintain response SLAs (e.g., acknowledge within 24 hours, resolve within 7 days).  
 - Maintain case tracking numbers and escalation workflows.
+- Provide response to the grievances of Data Principals 90 days [*Rule 14(3)]*
 :::
 
 :::tip Data Security and Compliance  
@@ -163,6 +164,8 @@ If a Consent Manager experiences a major data breach exposing millions of consen
 
 <details>
   <summary><strong>What happens if a Consent Manager Faces a Ransomware or Data-Breach Incident?</strong></summary>
+
+If a Consent Manager faces a ransomware attack or data breach, they must immediately inform the Data Protection Board and activate their Cyber Crisis Management Protocol. The incident should be contained quickly, stakeholders should be notified, and a root-cause analysis must be carried out. Corrective and preventive actions must then be applied, systems restored to normal, and a detailed update of all actions taken must be submitted to the Board within 72 hours.
 
 A ransomware or data-breach incident at a Consent Manager is treated as a **major compliance and trust failure**. Since Consent Managers maintain the central repository of consent records, any compromise affects both Data Fiduciaries and millions of Data Principals.
 

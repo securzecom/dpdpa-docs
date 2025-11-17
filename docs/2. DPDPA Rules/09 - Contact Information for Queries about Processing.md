@@ -26,6 +26,11 @@ For mobile applications, the contact details should be visible within the app’
 
 Acceptable formats include:  
 - A dedicated email address such as **privacy@[companyname].com** or **dpo@[companyname].in**  
+
+:::tip Tip
+There is a high likelihood that spammers will target a common address like dpo@companyname.in. Therefore, it is recommended to create a slightly different variation - such as dpofficer@companyname.in, dataprotect@companyname.in, dpo_company@companyname.in, or similar - to reduce spam risk while still keeping the address easily identifiable for users.
+:::
+
 - A web form for privacy requests linked from the privacy notice  
 - A phone number for urgent data-protection queries  
 
@@ -117,6 +122,12 @@ A crypto exchange designates its FIU-IND Compliance Officer as the official cont
 
 :::info Government Services  
 Citizen-service portals list a **Data Governance Officer or Nodal Officer** as the authorised contact for privacy inquiries. The contact details are displayed on the portal’s **Privacy and Terms** section as well as in acknowledgment emails sent after a grievance or data-access request.  
+:::
+
+:::tip Physical Form
+Where required, a physical form should also be provided at branch locations for individuals who visit in person to request a change, deletion, or raise any privacy-related query about their personal data. 
+
+These physical forms must also be properly logged, tracked, and processed to ensure that the requested modifications or erasures are completed within the applicable timelines.
 :::
 
 ---

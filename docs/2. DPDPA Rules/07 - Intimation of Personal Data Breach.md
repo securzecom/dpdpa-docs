@@ -33,6 +33,8 @@ Rule 7 specifies the precise **notification obligations** following a personal-d
 
 The goal is twofold: to enable citizens to protect themselves, and to help the regulator assess the adequacy of the organisation’s safeguards and response.
 
+Additionally, the DPBI will maintain a central database of incidents and will be able to correlate patterns across multiple similar attacks, including linking them to possible nation-state activities that may require government intervention.
+
 ---
 
 
@@ -201,7 +203,7 @@ In addition to user communication, the Data Fiduciary must report every breach t
 - **Initial Notification (Without Delay):** A short preliminary report sent immediately after detection, summarising the nature, extent, timing, and probable impact of the breach.  
 - **Detailed Report (Within 72 Hours):** A comprehensive submission including investigation findings, sequence of events, root cause, corrective measures, responsible individuals (if identified), and evidence of notifications sent to users.  
 
-The 72-hour limit mirrors global best practices. The Board may allow a longer period in exceptional circumstances, but the fiduciary must formally request it in writing with justification.  
+The 72-hours limit mirrors global best practices. The Board may allow a longer period in exceptional circumstances, but the fiduciary must formally request it in writing with justification.  
 
 An effective process requires internal playbooks defining escalation paths: detection → assessment → legal & DPO review → Board notification → public/user communication.
 
@@ -209,7 +211,7 @@ An effective process requires internal playbooks defining escalation paths: dete
 
 ### 3. Understanding “Awareness” of a Breach  
 
-The 72-hour window begins **when the organisation becomes aware** that a breach involving personal data has occurred—not merely when an incident is first suspected.  
+The 72-hours window begins **when the organisation becomes aware** that a breach involving personal data has occurred—not merely when an incident is first suspected.  
 
 Awareness typically means confirmation through initial investigation, detection systems, or reports from processors. Therefore, organisations must maintain robust **incident-detection and verification procedures** to avoid ambiguity about when “awareness” begins.
 
@@ -254,11 +256,11 @@ Maintaining this documentation helps prove that the fiduciary acted “without d
 ### 7. Example Scenarios  
 
 :::info BFSI
-A bank detects unauthorised database access revealing 500 customer PAN records. The bank immediately locks accounts, alerts affected customers via email/SMS, and informs DPBI within 24 hours with a detailed report following 48 hours later. This satisfies Rule 7.  
+A bank discovers unauthorised access to its database exposing 50000 customer PAN records. It immediately blocks the intrusion by locking affected accounts, notifies customers through email/SMS, and reports the incident to the DPBI within 24 hours, followed by a detailed report within the next 48 hours. This meets the requirements of Rule 7.
 :::
 
 :::info Healthcare 
-A hospital’s billing system is hit by ransomware, encrypting patient files. The hospital notifies patients, explains potential disclosure of insurance details, informs DPBI within 72 hours, and outlines its mitigation and recovery plan.  
+A hospital’s billing system is hit by ransomware, encrypting patient files. The hospital notifies patients, explains potential disclosure of insurance details, informs DPBI within 72 hours, and outlines its mitigation and recovery plan.
 :::
 
 :::danger Violation
@@ -270,7 +272,7 @@ A social-media app delays disclosure for weeks while conducting an internal inqu
 
 - Organisations should maintain a **Breach Response Playbook** aligned with Rule 7. 
 - It must define severity tiers, notification templates, responsible teams, escalation matrices, and communication protocols with regulators and users. 
-- Integrating these processes with existing SOC tools ensures real-time visibility and faster response. Periodic breach-simulation drills further strengthen preparedness.
+- Integrating these processes with existing SOC tools ensures real-time visibility and faster response. Periodic breach-simulation and table-top exercise drills further strengthen preparedness.
 
 ---
 

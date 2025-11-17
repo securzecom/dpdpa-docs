@@ -15,6 +15,17 @@ sidebar_position: 6
 
 Every data element that could directly or indirectly identify an individual must be protected through strong cryptographic and anonymisation practices. This is the **first and most fundamental line of defence** against breaches.
 
+#### Data Protection Techniques
+
+| Technique          | What It Does | Reversible? | Typical Use Cases |
+|--------------------|--------------|-------------|--------------------|
+| **Encryption**     | Converts data into unreadable cipher using a key. | Yes (with the key) | Data security, transmission protection, storage security. |
+| **Masking**        | Partially hides or replaces data to limit exposure. | Partially / No | Displaying data safely, support, analytics, demos. |
+| **Tokenization**   | Replaces sensitive data with a non-sensitive token mapped in a secure vault. | Yes (via token vault) | Payment systems, PCI-DSS compliance, secure transactions. |
+| **Anonymization**  | Irreversibly removes identifiers so individuals cannot be identified. | No | Research, analytics, privacy-preserving datasets. |
+| **Pseudonymization** | Replaces identifiers with artificial identifiers, but linkage is possible via a key. | Yes (with reference files) | Controlled analytics, privacy with traceability, regulated environments. |
+
+
 Encryption should be implemented both at rest and in transit. Databases must use AES-256, ChaCha20, or equivalent algorithms; file systems can leverage native disk encryption such as BitLocker (Windows) or LUKS (Linux). Transport security must enforce TLS 1.3 with Perfect Forward Secrecy and modern ciphers.  
 
 Masking hides sensitive values in display or reporting environments — e.g., showing “XXXX-XXXX-4321” instead of a full account number. Tokenisation replaces live identifiers with random tokens mapped in a secure vault. Open-source tools like **HashiCorp Vault**, **Apache Ranger**, or enterprise systems such as **Thales CipherTrust**, **AWS KMS**, or **Azure Key Vault** are commonly used to manage keys and tokens.
@@ -96,7 +107,7 @@ Contracts must explicitly define the processor’s duties:
 Templates should align with **ISO 27701 Annex D** or **NIST SP 800-171** standards. Fiduciaries can perform **vendor-risk assessments** using tools like **UpGuard**, **SecurityScorecard**, or free checklists such as the **OWASP SAMM Vendor Security** framework.
 
 :::info Example
-A retail bank engages a managed-cloud provider under a contract mandating ISO 27001 compliance, 24-hour breach reporting, and quarterly vulnerability scans. These clauses demonstrate compliance with Rule 6(f).
+A retail bank engages a managed-cloud provider under a contract mandating ISO 27001 compliance, 6-hours breach reporting to RBI & Cert-In, and quarterly vulnerability scans. These clauses demonstrate compliance with Rule 6(f).
 :::
 
 :::tip Drafting or reviewing vendor contracts?  
@@ -110,7 +121,7 @@ Learn how <a href="https://securze.com/governance-risk-and-compliance/" target="
 
 Security must be embedded into the organisation’s structure, not treated as a product. An **Information Security Management System (ISMS)** aligned with **ISO 27001** or **NIST Cybersecurity Framework** should define roles, policies, and escalation mechanisms. Employee training, awareness campaigns, and simulated phishing exercises build a “human firewall”.  
 
-Regular **vulnerability assessments and penetration tests** (using tools like **OpenVAS**, **Burp Suite**, **Metasploit**, or enterprise scanners such as **Qualys Guard**, **Tenable Nessus**) validate control effectiveness. Incident Response Plans should assign responsibilities, communication templates, and post-mortem reviews. A governance committee — chaired by the CISO or Data-Protection Officer — should review audit outcomes and improvement actions quarterly.
+Regular **vulnerability assessments and penetration tests** (using tools like **OpenVAS**, **Burp Suite**, **Metasploit**, or enterprise scanners such as **Qualys Guard**, **Tenable Nessus**) validate control effectiveness. Incident Response Plans should assign responsibilities, communication templates, and post-mortem reviews. A governance committee — chaired by the CISO and/or Data-Protection Officer — should review audit outcomes and improvement actions quarterly.
 
 ---
 

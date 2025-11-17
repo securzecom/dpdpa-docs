@@ -20,8 +20,8 @@ One of the most innovative features of the **Digital Personal Data Protection Ac
   Consent Managers are required to make the process of granting or withdrawing consent simple, accessible, and transparent. They must display the purpose of data collection, the type of data requested, and the organization seeking it in plain language, free from technical jargon.
 
 - **Accountability and Record-Keeping**  
-  A Consent Manager must maintain accurate records of when consent was given, for what purpose, and when it was withdrawn. These records can serve as proof in case of disputes or investigations.  
-
+  A Consent Manager must maintain accurate records of when consent was given, for what purpose, and when it was withdrawn. These records can serve as proof in case of disputes or investigations. **First Schedule - Part B (4C)** states it should be maintained for **Seven Years**.
+  
   :::danger Critical Point
   Record-keeping is legally important because it provides evidence in regulatory investigations or disputes between individuals and organizations.
   :::

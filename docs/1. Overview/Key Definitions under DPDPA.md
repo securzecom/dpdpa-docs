@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-To understand the framework of the **Digital Personal Data Protection Act (DPDPA), 2023**, it is essential to become familiar with its **core definitions**. These terms are consistently used throughout the Act and the **Draft Rules of 2025**, and they form the foundation for interpreting rights, duties, and obligations.
+To understand the framework of the **Digital Personal Data Protection Act (DPDPA)**, it is essential to become familiar with its **core definitions**. These terms are consistently used throughout the Act, and they form the foundation for interpreting rights, duties, and obligations.
 
 :::info Data Principal
   A Data Principal is the individual to whom the personal data relates, and this includes both children and persons with disabilities who are represented by lawful guardians.
@@ -47,6 +47,6 @@ To understand the framework of the **Digital Personal Data Protection Act (DPDPA
 ---
 
 By defining these roles and terms, the **DPDPA** creates clarity in accountability, ensuring that:  
-- Individuals understand their rights  
+- Individuals (Data Principals) understand their rights  
 - Organizations recognize their duties  
 - Regulators can enforce compliance effectively  

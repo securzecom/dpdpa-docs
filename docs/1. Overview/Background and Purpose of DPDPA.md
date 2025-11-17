@@ -47,4 +47,4 @@ Implementation of the Act is not optional. The DPDP Act Rules were officially re
 
 At its core, the DPDPA is a response to the digital transformation of India’s economy and society. It is both a **protective shield for individuals** and a **trust-building mechanism for businesses**. By setting clear rules, creating a dedicated regulatory body in the form of the **Data Protection Board**, and aligning India with international best practices, the Act is not merely a law but a **cornerstone for India’s secure digital future**. 
 
-Two words to summarize - **Trusted Shield** *[-Gokulavan Jayaraman](https://www.linkedin.com/in/gokulavan/)*
+Two words to summarize - **Trusted Shield** *[-Gokulavan Jayaraman](https://www.linkedin.com/in/gokulavan/), Infosec Leader @Mahindra Group*

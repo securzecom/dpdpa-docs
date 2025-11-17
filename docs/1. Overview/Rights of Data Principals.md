@@ -11,15 +11,11 @@ sidebar_position: 4
 
 ## TL;DR – Core rights at a glance
 
-1. **Right to Access Information** — Obtain a summary of personal data being processed, processing purposes/activities, identities of recipients/processors, and other prescribed details.  
+1. **Right to Information** — Obtain a summary of personal data being processed, processing purposes/activities, identities of recipients/processors, and other prescribed details.  
 2. **Right to Correction, Completion, Updating & Erasure** — Fix mistakes, complete missing fields, update old records, and erase consent-processed data (subject to legal retention).  
 3. **Right to Grievance Redressal** — Complain to the Data Fiduciary/Consent Manager; escalate unresolved issues to the Data Protection Board of India.  
 4. **Right to Withdraw Consent** — Withdraw consent with **comparable ease** to giving consent; processing must stop unless another legal basis applies.  
 5. **Right to Nominate** — Nominate a person to exercise rights upon death or incapacity.
-
-:::tip Note
-Rights are strongest for **consent-based** processing. Where processing is under specific **legitimate uses**, statutory mandates, or state functions, some rights may be limited (with reasons documented and communicated).
-:::
 
 ---
 
@@ -28,7 +24,7 @@ Rights are strongest for **consent-based** processing. Where processing is under
 - **Rule 3 (Notice)** mandates discoverable, multilingual notices that include **how to exercise each right**, grievance routes, and Board escalation.
 - **Rules on consent/withdrawal** define **comparable ease**, record-keeping, and Consent Manager obligations.
 - **Security/TOMs rules** (technical & organizational safeguards) require accuracy, integrity, authentication, logging, vendor controls, and evidence for audits.
-- **Breach rule** prescribes rapid notification (e.g., Board within 72h) and user communication.
+- **Breach rule** prescribes rapid notification (e.g., Board within 72 hours) and user communication.
 - **Retention/deletion rules** operationalize erasure and purpose-bound storage.
 - **Cross-border rule** restricts conditions for availability/processing abroad.
 - **Schedules** provide templates and governance scaffolding (notice content, TOMs, retention classes, breach templates, Board procedures).
@@ -99,7 +95,7 @@ Company erases profiles across CRM/analytics/ads and notifies partners; retains 
 
 :::tip Healthcare
 Patient corrects a wrong blood group.  
-Provider updates the EHR, **notifies labs** and any care partners, and logs the propagation.
+The provider updates the EHR, notify the laboratory and any care partners, log the change, and proactively inform the patient about any potential risks that could arise from the earlier incorrect information.
 :::
 
 :::tip Consumer apps
@@ -107,7 +103,7 @@ User updates phone/email.
 App updates auth/notification systems and **syncs** with SMS/email vendors; confirms completion to the user.
 :::
 
-### Product/ops checklist (Correction/Erasure)
+### Product/Ops checklist (Correction/Erasure)
 - Unified **change/erase form** with safe **identity verification**.  
 - **Propagation**: Webhooks/API to processors; DPA clauses enforce completion.  
 - **Decline templates**: Statutory retention rationale + auto-erase date.  
@@ -116,6 +112,8 @@ App updates auth/notification systems and **syncs** with SMS/email vendors; conf
 :::warning Statutory retention overrides erasure
 If law requires keeping data (e.g., AML, taxation, medical record laws), fiduciaries **must** retain it. Provide **partial-grant** with rationale and the **future deletion date**.
 :::
+
+Post erasure a certificate or communication confirming that this has been done needs to be sent to subject.
 
 ---
 
@@ -139,7 +137,7 @@ You can complain about **failure to honor rights** or other obligations under th
 
 ## Right 4 — Withdraw consent (comparable ease)
 
-You can **withdraw consent** as easily as it was given. Processing must **stop within a reasonable time** unless another legal basis applies.
+You can **withdraw consent** as easily as it was given. Processing must **stop within a reasonable time** unless another legal regulatory basis applies.
 
 :::info How Rules 3–22 and Schedules enable this
 - **Rule 3 (Notice)**: Must spell out **comparable ease** withdrawal; no dark patterns.  
@@ -168,7 +166,11 @@ If consent was **one-tap** in a settings toggle or during onboarding, withdrawal
 
 ## Right 5 — Nominate
 
-You may **nominate** a person to exercise your rights upon your **death or incapacity**.
+You may **nominate** a person to exercise your rights upon your **death or incapacity**. 
+
+:::tip Note
+The Right to Nominate is considered a unique and innovative feature of the Digital Personal Data Protection Act (DPDPA), 2023, that is not explicitly granted in a general form to data subjects/consumers under the GDPR or the CCPA.
+:::
 
 :::info How Rules 3–22 and Schedules enable this
 - **Notice**: Must describe **nomination flow** and acceptable **proofs of authority**.  
@@ -190,11 +192,11 @@ You may **nominate** a person to exercise your rights upon your **death or incap
 | **4–7. Consent & Withdrawal** | Verifiable consent; **comparable ease** withdrawal; records. | **Control**: give/withdraw quickly without friction. |
 | **8–10. Consent Manager** | Registration, obligations, standardized interfaces. | **Centralized control** across services. |
 | **11–12. Security (TOMs)** | Authentication, authorization, integrity, logging; processor controls. | Rights responses are **accurate, safe, auditable**. |
-| **13. Personal Data Breach** | Notify Board (e.g., within 72h) and affected users per plan. | **Timely awareness** and mitigation for you. |
-| **14. Cross-Border Processing** | Conditions/restrictions for making data available abroad. | Keeps rights **enforceable** across borders. |
+| **13. Personal Data Breach** | Notify Board (e.g., within 72 hours) and affected users per plan. | **Timely awareness** and reactive actions. |
+| **14. Cross-Border Processing** | Conditions/restrictions for making data available abroad. | Keeps rights **enforceable** across borders and makes sure that data is not stored in unapproved geographies. |
 | **15–16. Retention & Deletion** | Purpose-bound retention classes; deletion triggers. | **Real erasure** after expiry/withdrawal. |
 | **17–18. Children & PwDs** | Verifiable guardian consent; special protections; tailored notices. | **Enhanced safeguards** for vulnerable groups. |
-| **19–20. Significant Data Fiduciaries** | DPIA, audits, algorithmic transparency, accountability. | Higher-risk entities must do **more** to protect rights. |
+| **19–20. Significant Data Fiduciaries** | DPIA (Data Protection Impact Analysis), audits, algorithmic transparency, accountability. | Higher-risk entities must do **more** to protect rights. |
 | **21–22. State & Board Ops** | State instrumentality carve-outs; Board procedures. | Clarifies **how complaints are handled** nationally. |
 
 :::tip Implementation note
@@ -205,7 +207,7 @@ Link each Rule to **internal controls** (policy, SOP, runbook, queue), **technic
 
 ## Schedules — Practical impact on your rights
 
-- **Notice Schedule** — Expected content, placement, and language coverage (including Eighth Schedule languages).  
+- **Notice Schedule** — Expected content, placement, and language coverage (including any language specified in the Eighth Schedule to the Constitution of India).  
 - **TOMs Schedule** — Baseline security controls for rights flows: identity proofing, logging, change controls, vendor propagation, periodic testing.  
 - **Retention/Deletion Schedule** — Classes & durations; deletion job requirements; handling of backups and archives.  
 - **Breach Schedule** — Templates: what to tell affected users (nature, scope, mitigations, contact).  
@@ -275,9 +277,9 @@ You can modify or revoke this nomination anytime in **Settings → Privacy → N
 - [ ] **Self-service UX** for Access / Correction / Erasure / Withdrawal / Grievance / Nomination.  
 - [ ] **Identity proofing** proportional to risk; avoid dark patterns.  
 - [ ] **Data map** with processors and categories; live **processing inventory**.  
-- [ ] **Propagation** of changes/withdrawals to processors via API/webhooks; DPA enforcement.  
+- [ ] **Propagation** of changes/withdrawals to processors via API/webhooks; DPA (Data Processing Agreement) enforcement, enrusing that every processor promptly updates, corrects, or deletes the data as required, following the agreed security measures, and complies with legal obligations under the DPDP Act. 
 - [ ] **Retention engine**: purpose tags, timers, backup/restore deletion patterns.  
-- [ ] **Breach playbook**: Board notice workflow (e.g., within 72h), user comms templates.  
+- [ ] **Breach playbook**: Board notice workflow (e.g., within 72 hours), user comms templates.  
 - [ ] **Grievance queue**: SLA targets, escalation, audit logging.  
 - [ ] **Evidence pack**: rights-request register, decision logs, exports, screenshots.  
 - [ ] **Consent Manager integration** where applicable.  
@@ -292,10 +294,10 @@ Timelines should be **published** in the notice/portal and met consistently; reg
 :::
 
 :::info Can a company refuse my erasure request?
-Yes, **partially**, if other laws require retention. They must explain **what** and **why**, and **when** it will be deleted.
+Yes, **partially or completely**, if other laws or regulatory requirement prescribes. They must explain **what** and **why**, and **when** it will be deleted.
 :::
 
-:::info What happens if my data was breached?
+:::info What happens if my data has been breached?
 You should receive a **timely notice** describing the incident and recommended steps; the Board should be notified per the breach rule.
 :::
 

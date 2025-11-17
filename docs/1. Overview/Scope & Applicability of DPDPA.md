@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-The **Digital Personal Data Protection Act (DPDPA), 2023**, along with its **Draft Rules of 2025**, establishes a framework that applies broadly across entities and sectors in India. Its scope is deliberately wide to ensure that any processing of personal data affecting individuals within India is governed by uniform standards of **accountability, transparency, and security**.
+The **Digital Personal Data Protection Act (DPDPA)** notified on **14th November, 2025**, establishes a framework that applies broadly across entities and sectors in India. Its scope is deliberately wide to ensure that any processing of personal data in digital format affecting individuals within India is governed by uniform standards of **accountability, transparency, and security**.
 
 - The Act applies to all processing of digital personal data that takes place within the territory of India, regardless of whether the processing entity is located in India or abroad.  
 - The Act applies to entities outside India when they process personal data in connection with offering goods or services to individuals located within India.  
@@ -14,4 +14,4 @@ The **Digital Personal Data Protection Act (DPDPA), 2023**, along with its **Dra
 - The Act provides further **exemptions** for processing carried out solely for research, statistical, or archival purposes, subject to conditions that ensure data is not misused.  
 
 
-The applicability of DPDPA is **immediate once the Rules come into force**, and organizations must prepare proactively. This means reviewing existing data practices, updating consent mechanisms, implementing secure data management systems, and establishing processes for breach notifications and grievance redressal. Any delay in readiness can expose organizations to **regulatory penalties, reputational damage, and restrictions** on their ability to operate in India’s digital ecosystem.  
+The DPDP Act Rules came into effect on 14 November 2025, and organizations must now begin their compliance journey without delay. All entities are required to achieve full implementation within the 18-month deadline, while Consent Managers must comply within 12 months from the enforcement date. This involves reviewing existing data practices, updating consent workflows, strengthening data security controls, and establishing clear processes for breach notifications and grievance redressal. Delayed readiness may expose organizations to regulatory penalties, reputational risks, and operational limitations within India’s digital ecosystem.

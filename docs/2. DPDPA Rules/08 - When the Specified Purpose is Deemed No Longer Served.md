@@ -18,7 +18,7 @@ sidebar_position: 8
 
 Rule 8 introduces the concept of **purpose-linked retention**—a critical data-governance principle ensuring that personal information is deleted once it no longer serves a lawful business or statutory purpose.  
 
-It applies to certain classes of Data Fiduciaries and activities listed in the **Third Schedule**, each associated with a defined inactivity or dormancy period after which data must be erased unless there is a legal reason to retain it.
+It applies to certain classes of Data Fiduciaries and activities listed in the **Third Schedule**, each associated with a defined inactivity or dormancy period after which data must be erased unless there is a legal or regulatory reason to retain it.
 
 ---
 

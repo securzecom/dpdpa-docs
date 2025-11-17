@@ -48,7 +48,7 @@ If a government portal uses beneficiary data collected for one welfare scheme (s
 :::
 
 :::info Example
-A State Transport Department processing driving-licence applications may access an applicant’s biometric and address information through Aadhaar authentication for verification. This is permissible if the data is used strictly for licence issuance, protected as per the Second Schedule, and deleted after statutory retention.
+A State Transport Department processing driving-licence applications may access an applicant’s biometric and address details through Aadhaar authentication for verification. This is permitted as long as the information is used strictly for issuing the licence, handled in accordance with Aadhaar authentication protocols, protected as required under the Second Schedule, and deleted once the statutory retention period ends.
 :::
 
 <details>
@@ -98,7 +98,7 @@ A **State Transport Department** partners with a private technology vendor to de
 This collaboration is permitted if the vendor acts as a **data processor on behalf of the State**, bound by a formal contract specifying purpose, duration, confidentiality, and security obligations. The State remains the **data fiduciary**, retaining full accountability for compliance and user grievance handling.
 
 :::danger Violation scenario
-If the private vendor later uses the same citizen database to train AI facial-recognition models, conduct analytics for unrelated commercial projects, or transfer raw data abroad without authorisation, it constitutes a **serious violation**. Such misuse may lead to termination of contract, regulatory penalties, and even criminal liability under other applicable laws.
+If the private vendor later uses the same citizen database to train AI facial-recognition models, conduct analytics for unrelated commercial projects, or transfer raw data abroad without authorisation, it constitutes to a **serious violation**. Such misuse may lead to termination of contract, regulatory penalties, and even criminal liability under other applicable laws.
 :::
 
 </details>

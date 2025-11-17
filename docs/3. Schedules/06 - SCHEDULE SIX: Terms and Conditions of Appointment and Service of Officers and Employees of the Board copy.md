@@ -124,7 +124,7 @@ If an officer violates confidentiality norms or mishandles case data, disciplina
 
 ### Policy Significance  
 
-The Sixth Schedule embodies a **dual governance model** — operational autonomy for efficiency and procedural alignment with Central Government for integrity. It balances **public accountability** with the flexibility to engage external specialists.  
+The Sixth Schedule embodies a **dual governance model** — operational autonomy for efficiency and procedural alignment with the Central Government for integrity. It balances **public accountability** with the flexibility to engage external specialists.  
 
 By importing proven frameworks from the civil service system while enabling market-based hiring through NISG, the Schedule ensures that the Board can attract multidisciplinary expertise — legal, technical, and managerial — essential for enforcing India’s data-protection regime.  
 

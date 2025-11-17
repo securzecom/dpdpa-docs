@@ -18,7 +18,7 @@ The **Digital Personal Data Protection Act (DPDPA), 2023** requires every organi
 
 - **Breach Notification to the Board**  
   :::danger Critical Obligation
-  Every personal data breach must be reported to the **Data Protection Board of India within seventy-two hours (72)** of discovery. The notification must include details of the nature of the breach, the categories of personal data affected, and the remedial measures being taken.
+  Every personal data breach must be reported immediately to the **Data Protection Board of India within seventy-two hours (72)** of discovery. A detailed update, broad facts, events, measures, findings and intimations must be sent to DPBI. The notification must include details of the nature of the breach, the categories of personal data affected, and the remedial measures being taken.
   :::
 
 - **Notification to Individuals**  

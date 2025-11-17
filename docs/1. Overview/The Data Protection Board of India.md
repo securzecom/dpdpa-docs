@@ -19,6 +19,11 @@ The **Digital Personal Data Protection Act (DPDPA), 2023** establishes the **Dat
   If a telecom company fails to delete a user’s data after repeated requests, the individual can escalate the complaint to the Board, which can order the company to comply and even impose penalties.
   :::
 
+  :::info Example
+  If a micro finance company doesn’t remove the customers name from telecalling or email communication list (DNC list) for selling new products or cross selling financial products, despite the customer giving a clear indication of withdrawal from the marketing related activities. This qualifies for the complaint.
+  :::
+
+
 - **Investigating Data Breaches**  
   Organizations must notify the Board within seventy-two hours of a personal data breach. The Board has the power to examine the circumstances of the breach, verify whether security safeguards were adequate, and determine whether penalties should be imposed.
 

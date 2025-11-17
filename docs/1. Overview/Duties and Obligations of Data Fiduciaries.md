@@ -7,10 +7,10 @@ Under the **Digital Personal Data Protection Act (DPDPA), 2023**, every organiza
 ---
 
 - **Duty to Obtain Clear and Informed Consent**  
-  A Data Fiduciary must always inform individuals about why their data is being collected and how it will be used, before collecting it. Consent must be free, specific, informed, and unambiguous. Individuals should also be able to withdraw consent just as easily as they gave it.  
+  A Data Fiduciary must always inform individuals about why their data is being collected and how it will be used, before collecting it. Consent taken must be free, specific, informed, and unambiguous. Individuals should also be able to withdraw consent just as easily as they gave it.  
 
   :::info Example
-  If a shopping website asks for your phone number to deliver an order, it cannot later use that number for advertising without first asking your permission.
+  If a shopping website asks for your phone number to deliver an order, it cannot later use that number for advertising without first getting your consent.
   :::
 
 - **Duty to Provide Transparent Notices**  
@@ -25,6 +25,10 @@ Under the **Digital Personal Data Protection Act (DPDPA), 2023**, every organiza
 
 - **Duty to Report Data Breaches**  
   If there is a data breach, the organization must report it to the **Data Protection Board of India** as well as inform the affected individuals. The law expects this to be done quickly (within seventy-two hours) so that people can take steps to protect themselves.  
+
+  :::warning Note
+  In case of a regulated entity the timelines are as thin as 6 hours to their respective regulators, it’s advisable to report to Data Protection Board also at the same time if feasible
+  :::
 
   :::danger Example
   If a bank’s database is hacked, it must notify the regulator and also inform its customers so they can change passwords or monitor suspicious transactions.
