@@ -2,32 +2,8 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Credits",
+      "title": "Board",
       "permalink": "/blog/welcome",
-      "unlisted": false,
-      "date": "2025-09-09T00:00:00.000Z"
-    },
-    {
-      "title": "DPDPA-Bot",
-      "permalink": "/blog/dpdpa-bot",
-      "unlisted": false,
-      "date": "2025-09-09T00:00:00.000Z"
-    },
-    {
-      "title": "Credits",
-      "permalink": "/blog/Bot",
-      "unlisted": false,
-      "date": "2025-09-09T00:00:00.000Z"
-    },
-    {
-      "title": "Credits",
-      "permalink": "/blog/Bot",
-      "unlisted": false,
-      "date": "2025-09-09T00:00:00.000Z"
-    },
-    {
-      "title": "DPDPA-Bot",
-      "permalink": "/blog/bot",
       "unlisted": false,
       "date": "2025-09-09T00:00:00.000Z"
     }

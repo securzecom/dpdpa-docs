@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '0e1'),
+    component: ComponentCreator('/blog', '4e0'),
     exact: true
   },
   {
@@ -63,38 +63,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/blog',
-    component: ComponentCreator('/blog/blog', '011'),
-    exact: true
-  },
-  {
-    path: '/blog/bot',
-    component: ComponentCreator('/blog/bot', 'e28'),
-    exact: true
-  },
-  {
-    path: '/blog/Bot',
-    component: ComponentCreator('/blog/Bot', '4cf'),
-    exact: true
-  },
-  {
-    path: '/blog/Bot',
-    component: ComponentCreator('/blog/Bot', 'c15'),
-    exact: true
-  },
-  {
-    path: '/blog/dpdpa-bot',
-    component: ComponentCreator('/blog/dpdpa-bot', '69c'),
-    exact: true
-  },
-  {
     path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '26c'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '83a'),
+    component: ComponentCreator('/blog/welcome', '1a1'),
     exact: true
   },
   {
