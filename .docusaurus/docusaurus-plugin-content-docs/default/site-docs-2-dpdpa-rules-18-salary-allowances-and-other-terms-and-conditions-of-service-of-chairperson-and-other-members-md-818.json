@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
+  "title": "Rule 18: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
+  "description": "18. Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
+  "source": "@site/docs/2. DPDPA Rules/18 - Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
+  "permalink": "/docs/DPDPA Rules/Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "sidebar_position": 18
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 17: Appointment of Chairperson and Other Members",
+    "permalink": "/docs/DPDPA Rules/Appointment of Chairperson and Other Members"
+  },
+  "next": {
+    "title": "Rule 19: Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments",
+    "permalink": "/docs/DPDPA Rules/Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments"
+  }
+}

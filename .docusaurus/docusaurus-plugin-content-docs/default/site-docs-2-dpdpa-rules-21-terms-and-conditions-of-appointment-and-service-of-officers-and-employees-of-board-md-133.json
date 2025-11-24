@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Terms and Conditions of Appointment and Service of Officers and Employees of Board",
+  "title": "Rule 21: Terms and Conditions of Appointment and Service of Officers and Employees of Board",
+  "description": "21. Terms and Conditions of Appointment and Service of Officers and Employees of Board",
+  "source": "@site/docs/2. DPDPA Rules/21 - Terms and Conditions of Appointment and Service of Officers and Employees of Board.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Terms and Conditions of Appointment and Service of Officers and Employees of Board",
+  "permalink": "/docs/DPDPA Rules/Terms and Conditions of Appointment and Service of Officers and Employees of Board",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "sidebar_position": 21
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 20: Functioning of Board as Digital Office",
+    "permalink": "/docs/DPDPA Rules/Functioning of Board as Digital Office"
+  },
+  "next": {
+    "title": "Rule 22: Appeal to Appellate Tribunal",
+    "permalink": "/docs/DPDPA Rules/Appeal to Appellate Tribunal"
+  }
+}

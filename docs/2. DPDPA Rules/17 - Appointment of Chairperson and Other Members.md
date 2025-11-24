@@ -1,25 +1,26 @@
 ---
-sidebar_position: 16
+sidebar_position: 17
 ---
 
-# Rule 16: Appointment of Chairperson and Other Members
+# Rule 17: Appointment of Chairperson and Other Members
 
-<details>  
-  <summary><strong>Statutory Text — Rule 16: Appointment of Chairperson and Other Members.</strong> (click to expand)</summary>  
+<details>
+<summary><strong>17. Appointment of Chairperson and other Members</strong></summary>
 
-(1) The Central Government shall constitute a Search-cum-Selection Committee, with the Cabinet Secretary as the chairperson and the Secretaries to the Government of India in charge of the Department of Legal Affairs and the Ministry of Electronics and Information Technology and two experts of repute having special knowledge or practical experience in a field which in the opinion of the Central Government may be useful to the Board as members, to recommend individuals for appointment as Chairperson.  
+(1) The Central Government shall constitute a Search-cum-Selection Committee, with the Cabinet Secretary as the chairperson and the Secretaries to the Government of India in charge of the Department of Legal Affairs and the Ministry of Electronics and Information Technology and two experts of repute having special knowledge or practical experience in a field which in the opinion of the Central Government may be useful to the Board as members, to recommend individuals for appointment as Chairperson.
 
-(2) The Central Government shall constitute a Search-cum-Selection Committee, with the Secretary to the Government of India in the Ministry of Electronics and Information Technology as the chairperson and the Secretary to the Government of India in charge of the Department of Legal Affairs, and two experts of repute having special knowledge or practical experience in a field which in the opinion of the Central Government may be useful to the Board as members, to recommend individuals for appointment as a Member other than the Chairperson.  
+(2) The Central Government shall constitute a Search-cum-Selection Committee, with the Secretary to the Government of India in the Ministry of Electronics and Information Technology as the chairperson and the Secretary to the Government of India in charge of the Department of Legal Affairs, and two experts of repute having special knowledge or practical experience in a field which in the opinion of the Central Government may be useful to the Board as members, to recommend individuals for appointment as a Member other than the Chairperson.
 
-(3) The Central Government shall, after considering the suitability of individuals recommended by the Search-cum-Selection Committee, appoint the Chairperson or other Member, as the case may be.  
+(3) The Central Government shall, after considering the suitability of individuals recommended by the Search-cum-Selection Committee, appoint the Chairperson or other Member, as the case may be.
 
-(4) No act or proceeding of the Search-cum-Selection Committee specified in sub-rules (1) of this rule shall be called in question on the ground merely of the existence of any vacancy or absence in such committee or defect in its constitution.  
+(4) No act or proceeding of the Search-cum-Selection Committee specified in sub-rules (1) and (2) of this rule shall be called in question on the ground merely of the existence of any vacancy or absences in such committee or defect in its constitution.
 
-</details>  
+</details>
+
 
 ---
 
-Rule 16 outlines the **procedure for appointing the Chairperson and Members** of the **Data Protection Board of India (DPBI)**, establishing transparency, merit, and institutional integrity in its composition. It mandates the formation of dedicated **Search-cum-Selection Committees** to identify qualified candidates for both roles.  
+Rule 17 outlines the **procedure for appointing the Chairperson and Members** of the **Data Protection Board of India (DPBI)**, establishing transparency, merit, and institutional integrity in its composition. It mandates the formation of dedicated **Search-cum-Selection Committees** to identify qualified candidates for both roles.  
 
 ---
 
@@ -78,4 +79,4 @@ Securze advises enterprises and institutions interacting with the DPBI to mainta
 
 ---
 
-Rule 16 formalises the **appointment mechanism** of the Data Protection Board’s leadership. By establishing expert-driven selection committees, it ensures impartiality, technical depth, and administrative efficiency in the constitution of the Board.  
+Rule 17 formalises the **appointment mechanism** of the Data Protection Board’s leadership. By establishing expert-driven selection committees, it ensures impartiality, technical depth, and administrative efficiency in the constitution of the Board.  

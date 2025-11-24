@@ -5,10 +5,19 @@ sidebar_position: 5
 # Rule 5: Processing for provision or issue of subsidy, benefit, service, certificate, licence or permit by State and its instrumentalities
 
 <details>
-  <summary><strong>Statutory Text — Rule 5: Processing for provision or issue of subsidy, benefit, service, certificate, licence or permit by State and its instrumentalities.</strong> (click to expand)</summary>
+<summary><strong>5. Processing of personal data for provision or issue of subsidy, benefit, service, certificate, licence or permit by State and its instrumentalities</strong></summary>
 
-5. Processing for provision or issue of subsidy, benefit, service, certificate, licence or permit by State and its instrumentalities.—(1) The State and any of its instrumentalities may process the personal data of a Data Principal under clause (b) of section 7 of the Act to provide or to issue to her any subsidy, benefit, service, certificate, licence or permit that is provided or issued under law or policy or using public funds. <br></br>(2) Processing under this rule shall be done following the standards specified in Second Schedule. <br></br>(3) In this rule and Second Schedule, the reference to any subsidy, benefit, service, certificate, licence or permit that is provided or issued— <br></br>(a) under law shall be construed as a reference to provision or issuance of such subsidy, benefit, service, certificate, licence or permit in exercise of any power of or the performance of any function by the State or any of its instrumentalities under any law for the time being in force; <br></br>(b) under policy shall be construed as a reference to provision or issuance of such subsidy, benefit, service, certificate, licence or permit under any policy or instruction issued by the Central Government or a State Government in exercise of its executive power; and <br></br>(c) using public funds shall be construed as a reference to provision or issuance of such subsidy, benefit, service, certificate, licence or permit by incurring expenditure on the same from, or with accrual of receipts to,—(i) in case of the Central Government or a State Government, the Consolidated Fund of India or the Consolidated Fund of the State or the public account of India or the public account of the State; or (ii) in case of any local or other authority within the territory of India or under the control of the Government of India or of any State, the fund or funds of such authority.
+(1) Processing the personal data of a Data Principal under this rule shall be done following the standards specified in Second Schedule.
+
+(2) In this rule and the Second Schedule, the reference to any subsidy, benefit, service, certificate, licence or permit that is provided or issued—  
+(a) under law shall be construed as a reference to provision or issuance of such subsidy, benefit, service, certificate, licence or permit in exercise of any power of or the performance of any function by the State or any of its instrumentalities under any law for the time being in force;  
+(b) under policy shall be construed as a reference to provision or issuance of such subsidy, benefit, service, certificate, licence or permit under any policy or instruction issued by the Central Government or a State Government in exercise of its executive power; and  
+(c) using public funds shall be construed as a reference to provision or issuance of such subsidy, benefit, service, certificate, licence or permit by incurring expenditure on the same from, or with accrual of receipts to,—  
+    (i) in case of the Central Government or a State Government, the Consolidated Fund of India or the Consolidated Fund of the State or the public account of India or the public account of the State; or  
+    (ii) in case of any local or other authority within the territory of India or under the control of the Government of India or of any State, the fund or funds of such authority.
+
 </details>
+
 
 ---
 

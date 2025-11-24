@@ -2,30 +2,41 @@
 sidebar_position: 6
 ---
 
-# Schedule IV: PART B - Purposes for Which Provisions of Sub-sections (1) and (3) of Section 9 Shall Not Apply
+# Schedule IV: PART B - Purposes for which Provisions of Sub-sections (1) and (3) of section 9 shall not apply
 
-<details>  
-  <summary><strong>FOURTH SCHEDULE [See rule 11] PART B — Purposes for Which Provisions of Sub-sections (1) and (3) of Section 9 Shall Not Apply</strong> (click to expand)</summary>  
+<details>
+<summary><strong>FOURTH SCHEDULE — [See rule 12] PART B  
+Purposes for which Provisions of Sub-sections (1) and (3) of section 9 shall not apply</strong></summary>
 
 | S. No. | Purposes | Conditions |
-|:--:|:--|:--|
-| **1.** | For the exercise of any power, performance of any function or discharge of any duties in the interests of a child, under any law for the time being in force in India. | Processing is restricted to the extent necessary for such exercise, performance, or discharge. |
-| **2.** | For the providing or issuing of any subsidy, benefit, service, certificate, licence, or permit, by whatever name called, under law or policy or using public funds, in the interests of a child, under clause (b) of section 7 of the Act. | Processing is restricted to the extent necessary for such provision or issuance. |
-| **3.** | For the creation of a user account for communicating by email. | Processing is restricted to the extent necessary for creating such user account, the use of which is limited to communication by email. |
-| **4.** | For ensuring that information likely to cause any detrimental effect on the well-being of a child is not accessible to her. | Processing is restricted to the extent necessary to ensure that such information is not accessible to the child. |
-| **5.** | For confirmation by the Data Fiduciary that the Data Principal is not a child and observance of due diligence under rule 10. | Processing is restricted to the extent necessary for such confirmation or observance. |
+|--------|-----------|------------|
+| **1** | For the exercise of any power, performance of any function or discharge of any duties in the interests of a child, under any law for the time being in force in India. | Processing is restricted to the extent necessary for such exercise, performance or discharge. |
+| **2** | For providing or issuing of any subsidy, benefit, service, certificate, licence or permit, by whatever name called, under law or policy or using public funds, in the interests of a child, under clause (b) of section 7 of the Act. | Processing is restricted to the extent necessary for such provision or issuance. |
+| **3** | For the creation of a user account for communicating by email. | Processing is restricted to the extent necessary for creating such user account, the use of which is limited to communication by email. |
+| **4** | For the determination of real-time location of a child. | Processing is restricted to the tracking of real-time location of such child, in the interest of her safety and protection or security. |
+| **5** | For ensuring that any information, service or advertisement likely to cause any detrimental effect on the well-being of a child is not accessible to her. | Processing is restricted to the extent necessary to ensure that such information, service or advertisement is not accessible to the child. |
+| **6** | For confirmation by the Data Fiduciary that the Data Principal is not a child and observance of due diligence under rule 10. | Processing is restricted to the extent necessary for such confirmation or observance. |
 
-**Note:** In this Schedule—  
-(a) “allied healthcare professional” shall have the same meaning as assigned under the *National Commission for Allied and Healthcare Professions Act, 2021 (14 of 2021)*;  
-(b) “clinical establishment” includes all establishments and places—  
- (i) falling within the meaning of *clause (c) of section 2* of the *Clinical Establishments (Registration and Regulation) Act, 2010 (23 of 2010)*; and  
- (ii) managed by any force constituted under the *Army Act, 1950*, *Air Force Act, 1950*, or *Navy Act, 1957*;  
-(c) “educational institution” includes institutions providing academic or vocational education;  
-(d) “healthcare professional” shall have the meaning assigned under the *National Commission for Allied and Healthcare Professions Act, 2021*;  
-(e) “health services” shall have the meaning assigned under *clause (j) of section 2* of the same Act; and  
-(f) “mental health establishment” shall have the meaning assigned under the *Mental Healthcare Act, 2017 (10 of 2017)*.  
+---
 
-</details>  
+**Note: In this Schedule,—**
+
+(a) “advertisement” shall have the same meaning as is assigned to it in the Consumer Protection Act, 2019 (35 of 2019).  
+
+(a) “allied healthcare professional” shall have the same meaning as is assigned to it in the clause (d) of section 2 of the National Commission for Allied and Healthcare Professions Act, 2021 (14 of 2021);  
+
+(b) “clinical establishment” shall have the same meaning as assigned to it in the clause (c) of section 2 of the Clinical Establishments (Registration and Regulation) Act, 2010 (23 of 2010);  
+
+(c) “educational institution” shall mean and include an institution of learning that imparts education, including vocational education;  
+
+(d) “healthcare professional” shall have the same meaning as is assigned to it in clause (j) of section 2 of the National Commission for Allied and Healthcare Professions Act, 2021 (14 of 2021);  
+
+(e) “health services” shall mean the services required to be provided by a healthcare professional as referred to in clause (j) of section 2 of the National Commission for Allied and Healthcare Professions Act, 2021 (14 of 2021); and  
+
+(f) “mental health establishment” shall have the same meaning as is assigned to it in clause (p) of sub-section (1) of section 2 of the Mental Healthcare Act, 2017 (10 of 2017).
+
+</details>
+
 
 ---
 

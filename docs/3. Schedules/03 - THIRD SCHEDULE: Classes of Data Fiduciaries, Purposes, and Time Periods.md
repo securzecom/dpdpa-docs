@@ -2,26 +2,35 @@
 sidebar_position: 4
 ---
 
-# Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods
+# Schedule III
 
-<details>  
-  <summary><strong>THIRD SCHEDULE [See rule 8(1)] Classes of Data Fiduciaries, Purposes, and Time Periods</strong> (click to expand)</summary>  
+<details>
+<summary><strong>THIRD SCHEDULE — [See rule 8(1)]</strong></summary>
+
+### Standards for determining when a specified purpose is deemed no longer served
 
 | S. No. | Class of Data Fiduciaries | Purposes | Time Period |
-|:--:|:--|:--|:--|
-| **1.** | Data Fiduciary who is an e-commerce entity having not less than two crore registered users in India | For all purposes, except for the following: (a) Enabling the Data Principal to access her user account; and (b) Enabling the Data Principal to access any virtual token that is issued by or on behalf of the Data Fiduciary, is stored on the digital facility or platform of such Data Fiduciary, and may be used to get money, goods or services. | Three years from the date on which the Data Principal last approached the Data Fiduciary for the performance of the specified purpose or exercise of her rights, or the commencement of the Digital Personal Data Protection Rules, 2025, whichever is latest. |
-| **2.** | Data Fiduciary who is an online gaming intermediary having not less than fifty lakh registered users in India | For all purposes, except for the following: (a) Enabling the Data Principal to access her user account; and (b) Enabling the Data Principal to access any virtual token that is issued by or on behalf of the Data Fiduciary, is stored on the digital facility or platform of such Data Fiduciary, and may be used to get money, goods or services. | Three years from the date on which the Data Principal last approached the Data Fiduciary for the performance of the specified purpose or exercise of her rights, or the commencement of the Digital Personal Data Protection Rules, 2025, whichever is latest. |
-| **3.** | Data Fiduciary who is a social media intermediary having not less than two crore registered users in India | For all purposes, except for the following: (a) Enabling the Data Principal to access her user account; and (b) Enabling the Data Principal to access any virtual token that is issued by or on behalf of the Data Fiduciary, is stored on the digital facility or platform of such Data Fiduciary, and may be used to get money, goods or services. | Three years from the date on which the Data Principal last approached the Data Fiduciary for the performance of the specified purpose or exercise of her rights, or the commencement of the Digital Personal Data Protection Rules, 2025, whichever is latest. |
+|--------|----------------------------|----------|-------------|
+| **1** | Data Fiduciary who is an e-commerce entity having not less than two crore registered users in India. | For all purposes, except for the following:<br></br>(a) Enabling the Data Principal to access her user account; and<br></br>(b) Enabling the Data Principal to access any virtual token that is issued by or on behalf of the Data Fiduciary, is stored on the digital facility or platform of such Data Fiduciary, and may be used to get money, goods or services. | Three years from the date on which the Data Principal last approached the Data Fiduciary for the performance of the specified purpose or exercise of her rights, or the commencement of the Digital Personal Data Protection Rules, 2025, whichever is latest. |
+| **2** | Data Fiduciary who is an online gaming intermediary having not less than fifty lakh registered users in India. | For all purposes, except for the following:<br></br>(a) Enabling the Data Principal to access her user account; and<br></br>(b) Enabling the Data Principal to access any virtual token that is issued by or on behalf of the Data Fiduciary, is stored on the digital facility or platform of such Data Fiduciary, and may be used to get money, goods or services. | Three years from the date on which the Data Principal last approached the Data Fiduciary for the performance of the specified purpose or exercise of her rights, or the commencement of the Digital Personal Data Protection Rules, 2025, whichever is latest. |
+| **3** | Data Fiduciary who is a social media intermediary having not less than two crore registered users in India. | For all purposes, except for the following:<br></br>(a) Enabling the Data Principal to access her user account; and<br></br>(b) Enabling the Data Principal to access any virtual token that is issued by or on behalf of the Data Fiduciary, is stored on the digital facility or platform of such Data Fiduciary, and may be used to get money, goods or services. | Three years from the date on which the Data Principal last approached the Data Fiduciary for the performance of the specified purpose or exercise of her rights, or the commencement of the Digital Personal Data Protection Rules, 2025, whichever is latest. |
 
-**Note:** In this Schedule,—  
-(a) “e-commerce entity” means any person who owns, operates or manages a digital facility or platform for e-commerce as defined in the Consumer Protection Act, 2019 (35 of 2019), but does not include a seller offering her goods or services for sale on a marketplace e-commerce entity as defined in the said Act;  
-(b) “online gaming intermediary” means any intermediary who enables the users of its computer resource to access one or more online games;  
-(c) “social media intermediary” means an intermediary as defined in the Information Technology Act, 2000 (21 of 2000) who primarily or solely enables online interaction between two or more users and allows them to create, upload, share, disseminate, modify or access information using her services; and  
+---
+
+### **Note: In this Schedule:**
+
+(a) “e-commerce entity” means any person who owns, operates or manages a digital facility or platform for e-commerce as defined in the Consumer Protection Act, 2019 (35 of 2019), but does not include a seller offering her goods or services for sale on a marketplace e-commerce entity as defined in the said Act;
+
+(b) “online gaming intermediary” means any intermediary who enables the users of its computer resource to access one or more online games;
+
+(c) “social media intermediary” means an intermediary as defined in clause (w) of sub-rule (1) of rule 2 of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021; and
+
 (d) “user”, in relation to—  
- (i) an e-commerce entity, means any person who accesses or avails any computer resource of an e-commerce entity; and  
- (ii) an online gaming intermediary or a social media intermediary, means any person who accesses or avails of any computer resource of an intermediary for the purpose of hosting, publishing, sharing, transacting, viewing, displaying, downloading or uploading information.  
+(i) an e-commerce entity, means any person who accesses or avails any computer resource of an e-commerce entity; and  
+(ii) an online gaming intermediary or a social media intermediary, means any person who accesses or avails any computer resource of an intermediary for the purpose of hosting, publishing, sharing, transacting, viewing, displaying, downloading or uploading information.
 
-</details>  
+</details>
+
 
 --- 
 

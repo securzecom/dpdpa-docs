@@ -1,18 +1,19 @@
 ---
-sidebar_position: 15
+sidebar_position: 16
 ---
 
-# Rule 15: Exemption from Act for Research, Archiving or Statistical Purposes
+# Rule 16. Exemption from Act for Research, Archiving or Statistical Purposes
 
-<details>  
-  <summary><strong>Statutory Text — Rule 15: Exemption from Act for research, archiving or statistical purposes.</strong> (click to expand)</summary>  
+<details>
+<summary><strong>16. Exemption from Act for Research, Archiving or Statistical Purposes</strong></summary>
 
-The provisions of the Act shall not apply to the processing of personal data necessary for research, archiving or statistical purposes if it is carried on in accordance with the standards specified in the Second Schedule.  
+The provisions of the Act shall not apply to the processing of personal data necessary for research, archiving or statistical purposes if it is carried on in accordance with the standards specified in Second Schedule.
 
-</details>  
+</details>
+
 ---
 
-Rule 15 introduces a limited exemption to the general obligations of the DPDPA for specific types of processing — namely **research**, **archiving**, and **statistical analysis** — provided such processing strictly adheres to the **standards and safeguards defined in the Second Schedule**. This ensures that data-driven innovation and legitimate research activities can continue without undermining individual privacy rights.  
+Rule 16 introduces a limited exemption to the general obligations of the DPDPA for specific types of processing — namely **research**, **archiving**, and **statistical analysis** — provided such processing strictly adheres to the **standards and safeguards defined in the Second Schedule**. This ensures that data-driven innovation and legitimate research activities can continue without undermining individual privacy rights.  
 
 ---
 
@@ -51,14 +52,14 @@ Even though exempt from certain compliance requirements (like consent management
 - The project undergoes appropriate **ethical and legal review** if required by institutional or government norms.  
 
 :::info Example
-A university conducting a long-term study on digital behavior patterns may use anonymised survey responses from participants. Since the data cannot be traced back to individuals and the purpose aligns with public research, it qualifies for exemption under Rule 15.  
+A university conducting a long-term study on digital behavior patterns may use anonymised survey responses from participants. Since the data cannot be traced back to individuals and the purpose aligns with public research, it qualifies for exemption under Rule 16.  
 :::
 
 ---
 
 ### 4. Compliance Governance  
 
-Organisations relying on Rule 15 should document:  
+Organisations relying on Rule 16 should document:  
 - **The lawful research purpose** and justification for exemption.  
 - **Data anonymisation or pseudonymisation methods** used.  
 - **Access control and retention policies** applicable to the research dataset.  
@@ -70,8 +71,8 @@ Such documentation helps demonstrate accountability if questioned by the Data Pr
 
 ### 5. Policy Implications  
 
-Rule 15 reflects the DPDPA’s effort to strike a balance between **privacy protection** and **knowledge advancement**. It encourages innovation in science, education, and governance while ensuring personal data is handled responsibly. For organisations, this means developing clear internal policies distinguishing **regulated data processing** from **exempted research activities**.   
+Rule 16 reflects the DPDPA’s effort to strike a balance between **privacy protection** and **knowledge advancement**. It encourages innovation in science, education, and governance while ensuring personal data is handled responsibly. For organisations, this means developing clear internal policies distinguishing **regulated data processing** from **exempted research activities**.   
 
 ---
 
-Rule 15 provides a lawful pathway for research and statistical processing without breaching privacy norms. The exemption is conditional, not absolute — it applies only when data is processed with anonymisation, purpose limitation, and compliance with the Second Schedule standards.  
+Rule 16 provides a lawful pathway for research and statistical processing without breaching privacy norms. The exemption is conditional, not absolute — it applies only when data is processed with anonymisation, purpose limitation, and compliance with the Second Schedule standards.  

@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Appointment of Chairperson and Other Members",
+  "title": "Rule 17: Appointment of Chairperson and Other Members",
+  "description": "17. Appointment of Chairperson and other Members",
+  "source": "@site/docs/2. DPDPA Rules/17 - Appointment of Chairperson and Other Members.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Appointment of Chairperson and Other Members",
+  "permalink": "/docs/DPDPA Rules/Appointment of Chairperson and Other Members",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 16. Exemption from Act for Research, Archiving or Statistical Purposes",
+    "permalink": "/docs/DPDPA Rules/Exemption from Act for Research, Archiving or Statistical Purposes"
+  },
+  "next": {
+    "title": "Rule 18: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
+    "permalink": "/docs/DPDPA Rules/Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members"
+  }
+}

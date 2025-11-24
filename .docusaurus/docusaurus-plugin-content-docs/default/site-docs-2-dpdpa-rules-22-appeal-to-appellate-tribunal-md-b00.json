@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Appeal to Appellate Tribunal",
+  "title": "Rule 22: Appeal to Appellate Tribunal",
+  "description": "22. Appeal to Appellate Tribunal",
+  "source": "@site/docs/2. DPDPA Rules/22- Appeal to Appellate Tribunal.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Appeal to Appellate Tribunal",
+  "permalink": "/docs/DPDPA Rules/Appeal to Appellate Tribunal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 22,
+  "frontMatter": {
+    "sidebar_position": 22
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 21: Terms and Conditions of Appointment and Service of Officers and Employees of Board",
+    "permalink": "/docs/DPDPA Rules/Terms and Conditions of Appointment and Service of Officers and Employees of Board"
+  },
+  "next": {
+    "title": "Rule 23: Calling for Information from Data Fiduciary or Intermediary",
+    "permalink": "/docs/DPDPA Rules/Calling for Information from Data Fiduciary or Intermediary"
+  }
+}

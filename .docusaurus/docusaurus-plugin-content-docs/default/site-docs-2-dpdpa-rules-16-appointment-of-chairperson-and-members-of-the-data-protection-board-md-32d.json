@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board",
   "title": "Rule 16: Appointment of Chairperson and Other Members",
-  "description": "Statutory Text — Rule 16: Appointment of Chairperson and Other Members. (click to expand)",
+  "description": "17. Appointment of Chairperson and other Members",
   "source": "@site/docs/2. DPDPA Rules/16 - Appointment of Chairperson and Members of the Data Protection Board.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 15: Exemption from Act for Research, Archiving or Statistical Purposes",
-    "permalink": "/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes"
+    "title": "Rule 15: Transfer of Personal Data Outside the Territory of India",
+    "permalink": "/docs/DPDPA Rules/Transfer of personal data outside the territory of India"
   },
   "next": {
-    "title": "Rule 17: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
-    "permalink": "/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members"
+    "title": "Rule 16. Exemption from Act for Research, Archiving or Statistical Purposes",
+    "permalink": "/docs/DPDPA Rules/Exemption from Act for Research, Archiving or Statistical Purposes"
   }
 }

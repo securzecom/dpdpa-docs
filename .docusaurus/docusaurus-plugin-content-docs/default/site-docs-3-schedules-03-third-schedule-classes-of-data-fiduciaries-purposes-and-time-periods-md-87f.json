@@ -1,7 +1,7 @@
 {
   "id": "Schedules/THIRD SCHEDULE: Classes of Data Fiduciaries, Purposes, and Time Periods",
-  "title": "Schedule III: Classes of Data Fiduciaries, Purposes, and Time Periods",
-  "description": "THIRD SCHEDULE [See rule 8(1)] Classes of Data Fiduciaries, Purposes, and Time Periods (click to expand)",
+  "title": "Schedule III",
+  "description": "THIRD SCHEDULE — [See rule 8(1)]",
   "source": "@site/docs/3. Schedules/03 - THIRD SCHEDULE: Classes of Data Fiduciaries, Purposes, and Time Periods.md",
   "sourceDirName": "3. Schedules",
   "slug": "/Schedules/THIRD SCHEDULE: Classes of Data Fiduciaries, Purposes, and Time Periods",
@@ -20,7 +20,7 @@
     "permalink": "/docs/Schedules/SECOND SCHEDULE: Standards for Processing of Personal Data by the State and its Instrumentalities"
   },
   "next": {
-    "title": "Schedule IV: PART A - Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections (1) and (3) of Section 9 Shall Not Apply",
+    "title": "Schedule IV: PART A - Classes of Data Fiduciaries in Respect of whom Provisions of Sub-sections (1) and (3) of Section 9 Shall not Apply",
     "permalink": "/docs/Schedules/FOURTH SCHEDULE: PART A:  Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply"
   }
 }

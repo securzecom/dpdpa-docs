@@ -5,27 +5,27 @@ sidebar_position: 7
 # Rule 7: Intimation of Personal Data Breach
 
 <details>
-  <summary><strong>Statutory Text — Rule 7:Intimation of personal data breach.</strong> (click to expand)</summary>
+<summary><strong>7. Intimation of personal data breach</strong></summary>
 
 (1) On becoming aware of any personal data breach, the Data Fiduciary shall, to the best of its knowledge, intimate to each affected Data Principal, in a concise, clear and plain manner and without delay, through her user account or any mode of communication registered by her with the Data Fiduciary,—  
-(a) a description of the breach, including its nature, extent and the timing and location of its occurrence;  
+(a) a description of the breach, including its nature, extent and the timing of its occurrence;  
 (b) the consequences relevant to her, that are likely to arise from the breach;  
 (c) the measures implemented and being implemented by the Data Fiduciary, if any, to mitigate risk;  
 (d) the safety measures that she may take to protect her interests; and  
-(e) business contact information of a person who is able to respond on behalf of the Data Fiduciary, to queries, if any, of the Data Principal.  
+(e) business contact information of a person who is able to respond on behalf of the Data Fiduciary, to queries, if any, of the Data Principal.
 
 (2) On becoming aware of any personal data breach, the Data Fiduciary shall intimate to the Board,—  
 (a) without delay, a description of the breach, including its nature, extent, timing and location of occurrence and the likely impact;  
-(b) within seventy-two hours of becoming aware of the same, or within such longer period as the Board may allow on a request made in writing in this behalf,—  
-(i) updated and detailed information in respect of such description;  
-(ii) the broad facts related to the events, circumstances and reasons leading to the breach;  
-(iii) measures implemented or proposed, if any, to mitigate risk;  
-(iv) any findings regarding the person who caused the breach;  
-(v) remedial measures taken to prevent recurrence of such breach; and  
-(vi) a report regarding the intimations given to affected Data Principals.  
+(b) within seventy-two hours of becoming aware of the breach, or within such longer period as the Board may allow on a request made in writing in this behalf,—  
+    (i) updated and detailed information in respect of such description;  
+    (ii) the broad facts related to the events, circumstances and reasons leading to the breach;  
+    (iii) measures implemented or proposed, if any, to mitigate risk;  
+    (iv) any findings regarding the person who caused the breach;  
+    (v) remedial measures taken to prevent recurrence of such breach;  
+    (vi) a report regarding the intimations given to affected Data Principals.
 
-(3) In this rule, “user account” means the online account registered by the Data Principal with the Data Fiduciary, and includes any profiles, pages, handles, email address, mobile number and other similar presences by means of which such Data Principal is able to access the services of such Data Fiduciary.
 </details>
+
 
 ---
 

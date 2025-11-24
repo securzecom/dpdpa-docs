@@ -1,25 +1,26 @@
 ---
-sidebar_position: 17
+sidebar_position: 18
 ---
 
-# Rule 17: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members
+# Rule 18: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members
 
-<details>  
-  <summary><strong>Statutory Text — Rule 17: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members.</strong> (click to expand)</summary>  
+<details>
+<summary><strong>18. Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members</strong></summary>
 
-The Chairperson and every other Member shall receive such salary and allowances and shall have such other terms and conditions of service as are specified in the Fifth Schedule.  
+The Chairperson and every other Member shall receive such salary and allowances and shall have such other terms and conditions of service as are specified in Fifth Schedule.
 
-</details>  
+</details>
+ 
 
 ---
 
-Rule 17 defines the **financial and administrative framework** for the **Chairperson and Members** of the **Data Protection Board of India (DPBI)**. It ensures that those appointed to these critical positions are governed by transparent, fair, and legally consistent conditions regarding their **salary, allowances, and service terms**. These details are contained in the **Fifth Schedule**, which acts as a reference document for all such provisions.  
+Rule 18 defines the **financial and administrative framework** for the **Chairperson and Members** of the **Data Protection Board of India (DPBI)**. It ensures that those appointed to these critical positions are governed by transparent, fair, and legally consistent conditions regarding their **salary, allowances, and service terms**. These details are contained in the **Fifth Schedule**, which acts as a reference document for all such provisions.  
 
 ---
 
 ### 1. Purpose of the Rule  
 
-The main goal of Rule 17 is to provide a **clear, stable, and legally defined framework** for compensating the leadership of the Data Protection Board. This prevents arbitrary or politically influenced decisions related to pay, benefits, or working conditions.  
+The main goal of Rule 18 is to provide a **clear, stable, and legally defined framework** for compensating the leadership of the Data Protection Board. This prevents arbitrary or politically influenced decisions related to pay, benefits, or working conditions.  
 
 When an authority like the DPBI is responsible for adjudicating cases involving large corporations, government agencies, or sensitive personal data matters, **independence and impartiality** become vital. To maintain that independence, the salaries and benefits of its members cannot be adjusted or revoked at will — they must follow an approved standard.  
 
@@ -36,7 +37,7 @@ This rule is not about financial perks — it’s about **building trust**. It e
 
 ### 2. Connection to the Fifth Schedule  
 
-Rule 17 refers directly to the **Fifth Schedule**, which acts like a “rulebook” for how the Chairperson and Members of the DPBI will be compensated and governed. It covers a variety of administrative aspects:  
+Rule 18 refers directly to the **Fifth Schedule**, which acts like a “rulebook” for how the Chairperson and Members of the DPBI will be compensated and governed. It covers a variety of administrative aspects:  
 
 - **Salary and Grade:** Defines the pay scale, often matching that of senior government officers (for instance, a Secretary-level post).  
 - **Allowances:** Includes travel, house rent, medical benefits, and daily allowances during official duties.  
@@ -55,7 +56,7 @@ Think of the Fifth Schedule as a “salary and conduct charter” — it is the 
 
 ### 3. Independence through Financial Autonomy  
 
-Financial independence is a cornerstone of regulatory credibility. When salaries or benefits depend on external approval or government goodwill, members may face subtle pressure in decision-making. Rule 17 eliminates this risk by locking the compensation framework into law.  
+Financial independence is a cornerstone of regulatory credibility. When salaries or benefits depend on external approval or government goodwill, members may face subtle pressure in decision-making. Rule 18 eliminates this risk by locking the compensation framework into law.  
 
 It prevents:  
 - Sudden pay cuts or withdrawal of benefits to influence rulings.  
@@ -76,10 +77,10 @@ Financial autonomy is not about privilege — it’s about **freedom to enforce 
 
 Imagine a Data Protection Board Member is handling a high-stakes case against a large technology company accused of violating user privacy. If that company or an external authority had any way to influence the Member’s salary or renewal, the fairness of the decision could be questioned.  
 
-Under Rule 17, such influence is impossible. Salaries, allowances, and service conditions are pre-defined and **cannot be changed for individual cases**. This ensures every decision is made purely on legal and ethical grounds.  
+Under Rule 18, such influence is impossible. Salaries, allowances, and service conditions are pre-defined and **cannot be changed for individual cases**. This ensures every decision is made purely on legal and ethical grounds.  
 
 :::info Example  
-A Board Member issues a penalty on a data analytics firm for breaching DPDPA provisions. The firm, being politically connected, tries to lobby the government for leniency. Because the Member’s pay, perks, and tenure are protected by Rule 17 and the Fifth Schedule, there is no risk of retaliation or reward influencing the decision.  
+A Board Member issues a penalty on a data analytics firm for breaching DPDPA provisions. The firm, being politically connected, tries to lobby the government for leniency. Because the Member’s pay, perks, and tenure are protected by Rule 18 and the Fifth Schedule, there is no risk of retaliation or reward influencing the decision.  
 This reinforces **public confidence** in the fairness and independence of the Data Protection Board.  
 :::
 
@@ -96,18 +97,18 @@ The same approach now applies to the **Data Protection Board of India (DPBI)**. 
 
 :::info Case Study  
 **Case Study: CCI and TRAI Parallel**  
-When CCI imposed penalties on dominant firms for anti-competitive practices, it faced political and industrial pushback. However, the Commission’s independence — rooted in fixed pay and service protection — allowed it to uphold decisions confidently. The same safeguard in Rule 17 ensures that the DPBI can stand firm on privacy enforcement, even when cases involve major national or international entities.  
+When CCI imposed penalties on dominant firms for anti-competitive practices, it faced political and industrial pushback. However, the Commission’s independence — rooted in fixed pay and service protection — allowed it to uphold decisions confidently. The same safeguard in Rule 18 ensures that the DPBI can stand firm on privacy enforcement, even when cases involve major national or international entities.  
 :::
 
 ---
 
 ### 6. Broader Impact and Policy Insight  
 
-Rule 17 is not a standalone administrative rule — it’s part of a larger design to **institutionalize trust** in India’s data protection ecosystem. By giving the Board predictable financial and professional conditions, the law ensures that:  
+Rule 18 is not a standalone administrative rule — it’s part of a larger design to **institutionalize trust** in India’s data protection ecosystem. By giving the Board predictable financial and professional conditions, the law ensures that:  
 - **Talent Retention:** Experts from legal, tech, and academic backgrounds are encouraged to join the Board, knowing their service terms are stable.  
 - **Operational Continuity:** Even during government changes, the Board’s work continues unaffected.  
 - **Public Confidence:** Citizens and companies can trust that enforcement decisions are made objectively.  
 
 ---
 
-Rule 17 anchors the **integrity, independence, and professionalism** of the Data Protection Board by defining the salaries, allowances, and service conditions of its leadership. These are codified in the Fifth Schedule to ensure stability, transparency, and protection from external influence. In doing so, it reinforces the DPDPA’s goal — a privacy authority that is impartial, respected, and resilient.  
+Rule 18 anchors the **integrity, independence, and professionalism** of the Data Protection Board by defining the salaries, allowances, and service conditions of its leadership. These are codified in the Fifth Schedule to ensure stability, transparency, and protection from external influence. In doing so, it reinforces the DPDPA’s goal — a privacy authority that is impartial, respected, and resilient.  

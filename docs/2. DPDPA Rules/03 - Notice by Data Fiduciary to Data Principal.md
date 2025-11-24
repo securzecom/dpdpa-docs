@@ -5,18 +5,23 @@ sidebar_position: 3
 # Rule 3: Notice by Data Fiduciary to Data Principal
 
 <details>
-  <summary><strong>Statutory Text — Rule 3: Notice given by Data Fiduciary to Data Principal.</strong> (click to expand)</summary>
+<summary><strong>3. Notice given by Data Fiduciary to Data Principal</strong></summary>
 
-3. Notice given by Data Fiduciary to Data Principal.—The notice given by the Data Fiduciary to the Data Principal shall—
-(a) be presented and be understandable independently of any other information that has been, is or may be made available by such Data Fiduciary;
-(b) give, in clear and plain language, a fair account of the details necessary to enable the Data Principal to give specific and informed consent for the processing of her personal data, which shall include, at the minimum,—
-(i) an itemised description of such personal data; and
-(ii) the specified purpose of, and an itemised description of the goods or services to be provided or uses to be enabled by, such processing; and
-the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description of other means, if any, using which such Data Principal may—
-(i) withdraw her consent, with the ease of doing so being comparable to that with which such consent was given;
-(ii) exercise her rights under the Act; and
-(iii) make a complaint to the Board.
+The notice given by the Data Fiduciary to the Data Principal shall—
+
+(a) be presented and be understandable independently of any other information that has been, is or may be made available by such Data Fiduciary;  
+
+(b) give, in clear and plain language, a fair account of the details necessary to enable the Data Principal to give specific and informed consent for the processing of her personal data, which shall include, at the minimum,—  
+    (i) an itemised description of such personal data; and  
+    (ii) the specified purpose or purposes of, and specific description of the goods or services to be provided or uses to be enabled by, such processing; and  
+
+(c) give, the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description of other means, if any, using which such Data Principal may—  
+    (i) withdraw her consent, with the ease of doing so being comparable to that with which such consent was given;  
+    (ii) exercise her rights under the Act; and  
+    (iii) make a complaint to the Board.
+
 </details>
+
 
 ---
 

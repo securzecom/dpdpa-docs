@@ -4,23 +4,36 @@ sidebar_position: 3
 
 # Schedule II: Standards for Processing of Personal Data by the State and its Instrumentalities
 
-<details>  
-  <summary><strong>SECOND SCHEDULE [See rules 5(2) and 15] Standards for Processing of Personal Data by the State and its Instrumentalities</strong> (click to expand)</summary>  
+<details>
+<summary><strong>SECOND SCHEDULE — Standards for Processing of Personal Data by State and its Instrumentalities</strong></summary>
 
-Implementation of appropriate technical and organisational measures to ensure effective observance of the following, in accordance with applicable law, for the processing of personal data, namely:—  
-(a) Processing is carried out in a lawful manner;  
-(b) Processing is done for the uses specified in clause (b) of section 7 of the Act or for the purposes specified in clause (b) of sub-section (2) of section 17 of the Act, as the case may be;  
-(c) Processing is limited to such personal data as is necessary for such uses or achieving such purposes, as the case may be;  
-(d) Processing is done while making reasonable efforts to ensure the accuracy of personal data;  
-(e) Personal data is retained till required for such uses or achieving such purposes, as the case may be, or for compliance with any law for the time being in force;  
-(f) Reasonable security safeguards to prevent personal data breach to protect personal data in the possession or under control of the Data Fiduciary, including in respect of any processing undertaken by it or on its behalf by a Data Processor;  
+[See rules 5(1) and 16]
+
+Standards to be followed for processing of personal data by the State and its instrumentalities under clause (b) of section 7, and for processing of personal data necessary for the purposes specified in clause (b) of sub-section (2) of section 17:
+
+Implementation of appropriate technical and organisational measures to ensure effective observance of the following, in accordance with applicable law, for the processing of personal data, namely: —
+
+(a) Processing is carried out in a lawful manner.
+
+(b) Processing is done for the uses specified in clause (b) of section 7 of the Act or for the purposes specified in clause (b) of sub-section (2) of section 17 of the Act, as the case may be.
+
+(c) Processing is limited to such personal data as is necessary for such uses or achieving such purposes, as the case may be.
+
+(d) Processing is done while making reasonable efforts to ensure the completeness, accuracy and consistency of personal data.
+
+(e) Personal data is retained till required for such uses or achieving such purposes, as the case may be, or for compliance with any law for the time being in force.
+
+(f) Reasonable security safeguards to prevent personal data breach to protect personal data in the possession or under control of the Data Fiduciary, including in respect of any processing undertaken by it or on its behalf by a Data Processor.
+
 (g) Where processing is to be done under clause (b) of section 7 of the Act, the same is undertaken while giving the Data Principal an intimation in respect of the same and—  
- (i) giving the business contact information of a person who is able to answer on behalf of the Data Fiduciary the questions of the Data Principal about the processing of her personal data;  
- (ii) specifying the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description of other means, if any, using which such Data Principal may exercise her rights under the Act; and  
- (iii) is carried on in a manner consistent with such other standards as may be applicable to the processing of such personal data under policy issued by the Central Government or any law for the time being in force; and  
-(h) Accountability of the person who alone or in conjunction with other persons determines the purpose and means of processing of personal data, for effective observance of these standards.  
+&nbsp;&nbsp;&nbsp;&nbsp;(i) giving the business contact information of a person who is able to answer on behalf of the Data Fiduciary the questions of the Data Principal about the processing of her personal data;  
+&nbsp;&nbsp;&nbsp;&nbsp;(ii) specifying the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description of other means, if any, using which such Data Principal may exercise her rights under the Act; and  
+&nbsp;&nbsp;&nbsp;&nbsp;(iii) ensuring processing is carried on in a manner consistent with such other standards as may be applicable to the processing of such personal data under policy issued by the Central Government or any law for the time being in force.
 
-</details>  
+(h) Accountability of the person who alone or in conjunction with other persons determines the purpose and means of processing of personal data, for effective observance of these standards.
+
+</details>
+
 
 ---
 

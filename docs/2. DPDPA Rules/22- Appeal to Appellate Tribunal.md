@@ -1,25 +1,26 @@
 ---
-sidebar_position: 21
+sidebar_position: 22
 ---
 
-# Rule 21: Appeals to Appellate Tribunal
+# Rule 22: Appeal to Appellate Tribunal
 
-<details>  
-  <summary><strong>Statutory Text — Rule 21:Appeal to Appellate Tribunal.</strong> (click to expand)</summary>  
+<details>
+<summary><strong>22. Appeal to Appellate Tribunal</strong></summary>
 
-(1) An appeal, including any related documents, by a person aggrieved by an order or direction of the Board, shall be filed in digital form, following such procedure as may be specified by the Appellate Tribunal on its website.  
+(1) Any person aggrieved by an order or direction of the Board, may prefer an appeal before the Appellate Tribunal, and it shall be filed in digital form as the Appellate Tribunal may decide.
 
-(2) An appeal filed with the Appellate Tribunal shall be accompanied by fee of like amount as is applicable in respect of an appeal filed under the Telecom Regulatory Authority of India Act, 1997 (24 of 1997), unless reduced or waived by the Chairperson of the Appellate Tribunal at her discretion, and the same shall be payable digitally using the Unified Payments Interface or such other payment system authorised by the Reserve Bank of India as the Appellate Tribunal may specify on its website.  
+(2) An appeal filed with the Appellate Tribunal shall be accompanied by fee of like amount as is applicable in respect of an appeal filed under the Telecom Regulatory Authority of India Act, 1997 (24 of 1997), unless reduced or waived by the Chairperson of the Appellate Tribunal at her discretion, and the same shall be payable digitally using the Unified Payments Interface or such other payment system authorised by the Reserve Bank of India.
 
 (3) The Appellate Tribunal—  
 (a) shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the provisions of the Act, may regulate its own procedure; and  
-(b) shall function as a digital office which, without prejudice to its power to summon and enforce the attendance of any person and examine her on oath, may adopt techno-legal measures to conduct proceedings in a manner that does not require physical presence of any individual.  
+(b) shall function as a digital office which, without prejudice to its power to summon and enforce the attendance of any person and examine her on oath, may adopt techno-legal measures to conduct proceedings in a manner that does not require physical presence of any individual.
 
-</details>  
+</details>
+
 
 --- 
 
-Rule 21 explains how a person or organisation that is **not satisfied with a decision of the Data Protection Board of India (DPBI)** can appeal that decision to the **Appellate Tribunal**. It outlines the process, fee payment method, and the digital nature of the Tribunal’s functioning.  
+Rule 22 explains how a person or organisation that is **not satisfied with a decision of the Data Protection Board of India (DPBI)** can appeal that decision to the **Appellate Tribunal**. It outlines the process, fee payment method, and the digital nature of the Tribunal’s functioning.  
 
 The purpose of this rule is to ensure that appeals are **accessible, fast, and paperless**, while maintaining fairness and legal validity.  
 
@@ -100,7 +101,7 @@ If an appeal contains sensitive customer information from a data breach, the Tri
 
 ### 6. Overall Significance  
 
-Rule 21 modernises India’s appeal process for data protection by making it:  
+Rule 22 modernises India’s appeal process for data protection by making it:  
 - **Digital-first** — reducing paperwork and travel.  
 - **Affordable and accessible** — using online payments and fee waivers.  
 - **Fair and efficient** — guided by principles of natural justice, not outdated procedures.  
@@ -109,6 +110,6 @@ It helps both individuals and organisations resolve disputes with the Data Prote
 
 ---
 
-Rule 21 establishes the process for appealing against decisions of the Data Protection Board. It ensures that the **Appellate Tribunal operates digitally**, accepts online filings, uses digital payments, and follows flexible yet fair procedures. This approach supports fast, transparent, and inclusive justice — aligning with India’s vision of a **tech-enabled governance and privacy protection ecosystem**.  
+Rule 22 establishes the process for appealing against decisions of the Data Protection Board. It ensures that the **Appellate Tribunal operates digitally**, accepts online filings, uses digital payments, and follows flexible yet fair procedures. This approach supports fast, transparent, and inclusive justice — aligning with India’s vision of a **tech-enabled governance and privacy protection ecosystem**.  
 
 

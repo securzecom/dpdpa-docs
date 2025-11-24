@@ -13,8 +13,8 @@
     "title": "Credits"
   },
   "unlisted": false,
-  "prevItem": {
-    "title": "Credits",
-    "permalink": "/blog/welcome"
+  "nextItem": {
+    "title": "DPDPA-Bot",
+    "permalink": "/blog/dpdpa-bot"
   }
 }

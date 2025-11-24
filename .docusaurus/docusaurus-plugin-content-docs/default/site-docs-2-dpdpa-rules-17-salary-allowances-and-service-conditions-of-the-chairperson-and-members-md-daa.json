@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members",
-  "title": "Rule 17: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
-  "description": "Statutory Text — Rule 17: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members. (click to expand)",
+  "title": "Rule 18: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
+  "description": "18. Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
   "source": "@site/docs/2. DPDPA Rules/17 - Salary, Allowances and Service Conditions of the Chairperson and Members.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members",
@@ -10,14 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 17,
+  "sidebarPosition": 18,
   "frontMatter": {
-    "sidebar_position": 17
+    "sidebar_position": 18
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 16: Appointment of Chairperson and Other Members",
-    "permalink": "/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board"
+    "title": "Rule 17: Appointment of Chairperson and Other Members",
+    "permalink": "/docs/DPDPA Rules/Appointment of Chairperson and Other Members"
   },
   "next": {
     "title": "Rule 18: Procedure for Meetings of the Board and Authentication of its Orders, Directions, and Instruments",

@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '4e0'),
+    component: ComponentCreator('/blog', '0e1'),
     exact: true
   },
   {
@@ -68,21 +68,56 @@ export default [
     exact: true
   },
   {
+    path: '/blog/bot',
+    component: ComponentCreator('/blog/bot', 'e28'),
+    exact: true
+  },
+  {
+    path: '/blog/Bot',
+    component: ComponentCreator('/blog/Bot', '4cf'),
+    exact: true
+  },
+  {
+    path: '/blog/Bot',
+    component: ComponentCreator('/blog/Bot', 'c15'),
+    exact: true
+  },
+  {
+    path: '/blog/dpdpa-bot',
+    component: ComponentCreator('/blog/dpdpa-bot', '69c'),
+    exact: true
+  },
+  {
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome', '26c'),
+    exact: true
+  },
+  {
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome', '83a'),
+    exact: true
+  },
+  {
+    path: '/dpdpa-bot',
+    component: ComponentCreator('/dpdpa-bot', '335'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a34'),
+    component: ComponentCreator('/docs', '690'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '744'),
+        component: ComponentCreator('/docs', '418'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b01'),
+            component: ComponentCreator('/docs', 'dc3'),
             routes: [
               {
                 path: '/docs/Board & Enforcement Questions/01',
@@ -236,19 +271,25 @@ export default [
               },
               {
                 path: '/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries',
-                component: ComponentCreator('/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries', '8a8'),
+                component: ComponentCreator('/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries', 'f73'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/DPDPA Rules/Appeals to the Appellate Tribunal',
-                component: ComponentCreator('/docs/DPDPA Rules/Appeals to the Appellate Tribunal', '3b8'),
+                path: '/docs/DPDPA Rules/Appeal to Appellate Tribunal',
+                component: ComponentCreator('/docs/DPDPA Rules/Appeal to Appellate Tribunal', 'b2a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board',
-                component: ComponentCreator('/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board', 'fbc'),
+                path: '/docs/DPDPA Rules/Appointment of Chairperson and Other Members',
+                component: ComponentCreator('/docs/DPDPA Rules/Appointment of Chairperson and Other Members', '9ed'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/DPDPA Rules/Calling for Information from Data Fiduciary or Intermediary',
+                component: ComponentCreator('/docs/DPDPA Rules/Calling for Information from Data Fiduciary or Intermediary', '9d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -259,26 +300,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office',
-                component: ComponentCreator('/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office', '820'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/DPDPA Rules/Definitions',
                 component: ComponentCreator('/docs/DPDPA Rules/Definitions', 'b24'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes',
-                component: ComponentCreator('/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes', 'b6e'),
+                path: '/docs/DPDPA Rules/Exemption from Act for Research, Archiving or Statistical Purposes',
+                component: ComponentCreator('/docs/DPDPA Rules/Exemption from Act for Research, Archiving or Statistical Purposes', 'fde'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child',
-                component: ComponentCreator('/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child', 'd2e'),
+                component: ComponentCreator('/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child', 'e6a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/DPDPA Rules/Functioning of Board as Digital Office',
+                component: ComponentCreator('/docs/DPDPA Rules/Functioning of Board as Digital Office', 'eaf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -295,26 +336,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries',
-                component: ComponentCreator('/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries', '8ce'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments',
-                component: ComponentCreator('/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments', '58a'),
+                path: '/docs/DPDPA Rules/Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments',
+                component: ComponentCreator('/docs/DPDPA Rules/Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments', '3dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State',
                 component: ComponentCreator('/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State', '6d8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/DPDPA Rules/Processing of Personal Data Outside India',
-                component: ComponentCreator('/docs/DPDPA Rules/Processing of Personal Data Outside India', '7eb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -332,19 +361,19 @@ export default [
               },
               {
                 path: '/docs/DPDPA Rules/Rights of Data Principals',
-                component: ComponentCreator('/docs/DPDPA Rules/Rights of Data Principals', '4da'),
+                component: ComponentCreator('/docs/DPDPA Rules/Rights of Data Principals', 'b95'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members',
-                component: ComponentCreator('/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members', '3be'),
+                path: '/docs/DPDPA Rules/Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members',
+                component: ComponentCreator('/docs/DPDPA Rules/Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members', 'e82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board',
-                component: ComponentCreator('/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board', 'd8d'),
+                path: '/docs/DPDPA Rules/Terms and Conditions of Appointment and Service of Officers and Employees of Board',
+                component: ComponentCreator('/docs/DPDPA Rules/Terms and Conditions of Appointment and Service of Officers and Employees of Board', '6b6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -355,8 +384,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities',
-                component: ComponentCreator('/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities', '7ab'),
+                path: '/docs/DPDPA Rules/Transfer of personal data outside the territory of India',
+                component: ComponentCreator('/docs/DPDPA Rules/Transfer of personal data outside the territory of India', '7a1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Child',
+                component: ComponentCreator('/docs/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Child', 'b78'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Person with Disability who has Lawful Guardian',
+                component: ComponentCreator('/docs/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Person with Disability who has Lawful Guardian', 'ff2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -589,14 +630,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of a Consent Manager',
-                component: ComponentCreator('/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of a Consent Manager', 'ba1'),
+                path: '/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of Consent Manager',
+                component: ComponentCreator('/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of Consent Manager', '738'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of a Consent Manager',
-                component: ComponentCreator('/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of a Consent Manager', '12c'),
+                path: '/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of Consent Manager',
+                component: ComponentCreator('/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of Consent Manager', '36c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

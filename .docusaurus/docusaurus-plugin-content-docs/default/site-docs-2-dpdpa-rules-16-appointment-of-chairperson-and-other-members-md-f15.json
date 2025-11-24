@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Appointment of Chairperson and Other Members",
+  "title": "Rule 16: Appointment of Chairperson and Other Members",
+  "description": "17. Appointment of Chairperson and other Members",
+  "source": "@site/docs/2. DPDPA Rules/16 - Appointment of Chairperson and Other Members.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Appointment of Chairperson and Other Members",
+  "permalink": "/docs/DPDPA Rules/Appointment of Chairperson and Other Members",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 15: Transfer of Personal Data Outside the Territory of India",
+    "permalink": "/docs/DPDPA Rules/Transfer of personal data outside the territory of India"
+  },
+  "next": {
+    "title": "Rule 16. Exemption from Act for Research, Archiving or Statistical Purposes",
+    "permalink": "/docs/DPDPA Rules/Exemption from Act for Research, Archiving or Statistical Purposes"
+  }
+}

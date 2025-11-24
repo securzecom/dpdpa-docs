@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Additional Obligations of Significant Data Fiduciaries",
+  "title": "Rule 13: Additional Obligations of Significant Data Fiduciaries",
+  "description": "13. Additional Obligations of Significant Data Fiduciary",
+  "source": "@site/docs/2. DPDPA Rules/13 - Additional Obligations of Significant Data Fiduciaries.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries",
+  "permalink": "/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 12: Exemptions From Certain Obligations Applicable to Processing of Personal Data of Child",
+    "permalink": "/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child"
+  },
+  "next": {
+    "title": "Rule 14: Rights of Data Principals",
+    "permalink": "/docs/DPDPA Rules/Rights of Data Principals"
+  }
+}

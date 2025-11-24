@@ -12,5 +12,13 @@
     "slug": "blog",
     "title": "Board"
   },
-  "unlisted": false
+  "unlisted": false,
+  "prevItem": {
+    "title": "DPDPA-Bot",
+    "permalink": "/blog/bot"
+  },
+  "nextItem": {
+    "title": "Credits",
+    "permalink": "/blog/welcome"
+  }
 }

@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Transfer of personal data outside the territory of India",
+  "title": "Rule 15: Transfer of Personal Data Outside the Territory of India",
+  "description": "15. Transfer of Personal Data Outside the Territory of India",
+  "source": "@site/docs/2. DPDPA Rules/15 - Transfer of personal data outside the territory of India.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Transfer of personal data outside the territory of India",
+  "permalink": "/docs/DPDPA Rules/Transfer of personal data outside the territory of India",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 14: Rights of Data Principals",
+    "permalink": "/docs/DPDPA Rules/Rights of Data Principals"
+  },
+  "next": {
+    "title": "Rule 16. Exemption from Act for Research, Archiving or Statistical Purposes",
+    "permalink": "/docs/DPDPA Rules/Exemption from Act for Research, Archiving or Statistical Purposes"
+  }
+}

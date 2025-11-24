@@ -5,10 +5,12 @@ sidebar_position: 9
 # Rule 9: Contact Information of Person to Answer Questions About Processing.
 
 <details>
-  <summary><strong>Statutory Text — Rule 9:Contact information of person to answer questions about processing.</strong> (click to expand)</summary>
+<summary><strong>9. Contact information of person to answer questions about processing</strong></summary>
 
 Every Data Fiduciary shall prominently publish on its website or app, and mention in every response to a communication for the exercise of the rights of a Data Principal under the Act, the business contact information of the Data Protection Officer, if applicable, or a person who is able to answer on behalf of the Data Fiduciary the questions of the Data Principal about the processing of her personal data.
+
 </details>
+
 
 ---
 

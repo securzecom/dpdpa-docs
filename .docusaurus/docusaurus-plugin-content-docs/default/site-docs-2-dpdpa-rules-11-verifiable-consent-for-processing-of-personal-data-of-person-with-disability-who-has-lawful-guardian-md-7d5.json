@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Verifiable Consent for Processing of Personal Data of Person with Disability who has Lawful Guardian",
+  "title": "Rule 11: Verifiable Consent for Processing of Personal Data of Person with Disability who has Lawful Guardian",
+  "description": "11. Verifiable consent for processing of personal data of person with disability who has lawful guardian",
+  "source": "@site/docs/2. DPDPA Rules/11 - Verifiable Consent for Processing of Personal Data of Person with Disability who has Lawful Guardian.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Person with Disability who has Lawful Guardian",
+  "permalink": "/docs/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Person with Disability who has Lawful Guardian",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 10: Verifiable Consent for Processing of Personal Data of Child",
+    "permalink": "/docs/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Child"
+  },
+  "next": {
+    "title": "Rule 12: Exemptions From Certain Obligations Applicable to Processing of Personal Data of Child",
+    "permalink": "/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child"
+  }
+}

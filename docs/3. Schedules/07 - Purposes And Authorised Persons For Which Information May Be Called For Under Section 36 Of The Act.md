@@ -2,18 +2,21 @@
 sidebar_position: 7
 ---
 
-# Schedule VII: Purposes And Authorised Persons For Which Information May Be Called For Under Section 36 Of The Act
+# Schedule VII 
 
 <details>
-  <summary><strong>SEVENTH SCHEDULE [See rule 22(1)] — Purposes and Authorised Persons for Which Information May Be Called for Under Section 36 of the Act</strong> (click to expand)</summary>
+<summary><strong>SEVENTH SCHEDULE (See rule 23(1) and 8(3))</strong></summary>
 
-| **S. No.** | **Purpose** | **Authorised Person** |
-|:--:|:--|:--|
-| **1.** | Use by the State or any of its instrumentalities, of personal data of a Data Principal in the interest of sovereignty and integrity of India or security of the State | Such officer of the State or of any of its instrumentalities notified under sub-section (2) of section 17 of the Act, as the Central Government or the head of such instrumentality, as the case may be, may designate in this behalf |
-| **2.** | Use by the State or any of its instrumentalities for the following purposes, namely:—(i) Performance of any function under any law for the time being in force in India; or(ii) Disclosure of any information for fulfilling any obligation under any law for the time being in force in India | Person authorised under applicable law |
-| **3.** | Carrying out assessment for notifying any Data Fiduciary or class of Data Fiduciaries as Significant Data Fiduciary | Such officer of the Central Government, in the Ministry of Electronics and Information Technology, as the Secretary in charge of the said Ministry may designate in this behalf |
+| S. no. | Purpose | Authorised person |
+|-------|---------|-------------------|
+| **1.** | Use, by the State or any of its instrumentalities, of personal data of a Data Principal in the interest of sovereignty and integrity of India or security of the State. | Such officer of the State or of any of its instrumentalities notified under clause (a) of sub-section (2) of section 17 of the Act, as the Central Government or the head of such instrumentality, as the case may be, may designate in this behalf. |
+| **2.** | Use, by the State or any of its instrumentalities, of personal data of a Data Principal for the following purposes, namely: —  
+(i) performance of any function under any law for the time being in force in India; or  
+(ii) disclosure of any information for fulfilling any obligation under any law for the time being in force in India. | Person authorised under applicable law. |
+| **3.** | Carrying out assessment for notifying any Data Fiduciary or class of Data Fiduciaries as Significant Data Fiduciary. | Such officer of the Central Government, in the Ministry of Electronics and Information Technology, as the Secretary in charge of the said Ministry may designate in this behalf. |
 
 </details>
+
 
 ---
 
@@ -111,7 +114,7 @@ This clause reinforces the DPDPA’s vision of a **rights-respecting digital gov
 This allows the **Ministry of Electronics and Information Technology (MeitY)** to assess and designate organisations as **Significant Data Fiduciaries** based on factors like the scale and sensitivity of data processed. The Secretary of MeitY may appoint an authorised officer to conduct such assessments, ensuring fairness and regulatory oversight.
 
 :::tip  
-Before classifying a company (for example, a large fintech or social media platform) as an SDF, the authorised officer may seek details on data volume, processing methods, and existing risk controls.  
+Before classifying a company (for example, a large fintech or social media platform) as an SDF, the authorised officer may seek details on data volume, processing methods, and existing risks and it's controls.  
 :::
 
 ---

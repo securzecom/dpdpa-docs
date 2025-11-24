@@ -5,14 +5,21 @@ sidebar_position: 8
 # Rule 8: Time Period for Specified Purpose to be Deemed as No Longer Being Served
 
 <details>
-  <summary><strong>Statutory Text — Rule 8:Time period for specified purpose to be deemed as no longer being served.</strong> (click to expand)</summary>
+<summary><strong>8. Time period for specified purpose to be deemed as no longer being served</strong></summary>
 
-(1) A Data Fiduciary, who is of such class and is processing personal data for such corresponding purposes as are specified in Third Schedule, shall erase such personal data, unless its retention is necessary for compliance with any law for the time being in force, if, for the corresponding time period specified in the said Schedule, the Data Principal neither approaches such Data Fiduciary for the performance of the specified purpose nor exercises her rights in relation to such processing.  
+(1) A Data Fiduciary, who is of such class and is processing personal data for such corresponding purposes as are specified in Third Schedule, shall erase such personal data, unless its retention is necessary for compliance with any law for the time being in force, or, for the corresponding time period specified in the Third Schedule, if the Data Principal neither approaches such Data Fiduciary for the performance of the specified purpose nor exercises her rights in relation to such processing.
 
-(2) At least forty-eight hours before completion of the time period for erasure of personal data under this rule, the Data Fiduciary shall inform the Data Principal that such personal data shall be erased upon completion of such period, unless she logs into her user account or otherwise initiates contact with the Data Fiduciary for the performance of the specified purpose or exercises her rights in relation to the processing of such personal data.  
+(2) At least forty-eight hours before completion of the time period for erasure of personal data under this rule, the Data Fiduciary shall inform the Data Principal that such personal data shall be erased upon completion of such period, unless she logs into her user account or otherwise initiates contact with the Data Fiduciary for the performance of the specified purpose or exercises her rights in relation to the processing of such personal data.
 
-(3) In this rule, “user account” means the online account registered by the Data Principal with the Data Fiduciary, and includes any profiles, pages, handles, email address, mobile number and other similar presences by means of which she is able to access the services of such Data Fiduciary.
+(3) Without prejudice to sub-rules (1) and (2), a Data Fiduciary shall retain, in respect of any processing of personal data undertaken by it or on its behalf by a Data Processor, such personal data, associated traffic data and other logs of the processing for a minimum period of one year from the date of such processing, for the purposes as specified in the Seventh Schedule, after which the Data Fiduciary shall cause such personal data and logs to be erased, unless further retention is required for compliance with any other law for the time being in force or notified by the Government.
+
+**Illustration.**  
+Case 1: X, a Data Principal purchases an e-book on an e-book platform Y. Once delivery is completed, the specified purpose of processing is served. The platform Y must retain the order details, personal data, and logs of the processing (such as order confirmation, payment, and delivery events) for at least one year from the date of the transaction, even if X deletes her account.  
+
+Case 2: X, a company engages a cloud service provider C as its Data Processor to host customer records. X as the Data Fiduciary, is required to ensure that C also retains the data and associated logs for at least one year before erasure, unless any other applicable law requires a longer period.
+
 </details>
+
 
 ---
 

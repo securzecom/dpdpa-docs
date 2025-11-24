@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child",
+  "title": "Rule 12: Exemptions From Certain Obligations Applicable to Processing of Personal Data of Child",
+  "description": "12. Exemptions from certain obligations applicable to processing of personal data of child",
+  "source": "@site/docs/2. DPDPA Rules/12 - Exemptions from certain obligations applicable to processing of personal data of child.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child",
+  "permalink": "/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 11: Verifiable Consent for Processing of Personal Data of Person with Disability who has Lawful Guardian",
+    "permalink": "/docs/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Person with Disability who has Lawful Guardian"
+  },
+  "next": {
+    "title": "Rule 13: Additional Obligations of Significant Data Fiduciaries",
+    "permalink": "/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries"
+  }
+}

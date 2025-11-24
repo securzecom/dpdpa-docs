@@ -1,20 +1,22 @@
 ---
-sidebar_position: 11
+sidebar_position: 12
 ---
 
-# Rule 11: Exemptions From Certain Obligations Applicable to Processing of Personal Data of Child
+# Rule 12: Exemptions From Certain Obligations Applicable to Processing of Personal Data of Child
 
 <details>
-  <summary><strong>Statutory Text — Rule 11:Exemptions from certain obligations applicable to processing of personal data of child.</strong> (click to expand)</summary>
+<summary><strong>12. Exemptions from certain obligations applicable to processing of personal data of child</strong></summary>
 
-(1) The provisions of sub-sections (1) and (3) of section 9 of the Act shall not be applicable to processing of personal data of a child by such class of Data Fiduciaries as are specified in Part A of Fourth Schedule, subject to such conditions as are specified in the said Part.  
+(1) The provisions of sub-sections (1) and (3) of section 9 of the Act shall not be applicable to processing of personal data of a child by such class of Data Fiduciaries as are specified in Part A of Fourth Schedule, subject to such conditions as are specified in the said Part.
 
 (2) The provisions of sub-sections (1) and (3) of section 9 of the Act shall not be applicable to processing of personal data of a child for such purposes as are specified in Part B of Fourth Schedule, subject to such conditions as are specified in the said Part.
+
 </details>
+
 
 ---
 
-Rule 11 introduces narrowly defined exemptions that relax the otherwise strict obligations placed on Data Fiduciaries processing children’s personal data under **Section 9(1)** and **Section 9(3)** of the Digital Personal Data Protection Act, 2023.  
+Rule 12 introduces narrowly defined exemptions that relax the otherwise strict obligations placed on Data Fiduciaries processing children’s personal data under **Section 9(1)** and **Section 9(3)** of the Digital Personal Data Protection Act, 2023.  
 
 These subsections generally require prior **verifiable parental consent** and prohibit **tracking, behavioural profiling, and targeted advertising** directed at children. However, where the processing clearly benefits the child and the risk to privacy is minimal, the Rules provide conditional flexibility through the **Fourth Schedule**.
 
@@ -83,6 +85,6 @@ Even when exemptions apply, organisations should maintain the same level of tran
 
 ---
 
-- Rule 11 offers **context-sensitive flexibility** while preserving the spirit of child-data protection.  
+- Rule 12 offers **context-sensitive flexibility** while preserving the spirit of child-data protection.  
 - It acknowledges that some processing—such as schooling, healthcare, or social-welfare services—serves the child’s best interests and should not be obstructed by excessive procedural friction.  
 - However, every exemption is conditional, monitored, and reversible if misused; transparency and accountability remain the cornerstone of compliance.

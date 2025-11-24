@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Rights of Data Principals",
+  "title": "Rule 14: Rights of Data Principals",
+  "description": "14. Rights of Data Principals",
+  "source": "@site/docs/2. DPDPA Rules/14 - Rights of Data Principals.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Rights of Data Principals",
+  "permalink": "/docs/DPDPA Rules/Rights of Data Principals",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 13: Additional Obligations of Significant Data Fiduciaries",
+    "permalink": "/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries"
+  },
+  "next": {
+    "title": "Rule 15: Transfer of Personal Data Outside the Territory of India",
+    "permalink": "/docs/DPDPA Rules/Transfer of personal data outside the territory of India"
+  }
+}

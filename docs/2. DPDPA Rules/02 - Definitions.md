@@ -5,10 +5,18 @@ sidebar_position: 2
 # Rule 2: Definitions
 
 <details>
-  <summary><strong>Statutory Text — Rule 2: Definitions.</strong> (click to expand)</summary>
+<summary><strong>2. Definitions</strong></summary>
 
-2. Definitions.—Unless the context otherwise requires, all expressions shall have the meaning assigned to them in the Digital Personal Data Protection Act, 2023 (22 of 2023) (hereinafter referred to as “Act”).
+(1) In these rules, unless the context otherwise requires,—  
+(a) “Act” means the Digital Personal Data Protection Act, 2023 (22 of 2023);  
+(b) “techno-legal measures” means as referred to under rules 20 and 22;  
+(c) “user account” means the online account registered by the Data Principal with the Data Fiduciary, and includes any profiles, pages, handles, email address, mobile number and other similar presences by means of which such Data Principal is able to access the services of such Data Fiduciary; and  
+(d) “verifiable consent” means a consent as specified in rule 10 or 11.
+
+(2) The words and expressions used in these rules and not defined, but defined in the Act, shall have the same meanings respectively assigned to them in the Act.
+
 </details>
+
 
 ---
 

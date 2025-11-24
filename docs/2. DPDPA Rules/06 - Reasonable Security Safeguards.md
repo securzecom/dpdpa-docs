@@ -5,10 +5,21 @@ sidebar_position: 6
 # Rule 6: Reasonable Security Safeguards
 
 <details>
-  <summary><strong>Statutory Text — Rule 6:Reasonable security safeguards.</strong> (click to expand)</summary>
+<summary><strong>6. Reasonable security safeguards</strong></summary>
 
-6. Reasonable security safeguards.— <br></br>(1) A Data Fiduciary shall protect personal data in its possession or under its control, including in respect of any processing undertaken by it or on its behalf by a Data Processor, by taking reasonable security safeguards to prevent personal data breach, which shall include, at the minimum,—<br></br>(a) appropriate data security measures, including securing of such personal data through its encryption, obfuscation or masking or the use of virtual tokens mapped to that personal data;<br></br>(b) appropriate measures to control access to the computer resources used by such Data Fiduciary or such a Data Processor;<br></br>(c) visibility on the accessing of such personal data, through appropriate logs, monitoring and review, for enabling detection of unauthorised access, its investigation and remediation to prevent recurrence;<br></br>(d) reasonable measures for continued processing in the event of confidentiality, integrity or availability of such personal data being compromised as a result of destruction or loss of access to personal data or otherwise, including by way of data-backups;<br></br>(e) for enabling the detection of unauthorised access, its investigation, remediation to prevent recurrence and continued processing in the event of such a compromise, retain such logs and personal data for a period of one year, unless compliance with any law for the time being in force requires otherwise;<br></br>(f) appropriate provision in the contract entered into between such Data Fiduciary and such a Data Processor for taking reasonable security safeguards; and(g) appropriate technical and organisational measures to ensure effective observance of security safeguards.<br></br>(2) In this rule, the expression “computer resource” shall have the same meaning as is assigned to it in Information Technology Act, 2000 (21 of 2000).
+(1) A Data Fiduciary shall protect personal data in its possession or under its control, including in respect of any processing undertaken by it or on its behalf by a Data Processor, by taking reasonable security safeguards to prevent personal data breach, which shall include, at the minimum,—  
+(a) appropriate data security measures, such as securing of personal data through encryption, obfuscation, masking or the use of virtual tokens mapped to that personal data;  
+(b) appropriate measures to control access to the computer resources used by such Data Fiduciary or such a Data Processor, wherever applicable;  
+(c) visibility on the accessing of such personal data, through appropriate logs, monitoring and review, for enabling detection of unauthorised access, its investigation and remediation to prevent recurrence;  
+(d) reasonable measures for continued processing in the event of confidentiality, integrity or availability of such personal data being compromised as a result of destruction or loss of access to personal data or otherwise, such as by way of data-backups;  
+(e) for enabling the detection of unauthorised access, its investigation, remediation to prevent recurrence and continued processing in the event of such a compromise, retain such logs and personal data for a period of one year, unless compliance with any law for the time being in force requires otherwise;  
+(f) appropriate provision in the contract entered into between such Data Fiduciary and such a Data Processor, wherever applicable, for taking reasonable security safeguards; and  
+(g) appropriate technical and organisational measures to ensure effective observance of security safeguards.
+
+(2) In this rule, the expression “computer resource” shall have the same meaning as is assigned to it in Information Technology Act, 2000 (21 of 2000).
+
 </details>
+
 
 
 ### 1. Securing Personal Data — Encryption, Masking, and Tokenisation  

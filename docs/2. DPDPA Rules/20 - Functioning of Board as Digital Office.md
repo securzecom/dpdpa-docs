@@ -1,19 +1,20 @@
 ---
-sidebar_position: 19
+sidebar_position: 20
 ---
 
-# Rule 19: Functioning of Board as Digital Office
+# Rule 20: Functioning of Board as Digital Office
 
-<details>  
-  <summary><strong>Statutory Text — Rule 19: Functioning of Board as Digital Office.</strong> (click to expand)</summary>  
+<details>
+<summary><strong>20. Functioning of Board as digital office</strong></summary>
 
-The Board shall function as a digital office which, without prejudice to its power to summon and enforce the attendance of any person and examine her on oath, may adopt techno-legal measures to conduct proceedings in a manner that does not require physical presence of any individual.  
+The Board shall function as a digital office, without prejudice to its power to summon and enforce the attendance of any person and examine her on oath, and may adopt techno-legal measures to conduct proceedings in a manner that does not require physical presence of any individual.
 
-</details>  
+</details>
+
 
 ---
 
-Rule 19 highlights that the **Data Protection Board of India (DPBI)** is designed to operate as a **fully digital and technology-driven office**. This means most of its work — including complaint filings, hearings, document reviews, and orders — will happen **online** rather than through physical meetings.  
+Rule 20 highlights that the **Data Protection Board of India (DPBI)** is designed to operate as a **fully digital and technology-driven office**. This means most of its work — including complaint filings, hearings, document reviews, and orders — will happen **online** rather than through physical meetings.  
 
 The goal is to make the process **faster, transparent, and accessible** to people and organisations across India, without requiring anyone to travel to Delhi or another central location.  
 
@@ -76,4 +77,4 @@ Beyond technology, the “digital office” approach aims to make compliance and
 
 ---
 
-Rule 19 transforms the Data Protection Board into a **modern, online-first authority**. It combines technology and law to make hearings, filings, and decisions digital — without reducing the Board’s powers. This ensures **speed, inclusivity, and transparency**, while keeping every order and proceeding legally valid and enforceable.  
+Rule 20 transforms the Data Protection Board into a **modern, online-first authority**. It combines technology and law to make hearings, filings, and decisions digital — without reducing the Board’s powers. This ensures **speed, inclusivity, and transparency**, while keeping every order and proceeding legally valid and enforceable.  

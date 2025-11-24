@@ -5,20 +5,26 @@ sidebar_position: 4
 # Rule 4: Registration and Obligations of Consent Manager
 
 <details>
-  <summary><strong>Statutory Text — Rule 4: Registration and obligations of Consent Manager.</strong> (click to expand)</summary>
+<summary><strong>4. Registration and obligations of Consent Manager</strong></summary>
 
-4. Registration and obligations of Consent Manager.—  
-(1) A person who fulfils the conditions for registration of Consent Managers set out in Part A of First Schedule may apply to the Board for registration as a Consent Manager by furnishing such particulars and such other information and documents as the Board may publish in this behalf on its website.  
+(1) A person who fulfils the conditions for registration of Consent Managers set out in Part A of First Schedule may apply to the Board for registration as a Consent Manager by furnishing such particulars and such other information and documents as the Board may publish in this behalf on its website.
+
 (2) On receipt of such application, the Board may make such inquiry as it may deem fit to satisfy itself regarding fulfilment of the conditions set out in Part A of First Schedule, and if it—  
 (a) is satisfied, register the applicant as a Consent Manager, under intimation to the applicant, and publish on its website the particulars of such Consent Manager; or  
-(b) is not satisfied, reject the application and communicate the reasons for the rejection to the applicant.  
-(3) The Consent Manager shall have obligations as specified in Part B of First Schedule.  
-(4) If the Board is of the opinion that a Consent Manager is not adhering to the conditions and obligations under this rule, it may, after giving an opportunity of being heard, inform the Consent Manager of such non-adherence and direct the Consent Manager to take measures to ensure adherence.  
+(b) is not satisfied, reject the application and communicate the reasons for the rejection to the applicant.
+
+(3) The Consent Manager shall have obligations as specified in Part B of First Schedule.
+
+(4) If the Board is of the opinion that a Consent Manager is not adhering to the conditions and obligations under this rule, it may, after giving an opportunity of being heard, inform the Consent Manager of such non-adherence and direct the Consent Manager to take measures to ensure adherence.
+
 (5) The Board may, if it is satisfied that it is necessary so to do in the interests of Data Principals, after giving the Consent Manager an opportunity of being heard, by order, for reasons to be recorded in writing,—  
 (a) suspend or cancel the registration of such Consent Manager; and  
-(b) give such directions as it may deem fit to that Consent Manager, to protect the interests of the Data Principals.  
+(b) give such directions as it may deem fit to that Consent Manager, to protect the interests of the Data Principals.
+
 (6) The Board may, for the purposes of this rule, require the Consent Manager to furnish such information as the Board may call for.
+
 </details>
+
 
 ---
 
@@ -67,7 +73,8 @@ This ensures that the Board has direct legal oversight, can conduct audits, and 
 <details>
   <summary><strong>Can Data Managed by a Consent Manager be Stored Outside India?</strong></summary>
 
-The DPDPA 2023 and the Digital Personal Data Protection Rules 2025 do **not mandate full data localisation**.  
+The DPDPA 2023 and the Digital Personal Data Protection Rules 2025 do **not mandate full data localisation**. 
+
 However, a Consent Manager must ensure that any storage or processing **outside India** provides an **equivalent level of protection** and maintains **lawful accessibility** for Indian regulators.
 
 Key compliance expectations include:

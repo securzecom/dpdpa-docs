@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
-  "title": "Rule 15: Exemption from Act for Research, Archiving or Statistical Purposes",
-  "description": "Statutory Text — Rule 15: Exemption from Act for research, archiving or statistical purposes. (click to expand)",
+  "title": "Rule 16. Exemption from Act for Research, Archiving or Statistical Purposes",
+  "description": "16. Exemption from Act for Research, Archiving or Statistical Purposes",
   "source": "@site/docs/2. DPDPA Rules/15 - Exemptions for Research, Archiving, and Statistical Purposes.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes",
@@ -10,14 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 15,
+  "sidebarPosition": 16,
   "frontMatter": {
-    "sidebar_position": 15
+    "sidebar_position": 16
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 14: Processing of Personal Data Outside India",
-    "permalink": "/docs/DPDPA Rules/Processing of Personal Data Outside India"
+    "title": "Rule 15: Transfer of Personal Data Outside the Territory of India",
+    "permalink": "/docs/DPDPA Rules/Transfer of personal data outside the territory of India"
   },
   "next": {
     "title": "Rule 16: Appointment of Chairperson and Other Members",

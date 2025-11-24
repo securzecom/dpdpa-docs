@@ -1,24 +1,28 @@
 ---
-sidebar_position: 12
+sidebar_position: 13
 ---
 
-# Rule 12: Additional Obligations of Significant Data Fiduciaries
+# Rule 13: Additional Obligations of Significant Data Fiduciaries
 
 <details>
-  <summary><strong>Statutory Text — Rule 12:Additional obligations of Significant Data Fiduciary.</strong> (click to expand)</summary>
+<summary><strong>13. Additional Obligations of Significant Data Fiduciary</strong></summary>
 
-(1) A Significant Data Fiduciary shall, once in every period of twelve months from the date on which it is notified as such or is included in the class of Data Fiduciaries notified as such, undertake a Data Protection Impact Assessment and an audit to ensure effective observance of the provisions of this Act and the rules made thereunder.  
+(1) A Significant Data Fiduciary shall, once in every period of twelve months from the date on which it is notified as such or is included in the class of Data Fiduciaries notified as such, undertake a Data Protection Impact Assessment and an audit to ensure effective observance of the provisions of this Act and the rules made thereunder.
 
-(2) A Significant Data Fiduciary shall cause the person carrying out the Data Protection Impact Assessment and audit to furnish to the Board a report containing significant observations in the Data Protection Impact Assessment and audit.  
+(2) A Significant Data Fiduciary shall cause the person carrying out the Data Protection Impact Assessment and audit to furnish to the Board a report containing significant observations in the Data Protection Impact Assessment and audit.
 
-(3) A Significant Data Fiduciary shall observe due diligence to verify that algorithmic software deployed by it for hosting, display, uploading, modification, publishing, transmission, storage, updating or sharing of personal data processed by it are not likely to pose a risk to the rights of Data Principals.  
+(3) A Significant Data Fiduciary shall observe due diligence to verify that technical measures including algorithmic software adopted by it for hosting, display, uploading, modification, publishing, transmission, storage, updating or sharing of personal data processed by it are not likely to pose a risk to the rights of Data Principals.
 
-(4) A Significant Data Fiduciary shall undertake measures to ensure that personal data specified by the Central Government on the basis of the recommendations of a committee constituted by it is processed subject to the restriction that the personal data and the traffic data pertaining to its flow is not transferred outside the territory of India.
+(4) A Significant Data Fiduciary shall undertake measures to ensure that personal data specified by the Central Government, on the basis of the recommendations of a committee constituted by it, is processed subject to the restriction that the personal data and the traffic data pertaining to its flow is not transferred outside the territory of India.
+
+(5) In this rule, “committee” means a committee constituted by the Central Government for the purpose of this rule, which shall include officials from the Ministry of Electronics and Technology and may include officials from other Ministries or Department of the Central Government.
+
 </details>
+
 
 ---
 
-Rule 12 sets out enhanced compliance duties for organisations designated as **Significant Data Fiduciaries (SDFs)** by the Central Government. These are entities that process **large volumes of personal data** or handle **sensitive or high-impact datasets**, such as banks, social media platforms, telecom companies, or healthcare networks.  
+Rule 13 sets out enhanced compliance duties for organisations designated as **Significant Data Fiduciaries (SDFs)** by the Central Government. These are entities that process **large volumes of personal data** or handle **sensitive or high-impact datasets**, such as banks, social media platforms, telecom companies, or healthcare networks.  
 
 The purpose is to ensure such organisations adopt **a proactive and auditable approach to data protection** through regular assessments, governance controls, and localisation safeguards.
 
@@ -63,7 +67,7 @@ This transparent reporting strengthens regulatory trust and demonstrates continu
 
 ### 3. Algorithmic Accountability and Risk Control  
 
-Rule 12(3) introduces **algorithmic due diligence**, recognising that many SDFs rely on automated systems that influence how personal data is hosted, shared, or displayed. The SDF must verify that any **algorithmic software** used in data handling does **not create discriminatory, privacy-invasive, or unfair outcomes**.  
+Rule 13(3) introduces **algorithmic due diligence**, recognising that many SDFs rely on automated systems that influence how personal data is hosted, shared, or displayed. The SDF must verify that any **algorithmic software** used in data handling does **not create discriminatory, privacy-invasive, or unfair outcomes**.  
 
 This includes:
 - Testing algorithms for **bias or discriminatory profiling** (e.g., lending models, recruitment screening).  
@@ -116,4 +120,4 @@ Significant Data Fiduciaries should maintain a continuous governance framework t
 
 ---
 
-Rule 12 creates a **comprehensive compliance ecosystem** for entities with the largest impact on citizens’ data. By mandating regular DPIAs, audits, algorithmic checks, and localisation controls, it transforms privacy from a one-time exercise into a **sustained accountability cycle**, ensuring that India’s digital economy remains transparent, fair, and sovereign by design.
+Rule 13 creates a **comprehensive compliance ecosystem** for entities with the largest impact on citizens’ data. By mandating regular DPIAs, audits, algorithmic checks, and localisation controls, it transforms privacy from a one-time exercise into a **sustained accountability cycle**, ensuring that India’s digital economy remains transparent, fair, and sovereign by design.

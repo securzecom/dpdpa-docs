@@ -5,12 +5,18 @@ sidebar_position: 1
 # Rule 1: Short Title and Commencement
 
 <details>
-  <summary><strong>Statutory Text — Rule 1: Short title and commencement.</strong> (click to expand)</summary>
+<summary><strong>1. Short title and commencement</strong></summary>
 
-1. (1) These rules may be called the Digital Personal Data Protection Rules, 2025.<br />
-(2) Rules 3 to 15, rule 21 and rule 22 shall come into force with effect from __________.<br />
-(3) These rules, except rules 3 to 15 and rules 21 and 22, shall come into force on the date of their publication in the Official Gazette.
+(1) These rules may be called the Digital Personal Data Protection Rules, 2025.
+
+(2) Rules 1, 2 and 17 to 21 shall come into force on the date of their publication in the Official Gazette.
+
+(3) Rule 4 shall come into force one year after the date of publication of this Gazette.
+
+(4) Rules 3, 5 to 16, 22 and 23 shall come into force eighteen months after the date of publication of this Gazette.
+
 </details>
+
 
 ---
 

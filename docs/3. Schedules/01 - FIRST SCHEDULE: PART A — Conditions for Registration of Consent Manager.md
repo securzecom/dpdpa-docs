@@ -2,32 +2,32 @@
 sidebar_position: 1
 ---
 
-# Schedule I: PART A — Conditions for Registration of a Consent Manager
+# Schedule I: PART A — Conditions for Registration of Consent Manager
 
-<details>  
-  <summary><strong>FIRST SCHEDULE [See rule 4] PART A — Conditions for Registration of a Consent Manager</strong> (click to expand)</summary>  
+<details>
+<summary><strong>Conditions for Registration of Consent Manager</strong></summary>
 
-1. The applicant is a company incorporated in India.  
+1. The applicant is a company incorporated in India.
 
-2. The applicant has sufficient capacity, including technical, operational and financial capacity, to fulfil its obligations as a Consent Manager.  
+2. The applicant has sufficient capacity, including technical, operational and financial capacity, to fulfil its obligations as a Consent Manager.
 
-3. The financial condition and the general character of management of the applicant are sound.  
+3. The financial condition and the general character of management of the applicant are sound.
 
-4. The net worth of the applicant is not less than two crore rupees.  
+4. The net worth of the applicant is not less than two crore rupees.
 
-5. The volume of business likely to be available to and the capital structure and earning prospects of the applicant are adequate.  
+5. The volume of business likely to be available to and the capital structure and earning prospects of the applicant are adequate.
 
-6. The directors, key managerial personnel and senior management of the applicant company are individuals with a general reputation and record of fairness and integrity.  
+6. The directors, key managerial personnel and senior management of the applicant company are individuals with a general reputation and record of fairness and integrity.
 
-7. The memorandum of association and articles of association of the applicant company contain provisions requiring that the obligations under items 9 and 10 of Part B are adhered to, that policies and procedures are in place to ensure such adherence, and that such provisions may be amended only with the previous approval of the Board.  
+7. The memorandum of association and articles of association of the applicant company contain provisions requiring that the obligations under items 9 and 10 of Part B are adhered to, that policies and procedures are in place to ensure such adherence, and that such provisions may be amended only with the previous approval of the Board.
 
-8. The operations proposed to be undertaken by the applicant are in the interests of Data Principals.  
+8. The operations proposed to be undertaken by the applicant are in the interests of Data Principals.
 
 9. It is independently certified that—  
- (a) the interoperable platform of the applicant to enable the Data Principal to give, manage, review and withdraw her consent is consistent with such data protection standards and assurance framework as may be published by the Board on its website from time to time; and  
- (b) appropriate technical and organisational measures are in place to ensure adherence to such standards and framework and effective observance of the obligations under item 11 of Part B.  
+   (a) the interoperable platform of the applicant to enable the Data Principal to give, manage, review and withdraw her consent is consistent with such data protection standards and assurance framework as may be published by the Board on its website from time to time; and  
+   (b) appropriate technical and organisational measures are in place to ensure adherence to such standards and framework and effective observance of the obligations under item 11 of Part B.
 
-</details>  
+</details>
 
 
 ---

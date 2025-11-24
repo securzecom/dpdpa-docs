@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-4e0": {
+  "/blog-0e1": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -50,7 +50,25 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
+        "content": "content---blog-4-a-7-c68"
+      },
+      {
+        "content": "content---blog-3-d-2-051"
+      },
+      {
+        "content": "content---blogcbe-566"
+      },
+      {
+        "content": "content---blogcbe-566"
+      },
+      {
+        "content": "content---blog-9-b-1-8b8"
+      },
+      {
         "content": "content---blog-452-960"
+      },
+      {
+        "content": "content---blog-4-a-7-c68"
       }
     ],
     "__props": "__props---blogc-15-573"
@@ -108,24 +126,97 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-bloge-06-5a9"
   },
+  "/blog/bot-e28": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-bot-2-d-4-2c3"
+  },
+  "/blog/Bot-4cf": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-botd-40-8bc"
+  },
+  "/blog/Bot-c15": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-botb-8-e-ed9"
+  },
+  "/blog/dpdpa-bot-69c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-dpdpa-bot-444-34b"
+  },
+  "/blog/welcome-26c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcome-57-c-7ef"
+  },
+  "/blog/welcome-83a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomec-8-f-e70"
+  },
+  "/dpdpa-bot-335": {
+    "__comp": "__comp---site-src-pages-dpdpa-bot-jsxb-23-9a8",
+    "__context": {
+      "plugin": "plugin---dpdpa-bota-74-d2e"
+    },
+    "config": "config---dpdpa-bot-5-e-9-e5a"
+  },
   "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---dpdpa-bota-74-d2e"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-a34": {
+  "/docs-690": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-744": {
+  "/docs-418": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-b01": {
+  "/docs-dc3": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Board & Enforcement Questions/01-f3f": {
@@ -228,37 +319,41 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dpdpa-general-questions-04058-61b"
   },
-  "/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries-8a8": {
+  "/docs/DPDPA Rules/Additional Obligations of Significant Data Fiduciaries-f73": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-additional-obligations-of-significant-data-fiduciaries-1-d-2-16e"
+    "content": "content---docs-dpdpa-rules-additional-obligations-of-significant-data-fiduciariesfdd-3fb"
   },
-  "/docs/DPDPA Rules/Appeals to the Appellate Tribunal-3b8": {
+  "/docs/DPDPA Rules/Appeal to Appellate Tribunal-b2a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-appeals-to-the-appellate-tribunal-22-e-e7b"
+    "content": "content---docs-dpdpa-rules-appeal-to-appellate-tribunalb-00-216"
   },
-  "/docs/DPDPA Rules/Appointment of Chairperson and Members of the Data Protection Board-fbc": {
+  "/docs/DPDPA Rules/Appointment of Chairperson and Other Members-9ed": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-appointment-of-chairperson-and-members-of-the-data-protection-board-32-d-57b"
+    "content": "content---docs-dpdpa-rules-appointment-of-chairperson-and-other-members-2-f-2-ead"
+  },
+  "/docs/DPDPA Rules/Calling for Information from Data Fiduciary or Intermediary-9d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dpdpa-rules-calling-for-information-from-data-fiduciary-or-intermediarya-7-e-640"
   },
   "/docs/DPDPA Rules/Contact Information for Queries about Processing-979": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dpdpa-rules-contact-information-for-queries-about-processing-6-e-8-029"
   },
-  "/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office-820": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-data-protection-board-to-function-as-a-digital-officef-32-147"
-  },
   "/docs/DPDPA Rules/Definitions-b24": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dpdpa-rules-definitions-485-3bc"
   },
-  "/docs/DPDPA Rules/Exemptions for Research, Archiving, and Statistical Purposes-b6e": {
+  "/docs/DPDPA Rules/Exemption from Act for Research, Archiving or Statistical Purposes-fde": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-exemptions-for-research-archiving-and-statistical-purposes-982-696"
+    "content": "content---docs-dpdpa-rules-exemption-from-act-for-research-archiving-or-statistical-purposes-099-960"
   },
-  "/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child-d2e": {
+  "/docs/DPDPA Rules/Exemptions from certain obligations applicable to processing of personal data of child-e6a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-exemptions-from-certain-obligations-applicable-to-processing-of-personal-data-of-childaf-5-2f9"
+    "content": "content---docs-dpdpa-rules-exemptions-from-certain-obligations-applicable-to-processing-of-personal-data-of-childe-73-2f0"
+  },
+  "/docs/DPDPA Rules/Functioning of Board as Digital Office-eaf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dpdpa-rules-functioning-of-board-as-digital-officeee-9-974"
   },
   "/docs/DPDPA Rules/Intimation of Personal Data Breach-1dd": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -268,21 +363,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dpdpa-rules-notice-by-data-fiduciary-to-data-principalcda-721"
   },
-  "/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries-8ce": {
+  "/docs/DPDPA Rules/Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments-3dd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-power-to-call-for-information-from-data-fiduciaries-or-intermediariesdd-0-186"
-  },
-  "/docs/DPDPA Rules/Procedure of Board Meetings and Authentication of Orders or Instruments-58a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-procedure-of-board-meetings-and-authentication-of-orders-or-instruments-262-352"
+    "content": "content---docs-dpdpa-rules-procedure-for-meetings-of-board-and-authentication-of-its-orders-directions-and-instruments-6-eb-dab"
   },
   "/docs/DPDPA Rules/Processing for Subsidy, Benefit, Service, Licence or Permit by the State-6d8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dpdpa-rules-processing-for-subsidy-benefit-service-licence-or-permit-by-the-state-913-35d"
-  },
-  "/docs/DPDPA Rules/Processing of Personal Data Outside India-7eb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-processing-of-personal-data-outside-india-7-c-9-1b0"
   },
   "/docs/DPDPA Rules/Reasonable Security Safeguards-c8d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -292,25 +379,33 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dpdpa-rules-registration-and-obligations-of-consent-manager-7-d-7-72f"
   },
-  "/docs/DPDPA Rules/Rights of Data Principals-4da": {
+  "/docs/DPDPA Rules/Rights of Data Principals-b95": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-rights-of-data-principalseb-4-178"
+    "content": "content---docs-dpdpa-rules-rights-of-data-principalsfb-5-e38"
   },
-  "/docs/DPDPA Rules/Salary, Allowances and Service Conditions of the Chairperson and Members-3be": {
+  "/docs/DPDPA Rules/Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members-e82": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-salary-allowances-and-service-conditions-of-the-chairperson-and-membersdaa-7ad"
+    "content": "content---docs-dpdpa-rules-salary-allowances-and-other-terms-and-conditions-of-service-of-chairperson-and-other-members-818-54b"
   },
-  "/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board-d8d": {
+  "/docs/DPDPA Rules/Terms and Conditions of Appointment and Service of Officers and Employees of Board-6b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-terms-and-conditions-of-officers-and-employees-of-the-board-2-c-5-ef3"
+    "content": "content---docs-dpdpa-rules-terms-and-conditions-of-appointment-and-service-of-officers-and-employees-of-board-133-bc1"
   },
   "/docs/DPDPA Rules/Title and Commencement-8ac": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dpdpa-rules-title-and-commencement-06-a-1e8"
   },
-  "/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities-7ab": {
+  "/docs/DPDPA Rules/Transfer of personal data outside the territory of India-7a1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-dpdpa-rules-verifiable-consent-for-children-and-persons-with-disabilities-162-a3e"
+    "content": "content---docs-dpdpa-rules-transfer-of-personal-data-outside-the-territory-of-india-33-f-8d3"
+  },
+  "/docs/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Child-b78": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dpdpa-rules-verifiable-consent-for-processing-of-personal-data-of-child-6-d-9-4a8"
+  },
+  "/docs/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Person with Disability who has Lawful Guardian-ff2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dpdpa-rules-verifiable-consent-for-processing-of-personal-data-of-person-with-disability-who-has-lawful-guardian-7-d-5-a83"
   },
   "/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served-67e": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -464,13 +559,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-rights-of-data-principals-05-ae-2-69b"
   },
-  "/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of a Consent Manager-ba1": {
+  "/docs/Schedules/FIRST SCHEDULE: PART A — Conditions for Registration of Consent Manager-738": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-schedules-first-schedule-part-a-conditions-for-registration-of-a-consent-manager-3-d-3-bc2"
+    "content": "content---docs-schedules-first-schedule-part-a-conditions-for-registration-of-consent-managerf-5-c-673"
   },
-  "/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of a Consent Manager-12c": {
+  "/docs/Schedules/FIRST SCHEDULE: PART B — Obligations of Consent Manager-36c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-schedules-first-schedule-part-b-obligations-of-a-consent-managerb-01-458"
+    "content": "content---docs-schedules-first-schedule-part-b-obligations-of-consent-manager-963-9ed"
   },
   "/docs/Schedules/FOURTH SCHEDULE: PART A:  Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections 1 and 3 of Section 9 Shall Not Apply-9f1": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -543,8 +638,8 @@
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---dpdpa-bota-74-d2e"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---dpdpa-bot-5-e-9-e5a"
   }
 }

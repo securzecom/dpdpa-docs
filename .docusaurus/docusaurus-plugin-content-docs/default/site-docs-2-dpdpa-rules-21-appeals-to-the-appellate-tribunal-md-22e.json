@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Appeals to the Appellate Tribunal",
-  "title": "Rule 21: Appeals to Appellate Tribunal",
-  "description": "Statutory Text — Rule 21:Appeal to Appellate Tribunal. (click to expand)",
+  "title": "Rule 21: Appeal to Appellate Tribunal",
+  "description": "22. Appeal to Appellate Tribunal",
   "source": "@site/docs/2. DPDPA Rules/21 - Appeals to the Appellate Tribunal.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Appeals to the Appellate Tribunal",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 20: Terms and Conditions of Appointment and Service of Officers and Employees of the Board",
-    "permalink": "/docs/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board"
+    "title": "Rule 20: Functioning of Board as Digital Office",
+    "permalink": "/docs/DPDPA Rules/Functioning of Board as Digital Office"
   },
   "next": {
-    "title": "Rule 22: Power to Call for Information from Data Fiduciaries or Intermediaries",
-    "permalink": "/docs/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries"
+    "title": "Rule 21: Terms and Conditions of Appointment and Service of Officers and Employees of Board",
+    "permalink": "/docs/DPDPA Rules/Terms and Conditions of Appointment and Service of Officers and Employees of Board"
   }
 }

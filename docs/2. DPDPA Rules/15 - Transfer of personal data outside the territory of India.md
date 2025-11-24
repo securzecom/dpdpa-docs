@@ -1,21 +1,20 @@
 ---
-sidebar_position: 14
+sidebar_position: 15
 ---
 
-# Rule 14: Processing of Personal Data Outside India
+# Rule 15: Transfer of Personal Data Outside the Territory of India
 
 <details>
-  <summary><strong>Statutory Text — Rule 14:Processing of personal data outside India.</strong> (click to expand)</summary>
+<summary><strong>15. Transfer of Personal Data Outside the Territory of India</strong></summary>
 
-Transfer to any country or territory outside India of personal data processed by a Data Fiduciary—  
-(a) within the territory of India; or  
-(b) outside the territory of India in connection with any activity related to offering of goods or services to Data Principals within the territory of India,  
-is subject to the restriction that the Data Fiduciary shall meet such requirements as the Central Government may, by general or special order, specify in respect of making such personal data available to any foreign State, or to any person or entity under the control of or any agency of such a State.
+Any personal data processed by a Data Fiduciary under the Act may be transferred outside the territory of India subject to the restriction that the Data Fiduciary shall meet such requirements as the Central Government may, by general or special order, specify in respect of making such personal data available to any foreign State, or to any person or entity under the control of or any agency of such a State.
+
 </details>
+
 
 ---
 
-Rule 14 establishes India’s foundational principle for **cross-border data governance**: personal data generated in India, or data about Indian citizens processed elsewhere in connection with goods or services offered in India, **cannot be freely transferred** outside the country unless it complies with **conditions specified by the Central Government**.
+Rule 15 establishes India’s foundational principle for **cross-border data governance**: personal data generated in India, or data about Indian citizens processed elsewhere in connection with goods or services offered in India, **cannot be freely transferred** outside the country unless it complies with **conditions specified by the Central Government**.
 
 ---
 
@@ -52,7 +51,7 @@ If you use **AWS Singapore**, you remain responsible for ensuring:
 Many cloud providers — such as **AWS (Mumbai Region)** and **GCP (Delhi-NCR Region)** — host data within India but still perform **replication, telemetry, or disaster recovery (DR)** to servers outside India.
 
 In such cases:
-- Even **temporary replication or metadata flow** outside India counts as **cross-border data transfer** under **Rule 14**.  
+- Even **temporary replication or metadata flow** outside India counts as **cross-border data transfer** under **Rule 15**.  
 - You must ensure that all such transfers comply with **DPDPA’s adequacy and lawful purpose** principles.  
 - **Contractual clauses** (e.g., **Data Processing Addendums (DPAs)**, **Standard Contractual Clauses (SCCs)**) should **restrict unauthorized sub-processing** or storage outside approved regions.
 
@@ -78,7 +77,7 @@ The **Central Government** retains the power to define:
 Once notified, organisations must map their data flows and ensure every international transfer complies with these parameters.
 
 :::info Example – Cloud Hosting Provider  
-An Indian fintech hosts customer data on servers located in Singapore. If the Government later restricts transfers of “financial transaction data” to that region, the company must migrate the dataset back to an approved Indian or whitelisted location, or obtain special permission. Failure to act could constitute non-compliance under Rule 14.  
+An Indian IT Company hosts customer data on servers located in Singapore. If the Government later restricts transfers of data transactions to that region, the company must migrate the dataset back to an approved Indian or whitelisted location, or obtain special permission. Failure to act could constitute non-compliance under Rule 15.  
 :::
 
 ---
@@ -93,20 +92,20 @@ Data Fiduciaries should proactively build **data-transfer compliance frameworks*
 - **Government-access compliance:** Avoid making data available to foreign governments unless specifically permitted by Indian law or bilateral agreements.
 
 :::info Example – SaaS Company  
-A CRM SaaS provider headquartered abroad collects leads from Indian businesses. Before syncing user data to its U.S. servers, it configures a data-segregation model ensuring Indian customer data is stored in the company’s India-region cluster. Only anonymised metadata is transmitted abroad for analytics. This design supports operational efficiency while respecting sovereignty expectations under Rule 14.  
+A CRM SaaS provider headquartered abroad collects leads from Indian businesses. Before syncing user data to its U.S. servers, it configures a data-segregation model ensuring Indian customer data is stored in the company’s India-region cluster. Only anonymised metadata is transmitted abroad for analytics. This design supports operational efficiency while respecting sovereignty expectations under Rule 15.  
 :::
 
 ---
 
 ### 4. Handling Requests from Foreign States  
 
-The final portion of Rule 14 explicitly mentions **“making such personal data available to any foreign State or agency.”**  
+The final portion of Rule 15 explicitly mentions **“making such personal data available to any foreign State or agency.”**  
 This means that if an overseas government or investigative body requests Indian user data, the Data Fiduciary must not comply directly unless the Central Government has laid down a lawful route—such as a **mutual legal-assistance treaty (MLAT)** or specific executive order.  
 
 This clause safeguards national interest and prevents unauthorised foreign access.
 
 :::info Example – Critical Case  
-A global social-networking platform receives a request from a foreign law-enforcement agency to share details of Indian users involved in online protests. Without Central Government authorisation or a recognised treaty mechanism, providing that data would breach Rule 14 and could lead to penalties under the Act.  
+A global social-networking platform receives a request from a foreign law-enforcement agency to share details of Indian users involved in online protests. Without Central Government authorisation or a recognised treaty mechanism, providing that data would breach Rule 15 and could lead to penalties under the Act.  
 :::
 
 ---
@@ -120,4 +119,4 @@ A global social-networking platform receives a request from a foreign law-enforc
 
 ---
 
-Rule 14 reinforces **India’s data-sovereignty principle** — that Indian personal data remains subject to Indian protection standards wherever it travels. Companies operating across borders must therefore design systems that respect both **technical localisation** and **legal compliance**, ensuring transparency, accountability, and the security of every citizen’s data.
+Rule 15 reinforces **India’s data-sovereignty principle** — that Indian personal data remains subject to Indian protection standards wherever it travels. Companies operating across borders must therefore design systems that respect both **technical localisation** and **legal compliance**, ensuring transparency, accountability, and the security of every citizen’s data.

@@ -1,35 +1,36 @@
 ---
-sidebar_position: 18
+sidebar_position: 19
 ---
 
-# Rule 18: Procedure for Meetings of the Board and Authentication of its Orders, Directions, and Instruments
+# Rule 19: Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments
 
-<details>  
-  <summary><strong>Statutory Text — Rule 18: Procedure for Meetings of the Board and Authentication of its Orders, Directions, and Instruments.</strong> (click to expand)</summary>  
+<details>
+<summary><strong>19. Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments</strong></summary>
 
-(1) The Chairperson shall fix the date, time and place of meetings of the Board, approve the items of agenda therefor, and cause notice specifying the same to be issued under her signature or that of such other individual as the Chairperson may authorise by general or special order in writing.  
+(1) The Chairperson shall fix the date, time and place of meetings of the Board, approve the items of agenda therefor, and cause notice specifying the same to be issued under her signature or that of such other individual as the Chairperson may authorise by general or special order in writing.
 
-(2) Meetings of the Board shall be chaired by the Chairperson and, in her absence, by such other Member as the Members present at the meeting may choose from amongst themselves.  
+(2) Meetings of the Board shall be chaired by the Chairperson and, in her absence, by such other Member as the Members present at the meeting may choose from amongst themselves.
 
-(3) One-third of the membership of the Board shall be the quorum for its meetings.  
+(3) One-third of the membership of the Board shall be the quorum for its meetings.
 
-(4) All questions which come up before any meeting of the Board shall be decided by a majority of the votes of Members present and voting, and, in the event of an equality of votes, the Chairperson, or in her absence, the person chairing, shall have a second or casting vote.  
+(4) All questions which come up before any meeting of the Board shall be decided by a majority of the votes of Members present and voting, and, in the event of an equality of votes, the Chairperson, or in her absence, the person chairing, shall have a second or casting vote.
 
-(5) If a Member has an interest in any item of business to be transacted at a meeting of the Board, she shall not participate in or vote on the same and, in such a case, the decision on such item shall be taken by a majority of the votes of other Members present and voting.  
+(5) If a Member has an interest in any item of business to be transacted at a meeting of the Board, she shall not participate in or vote on the same and, in such a case, the decision on such item shall be taken by a majority of the votes of other Members present and voting.
 
-(6) In case an emergent situation warrants immediate action by the Board and it is not feasible to call a meeting of the Board, the Chairperson may, while recording the reasons in writing, take such action as may be necessary, which shall be communicated within seven days to all Members and laid before the Board for ratification at its next meeting.  
+(6) In case an emergent situation warrants immediate action by the Board and it is not feasible to call a meeting of the Board, the Chairperson may, while recording the reasons in writing, take such action as may be necessary, which shall be communicated within seven days to all Members and laid before the Board for ratification at its next meeting.
 
-(7) If the Chairperson so directs, an item of business or issue which requires decision of the Board may be referred to Members by circulation and such item may be decided with the approval of majority of the Members.  
+(7) If the Chairperson so directs, an item of business or issue which requires decision of the Board may be referred to Members by circulation and such item may be decided with the approval of majority of the Members.
 
-(8) The Chairperson or any Member of the Board, or any individual authorised by it by a general or special order in writing, may, under her signature, authenticate its order, direction or instrument.  
+(8) The Chairperson or any Member of the Board, or any individual authorised by it, by a general or special order in writing, may, under her signature, authenticate its order, direction or instrument.
 
-(9) The inquiry by the Board shall be completed within a period of six months from the date of receipt of the intimation, complaint, reference or direction under section 27 of the Act, unless such period is extended by it, for reasons to be recorded in writing, for a further period not exceeding three months at a time.  
+(9) The inquiry by the Board shall be completed within a period of six months from the date of receipt of the intimation, complaint, reference or direction under section 27 of the Act, unless such period is extended by it, for reasons to be recorded in writing, for a further period not exceeding three months at a time.
 
-</details>  
+</details>
+
 
 --- 
 
-Rule 18 explains **how the Data Protection Board of India (DPBI)** conducts its meetings, takes decisions, and formally issues or signs its orders. It ensures the Board works in an organised, transparent, and accountable manner — similar to how other quasi-judicial bodies function in India.  
+Rule 19 explains **how the Data Protection Board of India (DPBI)** conducts its meetings, takes decisions, and formally issues or signs its orders. It ensures the Board works in an organised, transparent, and accountable manner — similar to how other quasi-judicial bodies function in India.  
 
 ---
 
@@ -126,4 +127,4 @@ If a complex cross-border data-sharing case requires extra evidence, the Board c
 
 ---
 
-Rule 18 provides a structured way for the Data Protection Board to conduct business fairly and efficiently. It covers how meetings are scheduled, how decisions are made, what to do in emergencies, and how official orders are signed. Together, these steps ensure that every action of the Board remains **transparent, accountable, and legally valid**.  
+Rule 19 provides a structured way for the Data Protection Board to conduct business fairly and efficiently. It covers how meetings are scheduled, how decisions are made, what to do in emergencies, and how official orders are signed. Together, these steps ensure that every action of the Board remains **transparent, accountable, and legally valid**.  

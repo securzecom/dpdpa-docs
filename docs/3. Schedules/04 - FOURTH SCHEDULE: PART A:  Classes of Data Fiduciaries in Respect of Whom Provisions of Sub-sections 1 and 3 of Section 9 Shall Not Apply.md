@@ -2,20 +2,22 @@
 sidebar_position: 5
 ---
 
-# Schedule IV: PART A - Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections (1) and (3) of Section 9 Shall Not Apply
+# Schedule IV: PART A - Classes of Data Fiduciaries in Respect of whom Provisions of Sub-sections (1) and (3) of Section 9 Shall not Apply
 
-<details>  
-  <summary><strong>FOURTH SCHEDULE [See rule 11] PART A — Classes of Data Fiduciaries in Respect of Whom Provisions of Sub-sections (1) and (3) of Section 9 Shall Not Apply</strong> (click to expand)</summary>  
+<details>
+<summary><strong>FOURTH SCHEDULE — [See rule 12]  PART A  
+Classes of Data Fiduciaries in Respect of whom Provisions of Sub-sections (1) and (3) of Section 9 Shall not Apply</strong></summary>
 
 | S. No. | Class of Data Fiduciaries | Conditions |
-|:--:|:--|:--|
-| **1.** | A Data Fiduciary who is a clinical establishment, mental health establishment, or healthcare professional | Processing is restricted to provision of health services to the child by such establishment or professional, to the extent necessary for the protection of her health. |
-| **2.** | A Data Fiduciary who is an allied healthcare professional | Processing is restricted to supporting implementation of any healthcare treatment and referral plan recommended by such professional for the child, to the extent necessary for the protection of her health. |
-| **3.** | A Data Fiduciary who is an educational institution | Processing is restricted to tracking and behavioural monitoring—  (a) for the educational activities of such institution; or  (b) in the interests of safety of children enrolled with such institution. |
-| **4.** | A Data Fiduciary who is an individual in whose care infants and children in a crèche or child day-care centre are entrusted | Processing is restricted to tracking and behavioural monitoring in the interests of safety of children entrusted in the care of such institution, crèche, or centre. |
-| **5.** | A Data Fiduciary who is engaged by an educational institution, crèche, or child-care centre for transport of children enrolled with such institution, crèche, or centre | Processing is restricted to tracking the location of such children, in the interests of their safety, during the course of their travel to and from such institution, crèche, or centre. |
+|--------|----------------------------|------------|
+| **1** | A Data Fiduciary who is a clinical establishment, mental health establishment or healthcare professional. | Processing is restricted to provision of health services to the child by such establishment or professional, to the extent necessary for the protection of her health. |
+| **2** | A Data Fiduciary who is an allied healthcare professional. | Processing is restricted to supporting implementation of any healthcare treatment and referral plan recommended by such professional for the child, to the extent necessary for the protection of her health. |
+| **3** | A Data Fiduciary who is an educational institution. | Processing is restricted to tracking and behavioural monitoring—<br></br>(a) for the educational activities of such institution; or<br></br>(b) in the interests of safety of children enrolled with such institution. |
+| **4** | A Data Fiduciary who is an individual in whose care infants and children in a crèche or child day care centre are entrusted. | Processing is restricted to tracking and behavioural monitoring in the interests of safety of children entrusted in the care of such institution, crèche or centre. |
+| **5** | A Data Fiduciary who is engaged by an educational institution, crèche or child care centre for transport of children enrolled with such institution, crèche or centre. | Processing is restricted to tracking the location of such children, in the interests of their safety, during the course of their travel to and from such institution, crèche or centre. |
 
-</details>  
+</details>
+
 
 ---
 

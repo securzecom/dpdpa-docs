@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Contact Information for Queries about Processing",
   "title": "Rule 9: Contact Information of Person to Answer Questions About Processing.",
-  "description": "Statutory Text — Rule 9:Contact information of person to answer questions about processing. (click to expand)",
+  "description": "9. Contact information of person to answer questions about processing",
   "source": "@site/docs/2. DPDPA Rules/09 - Contact Information for Queries about Processing.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Contact Information for Queries about Processing",
@@ -20,7 +20,7 @@
     "permalink": "/docs/DPDPA Rules/When the Specified Purpose is Deemed No Longer Served"
   },
   "next": {
-    "title": "Rule 10: Verifiable Consent for Children and Persons with Disabilities",
-    "permalink": "/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities"
+    "title": "Rule 10: Verifiable Consent for Processing of Personal Data of Child",
+    "permalink": "/docs/DPDPA Rules/Verifiable Consent for Processing of Personal Data of Child"
   }
 }

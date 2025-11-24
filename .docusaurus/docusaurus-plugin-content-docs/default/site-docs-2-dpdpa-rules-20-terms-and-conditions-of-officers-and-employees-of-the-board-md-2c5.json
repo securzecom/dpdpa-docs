@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Terms and Conditions of Officers and Employees of the Board",
-  "title": "Rule 20: Terms and Conditions of Appointment and Service of Officers and Employees of the Board",
-  "description": "Statutory Text — Rule 20: Terms and Conditions of Appointment and Service of Officers and Employees of the Board. (click to expand)",
+  "title": "Rule 21: Terms and Conditions of Appointment and Service of Officers and Employees of Board",
+  "description": "21. Terms and Conditions of Appointment and Service of Officers and Employees of Board",
   "source": "@site/docs/2. DPDPA Rules/20 - Terms and Conditions of Officers and Employees of the Board.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Terms and Conditions of Officers and Employees of the Board",
@@ -10,14 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 20,
+  "sidebarPosition": 21,
   "frontMatter": {
-    "sidebar_position": 20
+    "sidebar_position": 21
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 19: Functioning of Board as Digital Office",
-    "permalink": "/docs/DPDPA Rules/Data Protection Board to Function as a Digital Office"
+    "title": "Rule 20: Functioning of Board as Digital Office",
+    "permalink": "/docs/DPDPA Rules/Functioning of Board as Digital Office"
   },
   "next": {
     "title": "Rule 21: Appeals to Appellate Tribunal",

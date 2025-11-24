@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries",
-  "title": "Rule 22: Power to Call for Information from Data Fiduciaries or Intermediaries",
-  "description": "Statutory Text — Rule 22: Calling for Information from Data Fiduciary or Intermediary. (click to expand)",
+  "title": "Rule 23: Calling for Information from Data Fiduciary or Intermediary",
+  "description": "23. Calling for Information from Data Fiduciary or Intermediary",
   "source": "@site/docs/2. DPDPA Rules/22- Power to Call for Information from Data Fiduciaries or Intermediaries.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Power to Call for Information from Data Fiduciaries or Intermediaries",
@@ -10,14 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 22,
+  "sidebarPosition": 23,
   "frontMatter": {
-    "sidebar_position": 22
+    "sidebar_position": 23
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 21: Appeals to Appellate Tribunal",
-    "permalink": "/docs/DPDPA Rules/Appeals to the Appellate Tribunal"
+    "title": "Rule 22: Appeal to Appellate Tribunal",
+    "permalink": "/docs/DPDPA Rules/Appeal to Appellate Tribunal"
   },
   "next": {
     "title": "Schedule I: PART A — Conditions for Registration of a Consent Manager",

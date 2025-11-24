@@ -1,0 +1,26 @@
+{
+  "id": "DPDPA Rules/Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments",
+  "title": "Rule 19: Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments",
+  "description": "19. Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments",
+  "source": "@site/docs/2. DPDPA Rules/19 - Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments.md",
+  "sourceDirName": "2. DPDPA Rules",
+  "slug": "/DPDPA Rules/Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments",
+  "permalink": "/docs/DPDPA Rules/Procedure for Meetings of Board and Authentication of its Orders, Directions and Instruments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "sidebar_position": 19
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rule 18: Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members",
+    "permalink": "/docs/DPDPA Rules/Salary, Allowances and Other Terms and Conditions of Service of Chairperson and Other Members"
+  },
+  "next": {
+    "title": "Rule 20: Functioning of Board as Digital Office",
+    "permalink": "/docs/DPDPA Rules/Functioning of Board as Digital Office"
+  }
+}

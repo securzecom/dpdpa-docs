@@ -1,21 +1,22 @@
 ---
-sidebar_position: 20
+sidebar_position: 21
 ---
 
-# Rule 20: Terms and Conditions of Appointment and Service of Officers and Employees of the Board
+# Rule 21: Terms and Conditions of Appointment and Service of Officers and Employees of Board
 
-<details>  
-  <summary><strong>Statutory Text — Rule 20: Terms and Conditions of Appointment and Service of Officers and Employees of the Board.</strong> (click to expand)</summary>  
+<details>
+<summary><strong>21. Terms and Conditions of Appointment and Service of Officers and Employees of Board</strong></summary>
 
-(1) The Board may, with previous approval of the Central Government and in such manner as the Central Government may by general or special order specify, appoint such officers and employees as it may deem necessary for the efficient discharge of its functions under the provisions of the Act.  
+(1) The Board may, with previous approval of the Central Government, appoint such officers and employees as it may deem necessary for the efficient discharge of its functions under the provisions of the Act.
 
-(2) The terms and conditions of service of officers and employees of the Board shall be such as are specified in Sixth Schedule.  
+(2) The terms and conditions of service of officers and employees of the Board shall be such as are specified in Sixth Schedule.
 
-</details>  
+</details>
+
 
 ---
 
-Rule 20 defines how the **Data Protection Board of India (DPBI)** can appoint its **officers and employees**, and how their **service conditions** — such as salaries, duties, and benefits — are determined. It ensures that the Board has qualified staff to carry out its functions effectively while maintaining accountability to the **Central Government**.  
+Rule 21 defines how the **Data Protection Board of India (DPBI)** can appoint its **officers and employees**, and how their **service conditions** — such as salaries, duties, and benefits — are determined. It ensures that the Board has qualified staff to carry out its functions effectively while maintaining accountability to the **Central Government**.  
 
 ---
 
@@ -59,7 +60,7 @@ A Senior Technical Officer appointed to the Board will receive the salary and be
 
 ### 4. Importance of Administrative Staff  
 
-Behind every order or investigation, the Board depends on a team of professionals — legal officers, analysts, technical experts, and administrative support staff. Rule 20 ensures that such staff are not temporary or ad hoc but legally appointed with defined responsibilities and protections.  
+Behind every order or investigation, the Board depends on a team of professionals — legal officers, analysts, technical experts, and administrative support staff. Rule 21 ensures that such staff are not temporary or ad hoc but legally appointed with defined responsibilities and protections.  
 
 This helps maintain consistency in how cases are handled and improves the institutional strength of the Board.  
 
@@ -79,4 +80,4 @@ Employees of the Data Protection Board must treat every piece of citizen data wi
 
 ---
 
-Rule 20 ensures that the Data Protection Board has a **legally structured, government-approved workforce** to support its operations. It provides for proper hiring, defined service conditions, and oversight by the Central Government — creating a strong administrative foundation for India’s data protection enforcement system.  
+Rule 21 ensures that the Data Protection Board has a **legally structured, government-approved workforce** to support its operations. It provides for proper hiring, defined service conditions, and oversight by the Central Government — creating a strong administrative foundation for India’s data protection enforcement system.  

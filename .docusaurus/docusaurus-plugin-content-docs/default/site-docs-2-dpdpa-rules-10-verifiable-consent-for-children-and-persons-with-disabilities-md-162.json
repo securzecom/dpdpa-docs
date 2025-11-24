@@ -1,7 +1,7 @@
 {
   "id": "DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities",
-  "title": "Rule 10: Verifiable Consent for Children and Persons with Disabilities",
-  "description": "10. Verifiable consent for processing of personal data of child or of person with disability who has lawful guardian",
+  "title": "Rule 11: Verifiable Consent for Processing of pPersonal Data of Person with Disability who has Lawful Guardian",
+  "description": "11. Verifiable consent for processing of personal data of person with disability who has lawful guardian",
   "source": "@site/docs/2. DPDPA Rules/10 - Verifiable Consent for Children and Persons with Disabilities.md",
   "sourceDirName": "2. DPDPA Rules",
   "slug": "/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities",
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Rule 9: Contact Information of Person to Answer Questions About Processing.",
-    "permalink": "/docs/DPDPA Rules/Contact Information for Queries about Processing"
+    "title": "Rule 10: Verifiable Consent for Processing of Personal Data of Child",
+    "permalink": "/docs/DPDPA Rules/Verifiable Consent for Children and Persons with Disabilities copy"
   },
   "next": {
     "title": "Rule 11: Exemptions From Certain Obligations Applicable to Processing of Personal Data of Child",
