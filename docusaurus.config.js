@@ -139,6 +139,10 @@ const config = {
             items: [
               {
                 label: 'DPO as a Service',
+                href: 'https://securze.com/about/contact/',
+              },
+              {
+                label: 'vCISO',
                 href: 'https://securze.com/services/',
               },
               {
