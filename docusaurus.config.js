@@ -94,9 +94,9 @@ const config = {
         title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/dpdpa-logo.png',
-          //srcDark: 'img/securze-logo-white.png',
-          href: 'https://securze.com',
+          src: 'img/dpdpa-logo-black.png',
+          srcDark: 'img/dpdpa-logo-white.png',
+          href: 'https://dpdpaedu.org',
         },
         items: [
           {
@@ -108,7 +108,7 @@ const config = {
           {to: '/blog', label: 'Board', position: 'left'},
           {
             href: 'https://securze.com/',
-            label: 'DPDPA Implementation',
+            label: 'DPDPA Implementation Consultation',
             position: 'right',
           },
         ],

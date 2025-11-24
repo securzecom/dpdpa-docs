@@ -82,8 +82,9 @@ export default {
       "title": "",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/dpdpa-logo.png",
-        "href": "https://securze.com"
+        "src": "img/dpdpa-logo-black.png",
+        "srcDark": "img/dpdpa-logo-white.png",
+        "href": "https://dpdpaedu.org"
       },
       "items": [
         {
@@ -99,7 +100,7 @@ export default {
         },
         {
           "href": "https://securze.com/",
-          "label": "DPDPA Implementation",
+          "label": "DPDPA Implementation Consultation",
           "position": "right"
         }
       ],
