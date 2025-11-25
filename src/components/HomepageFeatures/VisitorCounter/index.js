@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 const ABACUS_URL =
-  'https://abacus.jasoncameron.dev/hit/dpdpaedu_visits/visits';
+  'https://abacus.jasoncameron.dev/hit/dpdpaedu_visits/visits_v2';
 
 export default function VisitorCounter() {
   const [count, setCount] = useState('…'); // string so we can show N/A too
