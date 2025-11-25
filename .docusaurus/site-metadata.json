@@ -36,11 +36,6 @@
       "type": "package",
       "name": "@docusaurus/theme-classic",
       "version": "3.8.1"
-    },
-    "@gracefullight/docusaurus-plugin-microsoft-clarity": {
-      "type": "package",
-      "name": "@gracefullight/docusaurus-plugin-microsoft-clarity",
-      "version": "1.0.0"
     }
   }
 }

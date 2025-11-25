@@ -42,14 +42,6 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
-  "plugins": [
-    [
-      "@gracefullight/docusaurus-plugin-microsoft-clarity",
-      {
-        "projectId": "tdrwobhc5y"
-      }
-    ]
-  ],
   "presets": [
     [
       "classic",
@@ -84,7 +76,7 @@ export default {
         "alt": "My Site Logo",
         "src": "img/dpdpa-logo-black.png",
         "srcDark": "img/dpdpa-logo-white.png",
-        "href": "https://dpdpaedu.org"
+        "href": "/"
       },
       "items": [
         {
@@ -124,6 +116,10 @@ export default {
             {
               "label": "Schedule an Expert DPDPA Consultation Call - Calendly",
               "to": "http://calendly.com/harshparekh-securze"
+            },
+            {
+              "label": "Privacy Notice",
+              "to": "/privacy"
             }
           ]
         },
@@ -452,6 +448,7 @@ export default {
     "static"
   ],
   "customFields": {},
+  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

@@ -41,12 +41,13 @@ const config = {
     locales: ['en'],
   },
 
-  plugins: [
-    [
-      '@gracefullight/docusaurus-plugin-microsoft-clarity',
-      { projectId: 'tdrwobhc5y' }, // <-- replace with your Clarity ID
-    ],
-  ],
+
+  // plugins: [
+  //   [
+  //     '@gracefullight/docusaurus-plugin-microsoft-clarity',
+  //     { projectId: 'DUMMY' }, // <-- replace with your Clarity ID tdrwobhc5y
+  //   ],
+  // ],
 
   presets: [
     [
@@ -96,7 +97,7 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/dpdpa-logo-black.png',
           srcDark: 'img/dpdpa-logo-white.png',
-          href: 'https://dpdpaedu.org',
+          href: '/',
         },
         items: [
           {
@@ -131,6 +132,10 @@ const config = {
               {
                 label: 'Schedule an Expert DPDPA Consultation Call - Calendly',
                 to: 'http://calendly.com/harshparekh-securze',
+              },
+              {
+                label: 'Privacy Notice',
+                to: '/privacy',
               },
             ],
           },
