@@ -46,7 +46,7 @@ export default {
     [
       "@gracefullight/docusaurus-plugin-microsoft-clarity",
       {
-        "projectId": "YOUR_PROJECT_ID"
+        "projectId": "tdrwobhc5y"
       }
     ]
   ],

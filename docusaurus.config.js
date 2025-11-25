@@ -44,7 +44,7 @@ const config = {
   plugins: [
     [
       '@gracefullight/docusaurus-plugin-microsoft-clarity',
-      { projectId: 'YOUR_PROJECT_ID' }, // <-- replace with your Clarity ID
+      { projectId: 'tdrwobhc5y' }, // <-- replace with your Clarity ID
     ],
   ],
 
