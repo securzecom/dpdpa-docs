@@ -122,7 +122,7 @@ export default {
               "to": "/docs/Overview/Background and Purpose of DPDPA"
             },
             {
-              "label": "Schedule a Expert DPDPA Consultation Call",
+              "label": "Schedule an Expert DPDPA Consultation Call - Calendly",
               "to": "http://calendly.com/harshparekh-securze"
             }
           ]
