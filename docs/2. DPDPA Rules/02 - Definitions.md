@@ -17,7 +17,6 @@ sidebar_position: 2
 
 </details>
 
-
 ---
 
 This rule establishes that all key terms and expressions used in the **Digital Personal Data Protection Rules, 2025** carry the same meanings as defined under the **Digital Personal Data Protection Act, 2023**.  

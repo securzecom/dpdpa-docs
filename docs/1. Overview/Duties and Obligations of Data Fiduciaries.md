@@ -28,7 +28,7 @@ Under the **Digital Personal Data Protection Act (DPDPA), 2023**, every organiza
 
   :::warning Note
   In case of a regulated entity the timelines are as thin as 6 hours to their respective regulators, it’s advisable to report to Data Protection Board also at the same time if feasible
-  :::
+  ::: 
 
   :::danger Example
   If a bank’s database is hacked, it must notify the regulator and also inform its customers so they can change passwords or monitor suspicious transactions.

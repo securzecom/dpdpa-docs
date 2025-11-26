@@ -75,7 +75,7 @@ import { FaLinkedin } from "react-icons/fa";
       style={{ width: "100px", height: "100px", borderRadius: "50%", marginRight: "1rem" }} 
     />
     <strong style={{ display: "flex", alignItems: "center" }}>
-      Gokulavan Jayaraman, Infosec Leader – Mahindra Group
+      Gokulavan Jayaraman, Infosec Leader – Mahindra Group | PMP | CISSP | CISM | CISO | CISA | CCSP | CRISC | DPO | GRC Specalist | ISO27001 | ISO9000 LA
       <a 
         href="https://www.linkedin.com/in/gokulavan/" 
         target="_blank" 
@@ -87,7 +87,7 @@ import { FaLinkedin } from "react-icons/fa";
     </strong>
   </div>
 
-  <p style={{ marginTop: "1rem", lineHeight: "1.55" }}>Gokulavan Jayaraman is a highly respected cybersecurity, data privacy, and risk-management leader with over two decades of experience safeguarding large enterprises. His expertise spans information security, privacy governance, fraud risk management, business continuity, vendor risk, and building organisation-wide security maturity across BPO, KPO, and global service environments. With a strong command of regulatory frameworks, data-protection laws, and industry best practices, he has consistently enabled organisations to stay resilient, compliant, and operationally effective in a rapidly evolving threat landscape.</p>
+  <p style={{ marginTop: "1rem", lineHeight: "1.55" }}>Gokulavan Jayaraman is a highly respected cybersecurity, data privacy, and risk-management leader with over two decades of experience safeguarding large enterprises. His expertise spans information security, privacy governance, fraud risk management, business continuity, vendor risk, and building organisation-wide security maturity across NBFC, Manufacturing, BPO, KPO, and global service environments. With a strong command of regulatory frameworks, data-protection laws, and industry best practices, he has consistently enabled organisations to stay resilient, compliant, and operationally effective in a rapidly evolving threat landscape.</p>
 </div>
 
 ---
