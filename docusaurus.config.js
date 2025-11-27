@@ -197,7 +197,7 @@ const config = {
             items: [
               {
                 label: 'LinkedIn',
-                href: 'https://linkedin.com/company/securze',
+                href: 'https://www.linkedin.com/company/dpdpaedu-org/',
               },
               {
                 label: 'YouTube',
