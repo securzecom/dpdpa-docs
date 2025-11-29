@@ -141,7 +141,7 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
 
   return (
     <>
-      <div className="card margin-vert--md padding--lg">
+      <div className="margin-vert--md">
         <h2>📂 Available Checklists</h2>
 
         <div className="margin-top--md">
