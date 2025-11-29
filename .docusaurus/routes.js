@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '690'),
+    component: ComponentCreator('/docs', '277'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '418'),
+        component: ComponentCreator('/docs', '461'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'dc3'),
+            component: ComponentCreator('/docs', 'c23'),
             routes: [
               {
                 path: '/docs/Board & Enforcement Questions/01',
@@ -120,7 +120,7 @@ export default [
               },
               {
                 path: '/docs/Checklists/DPDPA Checklists',
-                component: ComponentCreator('/docs/Checklists/DPDPA Checklists', '746'),
+                component: ComponentCreator('/docs/Checklists/DPDPA Checklists', 'a86'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

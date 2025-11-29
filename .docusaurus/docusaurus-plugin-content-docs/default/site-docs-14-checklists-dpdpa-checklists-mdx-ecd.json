@@ -1,0 +1,23 @@
+{
+  "id": "Checklists/DPDPA Checklists",
+  "title": "DPDPA 2025 Compliance Checklists",
+  "description": "Stay ahead of India’s Digital Personal Data Protection Act (DPDPA) 2025 with our curated, industry-specific compliance checklists — designed to help organizations assess, monitor, and enhance their data protection readiness.",
+  "source": "@site/docs/14. Checklists/DPDPA Checklists.mdx",
+  "sourceDirName": "14. Checklists",
+  "slug": "/Checklists/DPDPA Checklists",
+  "permalink": "/docs/Checklists/DPDPA Checklists",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "DPDPA 2025 Compliance Checklists"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Q4 - Can the Board impose non-financial remedies apart from fines?",
+    "permalink": "/docs/Board & Enforcement Questions/04"
+  }
+}
