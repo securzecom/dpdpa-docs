@@ -143,10 +143,6 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
     <>
       <div className="card margin-vert--md padding--lg">
         <h2>📂 Available Checklists</h2>
-        <p>
-          Click on any checklist to download. For first-time access, we&apos;ll ask for
-          your email to share DPDPA updates and related resources from Securze.
-        </p>
 
         <div className="margin-top--md">
           {CHECKLISTS.map((c) => (
