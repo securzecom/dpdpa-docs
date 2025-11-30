@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from 'react';
 
+// ----------------------------------------------------------
+// CHECKLIST CONFIGURATION
+// ----------------------------------------------------------
 const CHECKLISTS = [
   {
     id: 'general',
@@ -27,8 +30,8 @@ const CHECKLISTS = [
   },
   {
     id: 'education',
-    label: '🎓 Education Sector',
-    filePath: null, // Coming soon
+    label: '🎓 Education Sector (Coming Soon)',
+    filePath: null,
     buttonText: 'Coming Soon',
   },
   {
@@ -39,15 +42,57 @@ const CHECKLISTS = [
   },
 ];
 
-export default function DpdpaChecklistDownloads() {  // 👈 default export, function
+// ----------------------------------------------------------
+// FAKE EMAIL DETECTION (block test, demo, abc@abc.com etc.)
+// ----------------------------------------------------------
+function isFakeEmail(email) {
+  const trimmed = email.trim().toLowerCase();
+
+  // Basic regex
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(trimmed)) return true;
+
+  const [local, domain] = trimmed.split('@');
+  if (!local || !domain) return true;
+
+  const domainRoot = domain.split('.')[0];
+
+  // Block abc@abc.com patterns
+  if (local === domainRoot) return true;
+
+  // Block repeated characters e.g. aaa@aaa.com, 111@111.com
+  if (/^(.)\1{2,}$/.test(local)) return true;
+
+  // Common fake/test keywords
+  const badKeywords = [
+    'test','demo','sample','temp','spam','fake','trial','user',
+    'hello','mail','email','abc','xyz','qwerty','asdf','tester'
+  ];
+  if (badKeywords.some(k => local === k || local.startsWith(k))) return true;
+
+  // Block test123, demo123, sample123
+  if (/^(test|demo|sample|user)[0-9]+$/.test(local)) return true;
+
+  // Minimum length
+  if (local.length < 3) return true;
+
+  return false;
+}
+
+// ----------------------------------------------------------
+// MAIN COMPONENT
+// ----------------------------------------------------------
+export default function DpdpaChecklistDownloads() {
   const [showModal, setShowModal] = useState(false);
   const [selectedChecklist, setSelectedChecklist] = useState(null);
+
   const [email, setEmail] = useState('');
   const [org, setOrg] = useState('');
-  const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
+  const [loading, setLoading] = useState(false);
+
   const [hasSubmittedOnce, setHasSubmittedOnce] = useState(false);
 
+  // Load flag from localStorage
   useEffect(() => {
     if (typeof window !== 'undefined') {
       const flag = window.localStorage.getItem('dpdpaedu_checklist_email_submitted');
@@ -63,8 +108,7 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
   };
 
   const triggerDownload = (filePath) => {
-    if (!filePath) return;
-    if (typeof window !== 'undefined') {
+    if (filePath && typeof window !== 'undefined') {
       window.open(filePath, '_blank', 'noopener,noreferrer');
     }
   };
@@ -74,13 +118,14 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
 
     setSelectedChecklist(checklist);
 
+    // If already submitted once → skip popup
     if (hasSubmittedOnce) {
       triggerDownload(checklist.filePath);
       return;
     }
 
-    setShowModal(true);
     setError('');
+    setShowModal(true);
   };
 
   const handleModalClose = () => {
@@ -89,25 +134,37 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
     setError('');
   };
 
+  // ----------------------------------------------------------
+  // SUBMIT TO GOOGLE APPS SCRIPT
+  // ----------------------------------------------------------
   const handleSubmit = async (e) => {
     e.preventDefault();
     setError('');
 
-    if (!email.trim()) {
-      setError('Please enter a valid email address.');
+    const trimmedEmail = email.trim();
+
+    // Basic check
+    if (!trimmedEmail) {
+      setError('Please enter your email address.');
+      return;
+    }
+
+    // Fake email detection
+    if (isFakeEmail(trimmedEmail)) {
+      setError('Please enter a real email address. Test / placeholder emails are not allowed.');
       return;
     }
 
     setLoading(true);
 
     try {
-      const res = await fetch('https://script.google.com/macros/s/AKfycbwFNXBMLP4DuTR_jOINwdqtwNLqIbO6zSdpF_WMZVGC_8j6zMvxKAftWjCEuatlSLmZ/exec', {
+      const res = await fetch('https://script.google.com/macros/s/AKfycbzG-wF5Ozi4lrkWPcn7Za1uWydgNtAO-fldpgammHFk2ieeFD0xWWb7LUPdp95qe5pJ/exec', {
         method: 'POST',
         headers: {
           'Content-Type': 'text/plain;charset=utf-8', // avoid CORS preflight
         },
         body: JSON.stringify({
-          email,
+          email: trimmedEmail,
           organisation: org,
           source: 'dpdpaedu_checklist_page',
           checklistId: selectedChecklist?.id || '',
@@ -115,39 +172,36 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
       });
 
       let data = {};
-      try {
-        data = await res.json();
-      } catch (err) {
-        // ignore if not JSON
-      }
+      try { data = await res.json(); } catch (_) {}
 
       if (!res.ok || data.success === false) {
-        throw new Error(data.error || 'Failed to submit form. Please try again.');
+        throw new Error('invalid email');
       }
 
       markSubmitted();
       setShowModal(false);
-
-      if (selectedChecklist?.filePath) {
-        triggerDownload(selectedChecklist.filePath);
-      }
+      triggerDownload(selectedChecklist?.filePath);
     } catch (err) {
-      console.error(err);
-      setError('Something went wrong while submitting. Please try again.');
+      setError('Something went wrong. Please try again.');
     } finally {
       setLoading(false);
     }
   };
 
+  // ----------------------------------------------------------
+  // RENDER
+  // ----------------------------------------------------------
   return (
     <>
       <div className="margin-vert--md">
         <h2>📂 Available Checklists</h2>
+        <p>Click any checklist to download. For first-time access, we ask for your email.</p>
 
         <div className="margin-top--md">
           {CHECKLISTS.map((c) => (
             <div key={c.id} className="margin-bottom--md">
               <h3>{c.label}</h3>
+
               {c.filePath ? (
                 <button
                   type="button"
@@ -170,6 +224,7 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
         </div>
       </div>
 
+      {/* POPUP MODAL */}
       {showModal && (
         <div
           style={{
@@ -184,15 +239,14 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
           }}
         >
           <div
-            className="card"
             style={{
               maxWidth: 480,
               width: '100%',
               padding: '1.5rem 1.75rem',
+              borderRadius: '12px',
+              background: 'var(--ifm-background-color)',
               position: 'relative',
               boxShadow: '0 18px 45px rgba(0,0,0,0.25)',
-              borderRadius: '12px',
-              background: 'var(--ifm-background-surface-color)',
             }}
           >
             <button
@@ -207,30 +261,23 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
                 fontSize: '1.2rem',
                 cursor: 'pointer',
               }}
-              aria-label="Close"
             >
               ×
             </button>
 
-            <h2 style={{ marginTop: 0, marginBottom: '0.5rem' }}>
+            <h2 style={{ marginTop: 0 }}>
               Access {selectedChecklist?.label || 'Checklist'}
             </h2>
-            <p style={{ marginBottom: '1rem', fontSize: '0.95rem' }}>
-              Enter your email to access this checklist and receive occasional DPDPA
-              insights, updates, and implementation resources from Securze. No spam,
-              ever. Work email preferred if you’d like implementation updates & enterprise resources.
+            <p style={{ marginBottom: '1rem' }}>
+              Enter your email to access this checklist and receive updates.  
+              <br />No spam. No selling. No misuse.
             </p>
 
             <form onSubmit={handleSubmit}>
               <div className="margin-bottom--sm">
-                <label htmlFor="checklist-email">
-                  <strong>Email address *</strong>
-                </label>
-                <br />
+                <label><strong>Email address *</strong></label>
                 <input
-                  id="checklist-email"
                   type="email"
-                  required
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   placeholder="you@example.com"
@@ -241,16 +288,13 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
                     borderRadius: '6px',
                     border: '1px solid var(--ifm-color-emphasis-300)',
                   }}
+                  required
                 />
               </div>
 
               <div className="margin-bottom--sm">
-                <label htmlFor="checklist-org">
-                  <strong>Organisation (optional)</strong>
-                </label>
-                <br />
+                <label><strong>Organisation (optional)</strong></label>
                 <input
-                  id="checklist-org"
                   type="text"
                   value={org}
                   onChange={(e) => setOrg(e.target.value)}
@@ -266,9 +310,7 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
               </div>
 
               {error && (
-                <p style={{ color: 'red', marginTop: '4px', marginBottom: '4px' }}>
-                  {error}
-                </p>
+                <p style={{ color: 'red', marginTop: '4px' }}>{error}</p>
               )}
 
               <button
@@ -279,17 +321,6 @@ export default function DpdpaChecklistDownloads() {  // 👈 default export, fun
               >
                 {loading ? 'Submitting…' : 'Submit & Download'}
               </button>
-
-              <p
-                style={{
-                  fontSize: '0.75rem',
-                  marginTop: '8px',
-                  color: 'var(--ifm-color-emphasis-600)',
-                }}
-              >
-                By submitting this form, you consent to receive DPDPA-related updates
-                from Securze and dpdpaedu.org. You can unsubscribe anytime.
-              </p>
             </form>
           </div>
         </div>
