@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last Updated: 25th November 2025_
+_Last Updated: 01st December 2025_
 
 This website (dpdpaedu.org) is a community-driven initiative managed by **Navneetpriya Softech Solutions LLP (Securze)**.  
 We are committed to protecting your privacy and ensuring transparency in how this website functions.
@@ -71,26 +71,42 @@ This counter functions independently from analytics and does not identify you in
 
 ---
 
-## 4. No Forms, No Personal Data Collection
+## 4. Forms & Data Collection
 
-This site does **not** contain:
+This site contains **email collection forms** that allow users to download checklists, access educational resources, or receive updates related to the Digital Personal Data Protection Act (DPDPA).
 
-- Contact forms  
-- Subscription forms  
-- Input fields  
-- Login or registration modules  
+We collect the following information **only when you voluntarily submit it**:
 
-We do **not** ask for or collect:
+- **Email address**  
+- **Company name / organisation details (if provided)**  
 
-- Names  
-- Email addresses  
-- Phone numbers  
-- IP-linked identifiers  
-- Payment data  
-- Location data  
-- Uploaded content  
+### Purpose of Collection
 
-You can browse the entire guide freely without sharing any information.
+The information you submit is used **strictly for the following purposes**:
+
+- To provide access to downloadable checklists, online events, and related resources, and other events related to DPDPAedu.org
+- To share educational updates, guides, and learning material from **DPDPAedu.org**  
+- To send important cybersecurity or event updates or relevant business content from **Securze** (our parent organisation managing this project)  
+- To communicate regarding improvements, changes, or new material added to the DPDPA guide  
+
+All communications are minimal, relevant, and non-spammy.
+
+### Unsubscribe & Data Erasure
+
+You may:
+
+- **Unsubscribe at any time** using the link included in our emails, **or**  
+- Request deletion of your data by writing to **govind@securze.com**  
+
+Upon receiving a valid request, all associated personal data will be **deleted within 14 days**, in accordance with DPDPA requirements.
+
+### Access to Data
+
+- Submitted data is stored securely and used **only by the DPDPAedu.org team** for the purposes stated above.  
+- As DPDPAedu.org is operated by **Navneetpriya Softech Solutions LLP (Securze)**, your email information may also be accessible to Securze for sending essential cybersecurity updates or related business information—always in a responsible and non-intrusive manner.
+
+We collect only what is necessary to provide downloads, updates, and educational content.
+
 
 ---
 
