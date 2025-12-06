@@ -1,161 +1,180 @@
 # Privacy Policy
 
-_Last Updated: 01st December 2025_
+_Last Updated: 06 December 2025_
 
-This website (dpdpaedu.org) is a community-driven initiative managed by **Navneetpriya Softech Solutions LLP (Securze)**.  
-We are committed to protecting your privacy and ensuring transparency in how this website functions.
+This Privacy Policy describes how personal information is collected, used, and managed by **dpdpaedu.org**, a website operated by **Navneetpriya Softech Solutions LLP (Securze)**.
 
-We do **not** collect personal data, do **not** store cookies, and do **not** use any forms to capture user information.
-
----
-
-## 1. No Cookies Used
-
-This website does **not** set or store any cookies on your device.
-
-- No session cookies  
-- No tracking cookies  
-- No advertising cookies  
-- No identifiers of any kind  
-
-Your visit to this site remains free from cookie-based tracking.
+We are committed to handling personal information lawfully, fairly, and with transparency, in accordance with applicable data protection principles under the **Digital Personal Data Protection Act (DPDPA), 2023**.
 
 ---
 
-## 2. Analytics (Anonymous)
+## 1. Information We Collect
 
-We use **Microsoft Clarity** for basic analytics to understand how users interact with the website and to improve the quality of the content.
+We collect personal information **only when voluntarily submitted by you** through online forms. This may include:
 
-Clarity collects minimal, anonymized interaction data such as:
+- **Email address**
+- **Organisation or company name**
 
-- Page views  
-- Scroll and click patterns  
-- Device/browser type  
-- Anonymous usage heatmaps  
+No other personal information is collected automatically.
 
-All analytics operate **only after you provide consent**.  
-Clarity does **not** collect names, email addresses, form data, or any personally identifying information through this site.
+---
 
-### Revoke Analytics Consent
+## 2. Purpose of Processing
 
-If you previously consented to analytics and wish to revoke it, click the button below:
+We process the information you provide for the following legitimate purposes:
+
+### a. Providing Access to Resources  
+To enable the download of educational materials, checklists, or other resources made available on this website.
+
+### b. Preventing Misuse  
+To prevent abuse, including automated submissions, spam, and unauthorised access to free resources.
+
+### c. Educational Communication  
+To send periodic updates, guidance materials, or notices related to the Digital Personal Data Protection Act (DPDPA), and other privacy-related topics.
+
+### d. Communications Relating to Navneetpriya Products and Services  
+As dpdpaedu.org is operated by **Navneetpriya Softech Solutions LLP**, your email address may also be used to send occasional communications relating to products, services, initiatives, or events offered by Navneetpriya, which may include:
+
+- Cybersecurity services  
+- Training programs  
+- Regulatory compliance initiatives  
+- New product launches
+
+Such communications will be **relevant, limited in frequency, and intended to provide useful information to organisations and professionals**.
+
+You may opt out of receiving these communications at any time (see Section 6 below).
+
+We do not use personal information for unrelated advertising or mass-marketing activities.
+
+---
+
+## 3. Legal Basis
+
+We rely on the following legal bases for processing personal information:
+
+- **Your voluntary submission of information**, and  
+- **Legitimate business interest**, including the provision of educational materials, prevention of misuse, and communication of relevant updates and services.
+
+---
+
+## 4. Data Retention
+
+We retain personal information only for as long as necessary to fulfill the purposes set out in this Policy or as required by applicable law.
+
+You may request deletion of your information at any time.
+
+---
+
+## 5. Data Sharing and Disclosure
+
+Personal information is accessible only to authorised personnel of:
+
+- **dpdpaedu.org**, and  
+- **Navneetpriya Softech Solutions LLP**
+
+Your personal information is **not sold, rented, traded, or transferred to unrelated third parties**.
+
+We do not provide personal information to advertising networks or external marketing platforms.
+
+---
+
+## 6. Your Rights
+
+You have the right to:
+
+- **Unsubscribe** from communications using the link provided in each email;  
+- Request **access, correction, or deletion** of your personal information;  
+- Withdraw consent (where applicable), without affecting prior lawful processing.
+
+To exercise your rights, please contact:
+
+📩 **govind@securze.com**
+
+We will respond within a reasonable period and in accordance with applicable legal requirements.
+
+---
+
+## 7. Security Measures
+
+We implement appropriate technical and organisational measures to protect personal information, including:
+
+- Encrypted connections (HTTPS)  
+- Restricted access to systems  
+- Secure hosting infrastructure  
+- Routine maintenance and monitoring  
+
+While no system can guarantee complete security, we strive to protect information from unauthorised access, disclosure, alteration, and misuse.
+
+---
+
+## 8. Analytics and Cookies
+
+This website uses **Microsoft Clarity** for anonymised analytics.
+
+Analytics data may include:
+
+- Page interactions  
+- Browser or device type  
+- Non-identifiable usage patterns  
+
+Analytics load **only with user consent**, obtained via a cookie banner.
+
+You may revoke consent at any time by clearing your browser cookies **or by clicking the button below**:
 
 <button
   className="button button--primary"
   style={{
     marginTop: '12px',
     backgroundColor: '#2E7D32',
+    color: '#FFFFFF', // white text
   }}
   onClick={() => {
     localStorage.removeItem('cookie-consent');
     location.reload();
   }}
 >
-  Revoke Consent
+  Revoke Analytics Consent
 </button>
 
 
+---
+
+## 9. Visitor Counter
+
+This website displays a non-personal visitor counter that records aggregate page visit numbers.
+
+It does not identify individual visitors or track browsing behaviour.
 
 ---
 
-## 3. Visit Counter (Non-Personal)
+## 10. Children’s Privacy
 
-The website displays a simple **visitor counter** that increases with each page load.
-
-- It is powered by an external “hit counter” service.
-- It **does not** collect or store personal data.
-- It does **not** track individual users or identifiers.
-- It only increments a **global visit number**, not unique visitors.
-
-This counter functions independently from analytics and does not identify you in any way.
+This website is intended for adult professional users.  
+We do not knowingly collect personal information from children.  
+If you believe a child has submitted personal information, please contact us so that we may delete it.
 
 ---
 
-## 4. Forms & Data Collection
+## 11. Changes to This Policy
 
-This site contains **email collection forms** that allow users to download checklists, access educational resources, or receive updates related to the Digital Personal Data Protection Act (DPDPA).
-
-We collect the following information **only when you voluntarily submit it**:
-
-- **Email address**  
-- **Company name / organisation details (if provided)**  
-
-### Purpose of Collection
-
-The information you submit is used **strictly for the following purposes**:
-
-- To provide access to downloadable checklists, online events, and related resources, and other events related to DPDPAedu.org
-- To share educational updates, guides, and learning material from **DPDPAedu.org**  
-- To send important cybersecurity or event updates or relevant business content from **Securze** (our parent organisation managing this project)  
-- To communicate regarding improvements, changes, or new material added to the DPDPA guide  
-
-All communications are minimal, relevant, and non-spammy.
-
-### Unsubscribe & Data Erasure
-
-You may:
-
-- **Unsubscribe at any time** using the link included in our emails, **or**  
-- Request deletion of your data by writing to **govind@securze.com**  
-
-Upon receiving a valid request, all associated personal data will be **deleted within 14 days**, in accordance with DPDPA requirements.
-
-### Access to Data
-
-- Submitted data is stored securely and used **only by the DPDPAedu.org team** for the purposes stated above.  
-- As DPDPAedu.org is operated by **Navneetpriya Softech Solutions LLP (Securze)**, your email information may also be accessible to Securze for sending essential cybersecurity updates or related business information—always in a responsible and non-intrusive manner.
-
-We collect only what is necessary to provide downloads, updates, and educational content.
-
+We may update this Privacy Policy from time to time.  
+Any changes will be posted on this page with an updated “Last Updated” date.
 
 ---
 
-## 5. Third-Party Services
+## 12. Contact Information
 
-### Microsoft Clarity  
-Used exclusively for anonymized analytics and loaded **only after consent**.  
-You may revoke consent at any time by clearing your browser cookies.
-
-### Visitor Counter API  
-Counts global page views only.  
-Does not store or process any personal information.
-
----
-
-## 6. Data Security
-
-Although this site does not collect personal data, we apply strong security practices to keep the platform safe, including:
-
-- Secure hosting  
-- HTTPS encryption  
-- Limited third-party integrations  
-- Regular maintenance and updates  
-
----
-
-## 7. Children’s Privacy
-
-Since we do not collect personal data of any kind, this website is safe for users of all ages.  
-No personal information from minors is captured or stored.
-
----
-
-## 8. Changes to This Policy
-
-If we update or modify this Privacy Policy, changes will be posted on this page with an updated “Last Updated” date.
-
----
-
-## 9. Contact Information
-
-For any questions or clarifications about this Privacy Policy or this project:
+For privacy-related questions, requests, or concerns, please contact:
 
 **Navneetpriya Softech Solutions LLP (Securze)**  
-Email: info@securze.com  
-Website: https://securze.com  
-
-We are always happy to address any concerns related to privacy or data protection.
+📩 Email: info@securze.com  
+🌐 Website: https://securze.com  
 
 ---
 
-Thank you for visiting dpdpaedu.org.
+## 13. A Final Note
+
+We value your trust.  
+Our goal is to share useful, compliance-focused resources while communicating responsibly and respectfully.  
+We aim to support organisations in understanding and adopting strong privacy practices under Indian law.
+
