@@ -43,109 +43,62 @@ const CHECKLISTS = [
 ];
 
 // ========================================================
-// DOMAIN HELPERS (CLIENT-SIDE)
+// PERSONAL / DISPOSABLE DOMAIN BLOCKING
 // ========================================================
 function isCommonPersonalDomain(domain) {
   domain = domain.toLowerCase();
   const list = [
-    'gmail.com',
-    'googlemail.com',
-    'yahoo.com',
-    'yahoo.in',
-    'yahoo.co.in',
-    'outlook.com',
-    'outlook.in',
-    'hotmail.com',
-    'live.com',
-    'live.in',
-    'icloud.com',
-    'me.com',
-    'aol.com',
-    'proton.me',
-    'protonmail.com',
-    'zoho.com',
-    'gmx.com',
-    'yandex.com',
-    'pm.me',
-    'tutanota.com',
-    'tuta.io',
-    'fastmail.com',
+    'gmail.com','googlemail.com','yahoo.com','yahoo.in','yahoo.co.in',
+    'outlook.com','outlook.in','hotmail.com','live.com','live.in',
+    'icloud.com','me.com','aol.com','proton.me','protonmail.com','zoho.com',
+    'gmx.com','yandex.com','pm.me','tutanota.com','tuta.io','fastmail.com',
     'hey.com'
   ];
-  return list.indexOf(domain) !== -1;
+  return list.includes(domain);
 }
 
 function isDisposableDomain(domain) {
   domain = domain.toLowerCase();
 
   const exact = [
-    'mailinator.com',
-    '10minutemail.com',
-    '10minutemail.net',
-    'guerrillamail.com',
-    'trashmail.com',
-    'temp-mail.org',
-    'tempmail.com',
-    'tempmail.net',
-    'yopmail.com',
-    'getnada.com',
-    'sharklasers.com',
-    'dispostable.com',
-    'maildrop.cc',
-    'mailnull.com',
-    'throwawaymail.com'
+    'mailinator.com','10minutemail.com','10minutemail.net','guerrillamail.com',
+    'trashmail.com','temp-mail.org','tempmail.com','tempmail.net','yopmail.com',
+    'getnada.com','sharklasers.com','dispostable.com','maildrop.cc',
+    'mailnull.com','throwawaymail.com'
   ];
 
-  if (exact.indexOf(domain) !== -1) return true;
+  if (exact.includes(domain)) return true;
 
   const partial = [
-    'mailinator',
-    'guerrillamail',
-    '10minutemail',
-    'tempmail',
-    'trashmail',
-    'yopmail',
-    'sharklasers',
-    'nospam'
+    'mailinator','guerrillamail','10minutemail','tempmail','trashmail',
+    'yopmail','sharklasers','nospam'
   ];
 
   return partial.some((k) => domain.includes(k));
 }
 
-function isAcademicDomain(domain) {
-  const d = domain.toLowerCase();
-  return (
-    d.endsWith('.edu') ||
-    d.endsWith('.edu.in') ||
-    d.endsWith('.ac.in') ||
-    d.endsWith('.ac.uk') ||
-    d.includes('.ac.')
-  );
-}
-
 // ========================================================
-// FAKE EMAIL DETECTION
+// FAKE EMAIL DETECTION (LOCAL-PART)
 // ========================================================
 function looksGibberishToken(token) {
   const letters = token.replace(/[^a-z]/g, '');
-  if (letters.length <= 6) return false; // short names often fine (e.g. harsh, alice)
+  if (letters.length <= 6) return false;
 
   const vowels = (letters.match(/[aeiou]/g) || []).length;
   const vowelRatio = vowels / letters.length;
 
-  // No vowels at all in a long token → very suspicious
   if (vowels === 0 && letters.length >= 7) return true;
-
-  // Very low vowel ratio in a long token → likely random
   if (letters.length >= 9 && vowelRatio < 0.2) return true;
 
-  // Multiple long consonant runs
   const consonantRuns = letters.match(/[^aeiou]{4,}/g) || [];
   if (consonantRuns.length >= 2) return true;
 
   return false;
 }
 
+// ========================================================
+// MASTER VALIDATOR
+// ========================================================
 function isFakeEmail(email) {
   const trimmed = email.trim().toLowerCase();
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(trimmed)) return true;
@@ -155,7 +108,6 @@ function isFakeEmail(email) {
 
   const domainRoot = domain.split('.')[0];
 
-  // 1. obvious local-part patterns
   if (local === domainRoot) return true;
   if (/^(.)\1{2,}$/.test(local)) return true;
 
@@ -164,19 +116,16 @@ function isFakeEmail(email) {
     'hello','mail','email','abc','xyz','qwerty','asdf','tester'
   ];
   if (bad.some(k => local === k || local.startsWith(k))) return true;
+
   if (/^(test|demo|sample|user)[0-9]+$/.test(local)) return true;
   if (local.length < 3) return true;
 
-  // 2. DOMAIN-BASED RULES
-  // Block personal & disposable domains
+  // domain-based block
   if (isCommonPersonalDomain(domain) || isDisposableDomain(domain)) {
-    // Even if academic-like part exists, these are treated as personal.
     return true;
   }
 
-  // Academic & corporate domains are allowed unless they look fake/gibberish.
-
-  // 3. Gibberish check – only if BOTH parts look random
+  // gibberish block
   if (looksGibberishToken(local) && looksGibberishToken(domainRoot)) {
     return true;
   }
@@ -195,7 +144,6 @@ export default function DpdpaChecklistDownloads() {
   const [org, setOrg] = useState('');
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
-
   const [hasSubmittedOnce, setHasSubmittedOnce] = useState(false);
 
   useEffect(() => {
@@ -220,7 +168,6 @@ export default function DpdpaChecklistDownloads() {
 
   const handleDownloadClick = (checklist) => {
     if (!checklist.filePath) return;
-
     setSelectedChecklist(checklist);
 
     if (hasSubmittedOnce) {
@@ -232,6 +179,9 @@ export default function DpdpaChecklistDownloads() {
     setShowModal(true);
   };
 
+  // ========================================================
+  // SUBMIT HANDLER
+  // ========================================================
   const handleSubmit = async (e) => {
     e.preventDefault();
     setError('');
@@ -240,18 +190,19 @@ export default function DpdpaChecklistDownloads() {
     const trimmedOrg = org.trim();
 
     if (!trimmedEmail) {
-      setError('Please enter your email address.');
+      setError('Please enter your email.');
       return;
     }
 
     if (!trimmedOrg) {
-      setError('Please enter your organisation / company name.');
+      setError('Please enter your organisation.');
       return;
     }
 
+    // UPDATED MESSAGE WITH LINK:
     if (isFakeEmail(trimmedEmail)) {
       setError(
-        'Please use your organisation / institution email. We avoid personal or disposable emails so that this free resource reaches the right organisations and isn’t misused. Your support helps us keep offering these checklists to the community.'
+        'Please use your organisation / institution email. We avoid personal or disposable emails so that this free resource reaches the right organisations and isn’t misused. Your support helps us keep offering these checklists to the community. Read our <a href="/privacy" style="text-decoration:underline;">privacy policy</a> for more details.'
       );
       return;
     }
@@ -273,9 +224,7 @@ export default function DpdpaChecklistDownloads() {
       let data = {};
       try { data = await res.json(); } catch (_) {}
 
-      if (!res.ok || data.success === false) {
-        throw new Error('Invalid');
-      }
+      if (!res.ok || data.success === false) throw new Error('Invalid');
 
       markSubmitted();
       setShowModal(false);
@@ -287,6 +236,9 @@ export default function DpdpaChecklistDownloads() {
     }
   };
 
+  // ========================================================
+  // RENDER
+  // ========================================================
   return (
     <>
       <div className="margin-vert--md">
@@ -318,13 +270,13 @@ export default function DpdpaChecklistDownloads() {
         </div>
       </div>
 
-      {/* POPUP */}
+      {/* MODAL */}
       {showModal && (
         <div
           style={{
             position: 'fixed',
             inset: 0,
-            backgroundColor: 'rgba(0,0,0,0.5)', // dim the page
+            backgroundColor: 'rgba(0,0,0,0.5)',
             zIndex: 9999,
             display: 'flex',
             justifyContent: 'center',
@@ -403,10 +355,12 @@ export default function DpdpaChecklistDownloads() {
                 }}
               />
 
+              {/* UPDATED ERROR RENDER */}
               {error && (
-                <p style={{ color: 'red', marginTop: '4px', marginBottom: '4px' }}>
-                  {error}
-                </p>
+                <p
+                  style={{ color: 'red', marginTop: 4, marginBottom: 4, fontSize: '0.9rem' }}
+                  dangerouslySetInnerHTML={{ __html: error }}
+                />
               )}
 
               <button
