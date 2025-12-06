@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import Link from '@docusaurus/Link';
 
 // ========================================================
 // CHECKLIST CONFIGURATION
@@ -30,7 +31,7 @@ const CHECKLISTS = [
   },
   {
     id: 'education',
-    label: '🎓 Education Sector (Coming Soon)',
+    label: '🎓 Education Sector',
     filePath: null,
     buttonText: 'Coming Soon',
   },
@@ -52,7 +53,7 @@ function isCommonPersonalDomain(domain) {
     'outlook.com','outlook.in','hotmail.com','live.com','live.in',
     'icloud.com','me.com','aol.com','proton.me','protonmail.com','zoho.com',
     'gmx.com','yandex.com','pm.me','tutanota.com','tuta.io','fastmail.com',
-    'hey.com'
+    'hey.com',
   ];
   return list.includes(domain);
 }
@@ -64,14 +65,14 @@ function isDisposableDomain(domain) {
     'mailinator.com','10minutemail.com','10minutemail.net','guerrillamail.com',
     'trashmail.com','temp-mail.org','tempmail.com','tempmail.net','yopmail.com',
     'getnada.com','sharklasers.com','dispostable.com','maildrop.cc',
-    'mailnull.com','throwawaymail.com'
+    'mailnull.com','throwawaymail.com',
   ];
 
   if (exact.includes(domain)) return true;
 
   const partial = [
     'mailinator','guerrillamail','10minutemail','tempmail','trashmail',
-    'yopmail','sharklasers','nospam'
+    'yopmail','sharklasers','nospam',
   ];
 
   return partial.some((k) => domain.includes(k));
@@ -113,9 +114,9 @@ function isFakeEmail(email) {
 
   const bad = [
     'test','demo','sample','temp','spam','fake','trial','user',
-    'hello','mail','email','abc','xyz','qwerty','asdf','tester'
+    'hello','mail','email','abc','xyz','qwerty','asdf','tester',
   ];
-  if (bad.some(k => local === k || local.startsWith(k))) return true;
+  if (bad.some((k) => local === k || local.startsWith(k))) return true;
 
   if (/^(test|demo|sample|user)[0-9]+$/.test(local)) return true;
   if (local.length < 3) return true;
@@ -142,95 +143,174 @@ export default function DpdpaChecklistDownloads() {
 
   const [email, setEmail] = useState('');
   const [org, setOrg] = useState('');
-  const [error, setError] = useState('');
+  const [emailError, setEmailError] = useState('');
+  const [orgError, setOrgError] = useState('');
+  const [globalError, setGlobalError] = useState(''); // 'fakeEmail' | 'submitError' | ''
   const [loading, setLoading] = useState(false);
-  const [hasSubmittedOnce, setHasSubmittedOnce] = useState(false);
+  const [progressPercent, setProgressPercent] = useState(0);
 
+  const [showPrivacyBanner, setShowPrivacyBanner] = useState(false);
+
+  // Privacy banner integration
   useEffect(() => {
     if (typeof window !== 'undefined') {
-      const flag = window.localStorage.getItem('dpdpaedu_checklist_email_submitted');
-      if (flag === 'true') setHasSubmittedOnce(true);
+      const dismissed = window.localStorage.getItem('dpdpaedu_privacy_banner_dismissed');
+      if (dismissed !== 'true') {
+        setShowPrivacyBanner(true);
+      }
     }
   }, []);
 
-  const markSubmitted = () => {
-    setHasSubmittedOnce(true);
+  const dismissPrivacyBanner = () => {
+    setShowPrivacyBanner(false);
     if (typeof window !== 'undefined') {
-      window.localStorage.setItem('dpdpaedu_checklist_email_submitted', 'true');
+      window.localStorage.setItem('dpdpaedu_privacy_banner_dismissed', 'true');
     }
   };
 
+  // === UPDATED: SAME-TAB DOWNLOAD WITHOUT POPUP BLOCKER ===
   const triggerDownload = (filePath) => {
     if (typeof window !== 'undefined' && filePath) {
-      window.open(filePath, '_blank', 'noopener,noreferrer');
+      const link = document.createElement('a');
+      link.href = filePath;
+      // Hint browser to download rather than open where possible
+      link.setAttribute('download', '');
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
     }
   };
 
   const handleDownloadClick = (checklist) => {
     if (!checklist.filePath) return;
-    setSelectedChecklist(checklist);
 
-    if (hasSubmittedOnce) {
-      triggerDownload(checklist.filePath);
+    setSelectedChecklist(checklist);
+    setEmailError('');
+    setOrgError('');
+    setGlobalError('');
+    setProgressPercent(0);
+    setShowModal(true);
+  };
+
+  // Inline field validators
+  const validateEmailField = (value) => {
+    const trimmed = value.trim();
+    if (!trimmed) {
+      return 'Please enter your email address.';
+    }
+    if (isFakeEmail(trimmed)) {
+      return 'Please use your organisation / institution email. Personal or disposable emails are not allowed.';
+    }
+    return '';
+  };
+
+  const validateOrgField = (value) => {
+    const trimmed = value.trim();
+    if (!trimmed) {
+      return 'Please enter your organisation / company name.';
+    }
+    return '';
+  };
+
+  // ========================================================
+  // PROGRESS SIMULATION (0 → ~90% while loading, 100% on success)
+  // ========================================================
+  useEffect(() => {
+    if (!loading) {
+      setProgressPercent(0);
       return;
     }
 
-    setError('');
-    setShowModal(true);
-  };
+    setProgressPercent(0);
+
+    const interval = setInterval(() => {
+      setProgressPercent((prev) => {
+        if (prev >= 90) return prev; // don't go beyond 90% until request finishes
+
+        let increment = 0;
+
+        if (prev < 30) {
+          // quick start
+          increment = 5 + Math.random() * 8; // 5–13
+        } else if (prev < 60) {
+          // normal speed
+          increment = 3 + Math.random() * 5; // 3–8
+        } else if (prev >= 60 && prev < 75) {
+          // pause-ish zone around ~65–70 with small increments / occasional no-op
+          if (Math.random() < 0.5) {
+            return prev; // small pause
+          }
+          increment = 1 + Math.random() * 3; // 1–4
+        } else {
+          // last stretch before 90
+          increment = 1 + Math.random() * 2; // 1–3
+        }
+
+        const next = Math.min(prev + increment, 90);
+        return next;
+      });
+    }, 250);
+
+    return () => clearInterval(interval);
+  }, [loading]);
 
   // ========================================================
   // SUBMIT HANDLER
   // ========================================================
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setError('');
+    setGlobalError('');
 
     const trimmedEmail = email.trim();
     const trimmedOrg = org.trim();
 
-    if (!trimmedEmail) {
-      setError('Please enter your email.');
-      return;
-    }
+    const emailErr = validateEmailField(trimmedEmail);
+    const orgErr = validateOrgField(trimmedOrg);
 
-    if (!trimmedOrg) {
-      setError('Please enter your organisation.');
-      return;
-    }
+    setEmailError(emailErr);
+    setOrgError(orgErr);
 
-    // UPDATED MESSAGE WITH LINK:
-    if (isFakeEmail(trimmedEmail)) {
-      setError(
-        'Please use your organisation / institution email. We avoid personal or disposable emails so that this free resource reaches the right organisations and isn’t misused. Your support helps us keep offering these checklists to the community. Read our <a href="/privacy" style="text-decoration:underline;">privacy policy</a> for more details.'
-      );
+    if (emailErr || orgErr) {
+      if (!trimmedEmail) {
+        setGlobalError('');
+      } else if (isFakeEmail(trimmedEmail)) {
+        setGlobalError('fakeEmail');
+      }
       return;
     }
 
     setLoading(true);
 
     try {
-      const res = await fetch('https://script.google.com/macros/s/AKfycbxI2zkrLqv8dMge0vHDwDX2bnVndytOzgIUC9UkHtGs6hh4eA5OzDGL-ReRWzFj3nRf/exec', {
-        method: 'POST',
-        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
-        body: JSON.stringify({
-          email: trimmedEmail,
-          organisation: trimmedOrg,
-          source: 'dpdpaedu_checklist_page',
-          checklistId: selectedChecklist?.id || '',
-        }),
-      });
+      const res = await fetch(
+        'https://script.google.com/macros/s/AKfycbxI2zkrLqv8dMge0vHDwDX2bnVndytOzgIUC9UkHtGs6hh4eA5OzDGL-ReRWzFj3nRf/exec',
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+          body: JSON.stringify({
+            email: trimmedEmail,
+            organisation: trimmedOrg,
+            source: 'dpdpaedu_checklist_page',
+            checklistId: selectedChecklist?.id || '',
+          }),
+        }
+      );
 
       let data = {};
-      try { data = await res.json(); } catch (_) {}
+      try {
+        data = await res.json();
+      } catch (_) {}
 
-      if (!res.ok || data.success === false) throw new Error('Invalid');
+      if (!res.ok || data.success === false) {
+        throw new Error('Invalid');
+      }
 
-      markSubmitted();
-      setShowModal(false);
+      // On success, show 100% and then trigger download
+      setProgressPercent(100);
       triggerDownload(selectedChecklist?.filePath);
+      setShowModal(false);
     } catch (err) {
-      setError('Something went wrong. Please try again.');
+      setGlobalError('submitError');
     } finally {
       setLoading(false);
     }
@@ -244,8 +324,8 @@ export default function DpdpaChecklistDownloads() {
       <div className="margin-vert--md">
         <h2>📂 Available Checklists</h2>
         <p>
-          Click any checklist to download. For first-time access, we ask for your email
-          and organisation.
+          Click any checklist to download. For each access, we ask for your email
+          and organisation to keep this resource useful and abuse-free.
         </p>
 
         <div className="margin-top--md">
@@ -270,6 +350,47 @@ export default function DpdpaChecklistDownloads() {
         </div>
       </div>
 
+      {/* PRIVACY BANNER (GLOBAL) */}
+      {showPrivacyBanner && (
+        <div
+          style={{
+            position: 'fixed',
+            bottom: 0,
+            left: 0,
+            right: 0,
+            zIndex: 9998,
+            padding: '0.75rem 1rem',
+            backgroundColor: 'var(--ifm-background-surface-color)',
+            borderTop: '1px solid var(--ifm-color-emphasis-200)',
+            display: 'flex',
+            flexWrap: 'wrap',
+            alignItems: 'center',
+            justifyContent: 'space-between',
+            gap: '0.5rem',
+          }}
+        >
+          <span style={{ fontSize: '0.85rem' }}>
+            We use minimal data (like your email and organisation) to share DPDPA resources and updates.
+            No spam. No selling. Learn more in our{' '}
+            <Link
+              to="/privacy"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: 'underline' }}
+            >
+              privacy policy
+            </Link>
+            .
+          </span>
+          <button
+            className="button button--sm button--primary"
+            onClick={dismissPrivacyBanner}
+          >
+            Got it
+          </button>
+        </div>
+      )}
+
       {/* MODAL */}
       {showModal && (
         <div
@@ -290,8 +411,8 @@ export default function DpdpaChecklistDownloads() {
               width: '100%',
               padding: '1.75rem 1.75rem 1.5rem',
               borderRadius: '14px',
-              backgroundColor: '#ffffff',
-              color: '#000000',
+              backgroundColor: 'var(--ifm-background-surface-color)', // theme-aware
+              color: 'var(--ifm-font-color-base)',
               boxShadow: '0 24px 60px rgba(0,0,0,0.35)',
               position: 'relative',
             }}
@@ -321,46 +442,158 @@ export default function DpdpaChecklistDownloads() {
               occasional DPDPA updates from Securze. No spam. No selling. No misuse.
             </p>
 
-            <form onSubmit={handleSubmit}>
-              <label><strong>Email address *</strong></label>
+            <form onSubmit={handleSubmit} noValidate>
+              <label>
+                <strong>Email address *</strong>
+              </label>
               <input
                 type="email"
                 value={email}
-                onChange={(e) => setEmail(e.target.value)}
+                onChange={(e) => {
+                  setEmail(e.target.value);
+                  if (emailError) setEmailError('');
+                  if (globalError === 'fakeEmail') setGlobalError('');
+                }}
+                onBlur={(e) => {
+                  const err = validateEmailField(e.target.value);
+                  setEmailError(err);
+                  if (err && isFakeEmail(e.target.value.trim())) {
+                    setGlobalError('fakeEmail');
+                  }
+                }}
                 placeholder="you@organisation.com"
                 required
                 style={{
                   width: '100%',
                   padding: '8px',
                   marginTop: '4px',
-                  marginBottom: '12px',
                   borderRadius: '6px',
-                  border: '1px solid #d0d0d0',
+                  border: emailError
+                    ? '1px solid #e55353'
+                    : '1px solid var(--ifm-color-emphasis-300)',
+                  backgroundColor: 'var(--ifm-background-color)',
+                  color: 'var(--ifm-font-color-base)',
                 }}
               />
+              {emailError && (
+                <p style={{ color: '#e55353', marginTop: 4, marginBottom: 8, fontSize: '0.85rem' }}>
+                  {emailError}
+                </p>
+              )}
 
-              <label><strong>Organisation *</strong></label>
+              <label>
+                <strong>Organisation *</strong>
+              </label>
               <input
                 value={org}
-                onChange={(e) => setOrg(e.target.value)}
+                onChange={(e) => {
+                  setOrg(e.target.value);
+                  if (orgError) setOrgError('');
+                }}
+                onBlur={(e) => {
+                  const err = validateOrgField(e.target.value);
+                  setOrgError(err);
+                }}
                 placeholder="Company / Institution"
                 required
                 style={{
                   width: '100%',
                   padding: '8px',
                   marginTop: '4px',
-                  marginBottom: '8px',
                   borderRadius: '6px',
-                  border: '1px solid #d0d0d0',
+                  border: orgError
+                    ? '1px solid #e55353'
+                    : '1px solid var(--ifm-color-emphasis-300)',
+                  backgroundColor: 'var(--ifm-background-color)',
+                  color: 'var(--ifm-font-color-base)',
                 }}
               />
+              {orgError && (
+                <p style={{ color: '#e55353', marginTop: 4, marginBottom: 8, fontSize: '0.85rem' }}>
+                  {orgError}
+                </p>
+              )}
 
-              {/* UPDATED ERROR RENDER */}
-              {error && (
-                <p
-                  style={{ color: 'red', marginTop: 4, marginBottom: 4, fontSize: '0.9rem' }}
-                  dangerouslySetInnerHTML={{ __html: error }}
-                />
+              {/* GDPR / DPDPA MICRO-NOTICE */}
+              <p
+                style={{
+                  fontSize: '0.8rem',
+                  color: 'var(--ifm-color-emphasis-700)',
+                  marginTop: 4,
+                  marginBottom: 8,
+                }}
+              >
+                We use your email and organisation details only to share this checklist and
+                related DPDPA updates. No spam, and no sale of your data. For full details,
+                see our{' '}
+                <Link
+                  to="/privacy"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ textDecoration: 'underline' }}
+                >
+                  privacy policy
+                </Link>
+                .
+              </p>
+
+              {/* GLOBAL ERROR (FAKE EMAIL EXPLANATION / SERVER ERRORS) */}
+              {globalError === 'fakeEmail' && (
+                <p style={{ color: '#e55353', marginTop: 4, marginBottom: 8, fontSize: '0.85rem' }}>
+                  Please use your organisation / institution email. We avoid personal or disposable
+                  emails so that this free resource reaches the right organisations and isn’t misused.
+                  Your support helps us keep offering these checklists to the community. Read our{' '}
+                  <Link
+                    to="/privacy"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ textDecoration: 'underline' }}
+                  >
+                    privacy policy
+                  </Link>{' '}
+                  for more details.
+                </p>
+              )}
+
+              {globalError === 'submitError' && (
+                <p style={{ color: '#e55353', marginTop: 4, marginBottom: 8, fontSize: '0.85rem' }}>
+                  Something went wrong while submitting your details. Please try again in a moment.
+                </p>
+              )}
+
+              {/* PROGRESS BAR WHEN LOADING */}
+              {loading && (
+                <div style={{ marginTop: 10, marginBottom: 8 }}>
+                  <div
+                    style={{
+                      width: '100%',
+                      height: '6px',
+                      borderRadius: '999px',
+                      backgroundColor: 'var(--ifm-color-emphasis-200)',
+                      overflow: 'hidden',
+                    }}
+                  >
+                    <div
+                      style={{
+                        height: '100%',
+                        backgroundColor: 'var(--ifm-color-primary)',
+                        borderRadius: '999px',
+                        width: `${Math.round(progressPercent)}%`,
+                        transition: 'width 0.25s ease-out',
+                      }}
+                    />
+                  </div>
+                  <p
+                    style={{
+                      fontSize: '0.8rem',
+                      marginTop: 4,
+                      marginBottom: 0,
+                      color: 'var(--ifm-color-emphasis-700)',
+                    }}
+                  >
+                    Downloading checklist… {Math.round(progressPercent)}%
+                  </p>
+                </div>
               )}
 
               <button
