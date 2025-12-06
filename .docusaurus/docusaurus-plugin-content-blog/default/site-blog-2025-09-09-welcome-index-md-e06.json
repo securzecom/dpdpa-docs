@@ -12,5 +12,9 @@
     "slug": "welcome",
     "title": "Board"
   },
-  "unlisted": false
+  "unlisted": false,
+  "prevItem": {
+    "title": "Credits",
+    "permalink": "/blog/welcome"
+  }
 }

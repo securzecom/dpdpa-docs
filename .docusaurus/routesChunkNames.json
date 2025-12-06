@@ -42,13 +42,16 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-4e0": {
+  "/blog-7cb": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-452-960"
+      },
       {
         "content": "content---blog-452-960"
       }
@@ -96,6 +99,17 @@
     "items": [],
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authors-yangshun-1-de-d0c"
+  },
+  "/blog/welcome-83a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomec-8-f-e70"
   },
   "/blog/welcome-1a1": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",

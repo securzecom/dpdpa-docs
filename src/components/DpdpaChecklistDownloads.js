@@ -43,6 +43,87 @@ const CHECKLISTS = [
 ];
 
 // ========================================================
+// DOMAIN HELPERS (CLIENT-SIDE)
+// ========================================================
+function isCommonPersonalDomain(domain) {
+  domain = domain.toLowerCase();
+  const list = [
+    'gmail.com',
+    'googlemail.com',
+    'yahoo.com',
+    'yahoo.in',
+    'yahoo.co.in',
+    'outlook.com',
+    'outlook.in',
+    'hotmail.com',
+    'live.com',
+    'live.in',
+    'icloud.com',
+    'me.com',
+    'aol.com',
+    'proton.me',
+    'protonmail.com',
+    'zoho.com',
+    'gmx.com',
+    'yandex.com',
+    'pm.me',
+    'tutanota.com',
+    'tuta.io',
+    'fastmail.com',
+    'hey.com'
+  ];
+  return list.indexOf(domain) !== -1;
+}
+
+function isDisposableDomain(domain) {
+  domain = domain.toLowerCase();
+
+  const exact = [
+    'mailinator.com',
+    '10minutemail.com',
+    '10minutemail.net',
+    'guerrillamail.com',
+    'trashmail.com',
+    'temp-mail.org',
+    'tempmail.com',
+    'tempmail.net',
+    'yopmail.com',
+    'getnada.com',
+    'sharklasers.com',
+    'dispostable.com',
+    'maildrop.cc',
+    'mailnull.com',
+    'throwawaymail.com'
+  ];
+
+  if (exact.indexOf(domain) !== -1) return true;
+
+  const partial = [
+    'mailinator',
+    'guerrillamail',
+    '10minutemail',
+    'tempmail',
+    'trashmail',
+    'yopmail',
+    'sharklasers',
+    'nospam'
+  ];
+
+  return partial.some((k) => domain.includes(k));
+}
+
+function isAcademicDomain(domain) {
+  const d = domain.toLowerCase();
+  return (
+    d.endsWith('.edu') ||
+    d.endsWith('.edu.in') ||
+    d.endsWith('.ac.in') ||
+    d.endsWith('.ac.uk') ||
+    d.includes('.ac.')
+  );
+}
+
+// ========================================================
 // FAKE EMAIL DETECTION
 // ========================================================
 function looksGibberishToken(token) {
@@ -74,7 +155,7 @@ function isFakeEmail(email) {
 
   const domainRoot = domain.split('.')[0];
 
-  // 1. obvious patterns (as before)
+  // 1. obvious local-part patterns
   if (local === domainRoot) return true;
   if (/^(.)\1{2,}$/.test(local)) return true;
 
@@ -86,14 +167,22 @@ function isFakeEmail(email) {
   if (/^(test|demo|sample|user)[0-9]+$/.test(local)) return true;
   if (local.length < 3) return true;
 
-  // 2. NEW: gibberish check – only if BOTH parts look random
+  // 2. DOMAIN-BASED RULES
+  // Block personal & disposable domains
+  if (isCommonPersonalDomain(domain) || isDisposableDomain(domain)) {
+    // Even if academic-like part exists, these are treated as personal.
+    return true;
+  }
+
+  // Academic & corporate domains are allowed unless they look fake/gibberish.
+
+  // 3. Gibberish check – only if BOTH parts look random
   if (looksGibberishToken(local) && looksGibberishToken(domainRoot)) {
     return true;
   }
 
   return false;
 }
-
 
 // ========================================================
 // MAIN COMPONENT
@@ -161,7 +250,9 @@ export default function DpdpaChecklistDownloads() {
     }
 
     if (isFakeEmail(trimmedEmail)) {
-      setError('Please enter a real email address. Test / placeholder emails are not allowed.');
+      setError(
+        'Please use your organisation / institution email. We avoid personal or disposable emails so that this free resource reaches the right organisations and isn’t misused. Your support helps us keep offering these checklists to the community.'
+      );
       return;
     }
 
@@ -247,7 +338,6 @@ export default function DpdpaChecklistDownloads() {
               width: '100%',
               padding: '1.75rem 1.75rem 1.5rem',
               borderRadius: '14px',
-              // make the popup fully opaque in both themes
               backgroundColor: '#ffffff',
               color: '#000000',
               boxShadow: '0 24px 60px rgba(0,0,0,0.35)',
@@ -285,7 +375,7 @@ export default function DpdpaChecklistDownloads() {
                 type="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="you@example.com"
+                placeholder="you@organisation.com"
                 required
                 style={{
                   width: '100%',
