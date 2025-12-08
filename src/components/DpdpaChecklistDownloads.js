@@ -32,8 +32,8 @@ const CHECKLISTS = [
   {
     id: 'education',
     label: '🎓 Education Sector',
-    filePath: null,
-    buttonText: 'Coming Soon',
+    filePath: '/checklists/DPDPA_Edu_2025_Checklist.xlsx',
+    buttonText: 'Download Education Checklist (Free)',
   },
   {
     id: 'manufacturing',
