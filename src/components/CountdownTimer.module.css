@@ -1,0 +1,74 @@
+.countdownWrapper {
+  margin-top: 1.8rem;
+  text-align: center;
+}
+
+.countdownLabel {
+  font-size: 1.05rem;
+  opacity: 0.95;
+  margin-bottom: 0.9rem;
+}
+
+.highlight {
+  font-weight: 700;
+}
+
+.countdownRow {
+  display: inline-flex;
+  gap: 1.4rem;
+  align-items: flex-end;
+}
+
+/* each time block */
+.timeBox {
+  min-width: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* BIGGER numbers, no big pill background behind the whole clock */
+.timeValue {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1;
+  padding: 0.25rem 0.6rem;
+  border-radius: 0.9rem;
+  background: rgba(0, 0, 0, 0.35);
+  color: #ffffff;
+  display: inline-block;
+  transform-origin: center center;
+}
+
+/* better contrast in light mode */
+html[data-theme="light"] .timeValue {
+  background: rgba(0, 0, 0, 0.88);
+}
+
+/* smooth “click” style tick animation */
+.tick {
+  animation: tick 0.18s ease-out;
+}
+
+@keyframes tick {
+  0% {
+    transform: scale(0.9);
+    opacity: 0.85;
+  }
+  60% {
+    transform: scale(1.06);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.timeUnit {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  margin-top: 0.3rem;
+  opacity: 0.96;
+}

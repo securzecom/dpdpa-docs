@@ -3,6 +3,8 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import React from "react";
+import CountdownTimer from "../components/CountdownTimer";
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -15,22 +17,35 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <img src='img/dpdpa-logo-white.png' width='175px' height='100px'></img>
+
+        {/* ⬇️ Countdown just below the DPDPA title */}
+        <CountdownTimer />
+
+        <img
+          src="img/dpdpa-logo-white.png"
+          width="175px"
+          height="100px"
+          alt="DPDPAedu.org logo"
+        />
+
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/Overview/Background and Purpose of DPDPA">
             DPDPA Implementation Guide
-          </Link>          
+          </Link>
         </div>
-        <br></br>
+
+        <br />
+
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/Checklists/DPDPA%20Checklists">
             Download Free Checklists
-          </Link>          
+          </Link>
         </div>
       </div>
     </header>
