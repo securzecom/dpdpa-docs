@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react";
 import styles from "./CountdownTimer.module.css";
 
-// 13 May 2027, 00:00 IST
+
 const TARGET_DATE = new Date("2027-05-13T00:00:00+05:30").getTime();
+
 
 function getTimeLeft() {
   const now = new Date().getTime();
@@ -36,30 +37,6 @@ function getTimeLeft() {
   };
 }
 
-function TimeUnit({ label, value }) {
-  const [isTicking, setIsTicking] = useState(false);
-
-  useEffect(() => {
-    // trigger smooth tick animation whenever the value changes
-    setIsTicking(true);
-    const t = setTimeout(() => setIsTicking(false), 200);
-    return () => clearTimeout(t);
-  }, [value]);
-
-  return (
-    <div className={styles.timeBox}>
-      <div
-        className={`${styles.timeValue} ${
-          isTicking ? styles.tick : ""
-        }`}
-      >
-        {value}
-      </div>
-      <div className={styles.timeUnit}>{label}</div>
-    </div>
-  );
-}
-
 export default function CountdownTimer() {
   const [timeLeft, setTimeLeft] = useState(getTimeLeft);
 
@@ -74,14 +51,25 @@ export default function CountdownTimer() {
   return (
     <div className={styles.countdownWrapper}>
       <p className={styles.countdownLabel}>
-        Time left to get{" "}
-        <span className={styles.highlight}>DPDPA-ready</span>
+        Time left to get <span className={styles.highlight}>DPDPA-ready</span>
       </p>
       <div className={styles.countdownRow}>
-        <TimeUnit label="Days" value={timeLeft.days} />
-        <TimeUnit label="Hours" value={timeLeft.hours} />
-        <TimeUnit label="Minutes" value={timeLeft.minutes} />
-        <TimeUnit label="Seconds" value={timeLeft.seconds} />
+        <div className={styles.timeBox}>
+          <span className={styles.timeValue}>{timeLeft.days}</span>
+          <span className={styles.timeUnit}>Days</span>
+        </div>
+        <div className={styles.timeBox}>
+          <span className={styles.timeValue}>{timeLeft.hours}</span>
+          <span className={styles.timeUnit}>Hours</span>
+        </div>
+        <div className={styles.timeBox}>
+          <span className={styles.timeValue}>{timeLeft.minutes}</span>
+          <span className={styles.timeUnit}>Minutes</span>
+        </div>
+        <div className={styles.timeBox}>
+          <span className={styles.timeValue}>{timeLeft.seconds}</span>
+          <span className={styles.timeUnit}>Seconds</span>
+        </div>
       </div>
     </div>
   );

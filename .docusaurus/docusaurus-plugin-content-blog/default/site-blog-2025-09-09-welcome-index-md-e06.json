@@ -13,7 +13,7 @@
     "title": "Board"
   },
   "unlisted": false,
-  "nextItem": {
+  "prevItem": {
     "title": "Credits",
     "permalink": "/blog/welcome"
   }
