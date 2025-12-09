@@ -18,19 +18,19 @@
     radial-gradient(
       circle at 15% 40%,
       rgba(255, 124, 2, 0.95) 0%,
-      rgba(255, 124, 2, 0.856) 35%,
+      rgba(249, 140, 38, 0.856) 35%,
       transparent 70%
     ),
     radial-gradient(
       circle at 50% 60%,
       rgba(255, 255, 255, 0.95) 0%,
-      rgba(0, 255, 34, 0.962) 40%,
+      rgb(192, 253, 200) 40%,
       transparent 75%
     ),
     radial-gradient(
       circle at 85% 45%,
       rgba(2, 168, 41, 0.95) 0%,
-      rgb(2, 168, 41) 35%,
+      rgb(0, 255, 60) 35%,
       transparent 70%
     );
 
