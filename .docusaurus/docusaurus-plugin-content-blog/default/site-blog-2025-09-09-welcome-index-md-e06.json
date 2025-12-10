@@ -12,9 +12,5 @@
     "slug": "welcome",
     "title": "Board"
   },
-  "unlisted": false,
-  "nextItem": {
-    "title": "Credits",
-    "permalink": "/blog/welcome"
-  }
+  "unlisted": false
 }

@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'bb8'),
+    component: ComponentCreator('/blog', '4e0'),
     exact: true
   },
   {
@@ -65,11 +65,6 @@ export default [
   {
     path: '/blog/welcome',
     component: ComponentCreator('/blog/welcome', '1a1'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '83a'),
     exact: true
   },
   {
