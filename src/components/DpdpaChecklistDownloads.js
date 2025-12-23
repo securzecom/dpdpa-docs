@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Link from '@docusaurus/Link';
+import styles from './HomepageFeatures/styles.module.css';
+
 
 // ========================================================
 // CHECKLIST CONFIGURATION

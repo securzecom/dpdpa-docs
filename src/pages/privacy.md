@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last Updated: 06 December 2025_
+_Last Updated: 23 December 2025_
 
 This Privacy Policy describes how personal information is collected, used, and managed by **dpdpaedu.org**, a website operated by **Navneetpriya Softech Solutions LLP (Securze)**.
 
@@ -12,8 +12,9 @@ We are committed to handling personal information lawfully, fairly, and with tra
 
 We collect personal information **only when voluntarily submitted by you** through online forms. This may include:
 
-- **Email address**
-- **Organisation or company name**
+- **Name**
+- **Email Address**
+- **Organisation or Company Name**
 
 No other personal information is collected automatically.
 
@@ -167,8 +168,8 @@ Any changes will be posted on this page with an updated “Last Updated” date.
 For privacy-related questions, requests, or concerns, please contact:
 
 **Navneetpriya Softech Solutions LLP (Securze)**  
-📩 Email: info@securze.com  
-🌐 Website: https://securze.com  
+- Email: info@securze.com  
+- Website: https://securze.com  
 
 ---
 
