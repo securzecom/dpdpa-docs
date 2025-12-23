@@ -61,7 +61,7 @@ const BOARD_MEMBERS = [
     summary: 'Conceptualization, Drafting, and Project Leadership',
     img: '/img/harsh-parekh.png',
     linkedin: 'https://www.linkedin.com/in/harshfromsecurze',
-    details: 'Conceptualization, Drafting, and Project Leadership',
+    details: 'Harsh Parekh is a cybersecurity and privacy leader with a strong focus on building practical, scalable, and business-relevant data protection ecosystems. Through DPDPAedu.org, he provides strategic direction to an education-first initiative designed to help organizations clearly understand and responsibly implement India’s Digital Personal Data Protection Act. His leadership bridges regulation, technology, and real-world business needs, positioning privacy as a foundation for trust, governance, and long-term growth.',
   },
   {
     id: 'team',
@@ -71,7 +71,7 @@ const BOARD_MEMBERS = [
     summary: 'Research, Legal Reference Compilation, and Documentation Support',
     img: '/img/securze-logo.png',
     linkedin: 'https://www.linkedin.com/company/securze',
-    details: 'Research, Legal Reference Compilation, and Documentation Support',
+    details: 'This document has been developed with the support of Team Securze, whose efforts span in-depth research, structured legal reference compilation, and meticulous documentation. The team worked closely to analyze statutory provisions, interpret regulatory guidance, and organize complex information into a clear, accessible, and practical format. Their contribution ensured that the content remains accurate, implementation-focused, and aligned with real-world organizational needs. By combining technical understanding with regulatory awareness, Team Securze played a key role in shaping this document into a reliable resource for professionals, institutions, and decision-makers navigating India’s data protection landscape.',
   },
   {
     id: 'gokulavan',
@@ -885,7 +885,7 @@ export default function HomepageFeatures() {
 
                     <div className={styles.reveal} aria-hidden={!isOpen}>
                       <div className={styles.revealInner}>
-                        <div className={styles.revealTitle}>About</div>
+                        {/* <div className={styles.revealTitle}>About</div> */}
                         <p className={styles.revealText}>{m.details}</p>
                       </div>
                     </div>

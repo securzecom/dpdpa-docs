@@ -16,7 +16,7 @@
 ========================= */
 
 .quizWrap {
-  margin-top: 2rem;
+  margin-top: 0.75rem;
   display: flex;
   flex-direction: column;
   gap: 18px;
@@ -671,7 +671,7 @@ html[data-theme='dark'] .miniCard {
 .avatar {
   width: 72px;
   height: 72px;
-  border-radius: 18px;
+  border-radius: 50px;
   object-fit: cover;
   border: 1px solid rgba(0, 0, 0, 0.10);
   background: rgba(0, 0, 0, 0.06);
@@ -712,9 +712,9 @@ html[data-theme='dark'] .avatar {
   font-size: 1.35rem;
   font-weight: 900;
   line-height: 1.15;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  white-space: normal;
+  overflow: visible;
+  text-overflow: unset;
 }
 
 .li {
