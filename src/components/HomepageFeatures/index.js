@@ -184,13 +184,14 @@ const QUIZ_QUESTIONS = [
     options: ['AI startup only', 'Bank only', 'Both share liability', 'Regulator'],
     answerIndex: 2,
     correctReason:
-      'Under the DPDPA, the bank (as the Data Fiduciary) remains primarily responsible for ensuring lawful processing of personal data, even when it outsources KYC to an AI startup (the Data Processor). If the bank fails to exercise due diligence—such as audits, contractual safeguards, or oversight—and the processor mishandles data, liability can extend to both parties based on their respective roles and failures.',
+      'Under the DPDPA, the bank (as the Data Fiduciary) remains responsible for ensuring lawful processing of personal data even when KYC is outsourced to an AI startup (the Data Processor). If the bank fails to exercise due diligence—such as audits, contractual safeguards, or oversight—and the processor mishandles data or violates its obligations, liability can extend to both parties based on their respective roles and failures.',
     wrongReasons: {
-      0: 'Processors act on behalf of the fiduciary. Primary accountability remains with the bank as the fiduciary.',
-      1: 'The Bank solely is not responsible because liability under the DPDPA is not exclusive when a processor independently violates obligations.',
-      3: 'The regulator enforces the law; it is not the liable party for a compliance failure.',
+      0: 'Processors act on behalf of the Data Fiduciary. While they have obligations, primary accountability cannot be fully shifted away from the bank.',
+      1: 'Liability under the DPDPA is not exclusive to the bank when a processor independently violates legal or security obligations.',
+      3: 'The regulator enforces the law and imposes penalties; it is not a liable party in data processing activities.',
     },
   },
+
   {
     q: 'A tech company trains an AI model using employee emails for “internal productivity analysis” without informing employees. This violates:',
     options: ['Purpose limitation', 'Transparency', 'Storage limitation', 'Security safeguards'],
