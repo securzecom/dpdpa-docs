@@ -678,6 +678,55 @@ export default function HomepageFeatures() {
     setIdx((i) => Math.min(total - 1, i + 1));
   }
 
+  // =========================
+  // SHARE (ADDED)
+  // - WhatsApp: opens wa.me with prefilled text
+  // - LinkedIn: opens share-offsite for URL + copies the message to clipboard
+  // =========================
+
+  function buildShareMessage(finalScore) {
+    const rank = awardTitle(finalScore);
+    return `I took the DPDPA quiz at dpdpaedu.org — here is my score: ${finalScore}/100. I am ${rank} based on my score.\n\nTake the quiz here: https://dpdpaedu.org`;
+  }
+
+  async function copyToClipboard(text) {
+    try {
+      await navigator.clipboard.writeText(text);
+      return true;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  function shareOnWhatsApp(finalScore) {
+    const msg = buildShareMessage(finalScore);
+    const url = `https://wa.me/?text=${encodeURIComponent(msg)}`;
+    window.open(url, '_blank', 'noopener,noreferrer');
+  }
+
+  async function shareOnLinkedIn(finalScore) {
+    const msg = buildShareMessage(finalScore);
+
+    // LinkedIn’s official share endpoint mainly accepts a URL (not full prefilled post text)
+    // So we:
+    // 1) open the share dialog for dpdpaedu.org
+    // 2) copy the full message to clipboard for easy paste
+    const shareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent('https://dpdpaedu.org')}`;
+    window.open(shareUrl, '_blank', 'noopener,noreferrer');
+
+    const copied = await copyToClipboard(msg);
+    if (copied) {
+      alert('Share text copied. Paste it into your LinkedIn post.');
+    } else {
+      alert('Could not auto-copy the text. Please copy it manually from the page if needed.');
+    }
+  }
+
+  // =========================
+  // END SHARE
+  // =========================
+
+
   function resetAll() {
     if (timerRef.current) clearInterval(timerRef.current);
     timerRef.current = null;
@@ -920,14 +969,46 @@ export default function HomepageFeatures() {
                 </div>
 
                 <div className={styles.actions}>
-                  <button className={styles.primaryBtn} onClick={downloadCertificate} type="button">
+                  <button
+                    className={styles.primaryBtn}
+                    onClick={downloadCertificate}
+                    type="button"
+                  >
                     Download certificate
                   </button>
-                  <button className={styles.btn} onClick={resetAll} type="button">
+
+                  <button
+                    className={styles.btn}
+                    onClick={resetAll}
+                    type="button"
+                  >
                     Retake quiz
                   </button>
-                </div>
 
+                  <button
+                    className={styles.btn}
+                    onClick={() => shareOnLinkedIn(finalScore)}
+                    type="button"
+                    aria-label="Share on LinkedIn"
+                  >
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="#0A66C2" style={{ marginRight: 8 }}>
+                      <path d="M4.98 3.5C4.98 4.88 3.86 6 2.48 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM0 8h5v16H0zM8 8h4.8v2.2h.1c.7-1.3 2.4-2.7 5-2.7 5.3 0 6.3 3.5 6.3 8V24h-5v-7.7c0-1.8 0-4.1-2.5-4.1s-2.9 1.9-2.9 4V24H8z"/>
+                    </svg>
+                  </button>
+
+
+                  <button
+                    className={styles.btn}
+                    onClick={() => shareOnWhatsApp(finalScore)}
+                    type="button"
+                    aria-label="Share on WhatsApp"
+                  >
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="#25D366" style={{ marginRight: 8 }}>
+                      <path d="M12.04 2C6.56 2 2.08 6.48 2.08 11.96c0 2.11.55 4.08 1.52 5.82L2 22l4.34-1.56a9.92 9.92 0 005.7 1.84c5.48 0 9.96-4.48 9.96-9.96C22 6.48 17.52 2 12.04 2zm0 18.16c-1.63 0-3.14-.45-4.44-1.23l-.32-.2-2.58.93.97-2.5-.21-.33a8.17 8.17 0 01-1.29-4.54c0-4.53 3.68-8.2 8.21-8.2 4.53 0 8.2 3.67 8.2 8.2 0 4.53-3.67 8.2-8.2 8.2zm4.5-6.13c-.25-.12-1.48-.73-1.7-.81-.23-.08-.39-.12-.56.12-.17.25-.65.81-.8.98-.15.17-.3.19-.55.06-.25-.12-1.07-.39-2.03-1.25-.75-.67-1.25-1.5-1.4-1.75-.15-.25-.02-.38.1-.5.11-.11.25-.3.38-.45.12-.15.17-.25.25-.42.08-.17.04-.31-.02-.44-.06-.12-.56-1.34-.77-1.83-.2-.49-.41-.42-.56-.43l-.48-.01c-.17 0-.44.06-.67.31-.23.25-.88.86-.88 2.1 0 1.23.9 2.43 1.03 2.6.12.17 1.77 2.7 4.29 3.78.6.26 1.07.41 1.43.53.6.19 1.14.16 1.57.1.48-.07 1.48-.6 1.69-1.18.21-.58.21-1.08.15-1.18-.06-.1-.23-.15-.48-.27z"/>
+                    </svg>
+                  </button>
+
+                </div>
                 <div className={styles.answerKey}>
                   <div className={styles.answerKeyTitle}>Answer key + reasoning</div>
 
