@@ -61,7 +61,8 @@ const BOARD_MEMBERS = [
     summary: 'Conceptualization, Drafting, and Project Leadership',
     img: '/img/harsh-parekh.png',
     linkedin: 'https://www.linkedin.com/in/harshfromsecurze',
-    details: 'Harsh Parekh is a cybersecurity and privacy leader with a strong focus on building practical, scalable, and business-relevant data protection ecosystems. Through DPDPAedu.org, he provides strategic direction to an education-first initiative designed to help organizations clearly understand and responsibly implement India’s Digital Personal Data Protection Act. His leadership bridges regulation, technology, and real-world business needs, positioning privacy as a foundation for trust, governance, and long-term growth.',
+    details:
+      'Harsh Parekh is a cybersecurity and privacy leader with a strong focus on building practical, scalable, and business-relevant data protection ecosystems. Through DPDPAedu.org, he provides strategic direction to an education-first initiative designed to help organizations clearly understand and responsibly implement India’s Digital Personal Data Protection Act. His leadership bridges regulation, technology, and real-world business needs, positioning privacy as a foundation for trust, governance, and long-term growth.',
   },
   {
     id: 'team',
@@ -71,7 +72,8 @@ const BOARD_MEMBERS = [
     summary: 'Research, Legal Reference Compilation, and Documentation Support',
     img: '/img/securze-logo.png',
     linkedin: 'https://www.linkedin.com/company/securze',
-    details: 'This document has been developed with the support of Team Securze, whose efforts span in-depth research, structured legal reference compilation, and meticulous documentation. The team worked closely to analyze statutory provisions, interpret regulatory guidance, and organize complex information into a clear, accessible, and practical format. Their contribution ensured that the content remains accurate, implementation-focused, and aligned with real-world organizational needs. By combining technical understanding with regulatory awareness, Team Securze played a key role in shaping this document into a reliable resource for professionals, institutions, and decision-makers navigating India’s data protection landscape.',
+    details:
+      'This document has been developed with the support of Team Securze, whose efforts span in-depth research, structured legal reference compilation, and meticulous documentation. The team worked closely to analyze statutory provisions, interpret regulatory guidance, and organize complex information into a clear, accessible, and practical format. Their contribution ensured that the content remains accurate, implementation-focused, and aligned with real-world organizational needs. By combining technical understanding with regulatory awareness, Team Securze played a key role in shaping this document into a reliable resource for professionals, institutions, and decision-makers navigating India’s data protection landscape.',
   },
   {
     id: 'gokulavan',
@@ -393,9 +395,145 @@ function awardTitle(score) {
   return 'Compliance Cadet';
 }
 
-function isValidEmail(email) {
-  return /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/i.test(email);
+/* =========================
+   EMAIL VALIDATION (ADDED)
+   - Valid format
+   - Block temp/disposable
+   - Block test/fake patterns
+   - Block personal mail domains (gmail/outlook/yahoo/etc.)
+   ========================= */
+
+const PERSONAL_EMAIL_DOMAINS = new Set([
+  'gmail.com',
+  'googlemail.com',
+  'yahoo.com',
+  'yahoo.co.in',
+  'yahoo.in',
+  'outlook.com',
+  'hotmail.com',
+  'live.com',
+  'msn.com',
+  'icloud.com',
+  'me.com',
+  'aol.com',
+  'proton.me',
+  'protonmail.com',
+  'yandex.com',
+  'yandex.ru',
+  'gmx.com',
+  'gmx.net',
+  'mail.com',
+  'rediffmail.com',
+]);
+
+const DISPOSABLE_EMAIL_DOMAINS = new Set([
+  'tempmail.com',
+  'mailinator.com',
+  '10minutemail.com',
+  'guerrillamail.com',
+  'yopmail.com',
+  'trashmail.com',
+  'fakeinbox.com',
+  'getnada.com',
+  'dispostable.com',
+  'temp-mail.org',
+  'mohmal.com',
+  'minuteinbox.com',
+]);
+
+const FAKE_LOCAL_PARTS = new Set([
+  'test',
+  'testing',
+  'demo',
+  'sample',
+  'temp',
+  'user',
+  'email',
+  'mail',
+  'admin',
+  'abc',
+  'abcd',
+  'xyz',
+  'null',
+  'undefined',
+  'qwerty',
+  '123',
+  '1234',
+  '111',
+]);
+
+function normalizeEmail(email) {
+  return (email || '').trim().toLowerCase();
 }
+
+function parseEmailParts(email) {
+  const e = normalizeEmail(email);
+  const at = e.lastIndexOf('@');
+  if (at < 1) return null;
+  return {local: e.slice(0, at), domain: e.slice(at + 1)};
+}
+
+// Your strict regex (kept) + blocks many throwaway patterns
+function isEmailSyntaxAcceptable(email) {
+  return /^(?!^(?:a|ab|abc|abcd|test|testing|demo|sample|temp|user|email|xyz|123|1234|111|qwerty)@)(?!^[a-z]{1,2}@)(?!^\d{1,3}@)[^\s@]+@(?!example\.com$)(?!test\.)(?!fake\.)(?!.*(?:tempmail|mailinator|10minutemail|guerrillamail|yopmail|trashmail|getnada|dispostable)\.)[^\s@]+\.[^\s@]{2,}$/i.test(
+    normalizeEmail(email),
+  );
+}
+
+// Returns { ok, reason } so we can show message while typing
+function validateEmail(email) {
+  const e = normalizeEmail(email);
+  if (!e) return {ok: false, reason: ''}; // no error while empty
+
+  if (!isEmailSyntaxAcceptable(e)) {
+    return {ok: false, reason: 'Please enter a valid work email address.'};
+  }
+
+  const parts = parseEmailParts(e);
+  if (!parts) return {ok: false, reason: 'Please enter a valid email address.'};
+
+  const {local, domain} = parts;
+
+  // Block obvious fake locals
+  if (
+    FAKE_LOCAL_PARTS.has(local) ||
+    /^[a-z]{1,2}$/.test(local) || // a@, ab@
+    /^\d{1,3}$/.test(local) // 1@, 12@, 123@
+  ) {
+    return {ok: false, reason: 'Please use a real work email (not a test email).'};
+  }
+
+  // Block personal domains
+  if (PERSONAL_EMAIL_DOMAINS.has(domain)) {
+    return {ok: false, reason: 'Please use your company/work email (personal emails are not allowed).'};
+  }
+
+  // Block disposable domains (exact + subdomain)
+  if (DISPOSABLE_EMAIL_DOMAINS.has(domain)) {
+    return {ok: false, reason: 'Temporary/disposable emails are not allowed.'};
+  }
+  for (const d of DISPOSABLE_EMAIL_DOMAINS) {
+    if (domain.endsWith('.' + d)) {
+      return {ok: false, reason: 'Temporary/disposable emails are not allowed.'};
+    }
+  }
+
+  // Block some obviously fake domains
+  if (domain === 'example.com' || domain.startsWith('test.') || domain.startsWith('fake.')) {
+    return {ok: false, reason: 'Please enter a real company email domain.'};
+  }
+
+  return {ok: true, reason: ''};
+}
+
+// Keep the old function name used elsewhere
+function isValidEmail(email) {
+  return validateEmail(email).ok;
+}
+
+/* =========================
+   END EMAIL VALIDATION
+   ========================= */
 
 function isLeadValid({name, email, company}) {
   const n = (name || '').trim();
@@ -440,6 +578,9 @@ export default function HomepageFeatures() {
 
   const [finalScore, setFinalScore] = useState(null);
   const [openCard, setOpenCard] = useState(null);
+
+  // ADDED: show email error while typing (validation on input)
+  const [emailError, setEmailError] = useState('');
 
   const answeredCount = useMemo(() => answers.filter((a) => a !== null).length, [answers]);
   const progressPct = useMemo(() => Math.round((answeredCount / total) * 100), [answeredCount, total]);
@@ -500,6 +641,7 @@ export default function HomepageFeatures() {
     setFinalScore(null);
     setLead({name: '', email: '', company: ''});
     setShowLead(false);
+    setEmailError(''); // ADDED
   }
 
   function selectOption(optionIndex) {
@@ -549,6 +691,7 @@ export default function HomepageFeatures() {
     setLead({name: '', email: '', company: ''});
     setSubmitting(false);
     setFinalScore(null);
+    setEmailError(''); // ADDED
   }
 
   async function revealScore() {
@@ -681,8 +824,8 @@ export default function HomepageFeatures() {
                   Digital Personal Data Protection Act Knowledge Check
                 </Heading>
                 <p className={styles.quizSub}>
-                  Test your knowledge of India’s Data Protection Law and earn a public DPDPA awareness certificate               
-                  </p>
+                  Test your knowledge of India’s Data Protection Law and earn a public DPDPA awareness certificate
+                </p>
               </div>
 
               <div className={styles.quizMeta}>
@@ -703,12 +846,7 @@ export default function HomepageFeatures() {
 
             {!started && (
               <div style={startOnlyWrapStyle}>
-                <button
-                  className={styles.primaryBtn}
-                  onClick={startQuiz}
-                  type="button"
-                  style={startBtnStyle}
-                >
+                <button className={styles.primaryBtn} onClick={startQuiz} type="button" style={startBtnStyle}>
                   Start quiz
                 </button>
               </div>
@@ -751,7 +889,11 @@ export default function HomepageFeatures() {
                       ← Previous
                     </button>
                     <div className={styles.hint}>
-                      {timeLeft === 0 ? 'Time ended' : answers[idx] === null ? 'Select an answer to continue' : 'Locked in — moving on…'}
+                      {timeLeft === 0
+                        ? 'Time ended'
+                        : answers[idx] === null
+                          ? 'Select an answer to continue'
+                          : 'Locked in — moving on…'}
                     </div>
                     <button
                       className={styles.btn}
@@ -798,10 +940,7 @@ export default function HomepageFeatures() {
                       const correctText = q.options[correctIdx];
 
                       return (
-                        <div
-                          key={`ak-${i}`}
-                          className={clsx(styles.akItem, isCorrect ? styles.ok : styles.bad)}
-                        >
+                        <div key={`ak-${i}`} className={clsx(styles.akItem, isCorrect ? styles.ok : styles.bad)}>
                           <div className={styles.akQ}>
                             Q{i + 1}. {q.q}
                           </div>
@@ -831,11 +970,7 @@ export default function HomepageFeatures() {
         </div>
 
         <div style={{marginTop: 6}}>
-          <div className="row">
-            {FeatureList.map((props, i) => (
-              <Feature key={i} {...props} />
-            ))}
-          </div>
+          <div className="row">{FeatureList.map((props, i) => <Feature key={i} {...props} />)}</div>
         </div>
 
         <div className={styles.boardShell} aria-label="Review Board" style={{marginTop: 10}}>
@@ -885,7 +1020,6 @@ export default function HomepageFeatures() {
 
                     <div className={styles.reveal} aria-hidden={!isOpen}>
                       <div className={styles.revealInner}>
-                        {/* <div className={styles.revealTitle}>About</div> */}
                         <p className={styles.revealText}>{m.details}</p>
                       </div>
                     </div>
@@ -923,10 +1057,24 @@ export default function HomepageFeatures() {
                   <input
                     className={styles.input}
                     value={lead.email}
-                    onChange={(e) => setLead((p) => ({...p, email: e.target.value}))}
+                    onChange={(e) => {
+                      const val = e.target.value;
+                      setLead((p) => ({...p, email: val}));
+
+                      // ADDED: validate on typing
+                      const v = validateEmail(val);
+                      setEmailError(v.ok ? '' : v.reason);
+                    }}
                     placeholder="e.g., harsh@company.com"
                     autoComplete="email"
                   />
+
+                  {/* ADDED: inline error (no CSS changes needed) */}
+                  {emailError ? (
+                    <div style={{marginTop: 6, fontSize: '0.9rem', lineHeight: 1.25, color: '#b42318'}}>
+                      {emailError}
+                    </div>
+                  ) : null}
                 </label>
 
                 <label className={styles.label}>
