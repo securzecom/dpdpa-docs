@@ -743,7 +743,7 @@ export default function HomepageFeatures() {
     const rankX = nameX;
     const rankY = nameY + Math.round(canvas.height * 0.03);
     const scoreX = Math.round(canvas.width * 0.28);
-    const scoreY = Math.round(canvas.height * 0.78);
+    const scoreY = Math.round(canvas.height * 0.605);
 
     ctx.textAlign = 'left';
     ctx.textBaseline = 'alphabetic';
