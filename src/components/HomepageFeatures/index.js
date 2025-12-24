@@ -143,7 +143,7 @@ const QUIZ_QUESTIONS = [
   },
   {
     q: 'An oil & gas company shares employee health data with an overseas emergency response vendor during a disaster. Is consent required?',
-    options: ['Yes. Consent can be pre-signed.', 'No, emergency exception applies', 'Only anonymised data allowed', 'Only if vendor is outside India'],
+    options: ['Yes.', 'No, emergency exception applies', 'Only anonymised data allowed', 'Only if vendor is outside India'],
     answerIndex: 1,
     correctReason:
       'In a genuine emergency, sharing necessary health data to protect life and safety can be done without consent. The processing should still be limited to what is necessary for the response.',
@@ -180,12 +180,12 @@ const QUIZ_QUESTIONS = [
   {
     q: 'A bank outsources KYC verification to an AI startup but never audits its data practices. Who is liable under DPDPA?',
     options: ['AI startup only', 'Bank only', 'Both share liability', 'Regulator'],
-    answerIndex: 1,
+    answerIndex: 2,
     correctReason:
-      'The bank is the Data Fiduciary because it decides the purpose and means of KYC processing. Outsourcing does not shift accountability, so the bank remains responsible.',
+      'Under the DPDPA, the bank (as the Data Fiduciary) remains primarily responsible for ensuring lawful processing of personal data, even when it outsources KYC to an AI startup (the Data Processor). If the bank fails to exercise due diligence—such as audits, contractual safeguards, or oversight—and the processor mishandles data, liability can extend to both parties based on their respective roles and failures.',
     wrongReasons: {
       0: 'Processors act on behalf of the fiduciary. Primary accountability remains with the bank as the fiduciary.',
-      2: 'The processor may have contractual duties, but the fiduciary remains accountable for compliant processing. The question tests that accountability does not shift away from the bank.',
+      1: 'The Bank solely is not responsible because liability under the DPDPA is not exclusive when a processor independently violates obligations.',
       3: 'The regulator enforces the law; it is not the liable party for a compliance failure.',
     },
   },
