@@ -2,6 +2,31 @@
 sidebar_position: 8
 ---
 
+:::danger Public Scam Alert
+
+**Beware of scams impersonating the Data Protection Board of India (DPBI).**
+
+Cybercriminals may call, send SMS, WhatsApp messages, or emails claiming to represent the **Data Protection Board of India** and ask you to verify your identity by sharing personal information such as your **Aadhaar number, PAN, date of birth, OTP, bank details, or other sensitive information**. They may falsely claim that:
+- A SIM card has been issued in your name.
+- Your Aadhaar has been misused.
+- A complaint has been filed against you.
+- Your bank account or digital identity needs urgent verification.
+- You must complete KYC or identity verification immediately.
+
+**Do not share any personal information, OTPs, passwords, or financial details with such callers or messages.** If you receive a suspicious communication, disconnect the call and verify the information only through official Government of India channels.
+
+:::
+
+:::info Website Disclaimer
+
+**This website is an independent educational platform and is NOT the official website of the Data Protection Board of India or the Government of India.**
+
+The content published here is intended solely for educational and awareness purposes to help individuals and organizations understand the **Digital Personal Data Protection Act, 2023 (DPDPA)**.
+
+This website is developed, hosted, and maintained by **Securze - a cybersecurity and data privacy consulting company** and has no affiliation, endorsement, authorization, or association with the Data Protection Board of India or any Government authority.
+
+:::
+
 The **Digital Personal Data Protection Act (DPDPA), 2023** establishes the **Data Protection Board of India** as the central regulatory authority responsible for monitoring compliance, handling grievances, and ensuring enforcement of the law. The creation of the Board is a cornerstone of the Act because without an independent authority, the rights of individuals and the obligations of organizations would remain largely theoretical.
 
 ---
